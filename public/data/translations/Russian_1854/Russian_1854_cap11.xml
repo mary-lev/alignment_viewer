@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Commenti da Обрученные : Медиолан. быль XVIII [!XVII] столетия, найден. и передел. Александром Манзони</title>
+        <author>Alessandro Manzoni</author>
+        <respStmt>
+          <resp>Annotazione digitale</resp>
+          <persName xml:id="Maria_Levchenko">Maria Levchenko</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Leggo Manzoni. Quaranta commenti alla Quarantana</publisher>
+        <pubPlace>Università di Bologna "Alma mater studiorum"</pubPlace>
+        <date>2025</date>
+        <availability>
+          <p>Questa risorsa digitale è liberamente accessibile per uso personale o scientifico. Ogni uso commerciale è vietato.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Alessandro Manzoni</author>
+          <title>Обрученные : Медиолан. быль XVIII [!XVII] столетия, найден. и передел. Александром Манзони</title>
+          <pubPlace>Москва</pubPlace>
+          <publisher>Библиотека романов, повестей, путешествий и записок, изд. Н.Н. Улитиным</publisher>
+          <date>1854</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <listChange>
+        <change who="Maria_Levchenko" when="2025-02-18">Annotazione digitale</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="Russian_1854.xml_cap11">
+        <note xml:id="Russian_1854_cap11-n1" type="translation" target="quarantana/cap11.xml#c11_10001" targetEnd="quarantana/cap11.xml#c11_10036">
+                          Словно псы, которые, пробѣгавъ понапрасну за зайцемъ, утомленные, съ поникшею головою возвращаются къ ловчему, въ смущеніи, посреди глубокой ночи, возвращались брави во дворецъ дома Родриго.</note>
+        <note xml:id="Russian_1854_cap11-n2" type="translation" target="quarantana/cap11.xml#c11_10037" targetEnd="quarantana/cap11.xml#c11_10054">
+                          Вельможа, между тѣмъ, ожидая ихъ, расхаживалъ по темной, просторной, необитаемой залѣ верхняго этажа, выдававшейся на террасу.</note>
+        <note xml:id="Russian_1854_cap11-n3" type="translation" target="quarantana/cap11.xml#c11_10055" targetEnd="quarantana/cap11.xml#c11_10104">
+                          Время отъ времени, онъ останавливался, прислушивался, смотрѣлъ сквозь щели полуразвалившихся ставней, мучимый нетерпѣніемъ и нѣкоторымъ безпокойствомъ, какъ на счетъ успѣха своего предпріятія, такъ и на счетъ послѣдствій его; ибо это было самое важное и опасное дѣло, на которое этотъ честный вельможа когда либо отваживался.</note>
+        <note xml:id="Russian_1854_cap11-n4" type="translation" target="quarantana/cap11.xml#c11_10105" targetEnd="quarantana/cap11.xml#c11_10121">
+                          Мѣжду тѣмъ онъ успокоивалъ себя, припоминая всѣ взятыя имъ предосторожности для того, чтобы скрыть свое злодѣйство.</note>
+        <note xml:id="Russian_1854_cap11-n5" type="translation" target="quarantana/cap11.xml#c11_10122" targetEnd="quarantana/cap11.xml#c11_10128">
+                          «Чтожъ касается до подозрѣній,» думалъ онъ «объ нихъ я не забочусь.</note>
+        <note xml:id="Russian_1854_cap11-n6" type="translation" target="quarantana/cap11.xml#c11_10129" targetEnd="quarantana/cap11.xml#c11_10157">
+                          Хотѣлъ бы я знать, какой смѣльчакъ отважится прійти сюда — удостовериться, здѣсь ли молодая дѣвушка или нѣть? пусть онъ прійдетъ, бездѣльникъ! я отлично приму его!...</note>
+        <note xml:id="Russian_1854_cap11-n7" type="translation" target="quarantana/cap11.xml#c11_10158" targetEnd="quarantana/cap11.xml#c11_10182">
+                          Пусть прійдетъ монахъ, пусть прійдетъ! а старуха? ступай себѣ въ Бергамъ! г. Кодеста не дуракъ и не ребенокъ.</note>
+        <note xml:id="Russian_1854_cap11-n8" type="translation" target="quarantana/cap11.xml#c11_10183" targetEnd="quarantana/cap11.xml#c11_10185">
+                          Но въ Миланѣ?</note>
+        <note xml:id="Russian_1854_cap11-n9" type="translation" target="quarantana/cap11.xml#c11_10186" targetEnd="quarantana/cap11.xml#c11_10192">
+                          Вотъ, кто станетъ хлопотать о такихъ людяхъ въ Миланѣ?</note>
+        <note xml:id="Russian_1854_cap11-n10" type="translation" target="quarantana/cap11.xml#c11_10193" targetEnd="quarantana/cap11.xml#c11_10196">
+                          Кто станетъ ихъ слушать?</note>
+        <note xml:id="Russian_1854_cap11-n11" type="translation" target="quarantana/cap11.xml#c11_10197" targetEnd="quarantana/cap11.xml#c11_10201">
+                          Кто знаетъ, что они существуют?</note>
+        <note xml:id="Russian_1854_cap11-n12" type="translation" target="quarantana/cap11.xml#c11_10202" targetEnd="quarantana/cap11.xml#c11_10216">
+                          Это люди затерянные на землѣ, gente perduta; люди ничтожные! у нихъ не бываетъ покровителей.</note>
+        <note xml:id="Russian_1854_cap11-n13" type="translation" target="quarantana/cap11.xml#c11_10217" targetEnd="quarantana/cap11.xml#c11_10220">
+                          Чего тутъ бояться?</note>
+        <note xml:id="Russian_1854_cap11-n14" type="translation" target="quarantana/cap11.xml#c11_10221" targetEnd="quarantana/cap11.xml#c11_10224">
+                          Какъ завтра утромъ Аттилiо удивится!</note>
+        <note xml:id="Russian_1854_cap11-n15" type="translation" target="quarantana/cap11.xml#c11_10225" targetEnd="quarantana/cap11.xml#c11_10234">
+                          Онъ увидитъ, умѣю ли я держать свое слово или просто похвастать только.</note>
+        <note xml:id="Russian_1854_cap11-n16" type="translation" target="quarantana/cap11.xml#c11_10235" targetEnd="quarantana/cap11.xml#c11_10251">
+                          И при томъ... если бы что и случилось... какъ знать? Еслибъ на примѣръ, кто изъ враговъ моихъ, захотѣлъ воспользоваться случаемъ...</note>
+        <note xml:id="Russian_1854_cap11-n17" type="translation" target="quarantana/cap11.xml#c11_10252" targetEnd="quarantana/cap11.xml#c11_10262">
+                          Аттилiо выпутаетъ меня изъ бѣды... Онъ принялъ на себя честь всего семейства!»</note>
+        <note xml:id="Russian_1854_cap11-n18" type="translation" target="quarantana/cap11.xml#c11_10263" targetEnd="quarantana/cap11.xml#c11_10336">
+                          — Но мысль, на которой онъ долѣе всѣхъ останавливался, потому что она и разсѣявала сомнѣнія, и въ то же время питала страсть его, была мысль о способахъ и обѣщаніяхъ, которыми онъ будетъ стараться склонить Лучiю. — «Она такъ испугается, увидѣвъ себя одну посреди этихъ ужасныхъ рожъ... (потому что, сказать правду, лице мое все-таки человѣкообразнѣе всѣхъ другихъ въ здѣшнемъ замкѣ)... что, per bacco! она должна будетъ прибѣгнуть ко мнѣ, умолять меня; а ужъ тамъ...»</note>
+        <note xml:id="Russian_1854_cap11-n19" type="translation" target="quarantana/cap11.xml#c11_10337" targetEnd="quarantana/cap11.xml#c11_10355">
+                          Между тѣмъ, какъ онъ предавался подобнымъ размышленіямъ, послышались ему шаги... Онъ подбѣгаетъ къ окну, открываетъ его: такъ, это они!</note>
+        <note xml:id="Russian_1854_cap11-n20" type="translation" target="quarantana/cap11.xml#c11_10356" targetEnd="quarantana/cap11.xml#c11_10386">
+                          «А носилки? чортъ возьми! гдѣ носилки? трое, пятеро, восемеро, они всѣ тутъ; Гризо съ ними, а носилокъ нѣтъ... О, дьяволъ! Гризо мнѣ отвѣтитъ за все.»</note>
+        <note xml:id="Russian_1854_cap11-n21" type="translation" target="quarantana/cap11.xml#c11_10387" targetEnd="quarantana/cap11.xml#c11_10428">
+                          Вошедши въ замокъ, Гризо сложилъ въ углу нижней залы свою рясу, широкую шляпу и пелерину, и, какъ главный начальникъ, въ чемъ однакожъ въ это мгновеніе никто ему не завидовалъ, онъ пошелъ отдать отчетъ дону Родриго.</note>
+        <note xml:id="Russian_1854_cap11-n22" type="translation" target="quarantana/cap11.xml#c11_10429" targetEnd="quarantana/cap11.xml#c11_10492">
+                          Тотъ уже ожидалъ его на лѣстницѣ, и когда Гризо явился передъ нимъ съ глупымъ и непріятнымъ видомъ обманутаго плута, — «Ну! сказалъ или, лучше, вскричалъ онъ, — «господинъ хвастунъ, господинъ предводитель, господинъ «надѣйтесь на меня?» — «Больно,» отвѣчалъ Гризо, вступая на первую ступеньку, больно слышать упреки, когда исполнилъ свое дѣло честно, старался всѣми силами, и даже не щадилъ головы своей.»</note>
+        <note xml:id="Russian_1854_cap11-n23" type="translation" target="quarantana/cap11.xml#c11_10493" targetEnd="quarantana/cap11.xml#c11_10494">
+                          — «Ну, разсказывай, что, какъ?</note>
+        <note xml:id="Russian_1854_cap11-n24" type="translation" target="quarantana/cap11.xml#c11_10495" targetEnd="quarantana/cap11.xml#c11_10554">
+                          Посмотримъ, посмотримъ, сказалъ донъ Родриго, и пошелъ въ свою комнату, куда послѣдовалъ за нимъ Гризо, и немедленно разсказалъ ему все, что онъ предпринималъ, все, что дѣлалъ, видѣлъ, слышалъ, все, чего опасался и что успѣлъ поправить, и разсказъ его былъ отчетливъ и запутанъ, ясенъ и безпонятенъ, какъ тысяча мыслей, которыя въ то время бродили въ головѣ его.</note>
+        <note xml:id="Russian_1854_cap11-n25" type="translation" target="quarantana/cap11.xml#c11_10555" targetEnd="quarantana/cap11.xml#c11_10582">
+                          — «Ты не виноватъ, и дѣлалъ хорошо свое дѣло, сказалъ донъ Родриго... Ты исполнилъ все, что только могъ; но... но... неужели въ этомъ замкѣ есть какой-нибудь лазутчикъ?</note>
+        <note xml:id="Russian_1854_cap11-n26" type="translation" target="quarantana/cap11.xml#c11_10583" targetEnd="quarantana/cap11.xml#c11_10610">
+                          О, если есть, если я открою его, (а ужъ открою навѣрное, если только онъ здѣсь,) обѣщаю тебѣ, Гризо, клянусь тебѣ, что ужъ онъ будетъ меня помнить.</note>
+        <note xml:id="Russian_1854_cap11-n27" type="translation" target="quarantana/cap11.xml#c11_10611" targetEnd="quarantana/cap11.xml#c11_10647">
+                          — «Изъ-за меня, сударь,» сказалъ Гризо, «родилось въ васъ это подозрѣніе; такъ ужъ если оно справедливо, если здѣсь сыщется такого рода бездѣльникъ, извольте только поручить его мнѣ...</note>
+        <note xml:id="Russian_1854_cap11-n28" type="translation" target="quarantana/cap11.xml#c11_10648" targetEnd="quarantana/cap11.xml#c11_10666">
+                          Подлецъ, изъ-за котораго провелъ я эту ночь, не дешево раздѣлается со мною.</note>
+        <note xml:id="Russian_1854_cap11-n29" type="translation" target="quarantana/cap11.xml#c11_10667" targetEnd="quarantana/cap11.xml#c11_10688">
+                          Впрочемъ изо всего, что я видѣлъ, можно бы было заключить, что ужъ тутъ что-нибуль да не даромъ, ужъ есть какія-нибудь штуки...</note>
+        <note xml:id="Russian_1854_cap11-n30" type="translation" target="quarantana/cap11.xml#c11_10689" targetEnd="quarantana/cap11.xml#c11_10696">
+                          Ну, завтра все объяcнится.»</note>
+        <note xml:id="Russian_1854_cap11-n31" type="translation" target="quarantana/cap11.xml#c11_10697" targetEnd="quarantana/cap11.xml#c11_10701">
+                          — По крайней мѣръ, васъ не узнали?»</note>
+        <note xml:id="Russian_1854_cap11-n32" type="translation" target="quarantana/cap11.xml#c11_10702" targetEnd="quarantana/cap11.xml#c11_10827">
+                          Гризо отвѣчалъ, что онъ надѣется на это, и разговоръ кончился тѣмъ, что донъ Родриго приказалъ ему на слѣдующее утро исполнить три вещи, о которыхъ молодецъ и самъ уже думалъ: во-первыхъ, послать поранѣе двухъ брави къ консулу, чтобы заставить его молчать, что и было сдѣлано, какъ мы видѣли; во-вторыхъ, поручить приказать двумъ другимъ брави, чтобъ они похаживали подлѣ домика, удаляя всѣхъ праздношатающихся, и до ночи скрыли бы носилки, за которыми придутъ послѣ, чтобы теперь не возбудить подозрѣнія; въ третьихъ, самому Гризо отправиться поразвѣдать, и разослать нѣсколько расторопныхъ и отважныхъ разбойниковъ, чтобъ они постарались развѣдать о причинахъ и послѣдствіяхъ ночнаго приключенія.</note>
+        <note xml:id="Russian_1854_cap11-n33" type="translation" target="quarantana/cap11.xml#c11_10828" targetEnd="quarantana/cap11.xml#c11_10869">
+                          Отдавъ такія приказанія, донъ Родриго пошелъ спать, совѣтуя Гризо послѣдовать его примѣру; на прощаньѣ онъ осыпалъ его похвалами, въ которыхъ ясно выражалось желаніе — отдать ему справедливость и нѣкоторымъ образомъ загладить необдуманные упреки, какими встрѣтилъ онъ его на лѣстницѣ.</note>
+        <note xml:id="Russian_1854_cap11-n34" type="translation" target="quarantana/cap11.xml#c11_10870" targetEnd="quarantana/cap11.xml#c11_10878">
+                          Спи, бѣдный Гризо: тебѣ сонъ нуженъ.</note>
+        <note xml:id="Russian_1854_cap11-n35" type="translation" target="quarantana/cap11.xml#c11_10879" targetEnd="quarantana/cap11.xml#c11_10924">
+                          Бѣдный Гризо — на ногахъ весь день, на ногахъ половину ночи, не говоря уже объ опасностяхъ, которыми ты окруженъ, или о новыхъ ранахъ, которыя могъ бы получить въ прибавку къ старымъ, похищая честную донну... И послѣ всего такой прiемъ!</note>
+        <note xml:id="Russian_1854_cap11-n36" type="translation" target="quarantana/cap11.xml#c11_10925" targetEnd="quarantana/cap11.xml#c11_10930">
+                          Но вотъ, какъ весьма часто люди платятъ за заслуги!</note>
+        <note xml:id="Russian_1854_cap11-n37" type="translation" target="quarantana/cap11.xml#c11_10931" targetEnd="quarantana/cap11.xml#c11_10956">
+                          Впрочемъ ты могъ все-таки удостовѣриться, въ этомъ случаѣ, что иногда отдаютъ справедливость по достоинству, и долги платятся даже въ здѣшнемъ свѣтѣ.</note>
+        <note xml:id="Russian_1854_cap11-n38" type="translation" target="quarantana/cap11.xml#c11_10957" targetEnd="quarantana/cap11.xml#c11_10975">
+                          Спи теперь: можетъ быть, настанетъ день, когда ты увидишь новое и сильнѣйшее тому доказательство.»</note>
+        <note xml:id="Russian_1854_cap11-n39" type="translation" target="quarantana/cap11.xml#c11_10976" targetEnd="quarantana/cap11.xml#c11_11014">
+                          На другой день, чуть свѣтъ, Гризо снова отправился въ путь. Донъ Родриго, вставъ, тотчась отправился къ графу Аттилiо, который, увидавъ его, встрѣтилъ съ насмѣшливой улыбкой и сказалъ: «Сан-Мартино!»</note>
+        <note xml:id="Russian_1854_cap11-n40" type="translation" target="quarantana/cap11.xml#c11_11015" targetEnd="quarantana/cap11.xml#c11_11035">
+                          — «Не знаю, что отвѣчать,» возразилъ донъ Родриго, подходя къ нему: «закладъ мой проигранъ, но не это меня безпокоитъ.</note>
+        <note xml:id="Russian_1854_cap11-n41" type="translation" target="quarantana/cap11.xml#c11_11036" targetEnd="quarantana/cap11.xml#c11_11056">
+                          Я ни чего вамъ не сказалъ, потому что, признаюсь, надѣялся удивить васъ сего дня утромъ, Но...... теперь я все вамъ открою.» —</note>
+        <note xml:id="Russian_1854_cap11-n42" type="translation" target="quarantana/cap11.xml#c11_11057" targetEnd="quarantana/cap11.xml#c11_11117">
+                          «О, это не миновало монаха, нѣтъ сомнѣнія! Это его дѣло,» сказалъ графъ Аттилiо, выслушавъ разсказъ со вниманіемъ, удивленіемъ и особенно съ важностiю, которой не льзя было ожидать отъ такой вѣтреной головы: «этотъ монахъ,» продолжалъ онъ, «не смотря на свое монастырское смиреніе и притворную кротость, по моему мнѣнію, весьма хитръ.</note>
+        <note xml:id="Russian_1854_cap11-n43" type="translation" target="quarantana/cap11.xml#c11_11118" targetEnd="quarantana/cap11.xml#c11_11141">
+                          А вы мнѣ недовѣрились, вы не хотѣли сказать мнѣ, зачѣмъ намедни, онъ приходилъ сюда.»</note>
+        <note xml:id="Russian_1854_cap11-n44" type="translation" target="quarantana/cap11.xml#c11_11142" targetEnd="quarantana/cap11.xml#c11_11163">
+                          Тутъ донъ Родриго разсказалъ ему свой разговоръ съ монахомъ. — «И вы могли стерпѣть такую наглость?» сказалъ графъ Аттилiо: «вы позволили ему уйти такъ же, какъ онъ пришелъ? —</note>
+        <note xml:id="Russian_1854_cap11-n45" type="translation" target="quarantana/cap11.xml#c11_11164" targetEnd="quarantana/cap11.xml#c11_11173">
+                          «Что могъ я сдѣлать? Развѣ вы хотите, чтобъ я вооружилъ противъ себя всѣхъ капуциновъ Италiи?»</note>
+        <note xml:id="Russian_1854_cap11-n46" type="translation" target="quarantana/cap11.xml#c11_11174" targetEnd="quarantana/cap11.xml#c11_11213">
+                          — «Не знаю,» отвѣчалъ графъ Аттилiо, «вспомнилъ ли бы я въ эту минуту, что на свѣтѣ есть еще капуцины, кромѣ этого наглеца? Но посмотримъ, развѣ нѣтъ какого-нибудь средства при надлежащей осторожности получить удовлетвореніе хоть и отъ капуцина?</note>
+        <note xml:id="Russian_1854_cap11-n47" type="translation" target="quarantana/cap11.xml#c11_11214" targetEnd="quarantana/cap11.xml#c11_11237">
+                          Надобно только, при случаѣ, поблагосклоннѣе обойтись со всѣмъ сословіемъ, а тамъ можно будетъ безъ хлопотъ принять въ палки одного изъ членовъ.</note>
+        <note xml:id="Russian_1854_cap11-n48" type="translation" target="quarantana/cap11.xml#c11_11238" targetEnd="quarantana/cap11.xml#c11_11268">
+                          Дѣлать нечего, теперь онъ ускользнетъ отъ самаго приличнаго для него наказанія, но я беру его подъ особенное свое покровительство и, ужъ во чтобъ то ни стало, буду имѣть удовольствіе доказать ему на дѣлѣ, какъ надобно говорить съ нашимъ братомъ.»</note>
+        <note xml:id="Russian_1854_cap11-n49" type="translation" target="quarantana/cap11.xml#c11_11269" targetEnd="quarantana/cap11.xml#c11_11272">
+                          — «Не испортите только дѣла.»</note>
+        <note xml:id="Russian_1854_cap11-n50" type="translation" target="quarantana/cap11.xml#c11_11273" targetEnd="quarantana/cap11.xml#c11_11283">
+                          — «Будьте увѣрены, одни разъ навсегда, что во всякомъ случаѣ я вашъ истинный другъ и братъ.»</note>
+        <note xml:id="Russian_1854_cap11-n51" type="translation" target="quarantana/cap11.xml#c11_11284" targetEnd="quarantana/cap11.xml#c11_11288">
+                          — «Что же хотите вы дѣлать?»</note>
+        <note xml:id="Russian_1854_cap11-n52" type="translation" target="quarantana/cap11.xml#c11_11289" targetEnd="quarantana/cap11.xml#c11_11300">
+                          — «Я самъ еще хорошенько не знаю; но во всякомъ случаѣ монаху со мной не раздѣлаться скоро...</note>
+        <note xml:id="Russian_1854_cap11-n53" type="translation" target="quarantana/cap11.xml#c11_11301" targetEnd="quarantana/cap11.xml#c11_11322">
+                          Но вотъ мысль... Графъ, дядя мой, который засѣдаетъ въ Тайномъ совѣтѣ, можетъ для меня сдѣлать это одолженіе.</note>
+        <note xml:id="Russian_1854_cap11-n54" type="translation" target="quarantana/cap11.xml#c11_11323" targetEnd="quarantana/cap11.xml#c11_11339">
+                          Добрый графъ, я всегда радъ, когда могу употребить въ свою пользу такого достойнаго помощника!</note>
+        <note xml:id="Russian_1854_cap11-n55" type="translation" target="quarantana/cap11.xml#c11_11340" targetEnd="quarantana/cap11.xml#c11_11355">
+                          Послѣ завтра я буду въ Миланѣ, и какъ бы то ни было, монахъ услышитъ обо мнѣ.»</note>
+        <note xml:id="Russian_1854_cap11-n56" type="translation" target="quarantana/cap11.xml#c11_11356" targetEnd="quarantana/cap11.xml#c11_11370">
+                          Между тѣмъ принесли завтракъ; однакожъ такой важный разговоръ не прекратился.</note>
+        <note xml:id="Russian_1854_cap11-n57" type="translation" target="quarantana/cap11.xml#c11_11371" targetEnd="quarantana/cap11.xml#c11_11423">
+                          Графъ Аттилiо говорилъ откровенно, и хотя принималъ въ этомъ дѣлѣ все участіе, какого требовали отъ него и его дружба къ брату, и забота о чести всего семейства — согласно съ его понятіями о дружбѣ и чести — однакожъ никогда онъ не могъ удержаться отъ смѣху, припоминая себѣ неудачу дона Родриго.</note>
+        <note xml:id="Russian_1854_cap11-n58" type="translation" target="quarantana/cap11.xml#c11_11424" targetEnd="quarantana/cap11.xml#c11_11456">
+                          Но тотъ, кому это дѣйствительно было близко къ сердцу, тѣмъ болѣе, что, надѣясь сдѣлать важный ударъ втихомолку, онъ громко промахнулся, былъ обуреваемъ болѣе важными страстями и занятъ болѣе печальными мыслями.</note>
+        <note xml:id="Russian_1854_cap11-n59" type="translation" target="quarantana/cap11.xml#c11_11457" targetEnd="quarantana/cap11.xml#c11_11468">
+                          Эти бездѣльники, говорилъ онъ, разнесутъ тысячу слуховъ.</note>
+        <note xml:id="Russian_1854_cap11-n60" type="translation" target="quarantana/cap11.xml#c11_11469" targetEnd="quarantana/cap11.xml#c11_11471">
+                          Впрочемъ какое мнѣ до этого дѣло?</note>
+        <note xml:id="Russian_1854_cap11-n61" type="translation" target="quarantana/cap11.xml#c11_11472" targetEnd="quarantana/cap11.xml#c11_11506">
+                          Что же касается суда, я не боюсь его: доказательствъ нѣтъ; а еслибъ они и были, то и тутъ бояться нечего: во всякомъ случаѣ сего дня утромъ я послалъ къ консулу, съ приказаніемъ молчать обо всемъ, что случилось.</note>
+        <note xml:id="Russian_1854_cap11-n62" type="translation" target="quarantana/cap11.xml#c11_11507" targetEnd="quarantana/cap11.xml#c11_11527">
+                          Конечно, ничего быть не можетъ; но я терпѣть не могу, когда начнутся сплетни: довольно и того, что я жестоко былъ обманутъ.»</note>
+        <note xml:id="Russian_1854_cap11-n63" type="translation" target="quarantana/cap11.xml#c11_11528" targetEnd="quarantana/cap11.xml#c11_11576">
+                          — «Вы все сдѣлали прекрасно,» отвѣчалъ графъ Аттилiо: «вашъ подеста пренесносный упрямецъ, сумасбродъ, глупый судья... но онъ человѣкъ благородный, знаетъ свои обязанности, и особенно, когда имѣетъ дѣло съ такими людьми, какъ вы — такъ онъ будетъ стараться выпутать васъ изъ затрудненія.</note>
+        <note xml:id="Russian_1854_cap11-n64" type="translation" target="quarantana/cap11.xml#c11_11577" targetEnd="quarantana/cap11.xml#c11_11594">
+                          Если какой-нибудь глупый консулъ вздумаетъ сдѣлать доносъ, то подеста, хоть мало-мальски благонамѣренный, долженъ…»</note>
+        <note xml:id="Russian_1854_cap11-n65" type="translation" target="quarantana/cap11.xml#c11_11595" targetEnd="quarantana/cap11.xml#c11_11623">
+                          — «Но вы сами,» съ нетерпѣніемъ прервалъ донъ Родриго, «вы сами портите дѣла мои: вы все хотите смѣяться надъ нимъ, останавливать его, во всемъ поперечить...</note>
+        <note xml:id="Russian_1854_cap11-n66" type="translation" target="quarantana/cap11.xml#c11_11624" targetEnd="quarantana/cap11.xml#c11_11640">
+                          Чортъ возьми! пусть онъ глупъ и упрямъ, да если онъ честный малый...»</note>
+        <note xml:id="Russian_1854_cap11-n67" type="translation" target="quarantana/cap11.xml#c11_11641" targetEnd="quarantana/cap11.xml#c11_11666">
+                          — «Знаете ли, братецъ,» сказалъ графъ Аттилiо, посматривая на него съ удивленіемъ и насмѣшкой, знаетели, мнѣ кажется, что вы начинаете трусить?</note>
+        <note xml:id="Russian_1854_cap11-n68" type="translation" target="quarantana/cap11.xml#c11_11667" targetEnd="quarantana/cap11.xml#c11_11673">
+                          Вы приняли за правду мои слова на счетъ подесты!»</note>
+        <note xml:id="Russian_1854_cap11-n69" type="translation" target="quarantana/cap11.xml#c11_11674" targetEnd="quarantana/cap11.xml#c11_11684">
+                          — «Развѣ вы не сами мнѣ сказали, что должно очень опасаться...»</note>
+        <note xml:id="Russian_1854_cap11-n70" type="translation" target="quarantana/cap11.xml#c11_11685" targetEnd="quarantana/cap11.xml#c11_11701">
+                          — «Я вамъ сказалъ, и, когда дѣло пойдетъ не на шутку, докажу, что я не ребенокъ.</note>
+        <note xml:id="Russian_1854_cap11-n71" type="translation" target="quarantana/cap11.xml#c11_11702" targetEnd="quarantana/cap11.xml#c11_11728">
+                          Знаетели, что я хочу сѣдлать для васъ? я пожалуй готовъ итти самъ сдѣлать визитъ господину Подестѣ: тогда, надѣюсь, онъ будетъ доволенъ такою честью.</note>
+        <note xml:id="Russian_1854_cap11-n72" type="translation" target="quarantana/cap11.xml#c11_11729" targetEnd="quarantana/cap11.xml#c11_11759">
+                          Я согласенъ выслушать его цѣлые полчаса, пока онъ будетъ говорить о графѣ-герцогѣ и объ Испанскомъ нашемъ намѣстникѣ, во всемъ буду съ нимъ соглашаться, даже въ самыхъ нелѣпыхъ вещахъ.</note>
+        <note xml:id="Russian_1854_cap11-n73" type="translation" target="quarantana/cap11.xml#c11_11760" targetEnd="quarantana/cap11.xml#c11_11798">
+                          Потомъ вверну словца два-три о дядѣ, который засѣдаетъ въ Тайномъ совѣтѣ; а вы знаете, какое они произведутъ дѣйствіе на господина Подесту, тѣмъ болѣе, что покровительство наше для него нужнѣе, чѣмъ для васъ его снисхождение.</note>
+        <note xml:id="Russian_1854_cap11-n74" type="translation" target="quarantana/cap11.xml#c11_11799" targetEnd="quarantana/cap11.xml#c11_11812">
+                          Я поступлю осторожно, схожу къ нему, и, вѣрно, онъ будетъ радъ и очень доволенъ.»</note>
+        <note xml:id="Russian_1854_cap11-n75" type="translation" target="quarantana/cap11.xml#c11_11813" targetEnd="quarantana/cap11.xml#c11_11836">
+                          Послѣ такого и подобныхъ разговоровъ, графъ Аттилiо пошелъ поохотиться; а донъ Родриго сталъ съ нетерпніемъ дожидаться возвращенія Гризо.</note>
+        <note xml:id="Russian_1854_cap11-n76" type="translation" target="quarantana/cap11.xml#c11_11837" targetEnd="quarantana/cap11.xml#c11_11847">
+                          Наконецъ къ обѣду Гризо возвратился и во всемъ отдалъ отчетъ.</note>
+        <note xml:id="Russian_1854_cap11-n77" type="translation" target="quarantana/cap11.xml#c11_11848" targetEnd="quarantana/cap11.xml#c11_11902">
+                          Приключеніе ночи надѣлало столько шуму, внезапное отсутствіе изъ села трехъ лицъ возбудило такое удивленiе, что розыски, предпринимаемые изъ участія или любопытства, должны были быть многочисленны, дѣятельны и постоянны; съ другой стороны столько было людей, которые хоть что-нибудь знали о случившемся, что не возможно было согласиться молчать.</note>
+        <note xml:id="Russian_1854_cap11-n78" type="translation" target="quarantana/cap11.xml#c11_11903" targetEnd="quarantana/cap11.xml#c11_12024">
+                          Перпетуа не могла показаться на улицѣ, безъ того, чтобъ со всѣхъ сторонъ не осыпали ее вопросами: отъ чего испугался господинъ ея; она между тѣмъ, отдѣлываясь шутками, успѣла собрать кое-какія свѣденія и, сообразивъ все, увидѣла, какъ Агнеса заманила ее въ свои сѣти; эта хитрость возбудила въ ней такую досаду, что она не могла затаить ее совершенно; не то, чтобъ она жаловалась тому, другому и разсказывала бы, какими средствами успѣли обмануть ее: нѣтъ, она объ этомъ ни говорила ни слова, но не могла совершенно умолчать о штукѣ, съигранной съ ея господиномъ, особенно же потому, что на такую вещь рѣшилась и привела ее въ исполненіе скромная дѣвушка, добрая вдова и честный малый.</note>
+        <note xml:id="Russian_1854_cap11-n79" type="translation" target="quarantana/cap11.xml#c11_12025" targetEnd="quarantana/cap11.xml#c11_12127">
+                          Тщетно донъ Аббондіо и строго наказывалъ, и убѣдительно просилъ ее помолчать: она отвѣчала ему, что и безъ нея всѣ знали объ этомъ; дѣло въ томъ, что эта важная тайна была сокрыта въ сердцѣ бѣдной старухи, какъ крѣпкое и молодое вино, налитое въ старую и худо сбитую бочку, в которой оно играетъ безпрестанно и, если не вышибаетъ гвоздя, то, по крайней мѣрѣ, вытекаетъ изъ каждой скважины такъ, что всякій можетъ отвѣдать и сказать сосѣду, какого оно вкуса.</note>
+        <note xml:id="Russian_1854_cap11-n80" type="translation" target="quarantana/cap11.xml#c11_12128" targetEnd="quarantana/cap11.xml#c11_12214">
+                          Джервазо, который самъ не вѣрилъ, что зналъ на этотъ счетъ болѣе другихъ, считая не за малую для себя честь страхъ, который испыталъ онъ, и зная притомъ, что способствовалъ къ исполненію предосудительнаго предпріятія, и чрезъ что, по его мнѣнію, онъ сталъ именно человѣкомъ, какъ прочiе, Джервазо безпрестанно начиналъ хвастаться передъ народомъ, и хотя Тонiо, крѣпко задумывавшійся о послѣдствіяхъ отчетовъ, которые придется ему отдавать, предлагалъ своему неугомонному сообщнику прекрасные совѣты, кулакомъ по лицу, однако же не было ни какихъ средствъ принудить его къ молчанію.</note>
+        <note xml:id="Russian_1854_cap11-n81" type="translation" target="quarantana/cap11.xml#c11_12215" targetEnd="quarantana/cap11.xml#c11_12263">
+                          Но и самъ Тонiо, ушедшій изъ дому въ необыкновенное время, и возвратясь домой съ какимъ-то страннымъ, подозрительнымъ видомъ, и съ безпокойствомъ, располагавшимъ его къ откровенности, не могъ утаить приключенія отъ жены своей, а она была не нѣмая.</note>
+        <note xml:id="Russian_1854_cap11-n82" type="translation" target="quarantana/cap11.xml#c11_12264" targetEnd="quarantana/cap11.xml#c11_12359">
+                          Менѣе всѣхъ говорилъ Менико, потому, что лишь только началъ онъ разсказывать своимъ родителямъ о приключеніи и предметѣ своего посланія, какъ тѣ, при одной мысли, что сынъ ихъ замѣшанъ въ дѣлѣ противъ дона Родриго, такъ испугались, что не дали ребенку окончить разсказа: они строго на строго запретили ему даже показывать видъ, что онъ что-нибудь знаетъ: а на другое утро, еще не надѣясь на него совершенно, рѣшились запереть его на весь или даже на нѣсколько дней.</note>
+        <note xml:id="Russian_1854_cap11-n83" type="translation" target="quarantana/cap11.xml#c11_12360" targetEnd="quarantana/cap11.xml#c11_12411">
+                          Но къ чему послужили всѣ такія предосторожности? Сами потомъ, разговаривая съ своими сосѣдями, и даже не желая показать, что они знали болѣе ихъ — когда рѣчь заходила о побѣгѣ нашихъ несчастныхъ знакомцевъ, о причинахъ, средствахъ и мѣстѣ ихъ убѣжища, сами выдавали за вѣрное, что они сокрылись въ Пескаренико.</note>
+        <note xml:id="Russian_1854_cap11-n84" type="translation" target="quarantana/cap11.xml#c11_12412" targetEnd="quarantana/cap11.xml#c11_12419">
+                          И такъ и это обстоятельство стало извѣстно.</note>
+        <note xml:id="Russian_1854_cap11-n85" type="translation" target="quarantana/cap11.xml#c11_12420" targetEnd="quarantana/cap11.xml#c11_12465">
+                          Сообразивъ всѣ эти подробности и прибавивъ къ нимъ обыкновенныя прикрасы, не труднобъ было составить повѣсть, очень отчетливую и ясную, которая могла бы удовлетворить уму самому разборчивому.</note>
+        <note xml:id="Russian_1854_cap11-n86" type="translation" target="quarantana/cap11.xml#c11_12466" targetEnd="quarantana/cap11.xml#c11_12501">
+                          Но нападеніе брави, это важное обстоятельство, надѣлавшее столько шуму, что оно не могло уже остаться не замѣченнымъ, а между тѣмъ никому хорошо не извѣстное, придавало этому приключенію какую-то странность и таинственность.</note>
+        <note xml:id="Russian_1854_cap11-n87" type="translation" target="quarantana/cap11.xml#c11_12502" targetEnd="quarantana/cap11.xml#c11_12520">
+                          Произносили въ полголоса имя дона Родриго и въ этомъ никто не спорилъ; но все прочее было подвержено толкамъ и недоумѣніямъ.</note>
+        <note xml:id="Russian_1854_cap11-n88" type="translation" target="quarantana/cap11.xml#c11_12521" targetEnd="quarantana/cap11.xml#c11_12554">
+                          Много говорили о двухъ брави, которыхъ вечеромъ встрѣтили на дорогѣ, и о третьемъ, который стоялъ у дверей трактира; но что можно было заключить изъ этого ничтожнаго обстоятельства?</note>
+        <note xml:id="Russian_1854_cap11-n89" type="translation" target="quarantana/cap11.xml#c11_12555" targetEnd="quarantana/cap11.xml#c11_12588">
+                          Правда, у трактирщика спрашивали, кто изъ гостей былъ у него на-канунѣ вечеромъ, но трактирщикъ не могъ припомнить, кого онъ видѣлъ, и въ добавокъ говорилъ, что «трактиръ все равно, что приморская гавань.»</note>
+        <note xml:id="Russian_1854_cap11-n90" type="translation" target="quarantana/cap11.xml#c11_12589" targetEnd="quarantana/cap11.xml#c11_12630">
+                          Но особенно всѣхъ приводилъ въ тупикъ тотъ пилигримъ, котораго видѣли Стефано и Карландреа, пилигримъ, котораго разбойники хотѣли убить и который послѣ отправился съ ними, добровольно или уступая силѣ; что онъ тутъ дѣлалъ?</note>
+        <note xml:id="Russian_1854_cap11-n91" type="translation" target="quarantana/cap11.xml#c11_12631" targetEnd="quarantana/cap11.xml#c11_12734">
+                          Иные говорили, что это былъ добрый духъ, явившійся на помощь несчастнымъ; другіе думали, что это привидѣніе злаго пилигрима, всегда по ночамъ сопровождающее людей, которые совершаютъ злодѣйства, подобныя тѣмъ, какія самъ онъ совершилъ при жизни; многіе утверждали, что это настоящій пилигримъ, котораго брави хотѣли умертвить, потому что онъ покушался бить тревогу; наконецъ (чего не выдумаютъ!) увѣряли, что это разбойникъ, переодѣтый пилигримомъ и прочая, и прочая — тысячу подобныхъ вещей, такъ что Гризо, при всей своей прозорливости и опытности, не могъ бы, еслибо и захотѣлъ, вывѣдать эту часть своего приключенія изъ всѣхъ толковъ, какіе ходили въ народѣ.</note>
+        <note xml:id="Russian_1854_cap11-n92" type="translation" target="quarantana/cap11.xml#c11_12735" targetEnd="quarantana/cap11.xml#c11_12782">
+                          Но, какъ извѣстно читателю, именно то, что для другихъ казалось самымъ темнымъ дѣломъ, для Гризо было яснѣе всего, и пользуясь этимъ, какъ ключемъ къ истолкованію всѣхъ подробностей, частію собранныхъ имъ самимъ, частiю его лазутчиками, онъ могъ составить довольно ясный отчетъ для дона Родриго.</note>
+        <note xml:id="Russian_1854_cap11-n93" type="translation" target="quarantana/cap11.xml#c11_12783" targetEnd="quarantana/cap11.xml#c11_12823">
+                          Онъ немедленно явился къ своему господину и рассказалъ ему, на что рѣшились несчастные любовники: это совершенно объясняло, отъ чего въ домѣ не было никого, и почему били тревогу; слѣдственно, какъ говорили эти молодцы, напрасно было бы предполагать, что въ замкѣ находятся переносчики.</note>
+        <note xml:id="Russian_1854_cap11-n94" type="translation" target="quarantana/cap11.xml#c11_12824" targetEnd="quarantana/cap11.xml#c11_12859">
+                          Онъ сказалъ ему о побѣгѣ, которому такъ же можно было найдти различныя причины: во-первыхъ, страхъ обрученныхъ, пойманныхъ на самомъ дѣлѣ; во-вторыхъ, вѣсть о нападеніи, когда оно было открыто и возмутило все селеніе.</note>
+        <note xml:id="Russian_1854_cap11-n95" type="translation" target="quarantana/cap11.xml#c11_12860" targetEnd="quarantana/cap11.xml#c11_12874">
+                          Онъ сказалъ ему наконецъ, что они скрылись въ Пескаренико; но болѣе не зналъ ни чего.</note>
+        <note xml:id="Russian_1854_cap11-n96" type="translation" target="quarantana/cap11.xml#c11_12875" targetEnd="quarantana/cap11.xml#c11_12902">
+                          Увѣренность, что причиною неудачи была не измѣна, и что не оставалось слѣдовъ его предпріятія, хотя была пріятною вѣстію для дона Родриго, но не долго, и при томъ не совершенно удовлетворила его.</note>
+        <note xml:id="Russian_1854_cap11-n97" type="translation" target="quarantana/cap11.xml#c11_12903" targetEnd="quarantana/cap11.xml#c11_12907">
+                          «Они скрылись вмѣстѣ!» вскричалъ онъ, «вмѣстѣ!</note>
+        <note xml:id="Russian_1854_cap11-n98" type="translation" target="quarantana/cap11.xml#c11_12908" targetEnd="quarantana/cap11.xml#c11_12911">
+                          А тотъ монахъ!</note>
+        <note xml:id="Russian_1854_cap11-n99" type="translation" target="quarantana/cap11.xml#c11_12912" targetEnd="quarantana/cap11.xml#c11_12942">
+                          Этотъ хитрый монахъ!» — Онъ говорилъ это задыхающимся голосомъ, скрежеща зубами, и кусая пальцы: видъ его былъ такъ же грубъ, какъ и страсти: «о! этотъ монахъ за все со мной рассчитается!</note>
+        <note xml:id="Russian_1854_cap11-n100" type="translation" target="quarantana/cap11.xml#c11_12943" targetEnd="quarantana/cap11.xml#c11_12957">
+                          Гризо они не тамъ, гдѣ думаютъ... я хочу знать, я хочу найти... нынче же вечеромъ: я хочу знать, гдѣ они; я не успокоюсь.</note>
+        <note xml:id="Russian_1854_cap11-n101" type="translation" target="quarantana/cap11.xml#c11_12958" targetEnd="quarantana/cap11.xml#c11_12978">
+                          Сей часъ отправился въ Пескаренико, узнать, развѣдать, разъискать... четыре скуди сей часъ, и мое покровительство навсегда.</note>
+        <note xml:id="Russian_1854_cap11-n102" type="translation" target="quarantana/cap11.xml#c11_12979" targetEnd="quarantana/cap11.xml#c11_12983">
+                          Я хочу все знать нынче же вечеромъ.</note>
+        <note xml:id="Russian_1854_cap11-n103" type="omission" target="quarantana/cap11.xml#c11_12984" targetEnd="quarantana/cap11.xml#c11_12987" />
+        <note xml:id="Russian_1854_cap11-n104" type="translation" target="quarantana/cap11.xml#c11_12988" targetEnd="quarantana/cap11.xml#c11_12991">
+                          О! этотъ монахъ!...»</note>
+        <note xml:id="Russian_1854_cap11-n105" type="translation" target="quarantana/cap11.xml#c11_12992" targetEnd="quarantana/cap11.xml#c11_13019">
+                          Гризо снова пустился въ путь, и въ тотъ же вечеръ могъ донести своему достойному господину все, что онъ желалъ знать, и вотъ какимъ средствомъ.</note>
+        <note xml:id="Russian_1854_cap11-n106" type="translation" target="quarantana/cap11.xml#c11_13020" targetEnd="quarantana/cap11.xml#c11_13041">
+                          Одно изъ величайшихъ утѣшеній въ жизни, есть дружба; а одно изъ утѣшеній дружбы — передать другу то, что лежитъ у самаго на сердцѣ.</note>
+        <note xml:id="Russian_1854_cap11-n107" type="translation" target="quarantana/cap11.xml#c11_13042" targetEnd="quarantana/cap11.xml#c11_13071">
+                          Но друзья не дѣлятся попарно, какъ супруги; говоря вообще, у каждаго встрѣтится болѣе одного друга, что и составляетъ цѣпь, которой начала никто не въ состояніи открыть.</note>
+        <note xml:id="Russian_1854_cap11-n108" type="translation" target="quarantana/cap11.xml#c11_13072" targetEnd="quarantana/cap11.xml#c11_13100">
+                          И такъ, когда другъ доставляетъ себѣ утѣшеніе — перелить свою тайну въ душу другаго, онъ возбуждаетъ въ немъ желаніе — въ свою очередь доставить себѣ то же утѣшеніе.</note>
+        <note xml:id="Russian_1854_cap11-n109" type="translation" target="quarantana/cap11.xml#c11_13101" targetEnd="quarantana/cap11.xml#c11_13191">
+                          Правда, онъ проситъ его никому не говорить объ этомъ ни слова и, подобный уговоръ для того, кто принялъ бы его въ строгомъ смыслѣ, немедленно пресѣкъ бы всѣ утѣшенія; но вообще какъ-то ужъ вошло въ обыкновенiе, что, подъ тѣмъ же условіемъ, позволительно повѣрить тайну равно вѣрному другу; такимъ образомъ, переходя отъ одного вѣрнаго друга къ другому, тайна пробѣгаетъ ту огромную цѣпь, и наконецъ доходитъ до ушей того, отъ котораго именно, первый, кто говорилъ, намѣревался скрыть ее.</note>
+        <note xml:id="Russian_1854_cap11-n110" type="translation" target="quarantana/cap11.xml#c11_13192" targetEnd="quarantana/cap11.xml#c11_13221">
+                          Вѣроятно, она бы долго осталась на пути, еслибъ у всякаго было по два только друга: тотъ, котораго слышишь, и тотъ, которому подъ секретомъ довѣряешь слышанное.</note>
+        <note xml:id="Russian_1854_cap11-n111" type="translation" target="quarantana/cap11.xml#c11_13222" targetEnd="quarantana/cap11.xml#c11_13259">
+                          Но есть счастливцы, у которыхъ друзья считаются сотнями, и когда дойдетъ до одного изъ нихъ, то переходы тайны становятся такъ быстры и такъ многочисленны, что не возможно долѣе слѣдовать за ними.</note>
+        <note xml:id="Russian_1854_cap11-n112" type="translation" target="quarantana/cap11.xml#c11_13260" targetEnd="quarantana/cap11.xml#c11_13372">
+                          Нашъ авторъ не могъ разчесть, чрезъ сколько устъ прошла тайпа, которую поручено было открыть Гризо: дѣло только въ томъ, что добрый человѣкъ, который провожалъ двухъ женщинъ до Монцы, вечеромъ, возвращаясь въ Пескаренико съ своей тѣлегой, не доѣзжая домой, остановился у одного вѣрнаго друга, которому онъ откровенно рассказалъ про свое доброе дѣло и про послѣдствіе его, такъ что, черезъ два часа, Гризо могъ отправиться во дворецъ и донести дону Родриго, что Лучія съ своей матерью скрылись въ одномъ изъ монастырей Монцы, а Ренцо продолжалъ свой путь до Милана.</note>
+        <note xml:id="Russian_1854_cap11-n113" type="translation" target="quarantana/cap11.xml#c11_13373" targetEnd="quarantana/cap11.xml#c11_13395">
+                          Донъ Родриго злобно возрадовался этой разлукѣ, и, вмѣстѣ съ тѣмъ, въ умѣ его родилась снова надежда, что предпріятіе его удастся.</note>
+        <note xml:id="Russian_1854_cap11-n114" type="translation" target="quarantana/cap11.xml#c11_13396" targetEnd="quarantana/cap11.xml#c11_13415">
+                          Большую часть ночи провелъ онъ въ размышленіяхъ и всталъ рано съ двумя планами въ головѣ, изъ которыхъ одинъ былъ уже рѣшеніемъ неопровергаемымъ, а другой — однимъ только предначертаніемъ.</note>
+        <note xml:id="Russian_1854_cap11-n115" type="translation" target="quarantana/cap11.xml#c11_13416" targetEnd="quarantana/cap11.xml#c11_13471">
+                          Первый состоялъ въ намѣреніи — немедленно отправить Гризо въ Миланъ, чтобы собрать болѣе точныя свѣденія на счетъ положенія Лучiи и способовъ, какъ бы привести въ исполненіе свое предпріятіе; по этому онъ тотчасъ послалъ за своимъ вѣрнымъ наперсникомъ, вложилъ ему въ руку четыре скуди, похвалилъ за вчерашнюю ловкость, и сообщилъ ему приказъ, который рѣшился привести въ исполненіе.</note>
+        <note xml:id="Russian_1854_cap11-n116" type="translation" target="quarantana/cap11.xml#c11_13472" targetEnd="quarantana/cap11.xml#c11_13476">
+                          — «Синьоръ...» сказалъ Гризо, запинаясь.</note>
+        <note xml:id="Russian_1854_cap11-n117" type="translation" target="quarantana/cap11.xml#c11_13477" targetEnd="quarantana/cap11.xml#c11_13482">
+                          — «Что? развѣ ты не понялъ меня?»</note>
+        <note xml:id="Russian_1854_cap11-n118" type="translation" target="quarantana/cap11.xml#c11_13483" targetEnd="quarantana/cap11.xml#c11_13487">
+                          — «Если бы вамъ угодно было послать кого-нибудь другаго изъ вашихъ брави...»</note>
+        <note xml:id="Russian_1854_cap11-n119" type="translation" target="quarantana/cap11.xml#c11_13488" targetEnd="quarantana/cap11.xml#c11_13488">
+                          — «Какъ?»</note>
+        <note xml:id="Russian_1854_cap11-n120" type="translation" target="quarantana/cap11.xml#c11_13489" targetEnd="quarantana/cap11.xml#c11_13519">
+                          — «Я готовъ, синьоръ, жертвовать жизнію за своего господина: — это долгъ мой; но я знаю такъ же, что вы не захотите слишкомъ подвергать опасности жизнь вашихъ вѣрныхъ слугъ.»</note>
+        <note xml:id="Russian_1854_cap11-n121" type="translation" target="quarantana/cap11.xml#c11_13520" targetEnd="quarantana/cap11.xml#c11_13520">
+                          — «Как такъ?»</note>
+        <note xml:id="Russian_1854_cap11-n122" type="translation" target="quarantana/cap11.xml#c11_13521" targetEnd="quarantana/cap11.xml#c11_13570">
+                          — «Вамъ извѣстно, великомощный Синьоръ, сколько преступленій лежитъ у меня на душѣ, и... здѣсь я подъ вашимъ покровительствомъ; насъ цѣлый полк; господинъ Подеста другъ вашего дома; сбиры меня уважаютъ, и я съ своей стороны... хоть это не со всѣмъ похвально, но необходимо для своего спокойствія,... я съ ними обращаюсь по-пріятельски.</note>
+        <note xml:id="Russian_1854_cap11-n123" type="translation" target="quarantana/cap11.xml#c11_13571" targetEnd="quarantana/cap11.xml#c11_13587">
+                          Въ Миланѣ ливрея ваша извѣстна, но въ Монцѣ извѣстенъ напротивъ я самъ.</note>
+        <note xml:id="Russian_1854_cap11-n124" type="translation" target="quarantana/cap11.xml#c11_13588" targetEnd="quarantana/cap11.xml#c11_13621">
+                          А ваша милость знаетъ, — говорю это не для хвастовства — что тотъ, кто предастъ меня въ руки правосудія или представитъ мою голову, достанетъ себѣ славную поживу: сто скудій и позволеніе — освободить двухъ преступниковъ.</note>
+        <note xml:id="Russian_1854_cap11-n125" type="translation" target="quarantana/cap11.xml#c11_13622" targetEnd="quarantana/cap11.xml#c11_13662">
+                          — «Тфу къ чорту!» сказалъ донъ Родриго, «ты теперь похожъ что-то на трусливую собаку, которая не смѣетъ броситься на прохожаго, озирается — не идетъ ли кто изъ дому защитить ее и боится отойти отъ воротъ шага на четыре.»</note>
+        <note xml:id="Russian_1854_cap11-n126" type="translation" target="quarantana/cap11.xml#c11_13663" targetEnd="quarantana/cap11.xml#c11_13669">
+                          — Смѣю думать, Синьоръ, что я доказалъ вамъ...»</note>
+        <note xml:id="Russian_1854_cap11-n127" type="translation" target="quarantana/cap11.xml#c11_13670" targetEnd="quarantana/cap11.xml#c11_13670">
+                          — «По этому-то я и прошу тебя снова доказать мнѣ свое усердіе.»</note>
+        <note xml:id="Russian_1854_cap11-n128" type="translation" target="quarantana/cap11.xml#c11_13671" targetEnd="quarantana/cap11.xml#c11_13698">
+                          — «Коли такъ, простодушно отвѣчалъ Гризо, не отступно преслѣдуемый,» прошу васъ забыть все то, что я сказалъ вамъ. Съ львинымъ сердцемъ, съ заячьими ногами я готовъ отправиться...»</note>
+        <note xml:id="Russian_1854_cap11-n129" type="translation" target="quarantana/cap11.xml#c11_13699" targetEnd="quarantana/cap11.xml#c11_13728">
+                          — «Я не говорю, чтобы ты шелъ одинъ: возьми двухъ самыхъ лучшихъ изъ моихъ брави, Офреджіато и Тирадритто, отправляйся безъ страха и будь снова Гризо!</note>
+        <note xml:id="Russian_1854_cap11-n130" type="translation" target="quarantana/cap11.xml#c11_13729" targetEnd="quarantana/cap11.xml#c11_13730">
+                          Кой чортъ!</note>
+        <note xml:id="Russian_1854_cap11-n131" type="translation" target="quarantana/cap11.xml#c11_13731" targetEnd="quarantana/cap11.xml#c11_13748">
+                          Три рожи, такія какъ ваши, пройдуть спокойно.... да тут всякой будетъ радъ, если вы только спокойно идете.</note>
+        <note xml:id="Russian_1854_cap11-n132" type="translation" target="quarantana/cap11.xml#c11_13749" targetEnd="quarantana/cap11.xml#c11_13795">
+                          Развѣ Монцскимъ сбирамъ до того надоѣло жить на свѣтѣ, что они хотятъ поставить свою голову на сто скуди въ такую опасную игру!... притомъ я не думаю, чтобы имя мое было тамъ совершенно безъизвѣстно, и чтобъ званіе моихъ служителей сочли вамъ ни во что.»</note>
+        <note xml:id="Russian_1854_cap11-n133" type="translation" target="quarantana/cap11.xml#c11_13796" targetEnd="quarantana/cap11.xml#c11_13810">
+                          Такимъ образомъ, пристыдивъ нѣсколько Гризо, онъ далъ ему обширнѣйшія и подробнѣйшія инструкціи.</note>
+        <note xml:id="Russian_1854_cap11-n134" type="translation" target="quarantana/cap11.xml#c11_13811" targetEnd="quarantana/cap11.xml#c11_13886">
+                          Гризо взялъ съ собой двухъ товарищей и отправился съ радостнымъ и рѣшительнымъ видомъ, но въ глубинѣ души своей проклиналъ онъ и Монцу, и убійства и женщинъ, и вельможескія прихоти своего поставителя; онъ шелъ, словно голодный волкъ, съ обвислымъ брюхомъ и остро выдающимися ребрами, сходитъ съ снѣжныхъ горъ, осторожно вступаетъ въ долину, время отъ времени боязливо останавливается, и, шевеля хвостовъ, поднимаетъ морду, нюхаетъ — откуда вѣетъ вѣроломный вѣтеръ.</note>
+        <note xml:id="Russian_1854_cap11-n135" type="translation" target="quarantana/cap11.xml#c11_13887" targetEnd="quarantana/cap11.xml#c11_13923">
+                          Если подъ часъ доходитъ до него духъ человѣка или животнаго онъ поднимаетъ острыя уши и озирается кровавыми глазами, блестящими въ одно время и жадностію къ добычѣ и страхомъ отъ преслѣдованія.</note>
+        <note xml:id="Russian_1854_cap11-n136" type="omission" target="quarantana/cap11.xml#c11_13924" targetEnd="quarantana/cap11.xml#c11_14006" />
+        <note xml:id="Russian_1854_cap11-n137" type="translation" target="quarantana/cap11.xml#c11_14007" targetEnd="quarantana/cap11.xml#c11_14034">
+                          Другой замыселъ дона Родриго состоялъ въ томъ, чтобы заставить Ренцо, удалившагося отъ Лучiи, на всегда съ нею разстаться и не возвращаться болѣе въ этотъ край.</note>
+        <note xml:id="Russian_1854_cap11-n138" type="translation" target="quarantana/cap11.xml#c11_14035" targetEnd="quarantana/cap11.xml#c11_14061">
+                          Для этого намѣревался онъ распустить какіе нибудь грозные слухи, которые кто нибудь изъ друзей Ренцо взялся бы передать ему, и через это отбилъ бы у него охоту возвращаться изъ своего изгнанія.</note>
+        <note xml:id="Russian_1854_cap11-n139" type="translation" target="quarantana/cap11.xml#c11_14062" targetEnd="quarantana/cap11.xml#c11_14095">
+                          Онъ думалъ также, что вѣрнѣе всего было бы, еслибъ можно было изгнать его изъ отечества, и въ такомъ случаѣ правосудіе будетъ для него гораздо полезнѣе, нежели собственное могущество.</note>
+        <note xml:id="Russian_1854_cap11-n140" type="translation" target="quarantana/cap11.xml#c11_14096" targetEnd="quarantana/cap11.xml#c11_14137">
+                          Можно было бы, на примѣръ, нѣсколько перетолковать его покушеніе въ домѣ священника, представить его, какъ опасный мятежный замыселъ и посредствомъ доктора дать почувствовать господину Подестѣ, что черезъ это представляется прекрасный случай схватить бѣдного Ренцо.</note>
+        <note xml:id="Russian_1854_cap11-n141" type="translation" target="quarantana/cap11.xml#c11_14138" targetEnd="quarantana/cap11.xml#c11_14211">
+                          Но онъ скоро спохватился, что ему неприлично было бы вмѣшиваться въ такое постыдное дѣло, и не ломая себѣ долѣе головы, рѣшился поговорить съ докторомъ Ауцекой-Гарбульи, и намекнуть ему о своемъ желанiи — «Декретовъ такая тьма,» думалъ Донъ Родриго, «а докторъ мастеръ своего дѣла, онъ навѣрно подберетъ какой нибудь указецъ, и такъ запутаетъ дѣло, что этимъ простофилямъ и толку не сыскать: — не то онъ не достоинъ своего имени.</note>
+        <note xml:id="Russian_1854_cap11-n142" type="translation" target="quarantana/cap11.xml#c11_14212" targetEnd="quarantana/cap11.xml#c11_14270">
+                          Но вотъ, какъ иногда бываетъ въ свѣтѣ! пока онъ думалъ о докторѣ, какъ о лучшей надеждѣ, въ этомъ случаѣ, другой человѣкъ, человѣкъ, котораго вѣрно никто бы не угадалъ, именно самъ Ренцо, всѣми силами старался помогать ему, и притомъ гораздо лучше и вѣрнѣе, чѣмъ все, что могъ бы придумать докторъ.</note>
+        <note xml:id="Russian_1854_cap11-n143" type="translation" target="quarantana/cap11.xml#c11_14271" targetEnd="quarantana/cap11.xml#c11_14323">
+                          Часто случалось видѣть мнѣ мальчика черезчуръ вѣтренаго, но который по всему, казалось, долженъ былъ сдѣлаться нѣкогда умнымъ малымъ, случалось, говорю, видѣть вечеромъ, какъ онъ загонялъ свое стадо Индѣйскихъ свинокъ, изъ саду, въ которомъ паслись онѣ цѣлый день.</note>
+        <note xml:id="Russian_1854_cap11-n144" type="translation" target="quarantana/cap11.xml#c11_14324" targetEnd="quarantana/cap11.xml#c11_14399">
+                          Ему хотѣлось бы всѣхъ за одинъ разъ загнать въ назначенный хлѣвъ, но всѣ усилія его были тщетны: одна бѣжала вправо, и пока молодой пастухъ пускался за нею въ погоню, двѣ-три другія уходили влѣво; такъ что потерявъ терпѣніе, онъ наконецъ самъ примѣнялся къ нимъ, и загонялъ сперва тѣхъ, которые были поближе къ двери, а потомъ ловилъ по одиночкѣ другихъ, какъ какая попадется.</note>
+        <note xml:id="Russian_1854_cap11-n145" type="translation" target="quarantana/cap11.xml#c11_14400" targetEnd="quarantana/cap11.xml#c11_14432">
+                          Подобнымъ образомъ, мы должны теперь заняться дѣйствующими лицами нашего разсказа: отыскавъ Лучiю, мы принуждены были бѣжать за дономъ Родриго, а теперь должны оставить его и поговорить объ Ренцо.</note>
+        <note xml:id="Russian_1854_cap11-n146" type="translation" target="quarantana/cap11.xml#c11_14433" targetEnd="quarantana/cap11.xml#c11_14453">
+                          Послѣ горестной разлуки, о которой мы говорили выше, онъ пошелъ изъ Монцы въ Миланъ, въ такомъ расположеніи духа, которое всякій легко отгадаетъ.</note>
+        <note xml:id="Russian_1854_cap11-n147" type="translation" target="quarantana/cap11.xml#c11_14454" targetEnd="quarantana/cap11.xml#c11_14491">
+                          Бѣжать изъ дому, и — что еще хуже — изъ роднаго края, и — что еще хуже, разстаться съ Лучіей, тащиться по большой дорогѣ, не зная гдѣ приклонить голову, и все изъ-за мерзавца!...</note>
+        <note xml:id="Russian_1854_cap11-n148" type="translation" target="quarantana/cap11.xml#c11_14492" targetEnd="quarantana/cap11.xml#c11_14578">
+                          При этой мысли — Ренцо приходилъ въ бѣшенство и горѣлъ мщеніемъ; но, вспомнивъ, какъ молясь въ церкви Пескаренико съ добрымъ монахомъ онъ становился спокойнѣе; и потомъ негодованіе снова возгоралось въ груди его, онъ хотѣлъ воротиться, но вдругъ на какой нибудь стѣнѣ встрѣчался ему образъ Богоматери; онъ снималъ шляпу, останавливался и молился, такъ что во время своего путешествія онъ, по крайней мѣрѣ разъ двадцать, мысленно убивалъ дона Родриго и столько же разъ воскрешалъ его.</note>
+        <note xml:id="Russian_1854_cap11-n149" type="translation" target="quarantana/cap11.xml#c11_14579" targetEnd="quarantana/cap11.xml#c11_14619">
+                          Дорога, по которой шелъ онъ, пролегала между двумя пригорками, дорога грязная, каменистая, перерытая глубокими колеями, которыя послѣ дождя превращались въ ручьи, а въ иныхъ мѣстахъ ручьи становились лужами, покрывали всю дорогу и дѣлали ее почти непроходимою.</note>
+        <note xml:id="Russian_1854_cap11-n150" type="translation" target="quarantana/cap11.xml#c11_14620" targetEnd="quarantana/cap11.xml#c11_14702">
+                          Нѣсколько тропинокъ, протоптанныхъ въ видѣ ступеней по наклонности одного изъ пригорковъ, доказывали, что пѣшеходцы проложили себѣ путь чрезъ поле, по одной изъ этихъ тропинокъ, Ренцо взошелъ на вершину горы, поглядѣлъ вокругъ себя, увидѣлъ посреди поля огромное церковное зданіе, совершенно отдѣльное, какъ будто въ пустынѣ, а не въ самой срединѣ города, и засмотрѣвшись на это осьмое чудо, объ которомъ столько было говорено ему еще въ дѣтствѣ, онъ забылъ на время свое горе.</note>
+        <note xml:id="Russian_1854_cap11-n151" type="translation" target="quarantana/cap11.xml#c11_14703" targetEnd="quarantana/cap11.xml#c11_14747">
+                          Но минутъ черезъ нѣсколько оглянувшись назадъ, онъ увидѣлъ на дальнемъ горизонтѣ рѣзко отдѣлявшуюся цѣпь горъ родимыхъ, ясно узналъ между ними своего Резегоне, возвышавшагося надъ всѣми, и сердце его облилось кровію: печально смотрѣлъ онъ нѣсколько времени въ ту сторону, потомъ съ грустію отвернулся и продолжалъ путь свой.</note>
+        <note xml:id="Russian_1854_cap11-n152" type="translation" target="quarantana/cap11.xml#c11_14748" targetEnd="quarantana/cap11.xml#c11_14797">
+                          Мало по малу сталъ онъ различать колокольни и башни, куполы и крыши города: онъ сошелъ на дорогу и, подошедъ еще ближе къ городу, обратился къ первому попавшемуся прохожему, и, поклонившись ему самымъ учтивымъ образомъ, сказалъ: «Позвольте, сударь, спросить васъ...»</note>
+        <note xml:id="Russian_1854_cap11-n153" type="translation" target="quarantana/cap11.xml#c11_14798" targetEnd="quarantana/cap11.xml#c11_14801">
+                          — «Что тебѣ надо, любезный?»</note>
+        <note xml:id="Russian_1854_cap11-n154" type="translation" target="quarantana/cap11.xml#c11_14802" targetEnd="quarantana/cap11.xml#c11_14819">
+                          — «Не можете-ли вы мнѣ сказать, какъ ближе пройти въ монастырь Капуциновъ, гдѣ живетъ отецъ Бонавентура?</note>
+        <note xml:id="Russian_1854_cap11-n155" type="translation" target="quarantana/cap11.xml#c11_14820" targetEnd="quarantana/cap11.xml#c11_14867">
+                          Путешественникъ, съ которымъ говорилъ Ренцо, былъ богатый обыватель изъ окрестностей Милана; пришедши по утру въ городъ по дѣламъ своимъ и не сдѣлавши ни чего, онъ поспѣшно возвращался домой, боясь запоздать, и слѣдовательно былъ очень не радъ встрѣтившейся задержкѣ.</note>
+        <note xml:id="Russian_1854_cap11-n156" type="translation" target="quarantana/cap11.xml#c11_14868" targetEnd="quarantana/cap11.xml#c11_14898">
+                          Между тѣмъ, скрывая свое нетерпѣніе, онъ отвѣчалъ очень вѣжливо: «въ городѣ много монастырей, любезный: скажи мнѣ яснѣе, въ который хочешь итти.»</note>
+        <note xml:id="Russian_1854_cap11-n157" type="translation" target="quarantana/cap11.xml#c11_14899" targetEnd="quarantana/cap11.xml#c11_14996">
+                          Ренцо вынулъ изъ кармана письмо отца Христофора, и показалъ его услужливому прохожему, который, прочитавъ адресъ: Porta Oriental (Восточныя ворота), отдалъ письмо назадъ и сказалъ: «на твое счастье любезный, итти тебѣ недалеко: монастырь этотъ близехонько; вотъ ступай по этой тропинкѣ налѣво: эта проселочная дорога короче всѣхъ другихъ; скоро увидишь ты длинное низенькое строеніе: это лазаретъ; ступай вдоль по рву, который окружаетъ его, и дойдешь до Восточныхъ воротъ; потомъ, пройдя триста или четыреста шаговъ, отъ нихъ по городу, ты увидишь небольшую плошадь, обсаженную прекрасными вязами: тутъ стоитъ монастырь, и тебѣ нельзя будетъ не замѣтить его.</note>
+        <note xml:id="Russian_1854_cap11-n158" type="translation" target="quarantana/cap11.xml#c11_14997" targetEnd="quarantana/cap11.xml#c11_15001">
+                          Ступай съ Богомъ, любезный!»</note>
+        <note xml:id="Russian_1854_cap11-n159" type="translation" target="quarantana/cap11.xml#c11_15002" targetEnd="quarantana/cap11.xml#c11_15015">
+                          При этихъ словать, онъ сдѣлалъ учтивое движеніе рукою и удалился.</note>
+        <note xml:id="Russian_1854_cap11-n160" type="translation" target="quarantana/cap11.xml#c11_15016" targetEnd="quarantana/cap11.xml#c11_15047">
+                          Ренцо былъ удивленъ и восхищенъ отъ такой учтивости городскаго жителя къ простому крестьянину; но онъ не зналъ, что это былъ особенный день, день смиренія могущихъ передъ ничтожпыми.</note>
+        <note xml:id="Russian_1854_cap11-n161" type="translation" target="quarantana/cap11.xml#c11_15048" targetEnd="quarantana/cap11.xml#c11_15061">
+                          Онъ пошелъ по назначенной дорогѣ и достигъ Восточныъ воротъ.</note>
+        <note xml:id="Russian_1854_cap11-n162" type="translation" target="quarantana/cap11.xml#c11_15062" targetEnd="quarantana/cap11.xml#c11_15140">
+                          Впрочемъ при этомъ имени читатель не долженъ воображать себѣ, что ворота эти въ то время представляли точно такой же видъ, какъ и теперь; т. е., что и въ то время вела къ нимъ широкая и прямая улица, обсаженная тополями; потомъ огромный проходъ между двумя зданіями, начатыми, по крайней мѣрѣ, замысловато, если неболѣе; при первомъ входѣ боковые откосы по бастіонамъ, широкіе, правильно наклоненные, усаженные деревьями; съ одной стороны садъ, — далѣе дворцы, по правую и лѣвую сторону дороги въ пригородкѣ...</note>
+        <note xml:id="Russian_1854_cap11-n163" type="translation" target="quarantana/cap11.xml#c11_15141" targetEnd="quarantana/cap11.xml#c11_15176">
+                          Нѣтъ, когда Ренцо вошелъ въ эти ворота внѣшняя дорога пролегала возлѣ самаго Лазарета, проходя параллельно во всю длину его; потомъ съуживалась и косвенно шла между двумя заборами.</note>
+        <note xml:id="Russian_1854_cap11-n164" type="translation" target="quarantana/cap11.xml#c11_15177" targetEnd="quarantana/cap11.xml#c11_15222">
+                          Ворота состояли изъ двухъ столбовъ съ шлагбаумомъ — для сбора пошлины; съ одной стороны была будка для таможенныхъ приставовъ. — Откосы бастіоновъ спускались неправильно, внутренность ихъ была засыпана черепками и каменьями.</note>
+        <note xml:id="Russian_1854_cap11-n165" type="translation" target="quarantana/cap11.xml#c11_15223" targetEnd="quarantana/cap11.xml#c11_15252">
+                          Улицы въ предмѣстіи довольно были похожи на ту, которая теперь идетъ отъ воротъ, «Тозы.»</note>
+        <note xml:id="Russian_1854_cap11-n166" type="translation" target="quarantana/cap11.xml#c11_15253" targetEnd="quarantana/cap11.xml#c11_15281">
+                          Канава, прорытая посрединѣ, доходила почти до самыхъ воротъ и такимъ образомъ раздѣляла улицу на двѣ тропинки, смотря по времени года, пыльныя или грязныя.</note>
+        <note xml:id="Russian_1854_cap11-n167" type="translation" target="quarantana/cap11.xml#c11_15282" targetEnd="quarantana/cap11.xml#c11_15309">
+                          Въ томъ местѣ, гдѣ находилась и еще теперь находится Borghetto, канава втекала въ огромную лужу, и оттуда въ ровъ, проходившій кругомъ городскихъ стѣнъ.</note>
+        <note xml:id="Russian_1854_cap11-n168" type="translation" target="quarantana/cap11.xml#c11_15310" targetEnd="quarantana/cap11.xml#c11_15341">
+                          Тамъ стояла колонна Св. Діонисія, съ крестомъ на верху. По правую и по лѣвую сторону видны были сады, обнесенные заборами, а въ недальнемъ разстояніи нѣсколько хижинъ, въ которыхъ большею частiю жили прачки.</note>
+        <note xml:id="Russian_1854_cap11-n169" type="translation" target="quarantana/cap11.xml#c11_15342" targetEnd="quarantana/cap11.xml#c11_15389">
+                          Ренцо вошелъ въ ворота, спокойно продолжалъ путь свой, и никто изъ таможенныхъ приставовъ ни сказалъ ему ни слова: это крайне удивило его, потому что часто случалось ему слышать отъ тѣхъ изъ земляковъ своихъ, кому удавалось быть въ Миланѣ, чудеса про осмотръ, и вопросы, которымъ подвергается всякій входящий въ городъ.</note>
+        <note xml:id="Russian_1854_cap11-n170" type="translation" target="quarantana/cap11.xml#c11_15390" targetEnd="quarantana/cap11.xml#c11_15415">
+                          На улицѣ было пусто, такъ что если бъ до слуха его не долеталъ какой то отдаленный гулъ, признакъ необычайнаго движенія, онъ почелъ бы городъ опустѣлымъ.</note>
+        <note xml:id="Russian_1854_cap11-n171" type="translation" target="quarantana/cap11.xml#c11_15416" targetEnd="quarantana/cap11.xml#c11_15483">
+                          Пока Ренцо шель впередъ, не зная самъ, что подумать, увидѣлъ онъ на мостовой какіе то бѣлые слѣды, похожіе на снѣгъ; снѣгомъ однакожъ они быть не могли, потому что снѣтъ не падаетъ слѣдами, и притомъ въ такое время года. — Онъ остановился, сталъ разсматривать, дотронулся рукою, и увидѣлъ, что это была мука. — Знать въ Миланѣ, всего въ избыткѣ, подумалъ онъ: на мостовой валяется дарь Божій.</note>
+        <note xml:id="Russian_1854_cap11-n172" type="translation" target="quarantana/cap11.xml#c11_15484" targetEnd="quarantana/cap11.xml#c11_15495">
+                          А насъ хотятъ увѣрить, что вездѣ недостатокъ.</note>
+        <note xml:id="Russian_1854_cap11-n173" type="translation" target="quarantana/cap11.xml#c11_15496" targetEnd="quarantana/cap11.xml#c11_15614">
+                          Вишь что они выдумываютъ, чтобы держать въ покоѣ деревенскихъ жителей. — Но сдѣлавъ еще нѣсколько шаговъ и дошедъ до колонны, онъ былъ удивленъ еще болѣе: на ступеняхъ піедестала какіе-то разбросанные комы, вовсе не похожіе на камни: если бы они лежали на лоткѣ булочника, то при первомъ взглядѣ всякій принялъ бы ихъ за хлѣбы, но Ренцо не вѣрилъ собственнымъ глазамъ своимъ: кой чортъ, подумалъ онъ, что это за складочное мѣсто для хлѣбовъ. — «Посмотримъ, что это за товаръ, сказалъ онъ самъ себѣ, подошелъ къ колоннѣ, нагнулся, поднялъ одинъ изъ этихъ комовъ — точно — это былъ хлѣбъ, круглый, бѣлый, такой, какимъ нашему Ренцо случалось лакомиться только въ праздничные дни.</note>
+        <note xml:id="Russian_1854_cap11-n174" type="translation" target="quarantana/cap11.xml#c11_15615" targetEnd="quarantana/cap11.xml#c11_15652">
+                          Точно, это хлѣбъ, вскричалъ онъ громкимъ голосомъ: такъ велико было его удивленiе. — Развѣ нынѣшній годъ здѣсь такъ его сѣютъ? или только стоитъ имъ подбирать, когда онъ валится съ неба? что за обѣтованная земля такая?</note>
+        <note xml:id="Russian_1854_cap11-n175" type="translation" target="quarantana/cap11.xml#c11_15653" targetEnd="quarantana/cap11.xml#c11_15671">
+                          Послѣ десяти миль ходьбы, на чистомъ утреннемъ воздухѣ, — мудрено ли, что Ренцо, при видѣ хлѣба, послѣ удивленія, почувствовалъ охоту и отвѣдать его.</note>
+        <note xml:id="Russian_1854_cap11-n176" type="translation" target="quarantana/cap11.xml#c11_15672" targetEnd="quarantana/cap11.xml#c11_15703">
+                          Взять ли мнѣ этотъ хлѣбъ? подумалъ онъ. О! да они оставили его такъ, что каждая собака можетъ утащить, сколько хочетъ; такъ лучше жъ пусть онъ достанется христіанской душѣ!... Во всякомъ случаѣ, если отыщется хозяинъ, я заплачу ему. —</note>
+        <note xml:id="Russian_1854_cap11-n177" type="translation" target="quarantana/cap11.xml#c11_15704" targetEnd="quarantana/cap11.xml#c11_15745">
+                          Размышляя таким образомъ, онъ положилъ въ карманъ хлѣбъ, который былъ уже у него въ рукахъ, потомъ поднялъ другой, и засунулъ его въ другой карманъ, потомъ взялъ третій, закусилъ его и пошелъ впередъ, удивляясь все болѣе и болѣе, и желая угадать, что бы все это могло значить?</note>
+        <note xml:id="Russian_1854_cap11-n178" type="translation" target="quarantana/cap11.xml#c11_15746" targetEnd="quarantana/cap11.xml#c11_15825">
+                          Прошелъ нѣсколько шаговъ, онъ встрѣтилъ толпу людей, которые шли изъ города, и сталъ разсматривать первыхъ попавшихся ему на встрѣчу: мужчина съ женщиной, а позади нихъ мальчикъ шли, всѣ трое, сгибаясь подъ ношею, которая, по видимому, превышала ихъ силы: они представляли довольно странную картину: платье, или лучше сказать лохмотья, прикрывавшія наготу тѣла, лица раскраснѣвшися и утомленныя, все было въ мукѣ; они едва передвигали ноги, не столько отъ ноши, сколько повидимому, отъ боли, словно раненые.</note>
+        <note xml:id="Russian_1854_cap11-n179" type="translation" target="quarantana/cap11.xml#c11_15826" targetEnd="quarantana/cap11.xml#c11_15854">
+                          Мужчина съ трудомъ несъ на своихъ плечахъ огромный мѣшокъ муки, который былъ прорванъ въ нѣсколькихъ мѣстахъ, такъ что при каждомъ толчкѣ, какъ скоро нарушалось равновѣсіе, часть муки высыпалась на землъ.</note>
+        <note xml:id="Russian_1854_cap11-n180" type="translation" target="quarantana/cap11.xml#c11_15855" targetEnd="quarantana/cap11.xml#c11_15903">
+                          Фигура женщины была еще страшнѣе... корпусъ несоразмѣрной толщины, руки изогнутыя, повидимому, поддерживавшія его отъ усталости и цѣлое представляло видъ кувшина съ ручками, простиравшимися отъ горлышка до самаго низу; изъ подъ этого толстаго корпуса выказывались двѣ ноги, голыя до самыхъ колѣнъ; женщина шла, переваливаясь со стороны на сторону.</note>
+        <note xml:id="Russian_1854_cap11-n181" type="translation" target="quarantana/cap11.xml#c11_15904" targetEnd="quarantana/cap11.xml#c11_15944">
+                          Вглядѣвшись въ нее попристальнѣе, Ренцо увидѣлъ, что толщина тѣла происходила оттого, что эта женщина шла съ поднятой юбкой, въ которой насыпано было муки почти черезъ край, такъ что по временамъ, она просыпалась на дорогу.</note>
+        <note xml:id="Russian_1854_cap11-n182" type="translation" target="quarantana/cap11.xml#c11_15945" targetEnd="quarantana/cap11.xml#c11_15994">
+                          Мальчикъ обѣими руками держалъ на головѣ корзину, наполненную хлѣбами; но какъ ноги его были покороче ногъ его родителей, то онъ никакъ не могъ поспѣть за ними, и, стараясь по возможности удвоить шаги свои, онъ не рѣдко нарушалъ равновѣсіе корзины, отъ чего хлѣбы изъ нея валились на земь.</note>
+        <note xml:id="Russian_1854_cap11-n183" type="translation" target="quarantana/cap11.xml#c11_15995" targetEnd="quarantana/cap11.xml#c11_16010">
+                          — «Урони еще хоть одинъ хлѣбъ, мерзавецъ...! сказала мать, оскаливъ зубы на мальчика.</note>
+        <note xml:id="Russian_1854_cap11-n184" type="translation" target="quarantana/cap11.xml#c11_16011" targetEnd="quarantana/cap11.xml#c11_16017">
+                          — «Я не роняю, они сами падаютъ.</note>
+        <note xml:id="Russian_1854_cap11-n185" type="translation" target="quarantana/cap11.xml#c11_16018" targetEnd="quarantana/cap11.xml#c11_16023">
+                          Что жъ мнѣ дѣлать? отвѣчалъ онъ.</note>
+        <note xml:id="Russian_1854_cap11-n186" type="translation" target="quarantana/cap11.xml#c11_16024" targetEnd="quarantana/cap11.xml#c11_16067">
+                          — «Счастье твое, что у меня руки заняты,» отвѣчала женщина, сжимая кулаки, какъ будто хотѣла побить бѣдного мальчика, — и при этомъ движеніи разсыпала муки столько, что изъ нея можно бъ было испечь два такіе хлѣба, какой уронилъ мальчикъ.</note>
+        <note xml:id="Russian_1854_cap11-n187" type="translation" target="quarantana/cap11.xml#c11_16068" targetEnd="quarantana/cap11.xml#c11_16079">
+                          «Ну что жъ, сказалъ мужчина, подберемъ ихъ послѣ, или кто-нибудь другой подыметъ ихъ.</note>
+        <note xml:id="Russian_1854_cap11-n188" type="translation" target="quarantana/cap11.xml#c11_16080" targetEnd="quarantana/cap11.xml#c11_16093">
+                          Мы такъ давно голодали: теперь удалось намъ немножко разжиться, ну такъ и слава Богу: нечего ссориться.»</note>
+        <note xml:id="Russian_1854_cap11-n189" type="translation" target="quarantana/cap11.xml#c11_16094" targetEnd="quarantana/cap11.xml#c11_16147">
+                          Между тѣмъ изъ деревень собирался народъ; одинъ изъ толпы подошелъ къ женщинѣ и спросилъ ее: «гдѣ берутъ хлѣбъ?» — Тамъ, тамъ, отвѣчала она, и прибавила, ворча сквозь зубы: «Эти мужики оберутъ всѣ лавки и магазеины, такъ что намъ ничего не останется.»</note>
+        <note xml:id="Russian_1854_cap11-n190" type="translation" target="quarantana/cap11.xml#c11_16148" targetEnd="quarantana/cap11.xml#c11_16157">
+                          — «Молчи, болтунья,» сказалъ мужъ: «будетъ со всѣхъ довольно.»</note>
+        <note xml:id="Russian_1854_cap11-n191" type="translation" target="quarantana/cap11.xml#c11_16158" targetEnd="quarantana/cap11.xml#c11_16203">
+                          Этотъ случай и многое, что еще видѣлъ и слышалъ Ренцо, убѣдили его въ томъ, что онъ попалъ въ городъ, гдѣ каждый, пользуясь мятежемъ, грабилъ, сколько могъ и хотѣлъ, платя за добычу ударами.</note>
+        <note xml:id="Russian_1854_cap11-n192" type="translation" target="quarantana/cap11.xml#c11_16204" targetEnd="quarantana/cap11.xml#c11_16231">
+                          Хотя мы искренно желали бы придать честную роль нашему бѣдному горцу, но историческая истина заставляетъ сказать, что первымъ чувствомъ его было удовольствіе.</note>
+        <note xml:id="Russian_1854_cap11-n193" type="omission" target="quarantana/cap11.xml#c11_16232" targetEnd="quarantana/cap11.xml#c11_16312" />
+        <note xml:id="Russian_1854_cap11-n194" type="translation" target="quarantana/cap11.xml#c11_16313" targetEnd="quarantana/cap11.xml#c11_16336">
+                          Впрочемъ онъ твердо рѣшился не вмѣшиваться въ бунты и радовался, что былъ посланъ къ капуцину, который могъ укрыть его и надѣлить добрыми совѣтами.</note>
+        <note xml:id="Russian_1854_cap11-n195" type="translation" target="quarantana/cap11.xml#c11_16337" targetEnd="quarantana/cap11.xml#c11_16360">
+                          Въ такихъ размышленіяхъ, занятый притомъ разсматриваніемъ участниковъ мятежа, новыхъ побѣдителей, которые попались ему на встрѣчу, согбенныхъ подъ тяжестію своихъ беззаконныхъ трофеевъ, онъ непримѣтно дошелъ до монастыря.</note>
+        <note xml:id="Russian_1854_cap11-n196" type="translation" target="quarantana/cap11.xml#c11_16361" targetEnd="quarantana/cap11.xml#c11_16397">
+                          На томъ самомъ мѣстѣ, гдѣ теперь стоитъ великолѣпный дворецъ съ бельведеромъ, въ то время и еще нѣсколько лѣтъ передъ этимъ, была маленькая площадь, на которой стояла церковь и монастырь капуциновъ, съ четырмя прекрасными вязовыми деревьями у входа.</note>
+        <note xml:id="Russian_1854_cap11-n197" type="translation" target="quarantana/cap11.xml#c11_16398" targetEnd="quarantana/cap11.xml#c11_16432">
+                          Мы не безъ зависти поздравляемъ тѣхъ изъ нашихъ читателей, которые не видали такого рода дѣлъ: это значитъ, что они очень молоды, и не имѣли еще времени надѣлать много глупостей.</note>
+        <note xml:id="Russian_1854_cap11-n198" type="translation" target="quarantana/cap11.xml#c11_16433" targetEnd="quarantana/cap11.xml#c11_16459">
+                          Ренцо пошелъ прямо къ двери, доѣлъ остальную часть хлѣба, вынулъ письмо и позвонилъ.</note>
+        <note xml:id="Russian_1854_cap11-n199" type="translation" target="quarantana/cap11.xml#c11_16460" targetEnd="quarantana/cap11.xml#c11_16478">
+                          Тотчась отворилась небольшая рѣшетчатая калитка; изъ нея выглянулъ монастырскій привратникъ, и спросилъ, что надобно.</note>
+        <note xml:id="Russian_1854_cap11-n200" type="translation" target="quarantana/cap11.xml#c11_16479" targetEnd="quarantana/cap11.xml#c11_16492">
+                          — «Я принесъ къ отцу Бонавентурѣ нужное письмо отъ отца Христофора.»</note>
+        <note xml:id="Russian_1854_cap11-n201" type="translation" target="quarantana/cap11.xml#c11_16493" targetEnd="quarantana/cap11.xml#c11_16502">
+                          — «Отдай мнѣ его,» — сказал привратникъ, протягивая руку въ калитку.</note>
+        <note xml:id="Russian_1854_cap11-n202" type="translation" target="quarantana/cap11.xml#c11_16503" targetEnd="quarantana/cap11.xml#c11_16512">
+                          — «Нѣтъ, нѣтъ,» сказалъ Ренцо, «я долженъ отдать его ему самому.»</note>
+        <note xml:id="Russian_1854_cap11-n203" type="translation" target="quarantana/cap11.xml#c11_16513" targetEnd="quarantana/cap11.xml#c11_16516">
+                          — «Его нѣтъ въ монастырѣ.»</note>
+        <note xml:id="Russian_1854_cap11-n204" type="translation" target="quarantana/cap11.xml#c11_16517" targetEnd="quarantana/cap11.xml#c11_16525">
+                          — «Позвольте мнѣ войти; я подожду его.»</note>
+        <note xml:id="Russian_1854_cap11-n205" type="translation" target="quarantana/cap11.xml#c11_16526" targetEnd="quarantana/cap11.xml#c11_16545">
+                          — «Поди-ка, лучше подожди въ церкви: это и для тебя будетъ полезнѣе.</note>
+        <note xml:id="Russian_1854_cap11-n206" type="translation" target="quarantana/cap11.xml#c11_16546" targetEnd="quarantana/cap11.xml#c11_16552">
+                          Теперь въ монастырь никого не пускаютъ.</note>
+        <note xml:id="Russian_1854_cap11-n207" type="translation" target="quarantana/cap11.xml#c11_16553" targetEnd="quarantana/cap11.xml#c11_16558">
+                          Сказавъ это, онъ затворилъ калитку.</note>
+        <note xml:id="Russian_1854_cap11-n208" type="translation" target="quarantana/cap11.xml#c11_16559" targetEnd="quarantana/cap11.xml#c11_16566">
+                          Ренцо на нѣкоторое время остался съ письмомъ въ недоумѣнiи.</note>
+        <note xml:id="Russian_1854_cap11-n209" type="translation" target="quarantana/cap11.xml#c11_16567" targetEnd="quarantana/cap11.xml#c11_16590">
+                          По совѣту привратника, онъ пошелъ-было къ церкви; но потомъ вздумалось ему немного посмотрѣть на смятеніе.</note>
+        <note xml:id="Russian_1854_cap11-n210" type="translation" target="quarantana/cap11.xml#c11_16591" targetEnd="quarantana/cap11.xml#c11_16623">
+                          Онъ перешелъ чрезъ небольшую площадь, остановился на тротуарѣ одной улицы и, сложивъ руки на груди, сталъ смотрѣть на лѣво, во внутренность города, гдѣ было болѣе шума и суматохи.</note>
+        <note xml:id="Russian_1854_cap11-n211" type="translation" target="quarantana/cap11.xml#c11_16624" targetEnd="quarantana/cap11.xml#c11_16628">
+                          Вихрь увлекъ зрителя.</note>
+        <note xml:id="Russian_1854_cap11-n212" type="translation" target="quarantana/cap11.xml#c11_16629" targetEnd="quarantana/cap11.xml#c11_16647">
+                          «Пойдемъ посмотрѣть на это,» подумалъ онъ; вынулъ другой хлѣбъ, откусилъ отъ него порядочную часть, и пошелъ въ ту сторону.</note>
+        <note xml:id="Russian_1854_cap11-n213" type="translation" target="quarantana/cap11.xml#c11_16648" targetEnd="quarantana/cap11.xml#c11_16663">
+                          Пока онъ идетъ, мы успѣемъ вкратцѣ рассказать о причинахъ и началѣ такого безпорядка.</note>
+      </div>
+    </body>
+  </text>
+</TEI>

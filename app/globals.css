@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Lora:ital,wght@0,400;0,700;1,400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
+@layer base {
+  :root {
+    --background: 40 38% 97%;
+    --foreground: 30 24% 10%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 30 24% 10%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 30 24% 10%;
+
+    --primary: 30 67% 38%;
+    --primary-foreground: 40 38% 97%;
+
+    --secondary: 40 15% 90%;
+    --secondary-foreground: 30 24% 10%;
+
+    --muted: 40 15% 90%;
+    --muted-foreground: 30 10% 40%;
+
+    --accent: 30 67% 38%;
+    --accent-foreground: 40 38% 97%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 40 38% 97%;
+
+    --border: 30 15% 85%;
+    --input: 30 15% 85%;
+    --ring: 30 67% 38%;
+
+    --radius: 0.5rem;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased min-h-screen font-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display;
+  }
+}
+
+/* Additional styles for TEI content */
+.tei-content {
+  @apply text-base leading-relaxed;
+}
+
+.tei-div {
+  @apply mb-6;
+}
+
+.tei-p {
+  @apply mb-4;
+}
+
+.tei-w {
+  @apply cursor-pointer transition-all duration-200 hover:bg-blue-100/50 scroll-mt-8;
+  scroll-margin-top: 2rem; /* Additional scroll margin for better visibility */
+}
+
+.tei-w.highlighted {
+  @apply bg-accent/20;
+}
+
+.tei-head {
+  @apply text-xl font-bold mb-4 font-display;
+}
+
+.tei-figure {
+  @apply my-4;
+}
+
+.tei-milestone {
+  @apply my-4 border-t border-accent/20;
+}
+
+.comment-card {
+  @apply transition-all duration-200 scroll-mt-8;
+}
+
+.comment-card.error {
+  @apply animate-pulse;
+}
+
+/* Add to your globals.css */
+.tei-ref {
+  @apply inline-block;
+}
+
+.tei-rend-bold {
+  @apply font-bold;
+}
+
+.tei-rend-italic {
+  @apply italic;
+}
+
+.tei-rend-underline {
+  @apply underline;
+}
+
+/* Add any other rend styles you need */
+.tei-rend-smallcaps {
+  @apply font-semibold uppercase text-sm tracking-wide;
+}
+
+/* When referenced in aligned comments */
+.comment-reference {
+  @apply bg-accent/5 p-2 rounded border border-accent/20 mt-2 mb-3;
+  scroll-margin-top: 2rem;
+}
+
+@layer components {
+  .card-hover {
+    @apply transition-all duration-300 hover:shadow-lg hover:-translate-y-1 bg-transparent-white;
+  }
+
+  .scrollbar-thin {
+    scrollbar-width: thin;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar-track {
+    @apply bg-secondary rounded-full;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    @apply bg-primary/30 rounded-full;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar-thumb:hover {
+    @apply bg-primary/50;
+  }
+}
+
+@layer utilities {
+  .bg-transparent-white {
+    background-color: rgba(255, 255, 255, 0.7);
+  }
+  
+  .bg-transparent-primary {
+    background-color: rgba(120, 80, 40, 0.1);
+  }
+
+  .font-display {
+    font-family: 'Playfair Display', serif;
+  }
+
+  .font-serif {
+    font-family: 'Lora', serif;
+  }
+
+  .overflow-visible {
+    overflow: visible !important;
+  }
+}
+

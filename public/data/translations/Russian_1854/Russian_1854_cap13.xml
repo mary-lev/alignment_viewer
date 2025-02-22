@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Commenti da Обрученные : Медиолан. быль XVIII [!XVII] столетия, найден. и передел. Александром Манзони</title>
+        <author>Alessandro Manzoni</author>
+        <respStmt>
+          <resp>Annotazione digitale</resp>
+          <persName xml:id="Maria_Levchenko">Maria Levchenko</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Leggo Manzoni. Quaranta commenti alla Quarantana</publisher>
+        <pubPlace>Università di Bologna "Alma mater studiorum"</pubPlace>
+        <date>2025</date>
+        <availability>
+          <p>Questa risorsa digitale è liberamente accessibile per uso personale o scientifico. Ogni uso commerciale è vietato.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Alessandro Manzoni</author>
+          <title>Обрученные : Медиолан. быль XVIII [!XVII] столетия, найден. и передел. Александром Манзони</title>
+          <pubPlace>Москва</pubPlace>
+          <publisher>Библиотека романов, повестей, путешествий и записок, изд. Н.Н. Улитиным</publisher>
+          <date>1854</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <listChange>
+        <change who="Maria_Levchenko" when="2025-02-18">Annotazione digitale</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="Russian_1854.xml_cap13">
+        <note xml:id="Russian_1854_cap13-n1" type="translation" target="quarantana/cap13.xml#c13_10001" targetEnd="quarantana/cap13.xml#c13_10049">
+                          Несчастный смотритель, только что окончившій свой скудный обѣдъ, заключавшійся въ небольшомъ количествѣ черстваго хлѣба, съ чрезвычайнымъ безпокойствомъ ожидалъ, чѣмъ кончится эта гроза, ни какъ не подозрѣвая, что она должна была разразиться надъ его головой такимъ ужаснѣйшимъ образомъ.</note>
+        <note xml:id="Russian_1854_cap13-n2" type="translation" target="quarantana/cap13.xml#c13_10050" targetEnd="quarantana/cap13.xml#c13_10065">
+                          Одинъ неизвѣстный человѣкъ, принимавшій въ немъ участіе, изъ усердія опередивъ толпу бунтовщиковъ, прибѣжалъ, задыхаясь, и вошелъ въ домъ, чтобы извѣстить объ угрожающей опастности.</note>
+        <note xml:id="Russian_1854_cap13-n3" type="translation" target="quarantana/cap13.xml#c13_10066" targetEnd="quarantana/cap13.xml#c13_10089">
+                          Служители, привлеченные шумомъ къ воротамъ, съ ужасомъ смотрѣли на ту часть улицы, чрезъ которую приближалась толпа.</note>
+        <note xml:id="Russian_1854_cap13-n4" type="translation" target="quarantana/cap13.xml#c13_10090" targetEnd="quarantana/cap13.xml#c13_10124">
+                          Между тѣмъ какъ они слушали это полезное извѣстіе, авангардъ уже былъ близокъ. Поспѣшно увѣдовляютъ о томъ господина, и, пока онъ размышляетъ, оставаться ли ему, или бѣжать, — другой приходитъ доложить, что уже не время разсуждать.</note>
+        <note xml:id="Russian_1854_cap13-n5" type="translation" target="quarantana/cap13.xml#c13_10125" targetEnd="quarantana/cap13.xml#c13_10158">
+                          Слуги только что успѣли запереть двери: они загромоздили, подперли ихъ и старались закрыть ставни, какъ обыкновенно это дѣлаютъ въ грозу, когда опасаются сильнаго града.</note>
+        <note xml:id="Russian_1854_cap13-n6" type="translation" target="quarantana/cap13.xml#c13_10159" targetEnd="quarantana/cap13.xml#c13_10195">
+                          Громкій и ужасный ревъ, подобный грому, раздался посреди двора — и въ этомъ смѣшенномъ и безпорядочномъ шумѣ слышенъ былъ безпрестанно повторяемый и сильный стукъ камней, бросаемыхъ въ ворота.</note>
+        <note xml:id="Russian_1854_cap13-n7" type="translation" target="quarantana/cap13.xml#c13_10196" targetEnd="quarantana/cap13.xml#c13_10200">
+                          «Смотрителя! хозяина! скупщика!</note>
+        <note xml:id="Russian_1854_cap13-n8" type="translation" target="quarantana/cap13.xml#c13_10201" targetEnd="quarantana/cap13.xml#c13_10205">
+                          Мы хотимъ его живаго, или мертваго!»</note>
+        <note xml:id="Russian_1854_cap13-n9" type="translation" target="quarantana/cap13.xml#c13_10206" targetEnd="quarantana/cap13.xml#c13_10234">
+                          Бѣдный человѣкъ блуждалъ изъ комнаты въ комнату, полумертвый, трепеща, сложа руки, предаваясь на волю Божію, и умоляя своихъ слугъ не впускать никого и найти какое-либо средство спасти его.</note>
+        <note xml:id="Russian_1854_cap13-n10" type="translation" target="quarantana/cap13.xml#c13_10235" targetEnd="quarantana/cap13.xml#c13_10239">
+                          Но какъ!</note>
+        <note xml:id="Russian_1854_cap13-n11" type="translation" target="quarantana/cap13.xml#c13_10240" targetEnd="quarantana/cap13.xml#c13_10284">
+                          Онъ взошелъ на чердакъ и, чрезъ слуховое окно, со страхомъ взглянувъ на улицу, гдѣ толпа негодяевъ требовала его смерти; устрашенный этимъ, онъ бѣжитъ искать надежнаго и скрытнаго убѣжища.</note>
+        <note xml:id="Russian_1854_cap13-n12" type="translation" target="quarantana/cap13.xml#c13_10285" targetEnd="quarantana/cap13.xml#c13_10327">
+                          Присѣвъ въ углу своего дома, онъ внимательно прислушивался, не уменьшается ли этотъ ужасный шумъ, и не удаляется ли толпа, но напротивъ удостовѣрился, что вопли становились ужаснѣе и громче, и ему казалось, что ворота падаютъ. Сердце его снова начало сжиматься и онъ поспѣшно заткнулъ уши.</note>
+        <note xml:id="Russian_1854_cap13-n13" type="translation" target="quarantana/cap13.xml#c13_10328" targetEnd="quarantana/cap13.xml#c13_10353">
+                          Потомъ, какъ бы внѣ себя, скрежеща зубами, съ измѣнившимся лицемъ, онъ простиралъ руки и сжималъ кулаки, какъ будто хотѣлъ противиться усиліямъ, направляемымъ противъ воротъ.</note>
+        <note xml:id="Russian_1854_cap13-n14" type="translation" target="quarantana/cap13.xml#c13_10354" targetEnd="quarantana/cap13.xml#c13_10380">
+                          Наконецъ въ отчаяніи падаетъ и остается безъ чувствъ, недвижимъ, подобно ожидающему смерти.</note>
+        <note xml:id="Russian_1854_cap13-n15" type="translation" target="quarantana/cap13.xml#c13_10381" targetEnd="quarantana/cap13.xml#c13_10397">
+                          Ренцо находился тогда въ самой серединѣ свалки, не потому, чтобы вовлеченъ былъ туда толпою, но вмѣшался самъ добровольно.</note>
+        <note xml:id="Russian_1854_cap13-n16" type="translation" target="quarantana/cap13.xml#c13_10398" targetEnd="quarantana/cap13.xml#c13_10510">
+                          При этомъ первомъ требованіи крови, онъ почувствовалъ волненіе въ своей; но мысль объ убійствѣ пробудила въ немъ внезапный и глубокiй страхъ, и хотя по этому гибельному расположенію страстныхъ душъ вѣрить всему, онъ былъ очень убѣжденъ обвиненіемъ такого большаго числа людей, что смотритель былъ злодѣй, барышникъ, и какъ будто подробно зналъ, что несчастный сдѣлалъ, чего не хотѣлъ дѣлать и предполагалъ; но прибѣжалъ первый съ твердымъ намѣреніемъ сдѣлать все, что отъ него зависѣть будетъ, для его спасенія. Въ такомъ расположеніи духа, онъ приблизился къ воротамъ, осаждаемымъ въ различныхъ видахъ.</note>
+        <note xml:id="Russian_1854_cap13-n17" type="translation" target="quarantana/cap13.xml#c13_10511" targetEnd="quarantana/cap13.xml#c13_10568">
+                          Одни сбивали камнемъ гвозди замка, чтобы сорвать его; другіе съ заступами, долотами, молотами старались ихъ выломать съ большею правильностiю; нѣкоторые даже острыми камнями, изломанными ножами, гвоздями и ногтями, за недостаткомъ другихъ орудій, разламывали стѣну и мало по малу старались сдѣлать проломъ.</note>
+        <note xml:id="Russian_1854_cap13-n18" type="translation" target="quarantana/cap13.xml#c13_10569" targetEnd="quarantana/cap13.xml#c13_10622">
+                          Тѣ, которые не могли сами работать, возбуждали къ тому другихъ своими криками; но въ то же время, дѣлая натискъ на первыхъ, они остановили работу, прекратившуюся отъ распрей между работающихъ: ибо, къ счастію, со зломъ бываетъ часто то же, что съ добромъ: самые ревностные зачищики его бываютъ тому препятствіемъ.</note>
+        <note xml:id="Russian_1854_cap13-n19" type="translation" target="quarantana/cap13.xml#c13_10623" targetEnd="quarantana/cap13.xml#c13_10654">
+                          Судьи, узнавшіе прежде всѣхъ объ этомъ бунтѣ, тотчась просили помощи у коменданта замка, называвшагося тогда замкомъ воротъ Giovia, и онъ имъ тотчась прислалъ отрядъ.</note>
+        <note xml:id="Russian_1854_cap13-n20" type="translation" target="quarantana/cap13.xml#c13_10655" targetEnd="quarantana/cap13.xml#c13_10693">
+                          Но пока увѣдомили объ этомъ, разослали приказаніе, собрались солдаты, отправились и пришли къ назначенному мѣсту, домъ былъ уже окруженъ множествомъ осаждающихъ, и рота должна была остановиться в дальнемъ разстояніи отъ этого дома при началѣ сборища.</note>
+        <note xml:id="Russian_1854_cap13-n21" type="translation" target="quarantana/cap13.xml#c13_10694" targetEnd="quarantana/cap13.xml#c13_10703">
+                          Офицеръ, командовавшій ею, не знать, что дѣлать.</note>
+        <note xml:id="Russian_1854_cap13-n22" type="translation" target="quarantana/cap13.xml#c13_10704" targetEnd="quarantana/cap13.xml#c13_10722">
+                          Тутъ было только собраніе праздныхъ людей всякого возраста и пола.</note>
+        <note xml:id="Russian_1854_cap13-n23" type="translation" target="quarantana/cap13.xml#c13_10723" targetEnd="quarantana/cap13.xml#c13_10744">
+                          На объявленное имъ приказаніе разойтись и дать пройти, они отвѣчали глухимъ и продолжительнымъ ропотомъ, и никто не двинулся съ мѣста.</note>
+        <note xml:id="Russian_1854_cap13-n24" type="translation" target="quarantana/cap13.xml#c13_10745" targetEnd="quarantana/cap13.xml#c13_10779">
+                          Приказать стрѣлять по этой толпѣ казалось офицеру не только жестокимъ, но и опаснымъ средствомъ, которое, оскорбивъ не столь жестокихъ, раздражило бы изъ нихъ самыхъ буйныхъ; притомъ онъ и не получалъ такого приказанія.</note>
+        <note xml:id="Russian_1854_cap13-n25" type="translation" target="quarantana/cap13.xml#c13_10780" targetEnd="quarantana/cap13.xml#c13_10809">
+                          Врѣзаться въ эту первую толпу, разогнать ее по обѣимъ сторонамъ и итти прямо съ оружіемъ на бунтующихъ, конечно было бы лучше; но надлежало въ этомъ успѣть!</note>
+        <note xml:id="Russian_1854_cap13-n26" type="translation" target="quarantana/cap13.xml#c13_10810" targetEnd="quarantana/cap13.xml#c13_10820">
+                          Кто знаетъ, могли ли солдаты итти сомкнувшись и въ хорошемъ порядкѣ?</note>
+        <note xml:id="Russian_1854_cap13-n27" type="translation" target="quarantana/cap13.xml#c13_10821" targetEnd="quarantana/cap13.xml#c13_10844">
+                          Кто знаетъ, что вмѣсто разогнанія толпы, они бы не были разсѣяны сами и, раздраживъ чернь, не прибѣгли къ ея милосердію?</note>
+        <note xml:id="Russian_1854_cap13-n28" type="translation" target="quarantana/cap13.xml#c13_10845" targetEnd="quarantana/cap13.xml#c13_10858">
+                          Нерѣшимость командира и неподвижность солдатъ, справедливо, или нѣтъ, были приписаны боязни.</note>
+        <note xml:id="Russian_1854_cap13-n29" type="translation" target="quarantana/cap13.xml#c13_10859" targetEnd="quarantana/cap13.xml#c13_10929">
+                          Стоявшая возлѣ нихъ чернь довольствовалась тѣмъ, что смотрѣла имъ въ лицо, съ такимъ видомъ, который, говорятъ Медіоланцы, означаетъ: «я ничего не боюсь.» Тѣ же изъ черни, которые были не много подалѣе, вызывали ихъ на драку разными тѣлодвиженіями и насмѣшками, а прочiе даже не знали о ихъ присутствіи и не заботились о томъ; осаждающіе продолжали ломать стѣну, съ одною только мыслію, чтобы успѣть въ своемъ предпріятіи, сколько возможно скорѣе. Зрители не переставали поощрять ихъ своими криками.</note>
+        <note xml:id="Russian_1854_cap13-n30" type="translation" target="quarantana/cap13.xml#c13_10930" targetEnd="quarantana/cap13.xml#c13_10991">
+                          Среди этихъ мятежниковъ отличался одинъ гнусный старик, представлявшій самъ изъ себя зрѣлище. Онъ блуждалъ по толпѣ впалыми и воспламененными глазами, съ страшною улыбкою на губахъ, и поднятыми надъ плѣшивою головою руками, показывалъ молотокъ, веревку и четыре большіе гвоздя, на которыхъ, говорилъ онъ, хочетъ повѣсить смотрителя на воротахъ его дома, когда онъ умретъ.</note>
+        <note xml:id="Russian_1854_cap13-n31" type="translation" target="quarantana/cap13.xml#c13_10992" targetEnd="quarantana/cap13.xml#c13_11032">
+                          «И вамъ не стыдно говорить это!» вскричалъ невольно Ренцо, пришедшій въ негодованіе отъ этихъ словъ, и видѣвшій, что многіе изъ бывшихъ тутъ, по видимому, слушали ихъ съ удовольствіемъ, и старались одушевить, одобрить тѣхъ, которые хотя и молчали, но показывали одинаковое негодованіе.</note>
+        <note xml:id="Russian_1854_cap13-n32" type="translation" target="quarantana/cap13.xml#c13_11033" targetEnd="quarantana/cap13.xml#c13_11041">
+                          — «Какой стыдъ! Неужели мы станемъ исправлять должность палачей? Убивать Христiанина!</note>
+        <note xml:id="Russian_1854_cap13-n33" type="translation" target="quarantana/cap13.xml#c13_11042" targetEnd="quarantana/cap13.xml#c13_11054">
+                          Какъ вы хотите, чтобы Богъ далъ намъ хлѣба, когда покушаетесь на подобныя злодѣянія?</note>
+        <note xml:id="Russian_1854_cap13-n34" type="translation" target="quarantana/cap13.xml#c13_11055" targetEnd="quarantana/cap13.xml#c13_11062">
+                          Онъ скорѣе поразитъ насъ громомъ своимъ, нежели пошлетъ намъ хлѣбъ!»</note>
+        <note xml:id="Russian_1854_cap13-n35" type="translation" target="quarantana/cap13.xml#c13_11063" targetEnd="quarantana/cap13.xml#c13_11090">
+                          — «Ахъ, собака, измѣнникъ отечеству!» вскричалъ обращаясь къ Ренцо съ яростнымъ лицемъ, одинъ изъ слышавшихъ посреди шума, эти священныя слова.</note>
+        <note xml:id="Russian_1854_cap13-n36" type="translation" target="quarantana/cap13.xml#c13_11091" targetEnd="quarantana/cap13.xml#c13_11092">
+                          «Стой, стой!</note>
+        <note xml:id="Russian_1854_cap13-n37" type="translation" target="quarantana/cap13.xml#c13_11093" targetEnd="quarantana/cap13.xml#c13_11105">
+                          Это слуга смотрителя, переодѣтый крестьяниномъ, это шпіонъ. Бросимся на него!»</note>
+        <note xml:id="Russian_1854_cap13-n38" type="translation" target="quarantana/cap13.xml#c13_11106" targetEnd="quarantana/cap13.xml#c13_11110">
+                          Тысячи голосовъ около ихъ отвѣчали:</note>
+        <note xml:id="Russian_1854_cap13-n39" type="translation" target="quarantana/cap13.xml#c13_11111" targetEnd="quarantana/cap13.xml#c13_11115">
+                          «Кто тамъ? Гдѣ онъ? Что такое?</note>
+        <note xml:id="Russian_1854_cap13-n40" type="translation" target="quarantana/cap13.xml#c13_11116" targetEnd="quarantana/cap13.xml#c13_11120">
+                          Слуга смотрителя!</note>
+        <note xml:id="Russian_1854_cap13-n41" type="translation" target="quarantana/cap13.xml#c13_11121" targetEnd="quarantana/cap13.xml#c13_11123">
+                          Шпiонъ!</note>
+        <note xml:id="Russian_1854_cap13-n42" type="translation" target="quarantana/cap13.xml#c13_11124" targetEnd="quarantana/cap13.xml#c13_11131">
+                          Смотритель переодѣлся крестьяниномъ и хочетъ бѣжать.</note>
+        <note xml:id="Russian_1854_cap13-n43" type="translation" target="quarantana/cap13.xml#c13_11132" targetEnd="quarantana/cap13.xml#c13_11136">
+                          Гдѣ онъ? Гдѣ онъ? Схватите его, нападите на него!»</note>
+        <note xml:id="Russian_1854_cap13-n44" type="translation" target="quarantana/cap13.xml#c13_11137" targetEnd="quarantana/cap13.xml#c13_11182">
+                          Ренцо замолчалъ и хотѣлъ укрыться въ толпѣ. Нѣкоторые изъ сосѣдей его помогаютъ ему спрятаться и другими криками стараются заглушить враждебные, кровавые крики; но болѣе всего помогъ ему раздавшійся въ нѣсколькихъ шагахъ крикъ:</note>
+        <note xml:id="Russian_1854_cap13-n45" type="translation" target="quarantana/cap13.xml#c13_11183" targetEnd="quarantana/cap13.xml#c13_11191">
+                          «Дорогу, дорогу! Къ намъ идутъ на помощь! Дорогу!» Какая это была помощь?</note>
+        <note xml:id="Russian_1854_cap13-n46" type="translation" target="quarantana/cap13.xml#c13_11192" targetEnd="quarantana/cap13.xml#c13_11209">
+                          Это была длинная лѣстница, которую несли нѣсколько человѣкъ, чтобъ пробраться въ домъ въ окно.</note>
+        <note xml:id="Russian_1854_cap13-n47" type="translation" target="quarantana/cap13.xml#c13_11210" targetEnd="quarantana/cap13.xml#c13_11229">
+                          Но, къ счастію, это легчайшее средство не такъ было удобно употребить.</note>
+        <note xml:id="Russian_1854_cap13-n48" type="translation" target="quarantana/cap13.xml#c13_11230" targetEnd="quarantana/cap13.xml#c13_11291">
+                          Тѣ, которые несли ее, держа за концы и средину, ударяясь, сталкиваясь другъ съ другомъ и будучи раздѣляемы толпою, колебались на каждомъ шагу, одинъ, просунувъ голову между двумя ступенями и положивъ ихъ на плеча, изнемогалъ подъ тяжестью и испускалъ жалобные крики; другой былъ оторванъ отъ своей ноши, и оставленная лѣстница ударялась объ голову, руки и плеча его сосѣдей; можно вообразить жалобы и вопли бывшихъ жертвою этого.</note>
+        <note xml:id="Russian_1854_cap13-n49" type="translation" target="quarantana/cap13.xml#c13_11292" targetEnd="quarantana/cap13.xml#c13_11310">
+                          Другiе поднимали ее, подходили снизу и, неся лѣстницу на плечахъ, кричали: «пойдемъ смѣлѣе!»</note>
+        <note xml:id="Russian_1854_cap13-n50" type="translation" target="quarantana/cap13.xml#c13_11311" targetEnd="quarantana/cap13.xml#c13_11323">
+                          Роковое орудіе подвигалось впередъ не ровно, уклоняясь то вправо, то влѣво.</note>
+        <note xml:id="Russian_1854_cap13-n51" type="translation" target="quarantana/cap13.xml#c13_11324" targetEnd="quarantana/cap13.xml#c13_11391">
+                          Оно во время подоспѣло, чтобы разсѣять и уменьшить враговъ. Ренцо, который воспользовался этимъ безпорядкомъ, сперва скрылся; а потомъ дѣйствуя, сколько могъ, локтями, удалился отъ того мѣста, гдѣ не ожидалъ для себя ничего хорошаго, съ намѣреніемъ скорѣе освободиться изъ толпы и не мѣшкая итти застать или дождаться отца Бонавантуру.</note>
+        <note xml:id="Russian_1854_cap13-n52" type="translation" target="quarantana/cap13.xml#c13_11392" targetEnd="quarantana/cap13.xml#c13_11420">
+                          Вдругъ волненіе, начавшееся на одномъ концѣ, распространяется во всей толпѣ; шумъ разливается, переходитъ изъ устъ въ уста, и перебѣгаетъ всю толпу.</note>
+        <note xml:id="Russian_1854_cap13-n53" type="translation" target="quarantana/cap13.xml#c13_11421" targetEnd="quarantana/cap13.xml#c13_11422">
+                          «Ферреръ! Ферреръ!»</note>
+        <note xml:id="Russian_1854_cap13-n54" type="translation" target="quarantana/cap13.xml#c13_11423" targetEnd="quarantana/cap13.xml#c13_11453">
+                          Знаки удивленія, удовольствія, досады, радости и гнѣва обнаруживаются вездѣ, гдѣ произносятъ это имя. Кто произноситъ его съ крикомъ, кто хочетъ его заглушить; кто утверждаетъ, кто отвергаетъ, кто благословляетъ его, кто проклинаетъ.</note>
+        <note xml:id="Russian_1854_cap13-n55" type="translation" target="quarantana/cap13.xml#c13_11454" targetEnd="quarantana/cap13.xml#c13_11456">
+                          — «Вотъ Ферреръ!</note>
+        <note xml:id="Russian_1854_cap13-n56" type="translation" target="quarantana/cap13.xml#c13_11457" targetEnd="quarantana/cap13.xml#c13_11463">
+                          Это ложь, это вздоръ!</note>
+        <note xml:id="Russian_1854_cap13-n57" type="translation" target="quarantana/cap13.xml#c13_11464" targetEnd="quarantana/cap13.xml#c13_11476">
+                          Да, да! «Да здравствуетъ Ферреръ, дающій намъ хлѣбъ по дешевой цѣнь!</note>
+        <note xml:id="Russian_1854_cap13-n58" type="translation" target="quarantana/cap13.xml#c13_11477" targetEnd="quarantana/cap13.xml#c13_11479">
+                          Нѣтъ! нѣтъ!</note>
+        <note xml:id="Russian_1854_cap13-n59" type="translation" target="quarantana/cap13.xml#c13_11480" targetEnd="quarantana/cap13.xml#c13_11486">
+                          Вотъ онъ, вотъ онъ въ каретѣ чего онъ хочетъ?</note>
+        <note xml:id="Russian_1854_cap13-n60" type="translation" target="quarantana/cap13.xml#c13_11487" targetEnd="quarantana/cap13.xml#c13_11496">
+                          Зачѣмъ онъ пріѣхалъ? Мы не имѣемъ ни въ комъ нужды!</note>
+        <note xml:id="Russian_1854_cap13-n61" type="translation" target="quarantana/cap13.xml#c13_11497" targetEnd="quarantana/cap13.xml#c13_11510">
+                          Ферреръ! Да здравствуетъ Ферреръ, другъ бѣдныхъ! Онъ пріѣхалъ за смотрителемъ, чтобъ посадить его въ тюрьму.</note>
+        <note xml:id="Russian_1854_cap13-n62" type="translation" target="quarantana/cap13.xml#c13_11511" targetEnd="quarantana/cap13.xml#c13_11529">
+                          Нѣтъ, нѣть, мы сами хотимъ отмстить за себя. — Назадъ, назадъ! — Да, Ферреръ! пусть онъ идетъ назадъ! — Въ тюрьму смотрителя!»</note>
+        <note xml:id="Russian_1854_cap13-n63" type="translation" target="quarantana/cap13.xml#c13_11530" targetEnd="quarantana/cap13.xml#c13_11548">
+                          И всѣ, приподнимаясь на носкахъ, обращали взоры въ ту сторону, откуда возвѣщали объ этомъ неожиданномъ пріѣздѣ.</note>
+        <note xml:id="Russian_1854_cap13-n64" type="translation" target="quarantana/cap13.xml#c13_11549" targetEnd="quarantana/cap13.xml#c13_11570">
+                          Стоя такимъ образомъ, они видѣли ни болѣе, ни менѣе, какъ прежде, но все таки всѣ приподнимались.</note>
+        <note xml:id="Russian_1854_cap13-n65" type="translation" target="quarantana/cap13.xml#c13_11571" targetEnd="quarantana/cap13.xml#c13_11638">
+                          Въ самомъ дѣлѣ, къ одному концу толпы, со стороны противуположной той, гдѣ находились солдаты, пріѣхалъ въ каретѣ великій канцлеръ Антонiо Ферреръ. Вѣроятно, раскаяваясь въ томъ, что былъ причиною или поводомъ этого возмущенія, онъ теперь явился, чтобы укротить его и отвратить болѣе ужасныя и неизгладимыя слѣдствія, явился съ похвальнымъ намѣреніемъ, употребить несправедливо заслуженную любовь къ нему народа.</note>
+        <note xml:id="Russian_1854_cap13-n66" type="translation" target="quarantana/cap13.xml#c13_11639" targetEnd="quarantana/cap13.xml#c13_11714">
+                          Въ народныхъ возмущеніяхъ бываетъ всегда нѣкоторое число людей, которые, по излишеству страстей, или по дѣйствію фанатизма, по преступному намѣренію, или по несчастной склонности къ разрушенію, дѣлаютъ всѣ усилія, чтобы усилить зло. Они подаютъ и одобряютъ самые кровавые совѣты, и раздуваютъ пламя, лишь только увидятъ, что оно начинаетъ гаснуть.</note>
+        <note xml:id="Russian_1854_cap13-n67" type="translation" target="quarantana/cap13.xml#c13_11715" targetEnd="quarantana/cap13.xml#c13_11764">
+                          Всякая жестокость кажется имъ недостаточною; имъ бы хотѣлось, чтобъ бунтъ былъ безмѣрный и безконечный; но какъ для противуположности всегда также есть люди, которые, можетъ быть, съ такимъ же рвеніемъ и настойчивостію дѣйствуют въ намѣреніи дать совершенно противный оборотъ, одни влекомые дружбою и состраданіемъ къ находящимся въ опасности, другіе безъ всякихъ другихъ внушеній, кромѣ благочестиваго отвращенія отъ кровопролитія и жестокостей.</note>
+        <note xml:id="Russian_1854_cap13-n68" type="translation" target="quarantana/cap13.xml#c13_11765" targetEnd="quarantana/cap13.xml#c13_11768">
+                          Да наградитъ ихъ небо!</note>
+        <note xml:id="Russian_1854_cap13-n69" type="translation" target="quarantana/cap13.xml#c13_11769" targetEnd="quarantana/cap13.xml#c13_11791">
+                          Въ каждой изъ этихъ двухъ противныхъ партій, хотя между ними прежде не было никакихъ условій, сходство желаній создаетъ мгновенное согласіе въ дѣйствіяхъ.</note>
+        <note xml:id="Russian_1854_cap13-n70" type="translation" target="quarantana/cap13.xml#c13_11792" targetEnd="quarantana/cap13.xml#c13_11887">
+                          То же, что составляетъ массу, и въ чемъ заключается сущность возмущенія, состоитъ обыкновенно изъ смѣси разнородныхъ людей, которые, при безчисленныхъ степеняхъ и измѣненіяхъ, переходятъ отъ одной крайности къ другой, они то воспаламяются, то обманываются, то увлекаются нѣкоторымъ чувствомъ справедливости, сообразнымъ съ ихъ понятіемъ, то стремятся къ злодѣйству; они готовы на жестокость и на милосердіе, на обожанiе и ненависть, смотря по могущему представиться случаю ощущать то или другое чувство; они ежеминутно алчутъ узнать что-нибудь необыкновенное, и вѣрятъ ему; чувствуютъ потребность кричать, вопить или кому-нибудь рукоплескать. — Да здравствуетъ, или смерть ему! — вотъ слова, которые они охотнѣе всего произносятъ. Если кому удастся увѣрить ихъ, что такой-то человѣкъ не заслуживаетъ смерти, то нѣтъ уже нужды въ большемъ краснорѣчіи, для убѣжденія, что онъ достоинъ быть несенъ въ трiумфѣ.</note>
+        <note xml:id="Russian_1854_cap13-n71" type="translation" target="quarantana/cap13.xml#c13_11888" targetEnd="quarantana/cap13.xml#c13_11974">
+                          Дѣйствующія лица, зрители, орудія, препятствія, они по очередно бываютъ то тѣмъ, то другимъ, смотря по обстоятельствамъ; они готовы молчать, когда никто ихъ не возбуждаетъ; отступиться, когда не достаетъ подстрекателей; разбѣжаться, когда множество единодушныхъ голосовъ, безъ противорѣчія другихъ, скажутъ: « уйдемъ-те!» и возвратятся домой, спрашивая другъ у друга: о чемъ шло дѣло?</note>
+        <note xml:id="Russian_1854_cap13-n72" type="translation" target="quarantana/cap13.xml#c13_11975" targetEnd="quarantana/cap13.xml#c13_12018">
+                          Однако, какъ въ волненіяхъ такого рода эта масса могущественнѣе и, такъ сказать, составляет единственную силу, то каждая изъ обѣихъ дѣйствующихъ партій, употребляетъ всѣ средства, чтобъ привлечь ее на свою сторону, чтобъ овладѣть ею. Это, такъ сказать, двѣ враждебныя души, которыя спорятъ о томъ, кому войти въ огромное тѣло и дать ему движеніе.</note>
+        <note xml:id="Russian_1854_cap13-n73" type="translation" target="quarantana/cap13.xml#c13_12019" targetEnd="quarantana/cap13.xml#c13_12091">
+                          Кто изъ нихъ можетъ лучше распустить слухъ, болѣе удобный къ возмущенію страстей, къ направленію движеній въ пользу того или другаго предпріятія; кто лучше можетъ выдумать новость, способную возбудить негодованiе, или укротить его, произвести надежду или ужасъ, кто угадаетъ крикъ, который, будучи повторряемъ, изъяснилъ бы, показалъ и въ тоже время рѣшилъ желаніе большаго числа въ пользу той или другой партіи.</note>
+        <note xml:id="Russian_1854_cap13-n74" type="translation" target="quarantana/cap13.xml#c13_12092" targetEnd="quarantana/cap13.xml#c13_12162">
+                          Мы вдались въ такую продолжительную болтовню, чтобы сказать, что въ борьбѣ между двумя партіями, оспоривающими вліяніе на народъ, собравшійся передъ домомъ смотрителя, появленіе дона Антонiо Феррера въ минуту доставило значительную выгоду партіи умѣренныхъ, которая очевидно была слабѣе и которая, еслибъ эта помощь нѣсколько опоздала, перестала бы противоборствовать, потому что въ то самое время истощилась и числомъ и силами.</note>
+        <note xml:id="Russian_1854_cap13-n75" type="translation" target="quarantana/cap13.xml#c13_12163" targetEnd="quarantana/cap13.xml#c13_12189">
+                          Этотъ человѣкъ понравился толпѣ придуманной имъ таксою, столь выгодной для потребителей, и геройскимъ сопротивленіемъ всякому противному мнѣнію.</note>
+        <note xml:id="Russian_1854_cap13-n76" type="translation" target="quarantana/cap13.xml#c13_12190" targetEnd="quarantana/cap13.xml#c13_12219">
+                          Сердца, уже расположенныя въ его пользу, были побѣждены неустрашимою довѣренностію старика, который безъ стражи, безъ пышности, смѣло предсталъ предъ возмущенною, и раздраженною чернiю.</note>
+        <note xml:id="Russian_1854_cap13-n77" type="translation" target="quarantana/cap13.xml#c13_12220" targetEnd="quarantana/cap13.xml#c13_12290">
+                          Слухъ, что онъ приѣхалъ взять смотрителя для заключенія его въ тюрьму, произвелъ удивительное дѣйствіе. Жестокость противъ сего несчастнаго еще болѣе увеличилась бы, еслибъ захотѣли пренебречь ею и не сдѣлали никакой уступки; но посредствомъ такого обѣщанія удовлетворить, или, говоря по Медіолански, съ такою костью во рту, бѣшенство нѣсколько укротилось и уступило мѣсто лучшимъ чувствамъ, распространившимся въ большей части толпы.</note>
+        <note xml:id="Russian_1854_cap13-n78" type="translation" target="quarantana/cap13.xml#c13_12291" targetEnd="quarantana/cap13.xml#c13_12369">
+                          Любители спокойствія, ободрившись, поддерживали Феррера различнымъ образомъ: находившіеся близъ него, возбуждая общее одобреніе собственнымъ и стараясь въ то же время раздвигать толпу, чтобы открыть дорогу каретѣ; другіе рукоплеская, повторяя и распространяя его слова, или тѣ, кои казались имъ лучшими, чтобы заставить молчать ожесточенныхъ и такимъ образомъ обращали на себя новую страсть движущейся толпы.</note>
+        <note xml:id="Russian_1854_cap13-n79" type="translation" target="quarantana/cap13.xml#c13_12370" targetEnd="quarantana/cap13.xml#c13_12379">
+                          «Кто не хочетъ, чтобъ кричали да здравствуетъ Ферреръ?</note>
+        <note xml:id="Russian_1854_cap13-n80" type="translation" target="quarantana/cap13.xml#c13_12380" targetEnd="quarantana/cap13.xml#c13_12390">
+                          Развѣ не хотятъ, чтобъ хлѣбъ продавался дешевле?</note>
+        <note xml:id="Russian_1854_cap13-n81" type="translation" target="quarantana/cap13.xml#c13_12391" targetEnd="quarantana/cap13.xml#c13_12419">
+                          Это бездѣльники, которымъ непріятна такая справедливость; а между ними есть такіе, которые кричали сильнѣе другихъ, чтобы спасти смотрители: «Да здравствуетъ Ферреръ!</note>
+        <note xml:id="Russian_1854_cap13-n82" type="translation" target="quarantana/cap13.xml#c13_12420" targetEnd="quarantana/cap13.xml#c13_12422">
+                          Дорогу Ферреру!»</note>
+        <note xml:id="Russian_1854_cap13-n83" type="translation" target="quarantana/cap13.xml#c13_12423" targetEnd="quarantana/cap13.xml#c13_12467">
+                          Число говорившихъ такимъ образомъ ежеминутно увеличивалось, а число противниковъ ихъ уменьшалось. Первые дошли до того, что вырвали у нихъ изъ рукъ гибельные инструменты.</note>
+        <note xml:id="Russian_1854_cap13-n84" type="translation" target="quarantana/cap13.xml#c13_12468" targetEnd="quarantana/cap13.xml#c13_12489">
+                          Сіи послѣдніе пришли въ бѣшенство, грозились, старались соединиться, но жажда кровопролитія изчезла; крики: «Тюрьма, правосудіе, Ферреръ!» заглушали всѣ прочiе.</note>
+        <note xml:id="Russian_1854_cap13-n85" type="translation" target="quarantana/cap13.xml#c13_12490" targetEnd="quarantana/cap13.xml#c13_12551">
+                          Послѣ непродолжительной борьбы, одни были прогнаны; а другіе расположились у дверей, сколько для охраненія ихъ отъ новыхъ бунтовщиковъ, столько и для приготовленія входа Ферреру. Одинъ изъ нихъ, крича сквозь двери (въ которыхъ уже были сдѣланы проломы), извѣщалъ служителей, что подоспѣла помощь, и чтобъ смотритель готовился «отправиться... въ тюрьму. Гмъ! вы понимаете?»</note>
+        <note xml:id="Russian_1854_cap13-n86" type="translation" target="quarantana/cap13.xml#c13_12552" targetEnd="quarantana/cap13.xml#c13_12589">
+                          — «Тотъ ли это Ферреръ, который помогаетъ составлять декреты?» спросилъ у одного изъ своихъ новыхъ сосѣдей Ренцо, вспомнившій въ эту минуту объ vidit Ferrer, которое показалъ ему ученый внизу приказанія уже намъ извѣстнаго.</note>
+        <note xml:id="Russian_1854_cap13-n87" type="translation" target="quarantana/cap13.xml#c13_12590" targetEnd="quarantana/cap13.xml#c13_12596">
+                          — «Онъ самъ, Великій Канцлеръ,» отвѣчали ему.</note>
+        <note xml:id="Russian_1854_cap13-n88" type="translation" target="quarantana/cap13.xml#c13_12597" targetEnd="quarantana/cap13.xml#c13_12601">
+                          — «Точно ли онъ обходительный человѣкъ?</note>
+        <note xml:id="Russian_1854_cap13-n89" type="translation" target="quarantana/cap13.xml#c13_12602" targetEnd="quarantana/cap13.xml#c13_12633">
+                          Онъ болѣе чѣмъ обходительный человѣкъ! Онъ установилъ дешевую цѣну на хлѣбъ: имъ этого не хотѣлось, и вотъ теперь онъ пришелъ отвести въ тюрьму смотрителя, не исполнившаго своей обязанности.»</note>
+        <note xml:id="Russian_1854_cap13-n90" type="translation" target="quarantana/cap13.xml#c13_12634" targetEnd="quarantana/cap13.xml#c13_12642">
+                          Не нужно говорить, что Ренцо былъ тотчасъ на сторонѣ Феррера.</note>
+        <note xml:id="Russian_1854_cap13-n91" type="translation" target="quarantana/cap13.xml#c13_12643" targetEnd="quarantana/cap13.xml#c13_12676">
+                          Онъ немедленно хотѣлъ итти къ нему на встрѣчу. Это было не такъ легко; но съ помощію толчковъ ногами и локтями, которые очень искусно умѣлъ давать въ качествѣ горца, онъ достигъ того, что шелъ подлѣ кареты.</note>
+        <note xml:id="Russian_1854_cap13-n92" type="translation" target="quarantana/cap13.xml#c13_12677" targetEnd="quarantana/cap13.xml#c13_12703">
+                          Она уже проникла в толпу, и въ ту минуту была остановлена препятствіемъ, неизбѣжнымъ и обыкновеннымъ въ шествіяхъ такого рода. —</note>
+        <note xml:id="Russian_1854_cap13-n93" type="translation" target="quarantana/cap13.xml#c13_12704" targetEnd="quarantana/cap13.xml#c13_12750">
+                          Старый Ферреръ выставлялъ то въ одно, то въ другое окно кареты лице свое, исполненное умиленія, кротости и снисхожденiя, лице, которое онъ всегда сберегалъ для тѣхъ дней, въ которые долженъ былъ представляться Филиппу IV, и, которое онъ принужденъ былъ употребить в этомъ случаѣ.</note>
+        <note xml:id="Russian_1854_cap13-n94" type="translation" target="quarantana/cap13.xml#c13_12751" targetEnd="quarantana/cap13.xml#c13_12780">
+                          Онъ также говорилъ, но шумъ и ропотъ столькихъ голосовъ и даже самыя провозглашенія въ его пользу едва дѣлали слышными его слова.</note>
+        <note xml:id="Russian_1854_cap13-n95" type="translation" target="quarantana/cap13.xml#c13_12781" targetEnd="quarantana/cap13.xml#c13_12839">
+                          Онъ помогалъ себѣ тѣлодвиженіями: то подносилъ свои пальцы къ губамъ, чтобы показать привѣтствія, которыя потомъ расточалъ съ обѣихъ сторонъ, въ знакъ благоволенія къ народному доброжелательству, то протягивалъ руки и, выставляя ихъ изъ окна, тихо шевелилъ ими, чтобы испросить нѣсколько дороги; то вѣжливо наклонялъ ихъ, чтобы утишить.</note>
+        <note xml:id="Russian_1854_cap13-n96" type="translation" target="quarantana/cap13.xml#c13_12840" targetEnd="quarantana/cap13.xml#c13_12866">
+                          Когда онъ нѣсколько достигъ этого, ближайшіе къ нему слышали и повторяли его слова: «хлѣбъ будетъ въ изобиліи. Я пріѣхалъ, чтобы васъ удовлетворить; дайте немного мѣста.»</note>
+        <note xml:id="Russian_1854_cap13-n97" type="translation" target="quarantana/cap13.xml#c13_12867" targetEnd="quarantana/cap13.xml#c13_12906">
+                          Потомъ, оглушенный и какъ бы задыхаясь отъ такого шума, отъ вида столькихъ разгоряченныхъ лицъ и отъ множества обращенныхъ на него взоровъ, онъ углубился въ задъ кареты, щеки его надулись и онъ испускалъ глубокій вздохъ, говоря самъ себѣ</note>
+        <note xml:id="Russian_1854_cap13-n98" type="translation" target="quarantana/cap13.xml#c13_12907" targetEnd="quarantana/cap13.xml#c13_12913">
+                          Pormi vida que de gente! (Боже мой! сколько народу!)</note>
+        <note xml:id="Russian_1854_cap13-n99" type="translation" target="quarantana/cap13.xml#c13_12914" targetEnd="quarantana/cap13.xml#c13_12916">
+                          — «Да здравствуетъ Ферреръ!</note>
+        <note xml:id="Russian_1854_cap13-n100" type="translation" target="quarantana/cap13.xml#c13_12917" targetEnd="quarantana/cap13.xml#c13_12923">
+                          Да не боится онъ ничего. — Это честнѣйшій человѣкъ!</note>
+        <note xml:id="Russian_1854_cap13-n101" type="translation" target="quarantana/cap13.xml#c13_12924" targetEnd="quarantana/cap13.xml#c13_12940">
+                          хлѣба! хлѣба! — «Да, хлѣба, хлѣба!» отвѣчалъ Ферреръ. «Вы будете имѣть его въ изобиліи; я вамъ это обѣщаю,» и клалъ руку свою на сердце.</note>
+        <note xml:id="Russian_1854_cap13-n102" type="translation" target="quarantana/cap13.xml#c13_12941" targetEnd="quarantana/cap13.xml#c13_12966">
+                          «Посторонитесь немного,» прибавлялъ онъ потомъ изо всей силы; я ѣду задержать его, чтобы наказать по справедливости, и прибавлялъ тихимъ голосомъ: si esta culpable (если онъ виноватъ).</note>
+        <note xml:id="Russian_1854_cap13-n103" type="translation" target="quarantana/cap13.xml#c13_12967" targetEnd="quarantana/cap13.xml#c13_12980">
+                          Потомъ, наклонясь къ своему кучеру; « Adelante, Pedro, si puedes, (впередъ, Педро, если можешь).</note>
+        <note xml:id="Russian_1854_cap13-n104" type="translation" target="quarantana/cap13.xml#c13_12981" targetEnd="quarantana/cap13.xml#c13_13045">
+                          Кучеръ самъ улыбался черни съ благосклонною приятностію, какъ вельможа, и съ большею осторожностію, сколько возможно тише повертывалъ кнутомъ по обѣимъ сторонамъ, чтобъ нѣсколько освободиться отъ своихъ безпокойныхъ сосѣдей. — «Сдѣлайте милость, господа,» говорилъ онъ, «дайте немного мѣста, чтобъ проѣхать.»</note>
+        <note xml:id="Russian_1854_cap13-n105" type="translation" target="quarantana/cap13.xml#c13_13046" targetEnd="quarantana/cap13.xml#c13_13088">
+                          Между тѣмъ болѣе дѣятельные доброжелатели старались очистить дорогу, выпрашиваемую съ такою учтивостію: одни, становясь впереди лошадей и отдаляя людей, говорили съ ними ласково и отталкивали ихъ бережно... «Дальше, дальше, посторонитесь немного, господа...»</note>
+        <note xml:id="Russian_1854_cap13-n106" type="translation" target="quarantana/cap13.xml#c13_13089" targetEnd="quarantana/cap13.xml#c13_13123">
+                          Другіе также дѣйствовали около дверецъ кареты, чтобъ она могла ѣхать, не давя ногъ и не обезображивая лицъ; случай, который, кромѣ причиненнаго имъ зла, нанесъ бы гибельный ударъ любви къ народу Антонiо Феррера.</note>
+        <note xml:id="Russian_1854_cap13-n107" type="translation" target="quarantana/cap13.xml#c13_13124" targetEnd="quarantana/cap13.xml#c13_13185">
+                          Ренцо, посмотрѣвъ нѣсколько минутъ на почтеннаго старика, смущеннаго горестью, утомленнаго усталостью, но одушевленнаго попеченіемъ, украшеннаго, такъ сказать, надеждою исторгнуть подобнаго себѣ изъ смертельной тоски, Ренцо, говорю я, отложилъ мысль объ уходѣ, рѣшился подать помощь Ферреру и не оставлялъ его до тѣхъ поръ, пока онъ не исполнитъ своего великодушнаго намѣренія.</note>
+        <note xml:id="Russian_1854_cap13-n108" type="translation" target="quarantana/cap13.xml#c13_13186" targetEnd="quarantana/cap13.xml#c13_13203">
+                          Въ слѣдъ за благородною рѣшимостію былъ сдѣланъ приступъ къ тому; бросясь съ другими въ средину толпы, онъ началъ очищать дорогу, и конечно былъ изъ самыхъ дѣятельныхъ.</note>
+        <note xml:id="Russian_1854_cap13-n109" type="translation" target="quarantana/cap13.xml#c13_13204" targetEnd="quarantana/cap13.xml#c13_13223">
+                          Съ помощью усилій открыли дорогу «Проѣзжай,» говорили нѣкоторые кучеру, или удаляясь, или забѣгая впередъ, чтобы раздвигать народъ.</note>
+        <note xml:id="Russian_1854_cap13-n110" type="translation" target="quarantana/cap13.xml#c13_13224" targetEnd="quarantana/cap13.xml#c13_13237">
+                          Adelante presto, con juicio (подавайся скорѣе; но осторожно), говорилъ ему также господинъ его, и карета двинулась.</note>
+        <note xml:id="Russian_1854_cap13-n111" type="translation" target="quarantana/cap13.xml#c13_13238" targetEnd="quarantana/cap13.xml#c13_13301">
+                          Посреди привѣтствій, разсыпаемыхъ на удачу, Ферреръ посылалъ особенные привѣтственные знаки трудящимся для него; большею частію улыбки его были обращены на Ренцо, который по справедливости очень ихъ заслуживалъ и въ этотъ день служилъ Канцлеру лучше отличнѣйшаго изъ его секретарей.</note>
+        <note xml:id="Russian_1854_cap13-n112" type="translation" target="quarantana/cap13.xml#c13_13302" targetEnd="quarantana/cap13.xml#c13_13318">
+                          Изъявленный такъ милостиво знакъ благосклонности очаровалъ молодого горца, который считалъ себя, такъ сказать, связаннымъ дружбою съ Антонiо Ферреромъ.</note>
+        <note xml:id="Russian_1854_cap13-n113" type="translation" target="quarantana/cap13.xml#c13_13319" targetEnd="quarantana/cap13.xml#c13_13335">
+                          Карета, двинувшись съ мѣста, ѣхала своею дорогою съ большею или меньшею медленностію.</note>
+        <note xml:id="Russian_1854_cap13-n114" type="translation" target="quarantana/cap13.xml#c13_13336" targetEnd="quarantana/cap13.xml#c13_13368">
+                          Оставалось проѣхать только маленькій промежутокъ, но употребляемое на то время могло казаться небольшимъ путешествіемъ даже для того, кто не спѣшилъ подобно Канцлеру.</note>
+        <note xml:id="Russian_1854_cap13-n115" type="translation" target="quarantana/cap13.xml#c13_13369" targetEnd="quarantana/cap13.xml#c13_13395">
+                          Народъ тѣснился, двигался впередъ, взадъ и съ обѣихъ сторонъ кареты, какъ волны вокругъ карабля, плывущаго посреди бури.</note>
+        <note xml:id="Russian_1854_cap13-n116" type="translation" target="quarantana/cap13.xml#c13_13396" targetEnd="quarantana/cap13.xml#c13_13408">
+                          Производимый имъ шумъ былъ пронзительнѣе несогласнѣе и оглушительнѣе самаго шума отъ бури.</note>
+        <note xml:id="Russian_1854_cap13-n117" type="translation" target="quarantana/cap13.xml#c13_13409" targetEnd="quarantana/cap13.xml#c13_13533">
+                          Ферреръ, посматривая то въ ту, то въ другую сторону и дѣлая безпрестанныя движенія, старался что-нибудь понять, чтобы приготовить отвѣты, соображая съ настоящими нуждами; онъ бы желалъ, для лучшаго оборота, завести разговоръ съ этою толпою пріятелей; но предпріятіе было трудное, и, можетъ быть, труднѣйшее изъ всѣхъ, какія онъ встрѣчалъ въ теченіе столькихъ лѣтъ занятій его въ высшихъ должностяхъ. Однако иногда нѣсколько словъ, и даже нѣсколько рѣчей, повторяемыхъ толпою на его пути, раздавались, какъ взрывъ бомбы въ огромномъ залпѣ фейерверка. — Онъ съ своей стороны, то ища удовлетворительныхъ отвѣтовъ на эти крики, то крича изо всей силы, что почиталъ болѣе пріятнымъ, или что заставляла произносить какая либо необходимость, разговаривалъ съ ними безпрестанно во всю дорогу.</note>
+        <note xml:id="Russian_1854_cap13-n118" type="translation" target="quarantana/cap13.xml#c13_13534" targetEnd="quarantana/cap13.xml#c13_13537">
+                          «Да, господа, хлѣбъ будетъ въ изобиліи.</note>
+        <note xml:id="Russian_1854_cap13-n119" type="translation" target="quarantana/cap13.xml#c13_13538" targetEnd="quarantana/cap13.xml#c13_13547">
+                          Я его отошлю въ тюрьму; онъ будетъ наказанъ... si esta culpable.</note>
+        <note xml:id="Russian_1854_cap13-n120" type="translation" target="quarantana/cap13.xml#c13_13548" targetEnd="quarantana/cap13.xml#c13_13556">
+                          Да, да, я заставлю продавать хлѣбъ по дешевой цѣнѣ.</note>
+        <note xml:id="Russian_1854_cap13-n121" type="translation" target="quarantana/cap13.xml#c13_13557" targetEnd="quarantana/cap13.xml#c13_13575">
+                          А si es... я поддержу ее, хотѣлъ я сказать... Король, нашъ Государь, не желаетъ, чтобы его вѣрноподанные терпѣли голодъ.</note>
+        <note xml:id="Russian_1854_cap13-n122" type="translation" target="quarantana/cap13.xml#c13_13576" targetEnd="quarantana/cap13.xml#c13_13583">
+                          Охъ, оэ! guardaos! (Берегитесь, чтобъ васъ не ушибли!)</note>
+        <note xml:id="Russian_1854_cap13-n123" type="translation" target="quarantana/cap13.xml#c13_13584" targetEnd="quarantana/cap13.xml#c13_13588">
+                          Pedro, adelante con juicio (Педро! подвигайся впередъ поосторожнѣе!)</note>
+        <note xml:id="Russian_1854_cap13-n124" type="translation" target="quarantana/cap13.xml#c13_13589" targetEnd="quarantana/cap13.xml#c13_13590">
+                          Изобиліе, изобиліе!</note>
+        <note xml:id="Russian_1854_cap13-n125" type="translation" target="quarantana/cap13.xml#c13_13591" targetEnd="quarantana/cap13.xml#c13_13596">
+                          Посторонитесь немного, прошу васъ!</note>
+        <note xml:id="Russian_1854_cap13-n126" type="translation" target="quarantana/cap13.xml#c13_13597" targetEnd="quarantana/cap13.xml#c13_13598">
+                          Хлѣба, хлѣба!</note>
+        <note xml:id="Russian_1854_cap13-n127" type="translation" target="quarantana/cap13.xml#c13_13599" targetEnd="quarantana/cap13.xml#c13_13602">
+                          Въ тюрьму! въ тюрьму!</note>
+        <note xml:id="Russian_1854_cap13-n128" type="translation" target="quarantana/cap13.xml#c13_13603" targetEnd="quarantana/cap13.xml#c13_13628">
+                          Что это?» спросилъ онъ одного, бросившагося къ дверцамъ, чтобы дать ему совѣтъ, подать просьбу или сдѣлать привѣтствіе.</note>
+        <note xml:id="Russian_1854_cap13-n129" type="translation" target="quarantana/cap13.xml#c13_13629" targetEnd="quarantana/cap13.xml#c13_13650">
+                          Но тотъ, прежде нежели что услышалъ, былъ оттолкнутъ сзади другимъ, который увидѣлъ, что его чуть не раздавили колесомъ.</note>
+        <note xml:id="Russian_1854_cap13-n130" type="translation" target="quarantana/cap13.xml#c13_13651" targetEnd="quarantana/cap13.xml#c13_13689">
+                          Посреди безпрестанно увеличивающихся восклицаній, посреди нѣкоторыхъ волненiй со стороны противной, замѣченныхъ въ разныхъ мѣстахъ, но вскорѣ утишенныхъ, Ферреръ, благодаря усиліиямъ своихъ добрыхъ помощниковъ, подъѣхалъ наконецъ къ дому.</note>
+        <note xml:id="Russian_1854_cap13-n131" type="translation" target="quarantana/cap13.xml#c13_13690" targetEnd="quarantana/cap13.xml#c13_13713">
+                          Другiе, бывшие тамъ также съ добрымъ намѣреніемъ, старались въ продолженіи этого времени очистить мѣсто.</note>
+        <note xml:id="Russian_1854_cap13-n132" type="translation" target="quarantana/cap13.xml#c13_13714" targetEnd="quarantana/cap13.xml#c13_13778">
+                          Съ помощію просьбъ, требованій, угрозъ и движеній, съ тѣмъ удвоеніемъ рвенія и силы, какое даетъ надежда близко достигнуть цѣли, они раздѣлили массу на двое, и оба ряда отодвинули назадъ, такъ что между каретою и домомъ осталось пустое пространство.</note>
+        <note xml:id="Russian_1854_cap13-n133" type="translation" target="quarantana/cap13.xml#c13_13779" targetEnd="quarantana/cap13.xml#c13_13836">
+                          Ренцо, то пробивая дорогу, то служа проводникомъ, прибылъ вмѣстѣ съ каретою и занялъ мѣсто въ одной изъ колонъ, служившихъ прикрытiемъ кареты и плотиною отъ волнующагося народа; потомъ, помогая своими крѣпкими плечами удерживать его, онъ могъ все хорошо видѣть.</note>
+        <note xml:id="Russian_1854_cap13-n134" type="translation" target="quarantana/cap13.xml#c13_13837" targetEnd="quarantana/cap13.xml#c13_13901">
+                          Ферреръ вздохнулъ, замѣтивъ свободное мѣсто и запертую, или, лучше сказать, еще не отпертую дверь, потому что петли были почти сорваны со своихъ мѣстъ и половинки, изломанныя во многихъ мѣстахъ, показывали чрезъ широкое отверстіе языкъ скривленнаго и почти вырваннаго замка, который держалъ ихъ вмѣстѣ.</note>
+        <note xml:id="Russian_1854_cap13-n135" type="translation" target="quarantana/cap13.xml#c13_13902" targetEnd="quarantana/cap13.xml#c13_13944">
+                          Одинъ изъ провожатыхъ, ставшій у этого отверстія, кричалъ, чтобъ отворили, между тѣмъ какъ другой бѣжалъ, чтобы отворить дверцы кареты; старикъ, высунувъ голову, подымается и, опираясь правою рукою на руку того добраго человѣка, ставитъ ногу на ступени.</note>
+        <note xml:id="Russian_1854_cap13-n136" type="translation" target="quarantana/cap13.xml#c13_13945" targetEnd="quarantana/cap13.xml#c13_13972">
+                          Толпа двигается со всѣхъ сторонъ, чтобы видѣть его. Любопытство и общее вниманіе водворили на минуту глубочайшее молчаніе.</note>
+        <note xml:id="Russian_1854_cap13-n137" type="translation" target="quarantana/cap13.xml#c13_13973" targetEnd="quarantana/cap13.xml#c13_14016">
+                          Ферреръ, оставленный въ эту минуту на ступени, бросаетъ вокругъ себя взглядъ, кланяется толпѣ и, положивъ лѣвую руку на грудь, говоритъ: «Хлѣбъ и правосудіе:» потомъ горделиво и твердымъ шагомъ онъ сошелъ посреди раздававшихся въ воздухѣ восклицаній.</note>
+        <note xml:id="Russian_1854_cap13-n138" type="translation" target="quarantana/cap13.xml#c13_14017" targetEnd="quarantana/cap13.xml#c13_14039">
+                          Между тѣмъ находившіеся внутри отперли дверь.</note>
+        <note xml:id="Russian_1854_cap13-n139" type="translation" target="quarantana/cap13.xml#c13_14040" targetEnd="quarantana/cap13.xml#c13_14063">
+                          Они сдѣлали отверстіе, чтобы дать проходъ съ такимъ нетерпѣніемъ ожидаемому гостю и старались, чтобы оно было не болѣе, какъ для одной его особы.</note>
+        <note xml:id="Russian_1854_cap13-n140" type="translation" target="quarantana/cap13.xml#c13_14064" targetEnd="quarantana/cap13.xml#c13_14087">
+                          «Скорѣй; скорѣй» говорилъ онъ, «отпирайте, чтобы я могъ войти; а вы, молодцы, удерживайте народъ и не пускайте его итти въ слѣдь за мною, ради самаго Неба!...</note>
+        <note xml:id="Russian_1854_cap13-n141" type="translation" target="quarantana/cap13.xml#c13_14088" targetEnd="quarantana/cap13.xml#c13_14095">
+                          Пропустите меня...</note>
+        <note xml:id="Russian_1854_cap13-n142" type="translation" target="quarantana/cap13.xml#c13_14096" targetEnd="quarantana/cap13.xml#c13_14119">
+                          Ахъ, господа!» говорилъ онъ потомъ домовымъ служителямъ; «посторожнѣй съ этою дверью; дайте мнѣ пройти. Ахъ, бока! позаботьтесь о моихъ бокахъ.</note>
+        <note xml:id="Russian_1854_cap13-n143" type="translation" target="quarantana/cap13.xml#c13_14120" targetEnd="quarantana/cap13.xml#c13_14128">
+                          Теперь заприте... Нѣтъ, нѣтъ, мое платье, мое платье!»</note>
+        <note xml:id="Russian_1854_cap13-n144" type="translation" target="quarantana/cap13.xml#c13_14129" targetEnd="quarantana/cap13.xml#c13_14157">
+                          Оно въ самомъ дѣлѣ осталось бы въ дверяхъ, еслибъ Феррерь не оттащилъ шлейфа, похожаго на хвостъ змѣи, которая, будучи преслѣдуема, спѣшитъ укрыться въ норѣ.</note>
+        <note xml:id="Russian_1854_cap13-n145" type="translation" target="quarantana/cap13.xml#c13_14158" targetEnd="quarantana/cap13.xml#c13_14172">
+                          Однакоже заперли дверь, какъ могли лучше, и укрѣпили ее изнутри подпорками.</note>
+        <note xml:id="Russian_1854_cap13-n146" type="translation" target="quarantana/cap13.xml#c13_14173" targetEnd="quarantana/cap13.xml#c13_14208">
+                          Бывшіе внѣ дома и сдѣлавшіеся тѣлохранителями Феррера, работали плечами, руками и голосомъ, чтобъ удержать пустое пространство, внутренно прося Бога освободить ихъ отъ такого труда.</note>
+        <note xml:id="Russian_1854_cap13-n147" type="translation" target="quarantana/cap13.xml#c13_14209" targetEnd="quarantana/cap13.xml#c13_14235">
+                          «Скорѣй, скорѣй!» говорилъ Канцлеръ служителямъ дома, собравшимся на галлереѣ и кричавшимъ ему: «Да благословитъ васъ Богъ, ваше превосходительство!</note>
+        <note xml:id="Russian_1854_cap13-n148" type="translation" target="quarantana/cap13.xml#c13_14236" targetEnd="quarantana/cap13.xml#c13_14242">
+                          Да наградитъ васъ Господь!» — «Скорѣй, скорѣй!» повторялъ Ферреръ, «гдѣ этотъ честный человѣкъ?»</note>
+        <note xml:id="Russian_1854_cap13-n149" type="translation" target="quarantana/cap13.xml#c13_14243" targetEnd="quarantana/cap13.xml#c13_14260">
+                          Смотритель сходилъ съ лѣстницы, блѣдный, какъ смерть.</note>
+        <note xml:id="Russian_1854_cap13-n150" type="translation" target="quarantana/cap13.xml#c13_14261" targetEnd="quarantana/cap13.xml#c13_14304">
+                          Его тащили и несли другіе служители. — Едва онъ завидѣлъ своего избавителя, какъ испустилъ глубокiй вздохъ; пульсъ его началъ опять биться; ноги получили новую силу и на щекахъ показался румянецъ. На голосъ Феррера онъ поспѣшилъ подойти къ нему, говоря: «Я въ рукахъ Бога и въ вашихъ.</note>
+        <note xml:id="Russian_1854_cap13-n151" type="translation" target="quarantana/cap13.xml#c13_14305" targetEnd="quarantana/cap13.xml#c13_14309">
+                          Но какъ отсюда выйти?</note>
+        <note xml:id="Russian_1854_cap13-n152" type="translation" target="quarantana/cap13.xml#c13_14310" targetEnd="quarantana/cap13.xml#c13_14318">
+                          Я окруженъ людьми, требующими моей смерти.»</note>
+        <note xml:id="Russian_1854_cap13-n153" type="translation" target="quarantana/cap13.xml#c13_14319" targetEnd="quarantana/cap13.xml#c13_14335">
+                          Venga con migo usted (*) и ободритесь. «Моя карета у подъѣзда; скорѣй, скорѣй!»</note>
+        <note xml:id="Russian_1854_cap13-n154" type="translation" target="quarantana/cap13.xml#c13_14336" targetEnd="quarantana/cap13.xml#c13_14359">
+                          Онъ беретъ его за руки и ведетъ къ дверямъ, ободряя, но мысленно говоритъ: A gui esta el busilis!</note>
+        <note xml:id="Russian_1854_cap13-n155" type="translation" target="quarantana/cap13.xml#c13_14360" targetEnd="quarantana/cap13.xml#c13_14362">
+                          Dios nos valga (**).</note>
+        <note xml:id="Russian_1854_cap13-n156" type="translation" target="quarantana/cap13.xml#c13_14363" targetEnd="quarantana/cap13.xml#c13_14387">
+                          Дверь отворяется; Ферреръ выходитъ первый, а тотъ за нимъ слѣдуетъ, корчась, держась за его робу, какъ дитя за платье своей матери.</note>
+        <note xml:id="Russian_1854_cap13-n157" type="translation" target="quarantana/cap13.xml#c13_14388" targetEnd="quarantana/cap13.xml#c13_14439">
+                          Тѣ, которые охраняли мѣсто, вдругъ поднимаютъ руки и шляпы, дѣлаютъ какъ бы облако, чтобъ скрыть смотрителя отъ опасныхъ взглядовъ черни. Онъ первый входитъ въ карету и прижимается въ уголъ; потомъ садится Ферреръ, и дверца затворяется.</note>
+        <note xml:id="Russian_1854_cap13-n158" type="translation" target="quarantana/cap13.xml#c13_14440" targetEnd="quarantana/cap13.xml#c13_14456">
+                          Народъ, видя это мелькомъ, угадываетъ, что случилось, и изъявляетъ свое удовольствіе рукоплесканіями и бранью.</note>
+        <note xml:id="Russian_1854_cap13-n159" type="translation" target="quarantana/cap13.xml#c13_14457" targetEnd="quarantana/cap13.xml#c13_14531">
+                          Остальная часть путешествія могла бы казаться труднѣйшею и опаснѣйшею; но народъ достаточно уже изъявилъ желаніе, чтобы смотрителя отвезти въ тюрьму, и въ то время, когда карета остановилась, многіе изъ споспѣшествовавшихъ пріѣзду Феррера, такъ отлично дѣйствовали для приготовленія и поддержанія дороги посреди толпы, что карета на этотъ разъ могла ѣхать гораздо скорѣе и безпрепятственнѣе.</note>
+        <note xml:id="Russian_1854_cap13-n160" type="translation" target="quarantana/cap13.xml#c13_14532" targetEnd="quarantana/cap13.xml#c13_14551">
+                          По мѣрѣ ея удаленія, бывшія по сторонамъ двѣ массы, соединялись и сопровождали ее.</note>
+        <note xml:id="Russian_1854_cap13-n161" type="translation" target="quarantana/cap13.xml#c13_14552" targetEnd="quarantana/cap13.xml#c13_14581">
+                          Ферреръ только что сѣлъ, какъ наклонился предупредить смотрителя, чтобы онъ держался скрытнѣе въ глубинѣ кареты и не показывался; но въ этомъ увѣдомленіи не было надобности.</note>
+        <note xml:id="Russian_1854_cap13-n162" type="translation" target="quarantana/cap13.xml#c13_14582" targetEnd="quarantana/cap13.xml#c13_14595">
+                          Самъ же онъ, напротивъ, долженъ былъ сидѣть открыто, чтобы привлечь на себя все вниманіе народа и занять его.</note>
+        <note xml:id="Russian_1854_cap13-n163" type="translation" target="quarantana/cap13.xml#c13_14596" targetEnd="quarantana/cap13.xml#c13_14645">
+                          Въ продолженіе всего этого пути, какъ и перваго, онъ говорилъ своимъ волнующимся слушателямъ рѣчь продолжительную, но несвязную, прерывая ее ежеминутно Испанскими фразами, бѣгло скользившими мимо ушей несчастнаго его товарища.</note>
+        <note xml:id="Russian_1854_cap13-n164" type="translation" target="quarantana/cap13.xml#c13_14646" targetEnd="quarantana/cap13.xml#c13_14658">
+                          «Да, господа, хлѣба и правосудія. Въ замокъ, въ темницу, подъ моимъ надзоромъ.</note>
+        <note xml:id="Russian_1854_cap13-n165" type="omission" target="quarantana/cap13.xml#c13_14659" targetEnd="quarantana/cap13.xml#c13_14662" />
+        <note xml:id="Russian_1854_cap13-n166" type="translation" target="quarantana/cap13.xml#c13_14663" targetEnd="quarantana/cap13.xml#c13_14666">
+                          Нѣтъ, нѣтъ, онъ не уйдетъ!</note>
+        <note xml:id="Russian_1854_cap13-n167" type="translation" target="quarantana/cap13.xml#c13_14667" targetEnd="quarantana/cap13.xml#c13_14668">
+                          Por ablandarlos (*).</note>
+        <note xml:id="Russian_1854_cap13-n168" type="translation" target="quarantana/cap13.xml#c13_14669" targetEnd="quarantana/cap13.xml#c13_14675">
+                          Это очень справедливо. Увидятъ, разсмотрятъ.</note>
+        <note xml:id="Russian_1854_cap13-n169" type="translation" target="quarantana/cap13.xml#c13_14676" targetEnd="quarantana/cap13.xml#c13_14681">
+                          И я также, и я, господа, желаю вамъ добра.</note>
+        <note xml:id="Russian_1854_cap13-n170" type="translation" target="quarantana/cap13.xml#c13_14682" targetEnd="quarantana/cap13.xml#c13_14684">
+                          Наказаніе строжайшее.</note>
+        <note xml:id="Russian_1854_cap13-n171" type="translation" target="quarantana/cap13.xml#c13_14685" targetEnd="quarantana/cap13.xml#c13_14700">
+                          Esto lo digo por su bien (**) Такса справедливая, умѣренная и наказаніе барышникамъ.</note>
+        <note xml:id="Russian_1854_cap13-n172" type="translation" target="quarantana/cap13.xml#c13_14701" targetEnd="quarantana/cap13.xml#c13_14706">
+                          — Пожалуйте, посторонитесь.</note>
+        <note xml:id="Russian_1854_cap13-n173" type="translation" target="quarantana/cap13.xml#c13_14707" targetEnd="quarantana/cap13.xml#c13_14724">
+                          Да, да, я добрый человѣкъ, я другъ народа. — Онъ будетъ наказанъ, это правда; онъ бездѣльникъ, злодѣй.</note>
+        <note xml:id="Russian_1854_cap13-n174" type="translation" target="quarantana/cap13.xml#c13_14725" targetEnd="quarantana/cap13.xml#c13_14726">
+                          Perdone usted (***).</note>
+        <note xml:id="Russian_1854_cap13-n175" type="translation" target="quarantana/cap13.xml#c13_14727" targetEnd="quarantana/cap13.xml#c13_14735">
+                          Ему будетъ худо, худо... si esta culpable (***).</note>
+        <note xml:id="Russian_1854_cap13-n176" type="translation" target="quarantana/cap13.xml#c13_14736" targetEnd="quarantana/cap13.xml#c13_14743">
+                          Да, я заставлю хлѣбниковъ поступать справедливо.</note>
+        <note xml:id="Russian_1854_cap13-n177" type="translation" target="quarantana/cap13.xml#c13_14744" targetEnd="quarantana/cap13.xml#c13_14754">
+                          Да здравствуетъ Король и добрые Медіоланцы, его вѣрноподданные!</note>
+        <note xml:id="Russian_1854_cap13-n178" type="translation" target="quarantana/cap13.xml#c13_14755" targetEnd="quarantana/cap13.xml#c13_14758">
+                          Будьте спокойны, будьте спокойны.</note>
+        <note xml:id="Russian_1854_cap13-n179" type="translation" target="quarantana/cap13.xml#c13_14759" targetEnd="quarantana/cap13.xml#c13_14763">
+                          Animo! estamor ya guasiafuera» (*****).</note>
+        <note xml:id="Russian_1854_cap13-n180" type="translation" target="quarantana/cap13.xml#c13_14764" targetEnd="quarantana/cap13.xml#c13_14780">
+                          Они дѣйствительно проѣхали большое пространство и были почти уже на просторѣ.</note>
+        <note xml:id="Russian_1854_cap13-n181" type="translation" target="quarantana/cap13.xml#c13_14781" targetEnd="quarantana/cap13.xml#c13_14835">
+                          Тамъ, пока Ферреръ нѣсколько успокоивался, онъ увидѣлъ запоздалую помощь, Испанских солдатъ, которые хотя пришли и къ концу, но не были вовсе безполезны, потому что вмѣстѣ съ нѣкоторыми гражданами они разогнали уменьшившуюся, народную толпу и дали каретѣ свободно проѣхать.</note>
+        <note xml:id="Russian_1854_cap13-n182" type="translation" target="quarantana/cap13.xml#c13_14836" targetEnd="quarantana/cap13.xml#c13_14899">
+                          При приближеніи кареты они построились стѣною съ обѣихъ сторонъ и отдали честь Великому Канцлеру, который отвѣчалъ имъ поклономъ и сказалъ подошедшему къ нему офицеру, сопровождая свою рѣчь знакомъ правой руки: Beso a usted las manos (*****) слова, которыя офицеръ принялъ за то, что они дѣйствительно означали: Вы кстати оказали мнѣ помощь.</note>
+        <note xml:id="Russian_1854_cap13-n183" type="translation" target="quarantana/cap13.xml#c13_14900" targetEnd="quarantana/cap13.xml#c13_14910">
+                          Въ отвѣтъ онъ поклонился въ другой разъ и пожалъ плечами.</note>
+        <note xml:id="Russian_1854_cap13-n184" type="translation" target="quarantana/cap13.xml#c13_14911" targetEnd="quarantana/cap13.xml#c13_14945">
+                          Тутъ, по справедливости, надобно было сказать: Cedant arma togae; но умъ Феррера не былъ въ эту минуту расположенъ къ остротамъ; впрочемъ слова его были бы потеряны, потому что офицеръ не зналъ по латыни.</note>
+        <note xml:id="Russian_1854_cap13-n185" type="translation" target="quarantana/cap13.xml#c13_14946" targetEnd="quarantana/cap13.xml#c13_14967">
+                          Но Педро, проѣзжая посреди двухъ вооруженныхъ рядовъ, посреди поднятыхъ вверхъ, въ знакъ уваженiя, ружей, почувствовалъ возродившуюся въ немъ всю прежнюю храбрость.</note>
+        <note xml:id="Russian_1854_cap13-n186" type="translation" target="quarantana/cap13.xml#c13_14968" targetEnd="quarantana/cap13.xml#c13_15011">
+                          Онъ тотчасъ вышелъ изъ своего унынія, вспомнилъ, кто онъ, кого везъ, и крича: «Берегись, берегись!» безъ всякой церемоніи къ людямъ, уже недовольно малочисленнымъ для такого съ нимъ обхожденія, и погоняя кнутомъ лошадей, ѣхалъ прямо къ замку.</note>
+        <note xml:id="Russian_1854_cap13-n187" type="translation" target="quarantana/cap13.xml#c13_15012" targetEnd="quarantana/cap13.xml#c13_15055">
+                          «Levantese, levantese; estamos afueras,» (*) говорилъ Ферреръ смотрителю, который, успокоясь прекращенiемъ криковъ, быстрымъ движеніемъ кареты и сими словами приподнялся изъ угла, и немного очувствовавшись, не зналъ, какъ благодарить своего избавителя.</note>
+        <note xml:id="Russian_1854_cap13-n188" type="translation" target="quarantana/cap13.xml#c13_15056" targetEnd="quarantana/cap13.xml#c13_15099">
+                          Тотъ, пожалѣвъ съ нимъ объ опасности, отъ которой онъ ускользнулъ, и поздравивъ его съ освобожденіемъ, вскричалъ: «que dira de esto Su Excelencca, (**) и такъ уже негодующій на этого проклятого Казаля, который не хочетъ покориться.</note>
+        <note xml:id="Russian_1854_cap13-n189" type="translation" target="quarantana/cap13.xml#c13_15100" targetEnd="quarantana/cap13.xml#c13_15114">
+                          Que dira el conde-duque, (**) который хмуритъ брови, когда листокъ шумить болѣе обыкновеннаго?</note>
+        <note xml:id="Russian_1854_cap13-n190" type="translation" target="quarantana/cap13.xml#c13_15115" targetEnd="quarantana/cap13.xml#c13_15133">
+                          Que dira el Rey nuestro Senor, (****) когда онъ узнаетъ что-нибудь объ такой ужасной суматохѣ?</note>
+        <note xml:id="Russian_1854_cap13-n191" type="translation" target="quarantana/cap13.xml#c13_15134" targetEnd="quarantana/cap13.xml#c13_15137">
+                          И потомъ когда все это кончится?</note>
+        <note xml:id="Russian_1854_cap13-n192" type="translation" target="quarantana/cap13.xml#c13_15138" targetEnd="quarantana/cap13.xml#c13_15140">
+                          Dios lo sabe (****). —</note>
+        <note xml:id="Russian_1854_cap13-n193" type="translation" target="quarantana/cap13.xml#c13_15141" targetEnd="quarantana/cap13.xml#c13_15183">
+                          «Ахъ! Что касается до меня, сказалъ смотритель, «я болѣе ни во что не хочу вмѣшиваться и умываю себѣ руки. Я сдаю мою должность на руки вашему превосходительству и пойду жить въ пустынѣ, на горѣ, какъ монахъ, далеко, далеко отъ этой звѣрской черни.»</note>
+        <note xml:id="Russian_1854_cap13-n194" type="translation" target="quarantana/cap13.xml#c13_15184" targetEnd="quarantana/cap13.xml#c13_15201">
+                          — «Usted (*****) дѣлайте какъ будетъ лучше por el servicio de Su Masestad,» съ важностію отвѣчалъ Великій Канцлеръ.</note>
+        <note xml:id="Russian_1854_cap13-n195" type="translation" target="quarantana/cap13.xml#c13_15202" targetEnd="quarantana/cap13.xml#c13_15220">
+                          — «Его Величество не пожалаетъ моей смерти,» возразилъ смотритель; «я хочу удалиться въ пещеру, въ пещеру, подалѣе отъ этихъ злыхъ людей.»</note>
+        <note xml:id="Russian_1854_cap13-n196" type="translation" target="quarantana/cap13.xml#c13_15221" targetEnd="quarantana/cap13.xml#c13_15250">
+                          Мы не можемъ сообщить читателю о послѣдствіи этого намѣренія, потому что авторъ нашъ, проводивъ бѣдняка до самаго замка, ничего болѣе не говоритъ о немъ.</note>
+      </div>
+    </body>
+  </text>
+</TEI>

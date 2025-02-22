@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Commenti da Обрученные : Медиолан. быль XVIII [!XVII] столетия, найден. и передел. Александром Манзони</title>
+        <author>Alessandro Manzoni</author>
+        <respStmt>
+          <resp>Annotazione digitale</resp>
+          <persName xml:id="Maria_Levchenko">Maria Levchenko</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Leggo Manzoni. Quaranta commenti alla Quarantana</publisher>
+        <pubPlace>Università di Bologna "Alma mater studiorum"</pubPlace>
+        <date>2025</date>
+        <availability>
+          <p>Questa risorsa digitale è liberamente accessibile per uso personale o scientifico. Ogni uso commerciale è vietato.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Alessandro Manzoni</author>
+          <title>Обрученные : Медиолан. быль XVIII [!XVII] столетия, найден. и передел. Александром Манзони</title>
+          <pubPlace>Москва</pubPlace>
+          <publisher>Библиотека романов, повестей, путешествий и записок, изд. Н.Н. Улитиным</publisher>
+          <date>1854</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <listChange>
+        <change who="Maria_Levchenko" when="2025-02-18">Annotazione digitale</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="Russian_1854.xml_cap10">
+        <note xml:id="Russian_1854_cap10-n1" type="translation" target="quarantana/cap10.xml#c10_10001" targetEnd="quarantana/cap10.xml#c10_10055">
+                          Есть минуты, въ которыя душа, особенно молодыхъ людей, расположена такъ, что при малѣйшей настойчивости можно побудить ее на все, что только имѣетъ видъ добраго дѣла или благороднаго пожертвованія. Точно такъ едва распустившійся цвѣтокъ нѣжно колышется на своемъ стебелькѣ, испуская запахъ свой первымъ зефирамъ, которые на него повѣютъ.</note>
+        <note xml:id="Russian_1854_cap10-n2" type="translation" target="quarantana/cap10.xml#c10_10056" targetEnd="quarantana/cap10.xml#c10_10086">
+                          Минуты эти, которымъ люди должны удивляться съ благоговѣйнымъ почтеніемъ, суть именно тѣ, кои завистливая хитрость подстерегаетъ и уловляетъ въ сѣти, чтобы оковать волю, которая оставила всѣ предосторожности.</note>
+        <note xml:id="Russian_1854_cap10-n3" type="translation" target="quarantana/cap10.xml#c10_10087" targetEnd="quarantana/cap10.xml#c10_10105">
+                          При чтеніи этого письма, князь *** тотчасъ увидѣлъ исполненіе прежнихъ и постоянныхъ своихъ желаній.</note>
+        <note xml:id="Russian_1854_cap10-n4" type="translation" target="quarantana/cap10.xml#c10_10106" targetEnd="quarantana/cap10.xml#c10_10124">
+                          Онъ велѣлъ позвать Гертруду, и въ ожиданіи ея рѣшился ковать железо, пока оно горячо.</note>
+        <note xml:id="Russian_1854_cap10-n5" type="translation" target="quarantana/cap10.xml#c10_10125" targetEnd="quarantana/cap10.xml#c10_10147">
+                          Гертруда пришла, и не поднимая глазъ на отца своего, бросилась на колѣни и едва имѣла духъ сказать ему: «Простите меня, батюшка!»</note>
+        <note xml:id="Russian_1854_cap10-n6" type="translation" target="quarantana/cap10.xml#c10_10148" targetEnd="quarantana/cap10.xml#c10_10195">
+                          Онъ подалъ знакъ, чтобы она встала и суровымъ голосомъ отвѣчалъ, что не довольно желать и просить прощенія; что это дѣло слишкомъ легкое и естественное для того, кто провинился и боится наказанія; словомъ, что нужно было заслужить прощеніе.</note>
+        <note xml:id="Russian_1854_cap10-n7" type="translation" target="quarantana/cap10.xml#c10_10196" targetEnd="quarantana/cap10.xml#c10_10204">
+                          Трепещущая Гертруда почтительно спросила, что ей дѣлать.</note>
+        <note xml:id="Russian_1854_cap10-n8" type="translation" target="quarantana/cap10.xml#c10_10205" targetEnd="quarantana/cap10.xml#c10_10251">
+                          На это князь (прискорбно называть его въ эту минуту отцомъ) прямо не отвѣчалъ; но распространился о проступкѣ Гертруды, и слова его произвели на бѣдную дѣвушку тоже дѣйствіе, какое производить грубая рука на рану.</note>
+        <note xml:id="Russian_1854_cap10-n9" type="translation" target="quarantana/cap10.xml#c10_10252" targetEnd="quarantana/cap10.xml#c10_10307">
+                          Онъ продолжалъ, говоря, что если бы даже и захотѣлъ вывозить ее въ свѣтъ, то она сама положила тому большую преграду, потому что подобный ему благородный кавалеръ никогда не рѣшится предложить честному человѣку руку молодой книжны, которая подала о себѣ такое дурное мнѣніе. Несчастная виновница была совсѣмъ уничтожена.</note>
+        <note xml:id="Russian_1854_cap10-n10" type="translation" target="quarantana/cap10.xml#c10_10308" targetEnd="quarantana/cap10.xml#c10_10373">
+                          Тогда князь, смягчая постепенно голосъ свой, продолжалъ говорить, что на всякую вину есть лекарство и милосердіе; что ея вина была изъ числа тѣхъ, для которыхъ есть лекарство самое ясное, и что она изъ этого приключенія должна была узнать, что жизнь свѣтская исполнена для нея опасностей.</note>
+        <note xml:id="Russian_1854_cap10-n11" type="translation" target="quarantana/cap10.xml#c10_10374" targetEnd="quarantana/cap10.xml#c10_10392">
+                          «Ахъ! конечно!» вскричала Гертруда, объятая страхомъ, приготовленная стыдомъ и исполненная минутной нѣжности.</note>
+        <note xml:id="Russian_1854_cap10-n12" type="translation" target="quarantana/cap10.xml#c10_10393" targetEnd="quarantana/cap10.xml#c10_10401">
+                          «Такъ ты чувствуешь это?» возразилъ князь.</note>
+        <note xml:id="Russian_1854_cap10-n13" type="translation" target="quarantana/cap10.xml#c10_10402" targetEnd="quarantana/cap10.xml#c10_10411">
+                          «Хорошо, перестанемъ говорить о прошедшемъ; все позабыто.</note>
+        <note xml:id="Russian_1854_cap10-n14" type="translation" target="quarantana/cap10.xml#c10_10412" targetEnd="quarantana/cap10.xml#c10_10460">
+                          Ты выбрала единственное средство, которое тебѣ оставалось; но какъ приняла его добровольно и охотно, то мнѣ уже остается сдѣлать его тебѣ прiятнымъ и доставить всѣ выгоды и достоинства;</note>
+        <note xml:id="Russian_1854_cap10-n15" type="translation" target="quarantana/cap10.xml#c10_10461" targetEnd="quarantana/cap10.xml#c10_10465">
+                          я самъ обо всемъ постараюсь.»</note>
+        <note xml:id="Russian_1854_cap10-n16" type="translation" target="quarantana/cap10.xml#c10_10466" targetEnd="quarantana/cap10.xml#c10_10486">
+                          Съ этимъ словомъ онъ позвонилъ въ колокольчикъ, и сказалъ вошедшему человѣку: «Попроси теперь же сюда княгиню и молодого князя.»</note>
+        <note xml:id="Russian_1854_cap10-n17" type="translation" target="quarantana/cap10.xml#c10_10487" targetEnd="quarantana/cap10.xml#c10_10509">
+                          Потомъ продолжалъ къ Гертрудѣ: «я хочу, чтобы они пришли раздѣлить мое утѣшеніе; чтобы съ сей же самой минуты обходились съ тобой, какъ должно.</note>
+        <note xml:id="Russian_1854_cap10-n18" type="translation" target="quarantana/cap10.xml#c10_10510" targetEnd="quarantana/cap10.xml#c10_10525">
+                          Ты по сіе время испытала только отцовскую строгость; но теперь почувствуешь всю его нѣжность.»</note>
+        <note xml:id="Russian_1854_cap10-n19" type="translation" target="quarantana/cap10.xml#c10_10526" targetEnd="quarantana/cap10.xml#c10_10532">
+                          При этихъ словахъ Гертруда остолбенѣла.</note>
+        <note xml:id="Russian_1854_cap10-n20" type="translation" target="quarantana/cap10.xml#c10_10533" targetEnd="quarantana/cap10.xml#c10_10587">
+                          То хотѣла она растолковать себѣ, какимъ образомъ вырвавшееся да, такъ много означало, то искала средствъ возвратить или переиначить смыслъ его. Но князь былъ въ такой полной увѣренности, такъ радъ и такъ добръ, что Гертруда не посмѣла произнести ни одного слова, которое могло бы это разстроить.</note>
+        <note xml:id="Russian_1854_cap10-n21" type="translation" target="quarantana/cap10.xml#c10_10588" targetEnd="quarantana/cap10.xml#c10_10640">
+                          Оба позванныя лица не заставили себя ждать долго, и увидѣвъ Гертруду, взглянули на нее сомнительно и съ удивленіемъ; но князь съ самодовольнымъ и ласковымъ видомъ, который и ихъ заставилъ принять такой же, сказалъ: «Вотъ кающаяся грѣшница, и я желаю, чтобы эти слова были послѣднія изъ тѣхъ, которыя возбуждаютъ печальныя воспоминанія.</note>
+        <note xml:id="Russian_1854_cap10-n22" type="translation" target="quarantana/cap10.xml#c10_10641" targetEnd="quarantana/cap10.xml#c10_10667">
+                          Гертруда уже болѣе не имѣетъ нужды въ совѣтахъ: чего мы желали для ея блага, она сама добровольно проситъ того; она рѣшилась, она сказала мнѣ, что рѣшилась....»</note>
+        <note xml:id="Russian_1854_cap10-n23" type="translation" target="quarantana/cap10.xml#c10_10668" targetEnd="quarantana/cap10.xml#c10_10696">
+                          При этихъ словахъ, Гертруда подняла на отца боязливый и вмѣстѣ умоляющій взоръ, какъ бы прося его остановиться; но онъ чистосердечно продолжалъ: «Она рѣшилась сдѣлаться бѣлицей.»</note>
+        <note xml:id="Russian_1854_cap10-n24" type="translation" target="quarantana/cap10.xml#c10_10697" targetEnd="quarantana/cap10.xml#c10_10727">
+                          «Хорошо! Очень хорошо!» вскричали въ одно время мать съ сыномъ, и одинъ послѣ другаго стали обнимать Гертруду, принимавшую ласки эти со слезами, которыя сочли за слезы радости.</note>
+        <note xml:id="Russian_1854_cap10-n25" type="translation" target="quarantana/cap10.xml#c10_10728" targetEnd="quarantana/cap10.xml#c10_10746">
+                          Князь началъ подробно разсказывать свои предположенія, чтобы сдѣлать дочь, сколько возможно, счастливѣе и блистательнѣе.</note>
+        <note xml:id="Russian_1854_cap10-n26" type="translation" target="quarantana/cap10.xml#c10_10747" targetEnd="quarantana/cap10.xml#c10_10786">
+                          Онъ говорилъ объ отличiи, которымъ она будетъ пользоваться въ монастырѣ и во всей странѣ; что она будетъ тамъ почитаема, какъ княгиня, какъ представительница фамиліи; что лишь только достигнетъ совершеннаго возраста, как будетъ облечена въ первое достоинство; а до того времени будетъ подвластна только по имени.</note>
+        <note xml:id="Russian_1854_cap10-n27" type="translation" target="quarantana/cap10.xml#c10_10787" targetEnd="quarantana/cap10.xml#c10_10807">
+                          Княгиня и молодой князь каждую минуту возобновляли свои поздравленія и ласки. Гертруда была какъ будто во снѣ.</note>
+        <note xml:id="Russian_1854_cap10-n28" type="translation" target="quarantana/cap10.xml#c10_10808" targetEnd="quarantana/cap10.xml#c10_10825">
+                          «Надобно назначить день, чтобы ѣхать въ Монцу, просить игуменью,» сказалъ князь.</note>
+        <note xml:id="Russian_1854_cap10-n29" type="translation" target="quarantana/cap10.xml#c10_10826" targetEnd="quarantana/cap10.xml#c10_10828">
+                          «Какъ она будетъ довольна!</note>
+        <note xml:id="Russian_1854_cap10-n30" type="translation" target="quarantana/cap10.xml#c10_10829" targetEnd="quarantana/cap10.xml#c10_10842">
+                          Весь монастырь, я васъ увѣряю, будетъ умѣть оцѣнить ту честь, которую дѣлаетъ ему Гертруда.</note>
+        <note xml:id="Russian_1854_cap10-n31" type="translation" target="quarantana/cap10.xml#c10_10843" targetEnd="quarantana/cap10.xml#c10_10849">
+                          Но для чего намъ не ѣхать сегодня же?</note>
+        <note xml:id="Russian_1854_cap10-n32" type="translation" target="quarantana/cap10.xml#c10_10850" targetEnd="quarantana/cap10.xml#c10_10855">
+                          Гертруда охотно прогуляется и подышеть свѣжимъ воздухомъ.»</note>
+        <note xml:id="Russian_1854_cap10-n33" type="translation" target="quarantana/cap10.xml#c10_10856" targetEnd="quarantana/cap10.xml#c10_10860">
+                          «Поѣдемъ,» сказала княгиня.</note>
+        <note xml:id="Russian_1854_cap10-n34" type="translation" target="quarantana/cap10.xml#c10_10861" targetEnd="quarantana/cap10.xml#c10_10868">
+                          «Я велю все приготовить,» прибавилъ молодой князь.</note>
+        <note xml:id="Russian_1854_cap10-n35" type="translation" target="quarantana/cap10.xml#c10_10869" targetEnd="quarantana/cap10.xml#c10_10872">
+                          «Но...» произнесла почтительно Гертруда.</note>
+        <note xml:id="Russian_1854_cap10-n36" type="translation" target="quarantana/cap10.xml#c10_10873" targetEnd="quarantana/cap10.xml#c10_10895">
+                          «Тише, тише!» возразилъ князь; «предоставимъ это рѣшить ей самой. Можетъ быть, сегодня она не чувствуетъ себя довольно къ тому расположенною, такъ лучше подождать до завтра.</note>
+        <note xml:id="Russian_1854_cap10-n37" type="translation" target="quarantana/cap10.xml#c10_10896" targetEnd="quarantana/cap10.xml#c10_10903">
+                          Скажи, какъ ты хочешь, чтобы мы ѣхали сегодня или завтра?»</note>
+        <note xml:id="Russian_1854_cap10-n38" type="translation" target="quarantana/cap10.xml#c10_10904" targetEnd="quarantana/cap10.xml#c10_10922">
+                          «Завтра,» отвѣчала слабымъ голосомъ Гертруда, думая достигнуть чего-нибудь, выигрывая немного времени.</note>
+        <note xml:id="Russian_1854_cap10-n39" type="translation" target="quarantana/cap10.xml#c10_10923" targetEnd="quarantana/cap10.xml#c10_10934">
+                          «Завтра,» произнесъ князь торжественнымъ голосомъ. «Она рѣшила, чтобы ѣхать «завтра.</note>
+        <note xml:id="Russian_1854_cap10-n40" type="translation" target="quarantana/cap10.xml#c10_10935" targetEnd="quarantana/cap10.xml#c10_10972">
+                          Между тѣмъ я съѣзжу къ викарію монастыря попросить, чтобы онъ назначилъ мнѣ день для испытанія» Князь въ самомъ дѣлѣ вышелъ и поѣхалъ къ викарію (это была не малая честь), который обѣщалъ быть у него на другой день.</note>
+        <note xml:id="Russian_1854_cap10-n41" type="translation" target="quarantana/cap10.xml#c10_10973" targetEnd="quarantana/cap10.xml#c10_10986">
+                          Въ продолженіе дня Гертруда не имѣла ни минуты спокойствія.</note>
+        <note xml:id="Russian_1854_cap10-n42" type="translation" target="quarantana/cap10.xml#c10_10987" targetEnd="quarantana/cap10.xml#c10_11040">
+                          Она желала бы отдохнуть послѣ такихъ волненій, привести въ ясность свои мысли, отдать самой себѣ отчетъ въ томъ, что сдѣлала, и что ей остается дѣлать; узнать, чего она хочетъ; замедлить нѣсколько исполненіемъ предприятія, которое едва лишь началось, и уже шло съ такою быстротою. Но не было къ тому никакихъ средствъ.</note>
+        <note xml:id="Russian_1854_cap10-n43" type="translation" target="quarantana/cap10.xml#c10_11041" targetEnd="quarantana/cap10.xml#c10_11049">
+                          Занятія смѣнялись безпрерывно, перемѣшивались однѣ съ другими.</note>
+        <note xml:id="Russian_1854_cap10-n44" type="translation" target="quarantana/cap10.xml#c10_11050" targetEnd="quarantana/cap10.xml#c10_11075">
+                          Послѣ этого тяжкаго разговора, ее повели въ будуаръ княгини, гдѣ, подъ ея надзоромъ, собственная ея горничная одѣла и убрала Гертруду.</note>
+        <note xml:id="Russian_1854_cap10-n45" type="translation" target="quarantana/cap10.xml#c10_11076" targetEnd="quarantana/cap10.xml#c10_11090">
+                          Не успѣли еще окончить туалета, какъ пришли доложить, что уже обѣдъ готовъ.</note>
+        <note xml:id="Russian_1854_cap10-n46" type="translation" target="quarantana/cap10.xml#c10_11091" targetEnd="quarantana/cap10.xml#c10_11134">
+                          Гертруда прошла посреди служителей, которые поздравляли ее, какъ бы съ выздоровленіемъ, и нашла нѣкоторыхъ изъ ближайшихъ родственниковъ своихъ, приглашенныхъ наскоро, чтобы сдѣлать ей честь и вмѣстѣ съ нею порадоваться двумъ пріятнымъ новостямъ: выздоровленію ея и вступленію въ монастырь.</note>
+        <note xml:id="Russian_1854_cap10-n47" type="translation" target="quarantana/cap10.xml#c10_11135" targetEnd="quarantana/cap10.xml#c10_11168">
+                          Молодой невѣстѣ (такъ называли дѣвицъ, назначенныхъ въ монастырь, и такимъ именемъ была привѣтствуема Гертруда при своемъ появленіи), молодой невѣстѣ было не мало труда отвѣчать на поздравленія.</note>
+        <note xml:id="Russian_1854_cap10-n48" type="translation" target="quarantana/cap10.xml#c10_11169" targetEnd="quarantana/cap10.xml#c10_11187">
+                          Она чувствовала, что каждый изъ ея отвѣтовъ служилъ какъ бы согласіемъ или одобреніемъ; но какъ было отвѣчать иначе?</note>
+        <note xml:id="Russian_1854_cap10-n49" type="translation" target="quarantana/cap10.xml#c10_11188" targetEnd="quarantana/cap10.xml#c10_11198">
+                          Почти въ слѣдъ за обѣдомъ насталъ часъ прогулки.</note>
+        <note xml:id="Russian_1854_cap10-n50" type="translation" target="quarantana/cap10.xml#c10_11199" targetEnd="quarantana/cap10.xml#c10_11214">
+                          Гертруда сѣла въ карету съ матерью и двумя изъ своихъ дядей, которые были въ числе гостей.</note>
+        <note xml:id="Russian_1854_cap10-n51" type="translation" target="quarantana/cap10.xml#c10_11215" targetEnd="quarantana/cap10.xml#c10_11249">
+                          Послѣ обыкновенной прогулки, они отправились въ предмѣстіе Марина, которое занимало тогда пространство, гдѣ нынѣ находится публичный садъ, и было сборнымъ мѣстомъ аристократіи, которая съѣзжалась сюда въ экипажахъ для отдохновенія отъ дневныхъ трудовъ.</note>
+        <note xml:id="Russian_1854_cap10-n52" type="translation" target="quarantana/cap10.xml#c10_11250" targetEnd="quarantana/cap10.xml#c10_11334">
+                          Оба дяди много разговаривали съ Гертрудою, какъ прилично было въ подобный день, и одинъ изъ нихъ, который, казалось, болѣе другаго зналъ людей, экипажи, и ливреи, каждую минуту говорилъ что-нибудь о князѣ такомъ-то, о маркизшѣ такой-то, вдругъ остановился, и, обратясь къ племянницѣ, сказалъ ей: «Ахъ, плутовка! ты попираешь ногами всѣ этѣ ложныя удовольствія. Ты себѣ на умѣ: насъ, бѣдныхъ свѣтскихъ, оставляешь на бури и волненія; а сама хочешь вести жизнь безмятежную, которая приведетъ тебя прямо въ рай.»</note>
+        <note xml:id="Russian_1854_cap10-n53" type="translation" target="quarantana/cap10.xml#c10_11335" targetEnd="quarantana/cap10.xml#c10_11353">
+                          Такъ какъ день склонялся къ вечеру, то они возвратились во дворецъ, и слуги, поспѣшно встрѣчая ихъ со свѣтильниками, доложили, что уже съѣхалось много гостей.</note>
+        <note xml:id="Russian_1854_cap10-n54" type="translation" target="quarantana/cap10.xml#c10_11354" targetEnd="quarantana/cap10.xml#c10_11369">
+                          Слухъ о намѣреніи Гертруды распространился, и какъ родственники, такъ и друзья семейства пріѣзжали поздравлять ее.</note>
+        <note xml:id="Russian_1854_cap10-n55" type="translation" target="quarantana/cap10.xml#c10_11370" targetEnd="quarantana/cap10.xml#c10_11375">
+                          Вошли въ залъ.</note>
+        <note xml:id="Russian_1854_cap10-n56" type="translation" target="quarantana/cap10.xml#c10_11376" targetEnd="quarantana/cap10.xml#c10_11384">
+                          Молодая невѣста обратила на себя вниманіе всѣхъ.</note>
+        <note xml:id="Russian_1854_cap10-n57" type="translation" target="quarantana/cap10.xml#c10_11385" targetEnd="quarantana/cap10.xml#c10_11429">
+                          Всѣ хотѣли обладать ею; одинъ обѣщался навѣщать ее, другой говорилъ о своей родственницѣ, о знакомой, бывшихъ въ монастырѣ; та выхваляла климать Монцы, другая высокопарно разсуждала о первенствѣ, которымъ она будетъ наслаждаться.</note>
+        <note xml:id="Russian_1854_cap10-n58" type="translation" target="quarantana/cap10.xml#c10_11430" targetEnd="quarantana/cap10.xml#c10_11459">
+                          Тѣ, которые не могли приблизиться къ Гертрудѣ, окруженной непроницаемою толпою, выжидали случая подойти къ ней, и чувствовали родъ угрызенія совѣсти, что не принесли еще ей своихъ поздравленій.</note>
+        <note xml:id="Russian_1854_cap10-n59" type="translation" target="quarantana/cap10.xml#c10_11460" targetEnd="quarantana/cap10.xml#c10_11479">
+                          Понемногу всѣ разъѣхались, безъ малѣйшаго сожалѣнія, и Гертруда осталась одна съ своимъ семействомъ.</note>
+        <note xml:id="Russian_1854_cap10-n60" type="translation" target="quarantana/cap10.xml#c10_11480" targetEnd="quarantana/cap10.xml#c10_11496">
+                          «Наконецъ,» сказалъ князь, «я имѣлъ утѣшеніе видѣть, что съ моею дочерью обходились съ уваженіемъ, какое прилично особамъ ея сана.</note>
+        <note xml:id="Russian_1854_cap10-n61" type="translation" target="quarantana/cap10.xml#c10_11497" targetEnd="quarantana/cap10.xml#c10_11524">
+                          Надобно также признаться, что она превосходно вела себя, и доказала, что для нея ни сколько не будетъ затруднительно представлять первое лицо и поддержать честь своей фамиліи.»</note>
+        <note xml:id="Russian_1854_cap10-n62" type="translation" target="quarantana/cap10.xml#c10_11525" targetEnd="quarantana/cap10.xml#c10_11538">
+                          Ужинали наскоро, чтобы скорѣе удалиться и по утру ранѣе приготовиться.</note>
+        <note xml:id="Russian_1854_cap10-n63" type="translation" target="quarantana/cap10.xml#c10_11539" targetEnd="quarantana/cap10.xml#c10_11612">
+                          Гертруда печальная, недовольная, и вмѣстѣ съ тѣмъ нѣсколько надутая лестью, которой она была предметомъ въ продолженіе этого дня, вспомнила, сколько для нея была тягостна ея надзирательница, и видя отца въ совершенной готовности угождать ей во всемъ, кромѣ одного предмета, хотѣла воспользоваться выгодами своего положенія, чтобы удовлетворить хотя одному изъ томившихъ ея желаній, и потому она стала показывать большое отвращеніе къ своей надзирательницѣ, говорила о непріятности быть съ нею наединѣ и горько жаловалась на ея обхожденіе.</note>
+        <note xml:id="Russian_1854_cap10-n64" type="translation" target="quarantana/cap10.xml#c10_11613" targetEnd="quarantana/cap10.xml#c10_11622">
+                          «Какъ!» сказалъ князь, «она не имѣетъ къ тебѣ должного уваженія!</note>
+        <note xml:id="Russian_1854_cap10-n65" type="translation" target="quarantana/cap10.xml#c10_11623" targetEnd="quarantana/cap10.xml#c10_11644">
+                          Завтра, завтра же я ее побраню, такъ что она не посмѣетъ впредь этого дѣлать.</note>
+        <note xml:id="Russian_1854_cap10-n66" type="translation" target="quarantana/cap10.xml#c10_11645" targetEnd="quarantana/cap10.xml#c10_11661">
+                          Между тѣмъ, милая дочь моя, не должна оставаться съ тою, которая ей не нравится.»</note>
+        <note xml:id="Russian_1854_cap10-n67" type="translation" target="quarantana/cap10.xml#c10_11662" targetEnd="quarantana/cap10.xml#c10_11699">
+                          При этихъ словахъ онъ велѣлъ позвать другую женщину и приказалъ ей служить Гертрудѣ, которая, радуясь исполненію своего желанія, вмѣстѣ удивлялась, что находить въ этомъ удовольствіе, слишкомъ слабое въ сравненіи съ тѣмъ, какого она ожидала.</note>
+        <note xml:id="Russian_1854_cap10-n68" type="translation" target="quarantana/cap10.xml#c10_11700" targetEnd="quarantana/cap10.xml#c10_11760">
+                          Противъ воли, всею душею ея овладѣла мысль о томъ, какъ уже далеко въ этотъ день зашла она въ своемъ дѣлѣ; какъ трудно перемѣнить его; что для этого потребно времени, силы и рѣшительности гораздо болѣе, нежели за нѣсколько дней предъ тѣмъ, и этой-то силы она не имѣетъ.</note>
+        <note xml:id="Russian_1854_cap10-n69" type="translation" target="quarantana/cap10.xml#c10_11761" targetEnd="quarantana/cap10.xml#c10_11807">
+                          Женщина, сопровождавшая Гертруду въ ея комнату, была старая служанка, прежняя надзирательница молодого князя, котораго она приняла изъ рукъ кормилицы и воспитывала до самаго юношества. Она поставляла въ немъ всю свою радость, всю надежду, всю славу.</note>
+        <note xml:id="Russian_1854_cap10-n70" type="translation" target="quarantana/cap10.xml#c10_11808" targetEnd="quarantana/cap10.xml#c10_11837">
+                          Она радовалась, что нынешній день произвелъ въ домѣ такой счастливый переворотъ, какъ будто дѣло шло о ея собственномъ благополучіи, и Гертруда, въ заключеніи такого дня, должна была слушать поздравленія, похвалы и совѣты старухи.</note>
+        <note xml:id="Russian_1854_cap10-n71" type="translation" target="quarantana/cap10.xml#c10_11838" targetEnd="quarantana/cap10.xml#c10_11894">
+                          Она разсказывала ей о нѣкоторыхъ ея тетушкахъ и двоюродныхъ сестрицахъ, которыя были весьма довольны монастырскою жизнію, потому что, происходя изъ такого дома, онѣ наслаждались первыми почестями и сохраняли всеобщее уваженіе.</note>
+        <note xml:id="Russian_1854_cap10-n72" type="translation" target="quarantana/cap10.xml#c10_11895" targetEnd="quarantana/cap10.xml#c10_11934">
+                          Она говорила о посѣщеніяхъ, которыя будутъ ей дѣлать; о томъ, что она увидитъ нѣкогда у себя молодаго князя съ его супругою, которая, разумѣется, должна быть знатною дамою, и тогда не только монастырь, но и вся страна придутъ въ движеніе.</note>
+        <note xml:id="Russian_1854_cap10-n73" type="translation" target="quarantana/cap10.xml#c10_11935" targetEnd="quarantana/cap10.xml#c10_11950">
+                          Старуха говорила во все то время, пока раздѣвала Гертруду, и даже когда та улеглась и уже уснула, она все еще продолжала свои росказни...</note>
+        <note xml:id="Russian_1854_cap10-n74" type="translation" target="quarantana/cap10.xml#c10_11951" targetEnd="quarantana/cap10.xml#c10_11961">
+                          Молодость и усталость восторжествовали надъ тревогами сердца.</note>
+        <note xml:id="Russian_1854_cap10-n75" type="translation" target="quarantana/cap10.xml#c10_11962" targetEnd="quarantana/cap10.xml#c10_11994">
+                          Сонъ былъ тяжелый, безпокойный, исполненный печальныхъ сновидѣній; однако-жъ онъ не прервался до самаго разсвѣта, когда старуха пронзительнымъ голосомъ разбудила Гертруду, и доложила ей, что уже время приготовляться къ отъѣзду въ Монцу.</note>
+        <note xml:id="Russian_1854_cap10-n76" type="translation" target="quarantana/cap10.xml#c10_11995" targetEnd="quarantana/cap10.xml#c10_12012">
+                          «Вставайте, сударыня! Уже день, и по крайней мѣрѣ пройдетъ ещъ часъ, пока вы окончите свой туалетъ.</note>
+        <note xml:id="Russian_1854_cap10-n77" type="translation" target="quarantana/cap10.xml#c10_12013" targetEnd="quarantana/cap10.xml#c10_12025">
+                          Княгиня давно встала; я ее разбудила четырьмя часами ранѣе обыкновеннаго.</note>
+        <note xml:id="Russian_1854_cap10-n78" type="translation" target="quarantana/cap10.xml#c10_12026" targetEnd="quarantana/cap10.xml#c10_12045">
+                          Молодой князь уже сходилъ въ конюшни, и готовъ ѣхать, по первому знаку.</note>
+        <note xml:id="Russian_1854_cap10-n79" type="translation" target="quarantana/cap10.xml#c10_12046" targetEnd="quarantana/cap10.xml#c10_12069">
+                          Этотъ баловень проворенъ, какъ заяцъ; онъ былъ таковъ еще съ самой люльки: я нянчила его и могу говорить это вѣрно.</note>
+        <note xml:id="Russian_1854_cap10-n80" type="translation" target="quarantana/cap10.xml#c10_12070" targetEnd="quarantana/cap10.xml#c10_12091">
+                          Когда онъ готовъ, то не заставляй его дожидаться, потому что хотя у него доброе сердце, но въ такомъ случаѣ онъ выходитъ изъ терпѣнія и топаетъ ногами.</note>
+        <note xml:id="Russian_1854_cap10-n81" type="translation" target="quarantana/cap10.xml#c10_12092" targetEnd="quarantana/cap10.xml#c10_12112">
+                          Голубчикъ! ему можно простить такое свойство характера; а теперь такъ оно немного справедливо, потому что будетъ ждать васъ.</note>
+        <note xml:id="Russian_1854_cap10-n82" type="translation" target="quarantana/cap10.xml#c10_12113" targetEnd="quarantana/cap10.xml#c10_12128">
+                          Въ эту минуты бѣда, кто къ нему подойдетъ: онъ не уважаетъ никого, кромѣ князя.</note>
+        <note xml:id="Russian_1854_cap10-n83" type="translation" target="quarantana/cap10.xml#c10_12129" targetEnd="quarantana/cap10.xml#c10_12143">
+                          Нѣкогда онъ и самъ будетъ княземъ; но дай Богъ, чтобъ это случилось какъ можно позже.</note>
+        <note xml:id="Russian_1854_cap10-n84" type="translation" target="quarantana/cap10.xml#c10_12144" targetEnd="quarantana/cap10.xml#c10_12151">
+                          Скорѣе, скорѣе, сударыня! Нечего на меня смотрѣть съ такимъ удивленiемъ.</note>
+        <note xml:id="Russian_1854_cap10-n85" type="translation" target="quarantana/cap10.xml#c10_12152" targetEnd="quarantana/cap10.xml#c10_12159">
+                          Въ этотъ чась вамъ давно бы уже надобно встать.»</note>
+        <note xml:id="Russian_1854_cap10-n86" type="translation" target="quarantana/cap10.xml#c10_12160" targetEnd="quarantana/cap10.xml#c10_12187">
+                          Мысли о нетерпѣніи молодаго князя, всѣ другія мысли, которыя столпились было въ умѣ проснувшейся Гертруды, тотчась разсѣялись, какъ стая птицъ при видѣ пугалища.</note>
+        <note xml:id="Russian_1854_cap10-n87" type="translation" target="quarantana/cap10.xml#c10_12188" targetEnd="quarantana/cap10.xml#c10_12207">
+                          Она повиновалась, одѣлась наскоро, дала убрать себя и пошла въ гостинную, гдѣ собрались уже родители ея и братъ.</note>
+        <note xml:id="Russian_1854_cap10-n88" type="translation" target="quarantana/cap10.xml#c10_12208" targetEnd="quarantana/cap10.xml#c10_12240">
+                          Ее посадили на кресла и приказали подать чашку школаду: обыкновеніе, соотвѣтствовавшее въ то время древнѣйшему обычаю Римлянъ, у которыхъ, при вступленіи въ совершенный возраст, надѣвали на дѣвушку мужскую тогу.</note>
+        <note xml:id="Russian_1854_cap10-n89" type="translation" target="quarantana/cap10.xml#c10_12241" targetEnd="quarantana/cap10.xml#c10_12270">
+                          Когда доложили, что карета готова, князь отвелъ дочь свою въ сторону и сказалъ ей: «Гертруда! вчера ты вела себя похвально; но сегодня ты должна превзойти себя.</note>
+        <note xml:id="Russian_1854_cap10-n90" type="translation" target="quarantana/cap10.xml#c10_12271" targetEnd="quarantana/cap10.xml#c10_12290">
+                          Тебѣ предстоитъ войти въ монастырь, гдѣ ты будешь занимать первое мѣсто: тебя тамъ ожидаютъ.</note>
+        <note xml:id="Russian_1854_cap10-n91" type="translation" target="quarantana/cap10.xml#c10_12291" targetEnd="quarantana/cap10.xml#c10_12305">
+                          (Нужно ли говорить, что князь наканунѣ предупредилъ игуменью?</note>
+        <note xml:id="Russian_1854_cap10-n92" type="translation" target="quarantana/cap10.xml#c10_12306" targetEnd="quarantana/cap10.xml#c10_12315">
+                          Тебя тамъ ожидаютъ, и всѣ глаза будутъ устремлены на тебя.</note>
+        <note xml:id="Russian_1854_cap10-n93" type="translation" target="quarantana/cap10.xml#c10_12316" targetEnd="quarantana/cap10.xml#c10_12318">
+                          Покажи свое достоинство и будь как можно непринужденнѣе.</note>
+        <note xml:id="Russian_1854_cap10-n94" type="translation" target="quarantana/cap10.xml#c10_12319" targetEnd="quarantana/cap10.xml#c10_12329">
+                          Игуменья спроситъ, чего ты желаешь. Это простой обрядъ.</note>
+        <note xml:id="Russian_1854_cap10-n95" type="translation" target="quarantana/cap10.xml#c10_12330" targetEnd="quarantana/cap10.xml#c10_12357">
+                          Можешь отвѣчать, что ты просишь, чтобы тебя приняли въ монахини этого монастыря, въ которомъ ты была воспитана съ такимъ попеченіемъ, и гдѣ прилагали о тебѣ столько заботливости; что совершенно справедливо.</note>
+        <note xml:id="Russian_1854_cap10-n96" type="translation" target="quarantana/cap10.xml#c10_12358" targetEnd="quarantana/cap10.xml#c10_12380">
+                          Ты произнесешь этѣ немногія слова свободно, такъ, чтобы не сказали, будто тебя заставили заучить ихъ, будто ты не умѣешь говорить сама собою.</note>
+        <note xml:id="Russian_1854_cap10-n97" type="translation" target="quarantana/cap10.xml#c10_12381" targetEnd="quarantana/cap10.xml#c10_12396">
+                          Добрыя монахини не знаютъ ничего, что было у насъ въ домѣ; тайна эта должна остаться погребенною въ семействѣ.</note>
+        <note xml:id="Russian_1854_cap10-n98" type="translation" target="quarantana/cap10.xml#c10_12397" targetEnd="quarantana/cap10.xml#c10_12409">
+                          Болѣе всего старайся о томъ, чтобъ не показывать вида печальнаго или нерѣшительнаго, который могъ бы породить какія-нибудь подозрѣнія.</note>
+        <note xml:id="Russian_1854_cap10-n99" type="translation" target="quarantana/cap10.xml#c10_12410" targetEnd="quarantana/cap10.xml#c10_12431">
+                          Покажи, какая кровь течеть въ жилахъ твоихъ; будь ласкова и скромна; но помни, что въ этѣхъ мѣстахъ, кромѣ твоей фамиліи, нѣтъ никого выше тебя.»</note>
+        <note xml:id="Russian_1854_cap10-n100" type="translation" target="quarantana/cap10.xml#c10_12432" targetEnd="quarantana/cap10.xml#c10_12453">
+                          Не ожидая отвѣта, князь вышелъ; Гертруда, княгиня и молодой князь послѣдовали за нимъ, сошли съ лѣстницы и сѣли въ карету.</note>
+        <note xml:id="Russian_1854_cap10-n101" type="translation" target="quarantana/cap10.xml#c10_12454" targetEnd="quarantana/cap10.xml#c10_12480">
+                          Суета, коловратности свѣта, блаженство монастырской жизни, наиболѣе для молодыхъ особъ знатнаго происхожденія — вотъ что было единственнымъ предметомъ ихъ разговора въ продолженіе дороги.</note>
+        <note xml:id="Russian_1854_cap10-n102" type="translation" target="quarantana/cap10.xml#c10_12481" targetEnd="quarantana/cap10.xml#c10_12500">
+                          Передъ тѣмъ, какъ пріѣхать, князь возобновилъ свои наставленія, и повторилъ нѣсколько разъ форму отвѣта.</note>
+        <note xml:id="Russian_1854_cap10-n103" type="translation" target="quarantana/cap10.xml#c10_12501" targetEnd="quarantana/cap10.xml#c10_12532">
+                          Сердце Гертруды сжалось, когда она вступила въ эту страну, но вниманіе ея было на минуту привлечено толпою разныхъ лицъ, которыя, остановивъ карету, говорили ей рѣчь.</note>
+        <note xml:id="Russian_1854_cap10-n104" type="translation" target="quarantana/cap10.xml#c10_12533" targetEnd="quarantana/cap10.xml#c10_12554">
+                          Карета опять двинулась и направила медленный путь свой къ монастырю, посреди толпы любопытныхъ, сбѣжавшихся со всѣхъ сторонъ на дорогу.</note>
+        <note xml:id="Russian_1854_cap10-n105" type="translation" target="quarantana/cap10.xml#c10_12555" targetEnd="quarantana/cap10.xml#c10_12574">
+                          Когда остановились у знакомыхъ стѣнь, у знакомыхъ воротъ, сердце Гертруды еще болѣе сжалось.</note>
+        <note xml:id="Russian_1854_cap10-n106" type="translation" target="quarantana/cap10.xml#c10_12575" targetEnd="quarantana/cap10.xml#c10_12587">
+                          Она вышла посреди толпы, разгоняемой служителями.</note>
+        <note xml:id="Russian_1854_cap10-n107" type="translation" target="quarantana/cap10.xml#c10_12588" targetEnd="quarantana/cap10.xml#c10_12653">
+                          Взоры всѣхъ, устремленные на бѣдную дѣвушку, заставляли ее каждую минуту обращать вниманіе на свою осанку; но болѣе всѣхъ приводилъ ее въ замѣшательство отецъ, и не смотря на то, что онъ вселялъ въ нее большой страхъ, она не могла удержаться, чтобы не смотрѣть на него, и глаза его управляли ея движеніями и мыслями, какъ бы посредствомъ невидимой силы.</note>
+        <note xml:id="Russian_1854_cap10-n108" type="translation" target="quarantana/cap10.xml#c10_12654" targetEnd="quarantana/cap10.xml#c10_12675">
+                          Прошедъ первый дворъ, она вступила во второй, и увидѣла у отпертыхъ внутреннихъ воротъ монастыря множество монахинь.</note>
+        <note xml:id="Russian_1854_cap10-n109" type="translation" target="quarantana/cap10.xml#c10_12676" targetEnd="quarantana/cap10.xml#c10_12700">
+                          Впереди стояла игуменья, окруженная старшими изъ нихъ; позади ее толпились въ безпорядкѣ прочія монахини, изъ коихъ нѣкоторыя стояли, поднявшись на цыпочки; еще дальше видны были стоящія на ступеняхъ бѣлицы.</note>
+        <note xml:id="Russian_1854_cap10-n110" type="translation" target="quarantana/cap10.xml#c10_12701" targetEnd="quarantana/cap10.xml#c10_12748">
+                          Въ нѣкоторыхъ мѣстахъ, между скуфьями, мелькали молоденькія, свѣженькія личики: это были самыя ловкія и бойкія изъ пансіонерокъ, которыя, проскальзнувъ между монахинями, стали такъ, что имъ то же можно было видѣть что-нибудь.</note>
+        <note xml:id="Russian_1854_cap10-n111" type="translation" target="quarantana/cap10.xml#c10_12749" targetEnd="quarantana/cap10.xml#c10_12765">
+                          Изъ средины этой толпы раздавались радостныя восклицанія, и видно было много монахинь, которыя поднимали руки, въ знакъ благосклоннаго пріема новоприбывшей въ ихъ монастырь.</note>
+        <note xml:id="Russian_1854_cap10-n112" type="translation" target="quarantana/cap10.xml#c10_12766" targetEnd="quarantana/cap10.xml#c10_12778">
+                          Князь съ семействомъ своимъ подошелъ къ воротамъ, и Гертруда очутилась предъ самой игуменьей.</note>
+        <note xml:id="Russian_1854_cap10-n113" type="translation" target="quarantana/cap10.xml#c10_12779" targetEnd="quarantana/cap10.xml#c10_12807">
+                          Послѣ первыхъ привѣтствій, игуменья спросила ее полулюбезнымъ и полуторжественнымъ голосомъ, чего желаетъ она въ этомъ мѣстѣ, гдѣ ни въ чемъ ей отказать не могутъ.</note>
+        <note xml:id="Russian_1854_cap10-n114" type="translation" target="quarantana/cap10.xml#c10_12808" targetEnd="quarantana/cap10.xml#c10_12842">
+                          — «Я пришла...» начала Гертруда; но при словахъ, которыя должны были почти безвозвратно рѣшить судьбу ея, она на нѣсколько минутъ остановилась и устремила глаза на тѣснившуюся вокругъ ея толпу.</note>
+        <note xml:id="Russian_1854_cap10-n115" type="translation" target="quarantana/cap10.xml#c10_12843" targetEnd="quarantana/cap10.xml#c10_12873">
+                          Въ эту минуту примѣтила она одну изъ подругъ своихъ, которая смотрѣла на нее съ видомъ сожалѣнія, соединеннаго съ насмѣшкою, которая, казалось, говорила ей: «Ага! безстрашная, попалась!»</note>
+        <note xml:id="Russian_1854_cap10-n116" type="translation" target="quarantana/cap10.xml#c10_12874" targetEnd="quarantana/cap10.xml#c10_12973">
+                          Этотъ видъ, живо возбуждая въ душѣ ея первыя чувства, возвратилъ ей нѣсколько твердости, и она уже искала отвѣта совсѣмъ не того, которому ее научили; но взглянувъ на своего отца, какъ бы для того, чтобы испытать силы свои, она увидѣла на лицѣ его такое сильное безпокойство, такое грозное нетерпѣніе, что, пораженная страхомъ, она произнесла такъ быстро, какъ будто желала избавиться какого-нибудь ужаснѣйшаго предмета: «Я пришла просить о принятіи меня въ монастырь, въ которомъ я была воспитана съ такимъ добродушіемъ.»</note>
+        <note xml:id="Russian_1854_cap10-n117" type="translation" target="quarantana/cap10.xml#c10_12974" targetEnd="quarantana/cap10.xml#c10_13051">
+                          Игуменья тотчасъ отвѣчала, какъ сожалѣетъ она, что уставы монастырскія не позволяютъ ей въ этомъ случаѣ дать утвердительный отвѣтъ, потому что это зависитъ отъ общаго согласія всѣхъ сестеръ и одобренiя старшихъ; что Гертрудѣ довольно извѣстны чувства, какія питаютъ къ ней въ тѣхъ мѣстахъ, и она можетъ сама предвидѣть, каковъ будетъ отвѣтъ, и что наконецъ игуменья и сестры монастырскія не могутъ скрыть радости, возбужденной въ нихъ желаніемъ Гертруды.</note>
+        <note xml:id="Russian_1854_cap10-n118" type="translation" target="quarantana/cap10.xml#c10_13052" targetEnd="quarantana/cap10.xml#c10_13061">
+                          Тогда поднялся смѣшанный шумъ поздравленій и восклицаній.</note>
+        <note xml:id="Russian_1854_cap10-n119" type="translation" target="quarantana/cap10.xml#c10_13062" targetEnd="quarantana/cap10.xml#c10_13078">
+                          Тотчас принесли на большихъ подносахъ разныя конфекты и стали подчивать сперва «молодую невѣсту,» потомъ ея родителей.</note>
+        <note xml:id="Russian_1854_cap10-n120" type="translation" target="quarantana/cap10.xml#c10_13079" targetEnd="quarantana/cap10.xml#c10_13110">
+                          Между тѣмъ, какъ нѣкоторая изъ монахинь теребили ее, а другія разговаривали съ ея матерью и молодымъ княземъ, игуменья велѣла просить князя подойти къ рѣшеткѣ пріемной залы, гдѣ она ожидала его;</note>
+        <note xml:id="Russian_1854_cap10-n121" type="translation" target="quarantana/cap10.xml#c10_13111" targetEnd="quarantana/cap10.xml#c10_13115">
+                          съ нею были еще двѣ старыя монахини.</note>
+        <note xml:id="Russian_1854_cap10-n122" type="translation" target="quarantana/cap10.xml#c10_13116" targetEnd="quarantana/cap10.xml#c10_13175">
+                          Увидѣвъ князя, она сказала ему: «Князь: въ исполненіе устава, которымъ руководствуемся мы при такихъ обрядахъ, хотя въ этомъ случаѣ... я должна сказать вамъ... что всякій разъ, когда молодая особа проситъ о постриженіи ея въ монахини... начальница, какова есмъ я недостойная... обязана передупреждать родителей... что если они къ тому принуждаютъ насильно дочь свою... то подвергаются отлученію отъ церкви.</note>
+        <note xml:id="Russian_1854_cap10-n123" type="translation" target="quarantana/cap10.xml#c10_13176" targetEnd="quarantana/cap10.xml#c10_13178">
+                          Вы меня извините...»</note>
+        <note xml:id="Russian_1854_cap10-n124" type="translation" target="quarantana/cap10.xml#c10_13179" targetEnd="quarantana/cap10.xml#c10_13182">
+                          «Очень хорошо, прекрасно, святая мать!</note>
+        <note xml:id="Russian_1854_cap10-n125" type="translation" target="quarantana/cap10.xml#c10_13183" targetEnd="quarantana/cap10.xml#c10_13195">
+                          Я хвалю вашу точность, это справедливо... но вы не можете сомнѣваться...»</note>
+        <note xml:id="Russian_1854_cap10-n126" type="translation" target="quarantana/cap10.xml#c10_13196" targetEnd="quarantana/cap10.xml#c10_13206">
+                          «О! ни сколько, князь... Я сказала это для того только, чтобы в точности исполнить свою обязанность... Впрочемъ...»</note>
+        <note xml:id="Russian_1854_cap10-n127" type="translation" target="quarantana/cap10.xml#c10_13207" targetEnd="quarantana/cap10.xml#c10_13210">
+                          «Конечно, конечно, преподобная мать.»</note>
+        <note xml:id="Russian_1854_cap10-n128" type="translation" target="quarantana/cap10.xml#c10_13211" targetEnd="quarantana/cap10.xml#c10_13250">
+                          Послѣ такого краткаго разговора, они поклонились другъ другу и разстались немедленно, какъ будто продолженіе бесѣды было тягостно для нихъ обоихъ. Они тотчасъ присоединились къ своему обществу, одинъ внѣ, а другая внутри монастырскаго порога.</note>
+        <note xml:id="Russian_1854_cap10-n129" type="translation" target="quarantana/cap10.xml#c10_13251" targetEnd="quarantana/cap10.xml#c10_13278">
+                          «Поѣдемъ, сказалъ князь. «Гертруда скоро будетъ имѣть удовольствіе вполнѣ наслаждаться сообществомъ этѣхъ почтенныхъ сестеръ; а теперь мы имъ довольно наскучили.»</note>
+        <note xml:id="Russian_1854_cap10-n130" type="translation" target="quarantana/cap10.xml#c10_13279" targetEnd="quarantana/cap10.xml#c10_13298">
+                          Раскланявшись, онъ изъявилъ желаніе удалиться: прочiе встали, простились и уѣхали.</note>
+        <note xml:id="Russian_1854_cap10-n131" type="translation" target="quarantana/cap10.xml#c10_13299" targetEnd="quarantana/cap10.xml#c10_13307">
+                          Въ продолженіи дороги Гертруда совсѣмъ не расположена была къ разговорамъ.</note>
+        <note xml:id="Russian_1854_cap10-n132" type="translation" target="quarantana/cap10.xml#c10_13308" targetEnd="quarantana/cap10.xml#c10_13363">
+                          Трепеща при мысли, какой далекой шагъ сдѣлала она, стыдясь своей слабости, недовольная сама собой, она печально разсчитывала, какіе оставались ей еще случаи отказаться отъ своего слова, и обѣщалась при слѣдующихъ разахъ быть прямѣе и тверже.</note>
+        <note xml:id="Russian_1854_cap10-n133" type="translation" target="quarantana/cap10.xml#c10_13364" targetEnd="quarantana/cap10.xml#c10_13423">
+                          Ужасъ, производимой на нее взорами отца, ни сколько не уменьшилъ этихъ мыслей, такъ что если, украдкою взглянувъ на Князя, она замѣчала, что на лицѣ его не оставалось болѣе никакого слѣда гнѣва, и что онъ по видимому былъ очень доволень ею, то, она уже мечтала объ успѣхѣ и на минуту чувствовала себя весьма веселою.</note>
+        <note xml:id="Russian_1854_cap10-n134" type="translation" target="quarantana/cap10.xml#c10_13424" targetEnd="quarantana/cap10.xml#c10_13443">
+                          Едва пріѣхали они домой, начался продолжительный туалетъ, затѣмъ настало время обѣда, тамъ нѣсколько посѣщеній, прогулка, разговоры и наконецъ ужинъ.</note>
+        <note xml:id="Russian_1854_cap10-n135" type="translation" target="quarantana/cap10.xml#c10_13444" targetEnd="quarantana/cap10.xml#c10_13459">
+                          При окончаніи его, князь началъ говорить о выборѣ «воспріемницы» (madrina).</note>
+        <note xml:id="Russian_1854_cap10-n136" type="translation" target="quarantana/cap10.xml#c10_13460" targetEnd="quarantana/cap10.xml#c10_13532">
+                          Такъ называли женщину, которая, по приглашенію родителей, дѣлалась собесѣдницей и надзирательницей молодой особы, приготовляющейся въ монахини, со времени объявленія о томъ до совершеннаго ея постриженія — времени, употребляемаго на посѣщеніе церквей, публичныхъ заведеній, загородныхъ домовъ, словомъ: всего достопримѣчательнѣйшаго въ городѣ и его окрестностяхъ, съ тою цѣлію, чтобы молодыя дѣвицы, прежде нежели изрекутъ ненарушимый обѣтъ, могли вполнѣ чувствовать, чего онѣ лишаются.</note>
+        <note xml:id="Russian_1854_cap10-n137" type="translation" target="quarantana/cap10.xml#c10_13533" targetEnd="quarantana/cap10.xml#c10_13564">
+                          «Надобно подумать о воспрiемницѣ,» сказалъ князь, «потому что завтра долженъ прiѣхать монастырскій викарiй для совершенія испытанія, и потому что вслѣдъ за тѣмъ Гертруда внесется въ списокъ, который предложатъ на утвержденіе монахинямъ.»</note>
+        <note xml:id="Russian_1854_cap10-n138" type="translation" target="quarantana/cap10.xml#c10_13565" targetEnd="quarantana/cap10.xml#c10_13586">
+                          Послѣ такихъ словъ онъ обратился къ княгинѣ, которая, думая, что онъ предлагаетъ ей назначить кого нибудь, начала: «Можно было бы...»</note>
+        <note xml:id="Russian_1854_cap10-n139" type="translation" target="quarantana/cap10.xml#c10_13587" targetEnd="quarantana/cap10.xml#c10_13625">
+                          Но Князь прервалъ ее: «Нѣтъ, нѣтъ, княгиня! Прежде сего воспріемница должна быть по нраву молодой невѣсты, и хотя общее обыкновеніе предоставляетъ выборъ родителямъ, но Гертруда такъ благоразумна, такъ хорошо знаетъ приличія, что, безъ всякаго сомѣнія, она достойна исключенія изъ общаго правила.»</note>
+        <note xml:id="Russian_1854_cap10-n140" type="translation" target="quarantana/cap10.xml#c10_13626" targetEnd="quarantana/cap10.xml#c10_13678">
+                          Тутъ, обратясь къ Гертрудѣ съ видомъ особеннаго благоволенія, онъ продолжалъ: «Каждая изъ дамъ, присутствовавшихъ сего-дня въ собраніи, обладаетъ всѣми качествами, чтобъ быть достойною воспрiемницею дочери нашего дома, каждая, мнѣ пріятно подумать, почтетъ за честь себѣ твое предпочтеніе: выбирай сама.»</note>
+        <note xml:id="Russian_1854_cap10-n141" type="translation" target="quarantana/cap10.xml#c10_13679" targetEnd="quarantana/cap10.xml#c10_13713">
+                          Гертруда очень чувствовала, что выбирать, значитъ дать еще новое согласіе; но предложеніе было сдѣлано такъ настоятельно, что отказъ походилъ бы на презрѣніе, а отговорка на неблагодарность и докучливость.</note>
+        <note xml:id="Russian_1854_cap10-n142" type="translation" target="quarantana/cap10.xml#c10_13714" targetEnd="quarantana/cap10.xml#c10_13765">
+                          Она сдѣлала этотъ шагъ и назвала даму, понравившуюся ей въ продолженіе вечера болѣе прочихъ, то есть ту, которая болѣе всѣхъ ласкала ее, хвалила и обходилась съ нею съ такою простотою, чистосердечіемъ и снисходительностію, какія при первомъ знакомствѣ имѣютъ всю прелесть давнишней дружбы.</note>
+        <note xml:id="Russian_1854_cap10-n143" type="translation" target="quarantana/cap10.xml#c10_13766" targetEnd="quarantana/cap10.xml#c10_13776">
+                          «Прекрасный выборъ!» вскричалъ князь, желавшій именно, чтобы онъ палъ на эту даму, и ожидавшій его.</note>
+        <note xml:id="Russian_1854_cap10-n144" type="translation" target="quarantana/cap10.xml#c10_13777" targetEnd="quarantana/cap10.xml#c10_13822">
+                          Хитрость ли это была, или просто случай; но дѣло было улажено, как нельзя лучше. Видали ли вы фокусника, который, быстро перебирая передъ самыми глазами колоду картъ, говоритъ вамъ, чтобъ вы задумали какую-нибудь одну, которую потомъ онъ отгадаетъ, и показываетъ вамъ карты такъ, что вы видите одну только карту, какую ему хочется? Такъ точно поступили съ Гертрудой.</note>
+        <note xml:id="Russian_1854_cap10-n145" type="translation" target="quarantana/cap10.xml#c10_13823" targetEnd="quarantana/cap10.xml#c10_13850">
+                          Эта дама была весь вечеръ съ нею, и такъ заняла ее собою, что той слишкомъ много надобно было напрягать свое воображеніе, чтобы вздумать о другой.</note>
+        <note xml:id="Russian_1854_cap10-n146" type="translation" target="quarantana/cap10.xml#c10_13851" targetEnd="quarantana/cap10.xml#c10_13901">
+                          Впрочемъ такое вниманіе было не безъ причины Дама давно уже мѣтила на молодаго Князя, чтобы сдѣлать его своимъ зятемъ, и потому заботилась объ ихъ дѣлахъ, какъ о своихъ собственныхъ. Очень естественно, что она занималась такъ этою милою Гертрудою, которая была ни болѣе, ни менѣе, какъ одна изъ ближайшихъ родственницъ князя.</note>
+        <note xml:id="Russian_1854_cap10-n147" type="translation" target="quarantana/cap10.xml#c10_13902" targetEnd="quarantana/cap10.xml#c10_13934">
+                          Проснувшись на другой день, Гертруда устремила мысли свои на того, кто долженъ былъ ее исповѣдывать, и въ то время, какъ она обдумывала, какимъ образомъ воспользоваться такимъ рѣшительнымъ случаемъ, чтобы получить себѣ свободу, князь позвалъ ее къ себѣ.</note>
+        <note xml:id="Russian_1854_cap10-n148" type="translation" target="quarantana/cap10.xml#c10_13935" targetEnd="quarantana/cap10.xml#c10_13949">
+                          «До сихъ поръ, дочь моя, ты поступала прекрасно; сегодня надобно увѣнчать дѣло.</note>
+        <note xml:id="Russian_1854_cap10-n149" type="translation" target="quarantana/cap10.xml#c10_13950" targetEnd="quarantana/cap10.xml#c10_13962">
+                          Все, что было до сей минуты, дѣлалось съ твоего согласія.</note>
+        <note xml:id="Russian_1854_cap10-n150" type="translation" target="quarantana/cap10.xml#c10_13963" targetEnd="quarantana/cap10.xml#c10_13995">
+                          Если въ это время родилась въ тебѣ какая-либо нерѣшительность или сомнѣніе, слѣдствіе молодости, ты должна бы объясниться; но въ настоящемъ положеніи ребячиться уже не время.</note>
+        <note xml:id="Russian_1854_cap10-n151" type="translation" target="quarantana/cap10.xml#c10_13996" targetEnd="quarantana/cap10.xml#c10_14026">
+                          Честный отец, котораго ожидаемъ сегодня, будетъ предлагать тебѣ множество вопросовъ на счетъ твоего расположенія: добровольно ли ты вступаешь въ монастырь, для чего и какъ?</note>
+        <note xml:id="Russian_1854_cap10-n152" type="translation" target="quarantana/cap10.xml#c10_14027" targetEnd="quarantana/cap10.xml#c10_14057">
+                          Если ты будешь запинаться въ отвѣтахъ своихъ, то не знаю, сколько времени онъ продержитъ тебя подъ искусомъ; а это причинитъ тебѣ столько же мученій, сколько скуки, и потомъ можетъ произвести другое еще важнѣйшее неудобство.</note>
+        <note xml:id="Russian_1854_cap10-n153" type="translation" target="quarantana/cap10.xml#c10_14058" targetEnd="quarantana/cap10.xml#c10_14105">
+                          Послѣ всѣхъ доказательствъ, сдѣланныхъ публично, малѣйшая замѣченная въ тебѣ нерѣшимость будетъ касаться моей чести, и заставитъ другихъ думать, что я твое легкомысліе принялъ за твердое намѣренiе, что я въ томъ настаивалъ, что у тебя... и мало ли что!</note>
+        <note xml:id="Russian_1854_cap10-n154" type="translation" target="quarantana/cap10.xml#c10_14106" targetEnd="quarantana/cap10.xml#c10_14153">
+                          Въ подобномъ случаѣ я принужденъ буду избрать одно изъ двухъ средствъ, равно прискорбныхъ: или переносить дурное о себѣ мнѣніе свѣта, что не согласно съ тѣмъ положеніемъ, которое стараюсь я пріобрѣсти въ свѣтѣ; или открыть истинную причину твоей нерѣшимости, и...»</note>
+        <note xml:id="Russian_1854_cap10-n155" type="translation" target="quarantana/cap10.xml#c10_14154" targetEnd="quarantana/cap10.xml#c10_14201">
+                          Но тутъ, примѣтивъ, что Гертруда вспыхнула, что глаза ея наполнились слезами, и лице уподоблялось листьямъ растенія, сжатымъ удушливой атмосферою, предшествующею грозѣ, онъ перервалъ эту рѣчь и сказалъ съ веселымъ видомъ: «Поступай смѣлѣе, все зависитъ отъ тебя, отъ твоего разсудка.</note>
+        <note xml:id="Russian_1854_cap10-n156" type="translation" target="quarantana/cap10.xml#c10_14202" targetEnd="quarantana/cap10.xml#c10_14225">
+                          У тебя его много и ты не такова, чтобы испортить дѣло, такъ прекрасно начатое тобою. Но я долженъ былъ все предвидѣть.</note>
+        <note xml:id="Russian_1854_cap10-n157" type="translation" target="quarantana/cap10.xml#c10_14226" targetEnd="quarantana/cap10.xml#c10_14252">
+                          Перестанемъ говорить объ этомъ и останемся въ увѣренности, что ты будешь отвѣчать открыто, такъ, чтобы не поселить ни малѣйшаго сомнѣнія въ умѣ этого почтеннаго человѣка.</note>
+        <note xml:id="Russian_1854_cap10-n158" type="translation" target="quarantana/cap10.xml#c10_14253" targetEnd="quarantana/cap10.xml#c10_14260">
+                          Такимъ образомъ ты гораздо скорѣе отъ него отдѣлаешься.»</note>
+        <note xml:id="Russian_1854_cap10-n159" type="translation" target="quarantana/cap10.xml#c10_14261" targetEnd="quarantana/cap10.xml#c10_14299">
+                          Здѣсь, придумавъ нѣсколько отвѣтовъ на будущіе вопросы, онъ началъ вычислять всѣ наслажденія и удовольствія, ожидающія ее въ монастырѣ, и не переставалъ говорить до того времени, пока слуга вошелъ доложить о пріѣздѣ викарія.</note>
+        <note xml:id="Russian_1854_cap10-n160" type="translation" target="quarantana/cap10.xml#c10_14300" targetEnd="quarantana/cap10.xml#c10_14318">
+                          Князь, напомнивъ дочери о главнѣйшихъ пунктахъ, оставилъ ее одну съ служителемъ вѣры, какъ это было предписано.</note>
+        <note xml:id="Russian_1854_cap10-n161" type="translation" target="quarantana/cap10.xml#c10_14319" targetEnd="quarantana/cap10.xml#c10_14348">
+                          Священникъ былъ уже нѣсколько увѣренъ, что Гертруда сильно желала поступить въ монастырь, ибо князь, пріѣзжая приглашать его къ себѣ, такъ сказалъ ему о своей дочери и увѣрялъ его въ этомъ.</note>
+        <note xml:id="Russian_1854_cap10-n162" type="translation" target="quarantana/cap10.xml#c10_14349" targetEnd="quarantana/cap10.xml#c10_14417">
+                          Хотя добрый пасторъ и зналъ, что недовѣрчивость, при его знаніи, есть одна изъ необходимыхъ добродѣтелей и поставлялъ себѣ за правило, поступать какъ можно осторожнѣе въ подобныхъ случаяхъ, и сколько возможно остерегаться отъ всякихъ предубѣжденій; но рѣдко случается, чтобы увѣренiя могущественнаго лица не дѣлали никакого впечатлѣнія на слушателя.</note>
+        <note xml:id="Russian_1854_cap10-n163" type="translation" target="quarantana/cap10.xml#c10_14418" targetEnd="quarantana/cap10.xml#c10_14462">
+                          Послѣ обыкновенныхъ привѣтствій, онъ сказалъ: «Сударыня! я пришелъ посѣять въ васъ сомнѣнія на счетъ того, что въ вашей просьбѣ вы изложили, какъ дѣло обыкновенное; я пришелъ представить вамъ всѣ трудности, которыя васъ ожидаютъ, и удостовѣриться, хорошо ли вы ихъ обдумали.</note>
+        <note xml:id="Russian_1854_cap10-n164" type="translation" target="quarantana/cap10.xml#c10_14463" targetEnd="quarantana/cap10.xml#c10_14469">
+                          Позвольте сдѣлать вамъ нѣсколько вопросовъ.»</note>
+        <note xml:id="Russian_1854_cap10-n165" type="translation" target="quarantana/cap10.xml#c10_14470" targetEnd="quarantana/cap10.xml#c10_14473">
+                          «Говорите, отецъ святой,» отвѣчала Гертруда.</note>
+        <note xml:id="Russian_1854_cap10-n166" type="translation" target="quarantana/cap10.xml#c10_14474" targetEnd="quarantana/cap10.xml#c10_14497">
+                          Добрый священникъ началъ спрашивать ее по установленнымъ Римскою церковію правиламъ: «На принятіе вами монашескаго сана естьли, собственное ваше желанiе, исходящее изъ глубины сердца?</note>
+        <note xml:id="Russian_1854_cap10-n167" type="translation" target="quarantana/cap10.xml#c10_14498" targetEnd="quarantana/cap10.xml#c10_14515">
+                          Или не принимаете-ли вы на себя этотъ санъ, въ слѣдствіе обольщеній, угрозъ или чьей-нибудь власти?</note>
+        <note xml:id="Russian_1854_cap10-n168" type="translation" target="quarantana/cap10.xml#c10_14516" targetEnd="quarantana/cap10.xml#c10_14544">
+                          Скажите мнѣ откровенно, какъ человѣку, который обязанъ знать истинную вашу волю, чтобы быть вамъ полезнымъ.»</note>
+        <note xml:id="Russian_1854_cap10-n169" type="translation" target="quarantana/cap10.xml#c10_14545" targetEnd="quarantana/cap10.xml#c10_14581">
+                          Истинный отвѣтъ на этотъ вопросъ тотчасъ представился въ умѣ Гертруды съ ужаснѣйшею ясностію; но чтобы дать такой отвѣтъ, нужно было объяснить многое, сказать, почему ей угрожали, разсказать всю исторію...</note>
+        <note xml:id="Russian_1854_cap10-n170" type="translation" target="quarantana/cap10.xml#c10_14582" targetEnd="quarantana/cap10.xml#c10_14608">
+                          Несчастная устрашилась этой мысли и спѣшила найти отвѣтъ, который гораздо лучше и скорѣе вывелъ бы ее изъ затрудненія.</note>
+        <note xml:id="Russian_1854_cap10-n171" type="translation" target="quarantana/cap10.xml#c10_14609" targetEnd="quarantana/cap10.xml#c10_14624">
+                          «Я иду въ монахини,» сказала она, скрывая свое смущеніе, «я иду въ монахини по склонности моей къ тому и добровольно.»</note>
+        <note xml:id="Russian_1854_cap10-n172" type="translation" target="quarantana/cap10.xml#c10_14625" targetEnd="quarantana/cap10.xml#c10_14637">
+                          «Давно ли родилась въ васъ эта мысль?» спросилъ добрый пастырь.</note>
+        <note xml:id="Russian_1854_cap10-n173" type="translation" target="quarantana/cap10.xml#c10_14638" targetEnd="quarantana/cap10.xml#c10_14654">
+                          «Я всегда ее имѣла,» отвѣчала Гертруда, сдѣлавшаяся послѣ такого шага болѣе рѣшительною, и уже небоявшаяся лгать противъ самой себя.</note>
+        <note xml:id="Russian_1854_cap10-n174" type="translation" target="quarantana/cap10.xml#c10_14655" targetEnd="quarantana/cap10.xml#c10_14666">
+                          «Но какая главная причина заставляетъ васъ быть монахинею?»</note>
+        <note xml:id="Russian_1854_cap10-n175" type="translation" target="quarantana/cap10.xml#c10_14667" targetEnd="quarantana/cap10.xml#c10_14695">
+                          Добрый пасторъ не зналъ, до какой чувствительной струны онъ дотронулся, и Гертруда должна была сдѣлать большое усиліе, чтобы не дать замѣтить, какое дѣйствіе этѣ слова произвели въ душѣ ея.</note>
+        <note xml:id="Russian_1854_cap10-n176" type="translation" target="quarantana/cap10.xml#c10_14696" targetEnd="quarantana/cap10.xml#c10_14711">
+                          «Причина,» сказала она: «я хочу служить Богу и избѣгнуть опасностей свѣта...»</note>
+        <note xml:id="Russian_1854_cap10-n177" type="translation" target="quarantana/cap10.xml#c10_14712" targetEnd="quarantana/cap10.xml#c10_14720">
+                          «Не огорченіе ли какое, или какой... извините меня... какой капризъ?</note>
+        <note xml:id="Russian_1854_cap10-n178" type="translation" target="quarantana/cap10.xml#c10_14721" targetEnd="quarantana/cap10.xml#c10_14745">
+                          Иногда какой-нибудь пустой случай дѣлаетъ такое впечатлѣніе, которое, по видимому, должно остаться надолго; но когда причина эта пройдетъ и душа замолчитъ, то...»</note>
+        <note xml:id="Russian_1854_cap10-n179" type="translation" target="quarantana/cap10.xml#c10_14746" targetEnd="quarantana/cap10.xml#c10_14759">
+                          «Нѣтъ, нѣтъ, поспѣшно отвѣчала Гертруда, «сказаная мною причина есть истинная.»</note>
+        <note xml:id="Russian_1854_cap10-n180" type="translation" target="quarantana/cap10.xml#c10_14760" targetEnd="quarantana/cap10.xml#c10_14782">
+                          Викарій болѣе для точнаго исполненія своей обязанности, нежели по необходимости, продолжалъ свои вопросы; но Гертруда уже рѣшилась обманывать его.</note>
+        <note xml:id="Russian_1854_cap10-n181" type="translation" target="quarantana/cap10.xml#c10_14783" targetEnd="quarantana/cap10.xml#c10_14839">
+                          Кромѣ отвращенія, причиняемаго ей мыслію, повѣрить свою слабость этому почтенному и добродѣтельному человѣку, который вовсе не думалъ, что его обманываютъ, невинная жертва знала, что онъ можетъ воспрепятствовать поступленію ея въ монастырь; но что тѣмъ и кончилась бы власть его надъ нею и покровительство.</note>
+        <note xml:id="Russian_1854_cap10-n182" type="translation" target="quarantana/cap10.xml#c10_14840" targetEnd="quarantana/cap10.xml#c10_14848">
+                          По отъездѣ его, она одна осталась бы сь Княземъ.</note>
+        <note xml:id="Russian_1854_cap10-n183" type="translation" target="quarantana/cap10.xml#c10_14849" targetEnd="quarantana/cap10.xml#c10_14882">
+                          Добрый пастырь не зналъ бы, сколько въ послѣдствiи ей должно будетъ перенесть въ родительскомъ домѣ; а если бы и зналъ, то, при всѣхъ добрыхъ его намѣреніяхъ, онъ могъ бы только пожалѣть о ней.</note>
+        <note xml:id="Russian_1854_cap10-n184" type="translation" target="quarantana/cap10.xml#c10_14883" targetEnd="quarantana/cap10.xml#c10_14930">
+                          Испытатель дѣлая вопросы, утомился, прежде чѣмъ несчастная, поддерживая свою ложь; видя, что отвѣты ея были складны и не обнаруживали ни малѣйшихъ поводовъ къ сомнѣнію въ справедливости ихъ, онъ перемѣнилъ наконецъ разговоръ, сказавъ ей, что онъ совершенно убѣжденъ въ искренности ея добраго намѣренія, и, поздравивъ ее, ушелъ.</note>
+        <note xml:id="Russian_1854_cap10-n185" type="translation" target="quarantana/cap10.xml#c10_14931" targetEnd="quarantana/cap10.xml#c10_14963">
+                          Проходя чрезъ комнаты, онъ встрѣтилъ князя, явившагося тутъ будто случайно, и поздравилъ его съ хорошимъ расположеніемъ, въ какомъ онъ нашелъ дочь его.</note>
+        <note xml:id="Russian_1854_cap10-n186" type="translation" target="quarantana/cap10.xml#c10_14964" targetEnd="quarantana/cap10.xml#c10_15018">
+                          До этой минуты князь былъ въ большомъ безпокойствѣ; но при такомъ извѣстіи, онъ какъ будто ожилъ, и, забывъ обыкновенную важность свою, почти бѣгомъ побѣжалъ къ Гертрудѣ, осыпалъ ее похвалами, ласками и обѣщаніями съ дружескою радостію и чистосердечною нѣжностiю. Какъ справедливо, что сердце человѣка странно и непостижимо!</note>
+        <note xml:id="Russian_1854_cap10-n187" type="translation" target="quarantana/cap10.xml#c10_15019" targetEnd="quarantana/cap10.xml#c10_15033">
+                          Мы оставимъ Гертруду въ безпрерывномъ шумѣ зрѣлищъ и увеселенiй и не будемъ подробно описывать чувствъ ея въ этотъ промежутокъ времени.</note>
+        <note xml:id="Russian_1854_cap10-n188" type="translation" target="quarantana/cap10.xml#c10_15034" targetEnd="quarantana/cap10.xml#c10_15067">
+                          Эта была бы однообразная, подобная описанной уже нами, исторія грусти и мучительной неизвѣстности.</note>
+        <note xml:id="Russian_1854_cap10-n189" type="translation" target="quarantana/cap10.xml#c10_15068" targetEnd="quarantana/cap10.xml#c10_15097">
+                          Увеселенія праздниковъ, перемѣна предметовъ, пріятности загородныхъ прогулокъ, представляли ей въ ужаснѣйшемъ видѣ мысль о томъ жилищѣ, въ которое послѣ всѣхъ такихъ удовольствій вступитъ она наконецъ и навсегда.</note>
+        <note xml:id="Russian_1854_cap10-n190" type="translation" target="quarantana/cap10.xml#c10_15098" targetEnd="quarantana/cap10.xml#c10_15111">
+                          Въ собраніяхъ и на городскихъ праздникахъ такія впечатлѣнія были для нея еще убійственнѣе.</note>
+        <note xml:id="Russian_1854_cap10-n191" type="translation" target="quarantana/cap10.xml#c10_15112" targetEnd="quarantana/cap10.xml#c10_15157">
+                          Взглядъ на супруговъ, которымъ даютъ это названіе въ прiятнѣйшемъ смыслѣ, возбуждалъ въ ней зависть и раздиралъ сердце; часто и нѣкоторыя другія особы заставляли ее думать, что, нося такое названіе, она считала бы себя на верху блаженства.</note>
+        <note xml:id="Russian_1854_cap10-n192" type="translation" target="quarantana/cap10.xml#c10_15158" targetEnd="quarantana/cap10.xml#c10_15224">
+                          Иногда пышность дворцовъ, великолѣпіе въ комнатахъ, веселый шумъ въ разговорахъ, сообщали ей упоеніе и такое пламенное желанiе подобнаго образа жизни, что она давала себѣ обѣщаніе упорствовать и преодолѣть все, только бы не входить въ холодное и мрачное уединеніе монастыря; но всѣ эти предположенія исчезали при внимательномъ размышленіи о трудностяхъ, сопряженныхъ съ такимъ дѣломъ, или при одномъ взглядѣ на князя.</note>
+        <note xml:id="Russian_1854_cap10-n193" type="translation" target="quarantana/cap10.xml#c10_15225" targetEnd="quarantana/cap10.xml#c10_15265">
+                          Въ другой разъ мысль, что она должна навсегда отказаться отъ удовольствій, дѣлала для нея мучительнымъ и горькимъ это мгновенное развлеченіе. Такъ томимый жаждою больной, съ жадностію смотритъ на ложку съ водою, нехотя поднесенную ему докторомъ, и потомъ почти съ презрѣніемъ выпиваетъ ее.</note>
+        <note xml:id="Russian_1854_cap10-n194" type="translation" target="quarantana/cap10.xml#c10_15266" targetEnd="quarantana/cap10.xml#c10_15286">
+                          Однако викарій монастыря далъ нужное свидѣтельство и вскорѣ предписано выслушать опредѣленіе о принятіи Гертруды.</note>
+        <note xml:id="Russian_1854_cap10-n195" type="translation" target="quarantana/cap10.xml#c10_15287" targetEnd="quarantana/cap10.xml#c10_15310">
+                          Опредѣленіе утвердили: двѣ трети голосовъ, требуемыхъ уставомъ, было, какъ и ожидали того, въ пользу Гертруды, и она была принята.</note>
+        <note xml:id="Russian_1854_cap10-n196" type="translation" target="quarantana/cap10.xml#c10_15311" targetEnd="quarantana/cap10.xml#c10_15326">
+                          Утомленная столь долгою проволочкою, она сама просила, чтобы ее скорѣе перевели въ монастырь.</note>
+        <note xml:id="Russian_1854_cap10-n197" type="translation" target="quarantana/cap10.xml#c10_15327" targetEnd="quarantana/cap10.xml#c10_15336">
+                          Никто не противился этому желанiю.</note>
+        <note xml:id="Russian_1854_cap10-n198" type="translation" target="quarantana/cap10.xml#c10_15337" targetEnd="quarantana/cap10.xml#c10_15351">
+                          Воля ея была исполнена — и, провожаемая съ большою пышностію, она вступила въ монастырь и тамъ постриглась.</note>
+        <note xml:id="Russian_1854_cap10-n199" type="translation" target="quarantana/cap10.xml#c10_15352" targetEnd="quarantana/cap10.xml#c10_15400">
+                          По прошествіи года подъ искусомъ, съ сожалѣніемъ и раскаяніемъ, она дождалась минуты, въ которую должно было или сказать болѣе нежели когда-либо странное, неожиданое и предосудительное нѣтъ, или повторить нѣсколько разъ уже произнесенное да. Она повторила его, и сдѣлалась навсегда монахинею.</note>
+        <note xml:id="Russian_1854_cap10-n200" type="translation" target="quarantana/cap10.xml#c10_15401" targetEnd="quarantana/cap10.xml#c10_15428">
+                          Одно изъ отличительныхъ, чудесныхъ свойствъ Христіанской вѣры вижу я въ томъ, что она указываетъ человѣку правила поведенія и спокойствія, когда онъ къ ней прибѣгаетъ, въ какомъ бы то ни было случаѣ или крайности.</note>
+        <note xml:id="Russian_1854_cap10-n201" type="translation" target="quarantana/cap10.xml#c10_15429" targetEnd="quarantana/cap10.xml#c10_15471">
+                          Если есть какое-нибудь исцѣленіе для прошедшаго, она его предписываетъ, и употребляетъ, во чтобы то ни стало, свое ученіе и силу для приведенія его въ дѣйствіе; если же нѣть никакого, оно даетъ средство доказать на дѣлѣ то, что человѣкъ говорить въ пословицѣ «быть добродѣтельнымъ по необходимости.»</note>
+        <note xml:id="Russian_1854_cap10-n202" type="translation" target="quarantana/cap10.xml#c10_15472" targetEnd="quarantana/cap10.xml#c10_15522">
+                          Она научаетъ благоразумно продолжать предпріятіе, начатое по легкомыслію, вселяетъ въ душу склонность къ тому, до чего доводятъ человѣка силою, и даетъ всю святость, всю мудрость, скажемъ откровеннѣе, всѣ радости внутренняго призванія выбору смѣлому, но невозвратному.</note>
+        <note xml:id="Russian_1854_cap10-n203" type="translation" target="quarantana/cap10.xml#c10_15523" targetEnd="quarantana/cap10.xml#c10_15560">
+                          Вѣра такая путеводительница, изъ какого бы лабиринта, изъ какой бы пропасти ни взывалъ къ ней человѣкъ, что если онъ ей ввѣрился, то можетъ смѣло и беззаботно итти впередъ, и благополучно достигнуть счастливаго предѣла.</note>
+        <note xml:id="Russian_1854_cap10-n204" type="translation" target="quarantana/cap10.xml#c10_15561" targetEnd="quarantana/cap10.xml#c10_15596">
+                          При такой помощи, Гертруда могла бы сдѣлаться монахинею, быть спокойною и довольною своимъ положеніемъ; но несчастная напротивъ мучилась подъ игомъ, и тѣмъ сильнѣе чувствовала все его бремя и жестокость.</note>
+        <note xml:id="Russian_1854_cap10-n205" type="translation" target="quarantana/cap10.xml#c10_15597" targetEnd="quarantana/cap10.xml#c10_15624">
+                          Безпрерывное воспоминаніе о потерѣ свободы, ужасъ при мысли о настоящемъ положеніи, смутное и утомительное возрожденіе желаній, которыя никогда не могутъ осуществиться, вотъ что наполняло ея душу.</note>
+        <note xml:id="Russian_1854_cap10-n206" type="translation" target="quarantana/cap10.xml#c10_15625" targetEnd="quarantana/cap10.xml#c10_15666">
+                          Она приводила на память дни, такъ горько ею проведенные, собирала въ умѣ своемъ всѣ обстоятельства, поставившія ее въ настоящее положеніе, и тысячу разъ, мысленно, безъ всякой пользы разрушала совершенно исполненное ею намѣреніе; она обвиняла себя въ слабости, жаловалась на безчеловѣчіе и злобу другихъ и мучилась все болѣе и болѣе.</note>
+        <note xml:id="Russian_1854_cap10-n207" type="translation" target="quarantana/cap10.xml#c10_15667" targetEnd="quarantana/cap10.xml#c10_15703">
+                          Она вмѣстѣ и обожала и оплакивала красоту свою, сожалѣла о своей молодости, которой суждено увядать на долгомъ покаяніи, и завидовала иногда участи других женщинъ, которыя, каковы бы ни были ихъ чувства и состоянiе, могли свободно наслаждаться столькими выгодами въ свѣтѣ.</note>
+        <note xml:id="Russian_1854_cap10-n208" type="translation" target="quarantana/cap10.xml#c10_15704" targetEnd="quarantana/cap10.xml#c10_15718">
+                          Видъ монахинъ, содѣйствовавшихъ заключенію ея въ тюрьму, былъ для нея несносенъ.</note>
+        <note xml:id="Russian_1854_cap10-n209" type="translation" target="quarantana/cap10.xml#c10_15719" targetEnd="quarantana/cap10.xml#c10_15744">
+                          Она вспоминала искусство и хитрости, какія онѣ противу нея употребляли, и платила имъ за то презрѣніемъ, отвращеніемъ или явными упреками.</note>
+        <note xml:id="Russian_1854_cap10-n210" type="translation" target="quarantana/cap10.xml#c10_15745" targetEnd="quarantana/cap10.xml#c10_15812">
+                          Тѣ большею частію должны были уступать или молчать, потому что хотя князь употреблялъ жестокость, чтобы заставить дочь свою вступить въ монастырь, но когда желаніе его исполнилось, онъ никакъ не позволилъ бы другимъ воспользоваться правами надъ его дочерью, и малѣйшій слухъ объ этомъ лишилъ бы ихъ могущественнаго покровительства, или еще болѣе, вмѣсто покровителя, онѣ нашли бы въ князѣ жестокаго себѣ непрiятеля.</note>
+        <note xml:id="Russian_1854_cap10-n211" type="translation" target="quarantana/cap10.xml#c10_15813" targetEnd="quarantana/cap10.xml#c10_15864">
+                          Казалось, она должна бы чувствовать склонность къ другимъ сестрамъ, которыя не были участницами въ этой постыдной интригѣ, и которыя, не изъявляя желанія имѣть ее своею подругою, однако жъ любили ее, какъ подругу, и будучи набожны и любезны, научали своимъ примѣромъ, что не только можно жить въ этомъ мѣстѣ, но даже быть счастливою.</note>
+        <note xml:id="Russian_1854_cap10-n212" type="translation" target="quarantana/cap10.xml#c10_15865" targetEnd="quarantana/cap10.xml#c10_15913">
+                          Но и онѣ были ей равно противны по другой причинѣ: выраженія ихъ набожности и счастія какъ будто упрекали ее въ безпокойствѣ и безпорядочномъ поведеніи, и она не упускала ни одного случая посмѣяться надъ ними, какъ надъ пустосвятками, или представить ихъ лицемѣрками.</note>
+        <note xml:id="Russian_1854_cap10-n213" type="translation" target="quarantana/cap10.xml#c10_15914" targetEnd="quarantana/cap10.xml#c10_15946">
+                          Можетъ быть, она менѣе чувствовала бы къ нимъ отвращенія, если бы знала, что небольшое число черныхъ шаровъ, найденныхъ въ урнѣ, рѣшившей судьбу ея, было положено ими.</note>
+        <note xml:id="Russian_1854_cap10-n214" type="translation" target="quarantana/cap10.xml#c10_15947" targetEnd="quarantana/cap10.xml#c10_15983">
+                          По видимому, она находила нѣкоторое утѣшеніе въ томъ, что могла повелѣвать, что ей разсыпали ласкательства и угождали внутри монастыря, дѣлали посѣщенія извнѣ; что она могла оказывать свое покровительство, и всѣ называли ее синьорою; но какія это утѣшенія!</note>
+        <note xml:id="Russian_1854_cap10-n215" type="translation" target="quarantana/cap10.xml#c10_15984" targetEnd="quarantana/cap10.xml#c10_16050">
+                          Сердце, чувствуя недостаточность ихъ, желало бы иногда прибавить къ нимъ утѣшенія религіи; но этѣ утѣшенія доступны только тѣмъ, которыя отказываются отъ другихъ. Такъ утопающій, хватаясь за доску, которая можетъ спасти его, долженъ оставить всѣ водоросли и подводные камни, за которые ухватился онъ сначала по влеченію грубаго инстинкта.</note>
+        <note xml:id="Russian_1854_cap10-n216" type="translation" target="quarantana/cap10.xml#c10_16051" targetEnd="quarantana/cap10.xml#c10_16073">
+                          Спустя нѣсколько времени послѣ произнесенія обѣта, Гертруда была назначена начальницею пансіонерокъ; посудите же, каково было молодымъ дѣвицамъ находиться подъ такимъ управленіемъ!</note>
+        <note xml:id="Russian_1854_cap10-n217" type="translation" target="quarantana/cap10.xml#c10_16074" targetEnd="quarantana/cap10.xml#c10_16101">
+                          Прежнія подруги ея всѣ уже были выпущены; но она сохранила всѣ причуды того времени, и такъ или иначе воспитанницы должны были чувствовать дѣйствіе ихъ.</note>
+        <note xml:id="Russian_1854_cap10-n218" type="translation" target="quarantana/cap10.xml#c10_16102" targetEnd="quarantana/cap10.xml#c10_16152">
+                          Когда ей приходило на мысль, что многимъ изъ нихъ суждено наслаждаться счастiемъ, потеряннымъ ею безвозвратно, она чувствовала отвращенiе къ бѣднымъ малюткамъ и даже желаніе мстить имъ; она бранила ихъ, мучила и заставляла преждевременно расплачиваться за тѣ удовольствія, которыми онѣ будутъ наслаждаться нѣкогда.</note>
+        <note xml:id="Russian_1854_cap10-n219" type="translation" target="quarantana/cap10.xml#c10_16153" targetEnd="quarantana/cap10.xml#c10_16176">
+                          Если бы кто нибудь видѣлъ въ этѣ минуты, съ какою жестокостію она наказывала ихъ за малѣйшіе проступки, то почелъ бы ее за монахиню, строгую до безразсудности и варварства.</note>
+        <note xml:id="Russian_1854_cap10-n220" type="translation" target="quarantana/cap10.xml#c10_16177" targetEnd="quarantana/cap10.xml#c10_16195">
+                          Въ другое время то же отвращеніе отъ монастыря имѣло на нравъ ея совсѣмъ противуположное вліяніе.</note>
+        <note xml:id="Russian_1854_cap10-n221" type="translation" target="quarantana/cap10.xml#c10_16196" targetEnd="quarantana/cap10.xml#c10_16240">
+                          Тогда она не только сносила шумныя удовольствія своихъ воспитанницъ, но возбуждала ихъ къ тому, вмѣшиваясь въ ихъ игры, дѣлая ихъ болѣе разнообразными, или вступая съ ними въ разговоры и увлекая ихъ за предѣлы тѣхъ намѣренiй, съ которыми они были начаты.</note>
+        <note xml:id="Russian_1854_cap10-n222" type="translation" target="quarantana/cap10.xml#c10_16241" targetEnd="quarantana/cap10.xml#c10_16282">
+                          Если которая-нибудь изъ нихъ насмѣхалась надъ игуменьей, то она сама потакала въ этомъ ей съ удовольствіемъ, дѣлая разныя комическія сцены; потомъ, передражнивая пріемы одной монахини, осанку другой, она хохотала изо всѣхъ силъ; но это веселіе продолжалось не долго.</note>
+        <note xml:id="Russian_1854_cap10-n223" type="translation" target="quarantana/cap10.xml#c10_16283" targetEnd="quarantana/cap10.xml#c10_16307">
+                          Такъ жила она нѣсколько лѣтъ, не имѣя ни способовъ, ни средствъ сдѣлать болѣе, какъ, къ несчастію, представилось ей одно обстоятельство.</note>
+        <note xml:id="Russian_1854_cap10-n224" type="translation" target="quarantana/cap10.xml#c10_16308" targetEnd="quarantana/cap10.xml#c10_16335">
+                          Между отличіями и преимуществами, которыми пользовалась она въ замѣнъ возможности сдѣлаться когда-нибудь игуменьей, ей дано было мѣсто жилища въ особомъ отдѣленіи.</note>
+        <note xml:id="Russian_1854_cap10-n225" type="translation" target="quarantana/cap10.xml#c10_16336" targetEnd="quarantana/cap10.xml#c10_16381">
+                          Эта часть монастыря была въ смежности съ домомъ, который нанималъ одинъ молодой человѣкъ, разбойникъ по промыслу, одинъ изъ тѣхъ, которые въ то время, съ помощію своихъ сообщниковъ и другихъ злодѣевъ, могли, до нѣкоторой степени, презирать силу законовъ и общества.</note>
+        <note xml:id="Russian_1854_cap10-n226" type="translation" target="quarantana/cap10.xml#c10_16382" targetEnd="quarantana/cap10.xml#c10_16389">
+                          Въ нашей рукописи онъ называется Эджидiо только.</note>
+        <note xml:id="Russian_1854_cap10-n227" type="translation" target="quarantana/cap10.xml#c10_16390" targetEnd="quarantana/cap10.xml#c10_16428">
+                          Изъ маленькаго своего окна, выходившаго на дворъ монастырскаго строенія, онъ нѣсколько разъ замѣчалъ Гертруду, когда она проходила или прогуливалась по двору. Болѣе подстрекаемый, нежели устрашенный опасностію и низостію предпріятія, онъ осмѣлился однажды заговорить съ нею.</note>
+        <note xml:id="Russian_1854_cap10-n228" type="translation" target="quarantana/cap10.xml#c10_16429" targetEnd="quarantana/cap10.xml#c10_16431">
+                          Несчастная отвѣчала ему.</note>
+        <note xml:id="Russian_1854_cap10-n229" type="translation" target="quarantana/cap10.xml#c10_16432" targetEnd="quarantana/cap10.xml#c10_16445">
+                          Въ первыя минуты она почувствовала удовольствіе, и конечно не безбоязненное, но живое.</note>
+        <note xml:id="Russian_1854_cap10-n230" type="translation" target="quarantana/cap10.xml#c10_16446" targetEnd="quarantana/cap10.xml#c10_16485">
+                          Сильно, продолжительно, какъ мощная жизнь, заняло оно пустоту души ея; но такое удовольствіе походило на крѣпительный напитокъ, изобрѣтенный предпрiимчивою жестокостію древнихъ для преступниковъ, чтобы дать имъ силу къ перенесенію мученiй.</note>
+        <note xml:id="Russian_1854_cap10-n231" type="translation" target="quarantana/cap10.xml#c10_16486" targetEnd="quarantana/cap10.xml#c10_16552">
+                          Съ того времени можно было замѣтить большую перемѣну въ ея поведеніи. Она сдѣлалась вдругъ порядочнѣе, спокойнѣе перестала браниться, жаловаться: стала даже оказывать болѣе ласки и снисхожденія, и сестры радовались такой счастливой перемѣнѣ, ни сколько не догадываясь объ истинной причинѣ ея, и не понимая, что эта новая добродѣтель была не иное что, какъ лицемѣріе, дополненіе къ прежнимъ ея порокамъ. Эта наружная перемѣна не была продолжительна, по крайней мѣрѣ, не имѣла того постоянства и однообразія.</note>
+        <note xml:id="Russian_1854_cap10-n232" type="translation" target="quarantana/cap10.xml#c10_16553" targetEnd="quarantana/cap10.xml#c10_16612">
+                          Скоро опять показались обыкновенные капризы и досады, опять послышались новыя насмѣшки надъ монастыремъ, проклятія монастырской тюрьмы, иногда выражаемыя словами, въ тѣхъ мѣстахъ неупотребительными и даже неизвѣстными той, которая ихъ произносила.</note>
+        <note xml:id="Russian_1854_cap10-n233" type="translation" target="quarantana/cap10.xml#c10_16613" targetEnd="quarantana/cap10.xml#c10_16630">
+                          Однако жъ каждая изъ монахинь, чувствуя отъ того тайное огорченіе, старалась своею угодливостію заставить забыть его.</note>
+        <note xml:id="Russian_1854_cap10-n234" type="translation" target="quarantana/cap10.xml#c10_16631" targetEnd="quarantana/cap10.xml#c10_16647">
+                          Сестры переносили, какъ могли, всѣ эти перевороты, приписывая их своенравному и слабому характеру синьоры.</note>
+        <note xml:id="Russian_1854_cap10-n235" type="translation" target="quarantana/cap10.xml#c10_16648" targetEnd="quarantana/cap10.xml#c10_16716">
+                          Монахини нѣсколько времени, казалось, не имѣли никакого подозрѣнія, но однажды, когда синьора поссорилась за бездѣлицу съ одною послушницею и позволила себѣ унижать ее до послѣдней крайности, сестра, перенося это въ молчаніи и скрывая свою досаду, потеряла наконецъ терпѣніе, и дала замѣтить, что ей извѣстно что-то, и что она откроетъ это при удобномъ случаѣ.</note>
+        <note xml:id="Russian_1854_cap10-n236" type="translation" target="quarantana/cap10.xml#c10_16717" targetEnd="quarantana/cap10.xml#c10_16727">
+                          Съ этой минуты синьора не имѣла болѣе спокойствія.</note>
+        <note xml:id="Russian_1854_cap10-n237" type="translation" target="quarantana/cap10.xml#c10_16728" targetEnd="quarantana/cap10.xml#c10_16817">
+                          Въ одно утро — ждать подождать послушницу на службу — нѣтъ ее; бѣгутъ искать ее въ кельѣ — нѣть и тамъ; кличуть, зовутъ громко — не отвѣчаетъ; ищутъ по всему монастырю — нѣтъ нигдѣ, и кто знаетъ, чтобы придумали, если бы вдругъ, посреди этой суматохи, не открыли пролома въ стѣнѣ сада, что заставило всѣхъ думать, что она чрезъ него убѣжала.</note>
+        <note xml:id="Russian_1854_cap10-n238" type="translation" target="quarantana/cap10.xml#c10_16818" targetEnd="quarantana/cap10.xml#c10_16845">
+                          Тотчась во всѣ стороны разослали ѣздовыхъ, чтобы поймать ее и привести въ монастырь; ѣздили, искали — нигдѣ о ней ни слуху, ни духу.</note>
+        <note xml:id="Russian_1854_cap10-n239" type="translation" target="quarantana/cap10.xml#c10_16846" targetEnd="quarantana/cap10.xml#c10_16863">
+                          Можетъ быть, узнали бы гораздо болѣе, если бы, вмѣсто такихъ далекихъ поисковъ, сдѣлали легкій обыскъ по сосѣдству.</note>
+        <note xml:id="Russian_1854_cap10-n240" type="translation" target="quarantana/cap10.xml#c10_16864" targetEnd="quarantana/cap10.xml#c10_16929">
+                          Послѣ многихъ восклицаній удивленія (потому что никто не считалъ эту дѣвушку способною къ такому дѣлу) и послѣ множества толковъ, заключили наконецъ, что она, вѣроятно, отправилась въ страну отдаленную; а какъ одна изъ сестръ сказала: «Вѣрно, она скрылась въ Голландіи,» то съ того времени всѣ начали говоритъ, что она скрылась въ этой землѣ.</note>
+        <note xml:id="Russian_1854_cap10-n241" type="translation" target="quarantana/cap10.xml#c10_16930" targetEnd="quarantana/cap10.xml#c10_16983">
+                          Синьора однако жъ не раздѣляла съ другими этой увѣренности, не потому, чтобы она не соглашалась съ общимъ мнѣніемъ, или опровергала его своими доводами: она этого не дѣлала; если же имѣла причины не соглашаться съ общимъ мнѣніемъ, то никогда истина не могла быть скрыта лучше; тщательнѣе всего удаляла она воспоминаніе объ этомъ происшествіи, и менѣе всего старались проникнуть въ глубину этой тайны.</note>
+        <note xml:id="Russian_1854_cap10-n242" type="translation" target="quarantana/cap10.xml#c10_16984" targetEnd="quarantana/cap10.xml#c10_16992">
+                          Но она тѣмъ болѣе о ней думала, чѣмъ менѣе говорила.</note>
+        <note xml:id="Russian_1854_cap10-n243" type="translation" target="quarantana/cap10.xml#c10_16993" targetEnd="quarantana/cap10.xml#c10_17015">
+                          Сколько разъ въ день образъ этой молодой дѣвушки неожиданно овладѣвать умомъ ея, вселялся въ него такъ, что она никакъ не могла истребить его!</note>
+        <note xml:id="Russian_1854_cap10-n244" type="translation" target="quarantana/cap10.xml#c10_17016" targetEnd="quarantana/cap10.xml#c10_17049">
+                          Сколько разъ она желала бы лучше говорить съ нѣю, нежели безпрестанно имѣть ее въ своихъ мысляхъ, нежели быть день и ночь въ присутствiи этого ужаснаго, пустаго, безстрастнаго образа!</note>
+        <note xml:id="Russian_1854_cap10-n245" type="translation" target="quarantana/cap10.xml#c10_17050" targetEnd="quarantana/cap10.xml#c10_17105">
+                          Сколько разъ желала бы она слышать дѣйствительный голосъ этого существа, его упреки, угрозы, нежели всегда чувствовать въ ушахъ мнимое стенаніе этого самаго голоса и слушать его слова, повторяемыя съ неутомимымъ упорствомъ и настойчивостію, какихъ никогда не имѣетъ существо живое!</note>
+        <note xml:id="Russian_1854_cap10-n246" type="translation" target="quarantana/cap10.xml#c10_17106" targetEnd="quarantana/cap10.xml#c10_17129">
+                          Прошло уже около года послѣ этого происшествія, когда Лучія была представлена синьорѣ, и разговаривала съ нею о томъ, на чемъ остановилось наше повѣствованіе.</note>
+        <note xml:id="Russian_1854_cap10-n247" type="translation" target="quarantana/cap10.xml#c10_17130" targetEnd="quarantana/cap10.xml#c10_17175">
+                          Синьора осыпала ее вопросами относительно преслѣдованій дона Родриго, и смѣло входила въ нѣкоторыя подробности, которыя показались, и должны были показаться, болѣе нежели новостію для Лучiи, никогда недумавшей, чтобы любопытство монахинь могло простираться до такихъ предметовъ.</note>
+        <note xml:id="Russian_1854_cap10-n248" type="translation" target="quarantana/cap10.xml#c10_17176" targetEnd="quarantana/cap10.xml#c10_17190">
+                          Разсужденія, смѣшиваемыя съ вопросами, или которыя она дѣлала случайно, были не менѣе странны.</note>
+        <note xml:id="Russian_1854_cap10-n249" type="translation" target="quarantana/cap10.xml#c10_17191" targetEnd="quarantana/cap10.xml#c10_17214">
+                          Ужасъ, производимый этимъ господиномъ на Лучiю, казалось, забавлялъ ее, и она спрашивала, ужъ не безобразенъ ли онъ, что производитъ, на нее такой страхъ?</note>
+        <note xml:id="Russian_1854_cap10-n250" type="translation" target="quarantana/cap10.xml#c10_17215" targetEnd="quarantana/cap10.xml#c10_17236">
+                          Она бы назвала глупымъ и смѣшнымъ отвращеніе Лучiи, если бы не было тому причиною преимущество, которое она отдавала Ренцо,</note>
+        <note xml:id="Russian_1854_cap10-n251" type="translation" target="quarantana/cap10.xml#c10_17237" targetEnd="quarantana/cap10.xml#c10_17292">
+                          и объ этомъ предметѣ она дала волю своимъ вопросамъ, которыми приводила въ замѣшательство и заставляла краснѣть бѣдную дѣвушку; потомъ замѣтивъ, что языкъ много высказывалъ испорченность ея воображенія, она думала, какъ бы дать лучшее направленіе сказанному; но не могла однако же сгладить съ сердца Лучiи непрiятнаго впечатлѣнія и какой-то боязни.</note>
+        <note xml:id="Russian_1854_cap10-n252" type="translation" target="quarantana/cap10.xml#c10_17293" targetEnd="quarantana/cap10.xml#c10_17322">
+                          Какъ скоро Лучія могла наединѣ увидѣться съ матерью, онъ тотчасъ открылъ ей; но Агнеса, болѣе ея опытная, разсѣяла ея сомненія и въ короткихъ словахъ открыла всю тайну.</note>
+        <note xml:id="Russian_1854_cap10-n253" type="translation" target="quarantana/cap10.xml#c10_17323" targetEnd="quarantana/cap10.xml#c10_17343">
+                          «Не удивляйся,» сказала она ей: «когда узнаешь свѣтъ, какъ я его знаю, тогда увидишь, что дивиться нечему.</note>
+        <note xml:id="Russian_1854_cap10-n254" type="translation" target="quarantana/cap10.xml#c10_17344" targetEnd="quarantana/cap10.xml#c10_17363">
+                          Знатныя особы, однѣ болѣе, другія менѣе, имѣютъ всѣ нѣкоторыя причуды.</note>
+        <note xml:id="Russian_1854_cap10-n255" type="translation" target="quarantana/cap10.xml#c10_17364" targetEnd="quarantana/cap10.xml#c10_17384">
+                          Надобно дать имъ волю говорить, особенно когда имѣемъ въ нихъ нужду, и показывать видъ, что внимательно слушаемъ ихъ, и вѣрить тому, что онѣ разсказываютъ.</note>
+        <note xml:id="Russian_1854_cap10-n256" type="translation" target="quarantana/cap10.xml#c10_17385" targetEnd="quarantana/cap10.xml#c10_17401">
+                          Ты видѣла, какъ она прервала рѣчь мою: можно было подумать, что я сказала что-нибудь неприличное.</note>
+        <note xml:id="Russian_1854_cap10-n257" type="translation" target="quarantana/cap10.xml#c10_17402" targetEnd="quarantana/cap10.xml#c10_17408">
+                          Я ни сколько отъ этого не смѣшалась.</note>
+        <note xml:id="Russian_1854_cap10-n258" type="translation" target="quarantana/cap10.xml#c10_17409" targetEnd="quarantana/cap10.xml#c10_17411">
+                          Онѣ всѣ таковы.</note>
+        <note xml:id="Russian_1854_cap10-n259" type="translation" target="quarantana/cap10.xml#c10_17412" targetEnd="quarantana/cap10.xml#c10_17431">
+                          И совсѣмъ тѣмъ мы должны благодарить Небо, что она къ тебѣ такъ расположена и хочетъ намъ истинно покровительствовать.</note>
+        <note xml:id="Russian_1854_cap10-n260" type="translation" target="quarantana/cap10.xml#c10_17432" targetEnd="quarantana/cap10.xml#c10_17453">
+                          Если случится тебѣ имѣть какое-либо дѣло съ знатнѣйшими людьми, когда ты будешь свободна... впрочемъ, дочь моя, ты это очень скоро поймешь.»</note>
+        <note xml:id="Russian_1854_cap10-n261" type="translation" target="quarantana/cap10.xml#c10_17454" targetEnd="quarantana/cap10.xml#c10_17515">
+                          Желаніе обязать настоятеля, удовольствіе покровительствовать, мысль о вліяніи, какое можетъ произвести покровительство, такъ великодушно дарованное, нѣкоторая склонность къ Лучiи и, можетъ быть, также утѣшеніе, какое чувствуешь, дѣлая добро невинному существу, услаждая и утѣшая угнетенныхъ, — все это въ самомъ дѣлѣ расположило синьору заняться участью этихъ бѣдныхъ бѣглецовъ.</note>
+        <note xml:id="Russian_1854_cap10-n262" type="translation" target="quarantana/cap10.xml#c10_17516" targetEnd="quarantana/cap10.xml#c10_17546">
+                          Въ слѣдствіе данныхъ ею приказаній и изъявленнаго желанія, онѣ были помѣщены въ жилищѣ экономки, смежномъ съ монастыремъ, и съ ними обходились такъ, какъ бы съ служащими въ монастырѣ.</note>
+        <note xml:id="Russian_1854_cap10-n263" type="translation" target="quarantana/cap10.xml#c10_17547" targetEnd="quarantana/cap10.xml#c10_17563">
+                          Мать и дочь радовались вмѣстѣ, что нашли такъ скоро безопасное и честное пристанище.</note>
+        <note xml:id="Russian_1854_cap10-n264" type="translation" target="quarantana/cap10.xml#c10_17564" targetEnd="quarantana/cap10.xml#c10_17618">
+                          Онѣ еще болѣе желали бы остаться въ неизвѣстности отъ всѣхъ; но это не такъ легко было въ монастырѣ, тѣмъ болѣе, что былъ еще одинъ человѣкъ, который принималъ большое участiе въ полученіи о нихъ извѣстій, и въ душѣ котораго вмѣстѣ съ страстію соединялось еще опасеніе, что его предупредятъ и онъ встрѣтитъ препятствіе.</note>
+        <note xml:id="Russian_1854_cap10-n265" type="translation" target="quarantana/cap10.xml#c10_17619" targetEnd="quarantana/cap10.xml#c10_17642">
+                          Что же касается до насъ, мы оставимъ Агнесу и Лучiю въ ихъ убѣжищѣ, и возвратимся во дворецъ сего послѣдняго, гдѣ онъ ожидалъ успѣха отъ своего преступнаго предпріятія.</note>
+      </div>
+    </body>
+  </text>
+</TEI>

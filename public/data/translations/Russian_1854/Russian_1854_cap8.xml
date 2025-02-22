@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Commenti da Обрученные : Медиолан. быль XVIII [!XVII] столетия, найден. и передел. Александром Манзони</title>
+        <author>Alessandro Manzoni</author>
+        <respStmt>
+          <resp>Annotazione digitale</resp>
+          <persName xml:id="Maria_Levchenko">Maria Levchenko</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Leggo Manzoni. Quaranta commenti alla Quarantana</publisher>
+        <pubPlace>Università di Bologna "Alma mater studiorum"</pubPlace>
+        <date>2025</date>
+        <availability>
+          <p>Questa risorsa digitale è liberamente accessibile per uso personale o scientifico. Ogni uso commerciale è vietato.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Alessandro Manzoni</author>
+          <title>Обрученные : Медиолан. быль XVIII [!XVII] столетия, найден. и передел. Александром Манзони</title>
+          <pubPlace>Москва</pubPlace>
+          <publisher>Библиотека романов, повестей, путешествий и записок, изд. Н.Н. Улитиным</publisher>
+          <date>1854</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <listChange>
+        <change who="Maria_Levchenko" when="2025-02-18">Annotazione digitale</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="Russian_1854.xml_cap8">
+        <note xml:id="Russian_1854_cap8-n1" type="translation" target="quarantana/cap8.xml#c8_10001" targetEnd="quarantana/cap8.xml#c8_10001">
+                          «Карнеаде!...</note>
+        <note xml:id="Russian_1854_cap8-n2" type="translation" target="quarantana/cap8.xml#c8_10002" targetEnd="quarantana/cap8.xml#c8_10031">
+                          Кто этотъ Карнеаде?» говорилъ донъ Абондіо, сидя въ креслахъ, посреди залы верхняго этажа, и держа передъ собою раскрытую книгу, когда вдругъ Перпетуа пришла доложить ему о пришедшихъ. «Карнеаде!</note>
+        <note xml:id="Russian_1854_cap8-n3" type="translation" target="quarantana/cap8.xml#c8_10032" targetEnd="quarantana/cap8.xml#c8_10064">
+                          Помнится, что я слышалъ это имя или гдѣ-то читалъ объ немъ... Вѣроятно, онъ былъ ученый человѣкъ, писатель древнихъ временъ; имя это старинное. Чортъ возьми! Кто бы онъ могъ быть?»</note>
+        <note xml:id="Russian_1854_cap8-n4" type="translation" target="quarantana/cap8.xml#c8_10065" targetEnd="quarantana/cap8.xml#c8_10081">
+                          Такъ мало бѣднякъ предвидѣлъ грозу, собиравшуюся надъ его головою.</note>
+        <note xml:id="Russian_1854_cap8-n5" type="translation" target="quarantana/cap8.xml#c8_10082" targetEnd="quarantana/cap8.xml#c8_10118">
+                          Надобно знать, что донъ Абондіо ежедневно любилъ прочитывать по нѣскольку страницъ, и сосѣдній священникъ, имѣвшій маленькую библиотеку, давалъ ему свои книги, одну послѣ другой, и всегда первую, какая попадется въ руки.</note>
+        <note xml:id="Russian_1854_cap8-n6" type="translation" target="quarantana/cap8.xml#c8_10119" targetEnd="quarantana/cap8.xml#c8_10167">
+                          Та, надъ которою разсуждалъ донъ Абондіо, едва оправившійся отъ горячки, причиненной страхомъ, и даже болѣе здоровый, нежели какъ онъ показывалъ, заключала въ себѣ похвальное слово Св. Карлу, произнесенное два года тому назадъ въ Медіоланскомъ соборѣ, съ большимъ торжествомъ, и слушанное съ такимъ же удивленіемъ.</note>
+        <note xml:id="Russian_1854_cap8-n7" type="translation" target="quarantana/cap8.xml#c8_10168" targetEnd="quarantana/cap8.xml#c8_10212">
+                          Въ этомъ словѣ сравнивали святаго съ Архимедомъ, по любви его къ учености, и дону Абондіо не было здѣсь никакого затрудненія, потому что Архимедъ такъ прославилъ себя, что и безъ глубокаго ученія можно было знать о немъ что-нибудь.</note>
+        <note xml:id="Russian_1854_cap8-n8" type="translation" target="quarantana/cap8.xml#c8_10213" targetEnd="quarantana/cap8.xml#c8_10228">
+                          Но послѣ Архимеда ораторъ сравнивалъ еще Святаго съ Карнеадомъ: и тутъ-то чтецъ нашъ пришелъ въ затрудненіе.</note>
+        <note xml:id="Russian_1854_cap8-n9" type="translation" target="quarantana/cap8.xml#c8_10229" targetEnd="quarantana/cap8.xml#c8_10236">
+                          Въ эту минуту Перпетуа объявила о приходѣ Тонiо.</note>
+        <note xml:id="Russian_1854_cap8-n10" type="translation" target="quarantana/cap8.xml#c8_10237" targetEnd="quarantana/cap8.xml#c8_10244">
+                          «Въ такое время» сказалъ донъ Абондiо, какъ это было естественно.</note>
+        <note xml:id="Russian_1854_cap8-n11" type="translation" target="quarantana/cap8.xml#c8_10245" targetEnd="quarantana/cap8.xml#c8_10247">
+                          «Что ему нужно?</note>
+        <note xml:id="Russian_1854_cap8-n12" type="translation" target="quarantana/cap8.xml#c8_10248" targetEnd="quarantana/cap8.xml#c8_10268">
+                          Въ немъ совѣсти нѣтъ; но если я не поймаю его на лету... если не удержу теперь, кто знаетъ, когда я найду его...</note>
+        <note xml:id="Russian_1854_cap8-n13" type="translation" target="quarantana/cap8.xml#c8_10269" targetEnd="quarantana/cap8.xml#c8_10270">
+                          Пусть войдетъ...</note>
+        <note xml:id="Russian_1854_cap8-n14" type="translation" target="quarantana/cap8.xml#c8_10271" targetEnd="quarantana/cap8.xml#c8_10280">
+                          Но увѣрена ли ты, что это Тонiо?»</note>
+        <note xml:id="Russian_1854_cap8-n15" type="translation" target="quarantana/cap8.xml#c8_10281" targetEnd="quarantana/cap8.xml#c8_10292">
+                          «Дьяволъ!...» отвѣчала Перпетуа, сошла внизъ, отворила дверь и сказала: «Гдѣ же ты?»</note>
+        <note xml:id="Russian_1854_cap8-n16" type="translation" target="quarantana/cap8.xml#c8_10293" targetEnd="quarantana/cap8.xml#c8_10307">
+                          Тонiо показался, и въ то же время показалась и Агнеса, которая поклонилась Перпетуѣ.</note>
+        <note xml:id="Russian_1854_cap8-n17" type="translation" target="quarantana/cap8.xml#c8_10308" targetEnd="quarantana/cap8.xml#c8_10317">
+                          «Добрый вечеръ, Агнеса! Откуда такъ поздно?»</note>
+        <note xml:id="Russian_1854_cap8-n18" type="translation" target="quarantana/cap8.xml#c8_10318" targetEnd="quarantana/cap8.xml#c8_10324">
+                          «Я иду изъ,» и она назвала сосѣднюю деревушку.</note>
+        <note xml:id="Russian_1854_cap8-n19" type="translation" target="quarantana/cap8.xml#c8_10325" targetEnd="quarantana/cap8.xml#c8_10335">
+                          «Если бы вы знали,» продолжала она, «я вела себя такъ, что вѣрно вы меня похвалите!»</note>
+        <note xml:id="Russian_1854_cap8-n20" type="translation" target="quarantana/cap8.xml#c8_10336" targetEnd="quarantana/cap8.xml#c8_10349">
+                          «А что?» спросила Перпетуа; и оборотившись къ братьямъ, сказала: «Взойдите; я иду за вами.»</note>
+        <note xml:id="Russian_1854_cap8-n21" type="translation" target="quarantana/cap8.xml#c8_10350" targetEnd="quarantana/cap8.xml#c8_10387">
+                          «Что?» возразила Агнеса. «А то, что одна изъ тѣхъ женщинъ, которыя не зная цѣли, хотятъ говорить... Повѣрите ли? Она увѣряла, что вы потому не вышли за мужъ ни за Беппо Суолавекія, ни за Ансельма Лунинъя, что не понравились имъ.</note>
+        <note xml:id="Russian_1854_cap8-n22" type="translation" target="quarantana/cap8.xml#c8_10388" targetEnd="quarantana/cap8.xml#c8_10397">
+                          А я утверждала, что вы отказали имъ обоимъ…»</note>
+        <note xml:id="Russian_1854_cap8-n23" type="translation" target="quarantana/cap8.xml#c8_10398" targetEnd="quarantana/cap8.xml#c8_10398">
+                          — «Конечно.</note>
+        <note xml:id="Russian_1854_cap8-n24" type="translation" target="quarantana/cap8.xml#c8_10399" targetEnd="quarantana/cap8.xml#c8_10403">
+                          Ахъ, болтушка, лгунья!</note>
+        <note xml:id="Russian_1854_cap8-n25" type="translation" target="quarantana/cap8.xml#c8_10404" targetEnd="quarantana/cap8.xml#c8_10406">
+                          Да кто же это женщина?»</note>
+        <note xml:id="Russian_1854_cap8-n26" type="translation" target="quarantana/cap8.xml#c8_10407" targetEnd="quarantana/cap8.xml#c8_10416">
+                          — «Не спрашивайте ея имени: мнѣ не хотѣлось бы поссорить васъ.»</note>
+        <note xml:id="Russian_1854_cap8-n27" type="translation" target="quarantana/cap8.xml#c8_10417" targetEnd="quarantana/cap8.xml#c8_10427">
+                          — «Нѣтъ, ты мнѣ скажешь его, ты должна мнѣ сказать его. Ахъ, лгунья!»</note>
+        <note xml:id="Russian_1854_cap8-n28" type="translation" target="quarantana/cap8.xml#c8_10428" targetEnd="quarantana/cap8.xml#c8_10447">
+                          — «Вы не можете вообразить, какъ мнѣ было жаль, что я не знала всей исторіи, чтобы уличить эту проклятую женщину.»</note>
+        <note xml:id="Russian_1854_cap8-n29" type="translation" target="quarantana/cap8.xml#c8_10448" targetEnd="quarantana/cap8.xml#c8_10455">
+                          «Самая гнустная лгунья,» сказала Перпетуа.</note>
+        <note xml:id="Russian_1854_cap8-n30" type="translation" target="quarantana/cap8.xml#c8_10456" targetEnd="quarantana/cap8.xml#c8_10464">
+                          «Что же касается до Беппо, всѣ знаютъ, и видно было...»</note>
+        <note xml:id="Russian_1854_cap8-n31" type="translation" target="quarantana/cap8.xml#c8_10465" targetEnd="quarantana/cap8.xml#c8_10474">
+                          - Эй! Тонiо! затвори дверь, и ступай на верхъ: тот-часъ приду.»</note>
+        <note xml:id="Russian_1854_cap8-n32" type="translation" target="quarantana/cap8.xml#c8_10475" targetEnd="quarantana/cap8.xml#c8_10487">
+                          — «Хорошо,» отвѣчалъ Тонiо, и Перпетуа съ живостію продолжала свой разсказъ.</note>
+        <note xml:id="Russian_1854_cap8-n33" type="translation" target="quarantana/cap8.xml#c8_10488" targetEnd="quarantana/cap8.xml#c8_10516">
+                          Напротивъ воротъ дона Абондіо былъ маленькій переулокъ, между двумя избами, который далѣе не продолжался, а выходилъ въ поле.</note>
+        <note xml:id="Russian_1854_cap8-n34" type="translation" target="quarantana/cap8.xml#c8_10517" targetEnd="quarantana/cap8.xml#c8_10533">
+                          Агнеса перешла туда, будто бы желая стать въ сторонѣ, чтобы свободнѣе разговаривать; а Перпетуа послѣдовала за нею.</note>
+        <note xml:id="Russian_1854_cap8-n35" type="translation" target="quarantana/cap8.xml#c8_10534" targetEnd="quarantana/cap8.xml#c8_10560">
+                          Когда онѣ повернули за уголъ и стали въ такомъ мѣстѣ, что нельзя было видѣть, что происходило передъ домомъ дона Аббондiо, Агнеса громко кашлянула.</note>
+        <note xml:id="Russian_1854_cap8-n36" type="translation" target="quarantana/cap8.xml#c8_10561" targetEnd="quarantana/cap8.xml#c8_10563">
+                          Это былъ условный знакъ.</note>
+        <note xml:id="Russian_1854_cap8-n37" type="translation" target="quarantana/cap8.xml#c8_10564" targetEnd="quarantana/cap8.xml#c8_10613">
+                          Ренцо, услышавъ его, сталъ ободрять Лучiю, пожимая ей руку, и оба на цыпочкахъ побѣжали изъ своего мѣста, обошли стѣну, подошли къ двери, осторожно отворили ее въ одно мгновеніе были въ корридорѣ, гдѣ Тонiо съ братомъ своимъ ожидалъ ихъ.</note>
+        <note xml:id="Russian_1854_cap8-n38" type="translation" target="quarantana/cap8.xml#c8_10614" targetEnd="quarantana/cap8.xml#c8_10634">
+                          Ренцо потихоньку заложилъ крючки, и всѣ четверо очутились на лѣстницѣ, и пошли тихо, какъ будто только два человѣка.</note>
+        <note xml:id="Russian_1854_cap8-n39" type="translation" target="quarantana/cap8.xml#c8_10635" targetEnd="quarantana/cap8.xml#c8_10658">
+                          Пришедъ на верхнюю площадку, оба брата пошли къ двери, которая вела въ залу, находившуюся съ боку лѣстницы; обрученные же прислонились къ стѣнѣ.</note>
+        <note xml:id="Russian_1854_cap8-n40" type="translation" target="quarantana/cap8.xml#c8_10659" targetEnd="quarantana/cap8.xml#c8_10665">
+                          — «Deo gratias», сказалъ Тонiо.</note>
+        <note xml:id="Russian_1854_cap8-n41" type="translation" target="quarantana/cap8.xml#c8_10666" targetEnd="quarantana/cap8.xml#c8_10673">
+                          «Войди!» отвѣчалъ ему голосъ изъ внутри.</note>
+        <note xml:id="Russian_1854_cap8-n42" type="translation" target="quarantana/cap8.xml#c8_10674" targetEnd="quarantana/cap8.xml#c8_10692">
+                          Тонiо отворилъ дверь, ровнехонько сколько нужно было для того, чтобы пролѣзть ему и его брату одному за другимъ.</note>
+        <note xml:id="Russian_1854_cap8-n43" type="translation" target="quarantana/cap8.xml#c8_10693" targetEnd="quarantana/cap8.xml#c8_10718">
+                          Лучъ свѣта, который неожиданно блеснулъ въ это время въ отверстіе и разлился по темному камню площадки, заставилъ содрогнуться Лучiю, какъ будто она уже была открыта.</note>
+        <note xml:id="Russian_1854_cap8-n44" type="translation" target="quarantana/cap8.xml#c8_10719" targetEnd="quarantana/cap8.xml#c8_10753">
+                          Вошедъ съ братомъ, Тонiо затворилъ за собою дверь; обрученные остались неподвижны въ темнотѣ, удерживая дыханіе и прислушиваясь къ разговору; слышнѣе всего было частое біеніе сердца бѣдной Лучiи.</note>
+        <note xml:id="Russian_1854_cap8-n45" type="translation" target="quarantana/cap8.xml#c8_10754" targetEnd="quarantana/cap8.xml#c8_10790">
+                          Донъ Абондiо, какъ мы уже сказали выше, сидѣлъ въ старинныхъ креслахъ, въ старомъ халатѣ и такомъ же колпакѣ, который, при слабомъ сіяніи маленькой лампы, торчалъ у него на лбу, словно рогъ.</note>
+        <note xml:id="Russian_1854_cap8-n46" type="translation" target="quarantana/cap8.xml#c8_10791" targetEnd="quarantana/cap8.xml#c8_10835">
+                          Двѣ пукли волосъ выглядывали изъ-подъ колпака, густыя брови, большіе усы, широкая Испанская бородка, и все, бѣлое и разбросанное на этомъ красномъ и загорѣвшемъ лицѣ, много походило на кустарникъ, покрытый снѣгомъ, который при блескѣ луны видѣнъ среди развалинъ.</note>
+        <note xml:id="Russian_1854_cap8-n47" type="translation" target="quarantana/cap8.xml#c8_10836" targetEnd="quarantana/cap8.xml#c8_10851">
+                          «А! А!» сказалъ донъ Абондіо, снимая очки, которыя положилъ на книжечку.</note>
+        <note xml:id="Russian_1854_cap8-n48" type="translation" target="quarantana/cap8.xml#c8_10852" targetEnd="quarantana/cap8.xml#c8_10869">
+                          «Г. пасторъ скажетъ, можетъ быть, что я поздно пришелъ,» сказалъ Тоніо кланяясь; что дѣлалъ также и Жервазо, хотя не такъ ловко.</note>
+        <note xml:id="Russian_1854_cap8-n49" type="translation" target="quarantana/cap8.xml#c8_10870" targetEnd="quarantana/cap8.xml#c8_10878">
+                          «Конечно, поздно и очень поздно.</note>
+        <note xml:id="Russian_1854_cap8-n50" type="translation" target="quarantana/cap8.xml#c8_10879" targetEnd="quarantana/cap8.xml#c8_10883">
+                          Знаешь ли ты, что я боленъ?»</note>
+        <note xml:id="Russian_1854_cap8-n51" type="translation" target="quarantana/cap8.xml#c8_10884" targetEnd="quarantana/cap8.xml#c8_10887">
+                          «Я очень о томъ сожалѣю!»</note>
+        <note xml:id="Russian_1854_cap8-n52" type="translation" target="quarantana/cap8.xml#c8_10888" targetEnd="quarantana/cap8.xml#c8_10899">
+                          «Ты слышалъ: теперь я болень, и самъ не знаю, когда могу показаться...</note>
+        <note xml:id="Russian_1854_cap8-n53" type="translation" target="quarantana/cap8.xml#c8_10900" targetEnd="quarantana/cap8.xml#c8_10908">
+                          Но зачѣмъ ты привелъ съ ссбою этого... этого парня?»</note>
+        <note xml:id="Russian_1854_cap8-n54" type="translation" target="quarantana/cap8.xml#c8_10909" targetEnd="quarantana/cap8.xml#c8_10913">
+                          «Чтобы не быть одному, господинъ пасторъ.»</note>
+        <note xml:id="Russian_1854_cap8-n55" type="translation" target="quarantana/cap8.xml#c8_10914" targetEnd="quarantana/cap8.xml#c8_10915">
+                          «Хорошо, посмотримъ.»</note>
+        <note xml:id="Russian_1854_cap8-n56" type="translation" target="quarantana/cap8.xml#c8_10916" targetEnd="quarantana/cap8.xml#c8_10932">
+                          «Вотъ двадцать пять новыхъ берлинговъ, на которыхъ видѣнъ Св. Амвросій на конѣ,» сказалъ Тонiо, вынимая ихъ изъ кармана.</note>
+        <note xml:id="Russian_1854_cap8-n57" type="translation" target="quarantana/cap8.xml#c8_10933" targetEnd="quarantana/cap8.xml#c8_10958">
+                          — «Покажи,» возразилъ донъ Абондiо, и надѣвъ очки, онъ взялъ берлинги, размотрѣлъ ихъ, свѣсилъ и нашелъ, что они были указной пробы.</note>
+        <note xml:id="Russian_1854_cap8-n58" type="translation" target="quarantana/cap8.xml#c8_10959" targetEnd="quarantana/cap8.xml#c8_10968">
+                          «Теперь, честный отецъ, вы мнѣ отдадите ожерелье моей Теклы.»</note>
+        <note xml:id="Russian_1854_cap8-n59" type="translation" target="quarantana/cap8.xml#c8_10969" targetEnd="quarantana/cap8.xml#c8_11027">
+                          «Это справедливо, — отвѣчалъ донъ Абондiо, и пошелъ въ шкафъ, оглядываясь на всѣ стороны, и какъ бы желая удалить зрителей; отворилъ вполовину дверцы, закрылъ собой отверстіе, просунулъ въ него голову и руку, вытащилъ закладъ, снова затворилъ шкафъ, развернулъ бумагу, и сказавъ: «вотъ оно,» завернулъ опять и отдалъ Тонiо.</note>
+        <note xml:id="Russian_1854_cap8-n60" type="translation" target="quarantana/cap8.xml#c8_11028" targetEnd="quarantana/cap8.xml#c8_11040">
+                          «Теперь,» сказалъ Тоніо, «вы потрудитесь мнѣ дать росписку.»</note>
+        <note xml:id="Russian_1854_cap8-n61" type="translation" target="quarantana/cap8.xml#c8_11041" targetEnd="quarantana/cap8.xml#c8_11048">
+                          «Вотъ еще,» сказалъ донъ Абондіо. «Они всѣ таковы.</note>
+        <note xml:id="Russian_1854_cap8-n62" type="translation" target="quarantana/cap8.xml#c8_11049" targetEnd="quarantana/cap8.xml#c8_11054">
+                          Боже мой! Какъ всѣ стали подозрительны!</note>
+        <note xml:id="Russian_1854_cap8-n63" type="translation" target="quarantana/cap8.xml#c8_11055" targetEnd="quarantana/cap8.xml#c8_11059">
+                          Неужели ты мнѣ не вѣришь?»</note>
+        <note xml:id="Russian_1854_cap8-n64" type="translation" target="quarantana/cap8.xml#c8_11060" targetEnd="quarantana/cap8.xml#c8_11098">
+                          «Помилуйте, господинъ пасторъ, вы меня обижаете этимъ: но какъ имя мое стоитъ въ долговой вашей книжкѣ... и какъ вы взяли уже трудъ на себя написать... нельзя знать... кто живъ, кто умеръ...»</note>
+        <note xml:id="Russian_1854_cap8-n65" type="translation" target="quarantana/cap8.xml#c8_11099" targetEnd="quarantana/cap8.xml#c8_11136">
+                          «Хорошо, хорошо,» отвѣчалъ донъ Абондiо, открылъ ящикъ, вынулъ бумаги, перо, чернила и сталъ писать, повторяя каждое слово.</note>
+        <note xml:id="Russian_1854_cap8-n66" type="translation" target="quarantana/cap8.xml#c8_11137" targetEnd="quarantana/cap8.xml#c8_11191">
+                          Въ это время Тонiо и Жервазо стали передъ столомъ, такъ что донъ Абондіо не могъ видѣть дверей, и будто отъ нечего дѣлать начали стучать объ полъ, чтобы подать знакъ Ренцо и Лучiи и помѣшать пастору услышать шумъ ихъ шаговъ.</note>
+        <note xml:id="Russian_1854_cap8-n67" type="translation" target="quarantana/cap8.xml#c8_11192" targetEnd="quarantana/cap8.xml#c8_11201">
+                          Донъ Абондiо, занятый письмомъ, объ другомъ и не думалъ.</note>
+        <note xml:id="Russian_1854_cap8-n68" type="translation" target="quarantana/cap8.xml#c8_11202" targetEnd="quarantana/cap8.xml#c8_11234">
+                          Ренцо, услышавъ этотъ шумъ, взялъ Лучiю за руку, пожалъ ее, чтобы придать ей нѣсколько бодрости и потащилъ за собою, между тѣмъ какъ она, дрожа всѣмъ тѣломъ, не въ состояніи была итти сама.</note>
+        <note xml:id="Russian_1854_cap8-n69" type="translation" target="quarantana/cap8.xml#c8_11235" targetEnd="quarantana/cap8.xml#c8_11251">
+                          Они вошли на цыпочкахъ, удерживая дыханіе, и стали позади обоихъ братьевъ.</note>
+        <note xml:id="Russian_1854_cap8-n70" type="translation" target="quarantana/cap8.xml#c8_11252" targetEnd="quarantana/cap8.xml#c8_11290">
+                          Донъ Абондіо, окончивъ письмо, прочелъ со вниманіемъ бумагу; потомъ, свертывая ее, сказалъ: «доволенъ ли ты теперь?»</note>
+        <note xml:id="Russian_1854_cap8-n71" type="translation" target="quarantana/cap8.xml#c8_11291" targetEnd="quarantana/cap8.xml#c8_11320">
+                          И снимая очки, приподнялъ голову и отдалъ бумагу Тонiо, который, протягивая руку, чтобы ее взять, сталъ въ сторону; а Жервазо, по данному знаку, въ другую, и тогда словно на сценѣ явились вдругъ Ренцо и Лучiя между ними.</note>
+        <note xml:id="Russian_1854_cap8-n72" type="translation" target="quarantana/cap8.xml#c8_11321" targetEnd="quarantana/cap8.xml#c8_11354">
+                          Донъ Абондіо замѣтилъ ихъ, потомъ разглядѣлъ лучше, испугался, разсердился, подумалъ, и наконецъ рѣшился, и все это, пока Ренцо говорилъ ему: «Честный отецъ! я объявляю при сихъ свидѣтеляхъ, что женщина эта — моя жена.»</note>
+        <note xml:id="Russian_1854_cap8-n73" type="translation" target="quarantana/cap8.xml#c8_11355" targetEnd="quarantana/cap8.xml#c8_11415">
+                          Онъ еще не закрылъ рта, какъ донъ Абондіо, бросивъ росписку, лѣвой рукой взялъ лампу, правой схватилъ коверъ, покрывавшій столъ его, дернулъ его, уронилъ книгу, бумагу, чернилы, песокъ, и пройдя между креслами и столомъ, подошелъ къ Лучiи.</note>
+        <note xml:id="Russian_1854_cap8-n74" type="translation" target="quarantana/cap8.xml#c8_11416" targetEnd="quarantana/cap8.xml#c8_11491">
+                          Бѣдное дитя, дрожа всѣмъ тѣломъ, едва произнесло тоненькимъ голосомъ: «человѣкъ этотъ... какъ донъ Аббондіо бросивъ ей на голову коверъ, чтобы не допустить окончить рѣчи и выпустивъ лампу, которую держалъ въ другой рукѣ, сталъ завертывать коверъ вокругъ лица невиннаго творенія, такъ что почти задушилъ Лучію и, какъ раненый быкъ мычалъ изо всѣхъ силъ; «Перпетуа! Перпетуа! измѣна! помоги мнѣ скорѣе:»...</note>
+        <note xml:id="Russian_1854_cap8-n75" type="translation" target="quarantana/cap8.xml#c8_11492" targetEnd="quarantana/cap8.xml#c8_11529">
+                          Лампа, погасавшая на полу, бросала слабый и дрожащій блескъ на Лучiю, которая отъ испуга не старалась оборониться и походила на барельефную статую, на которую художникъ набросилъ бы мокрое полотно.</note>
+        <note xml:id="Russian_1854_cap8-n76" type="translation" target="quarantana/cap8.xml#c8_11530" targetEnd="quarantana/cap8.xml#c8_11571">
+                          Когда огонь потухъ, донъ Абондіо оставилъ дѣвушку, и началъ ощупью искать дверь, которая вела въ другую комнату, нашелъ ее, и запершись, продолжалъ кричать: «Перпетуа! измѣна! На помощь!»</note>
+        <note xml:id="Russian_1854_cap8-n77" type="translation" target="quarantana/cap8.xml#c8_11572" targetEnd="quarantana/cap8.xml#c8_11604">
+                          Въ другой комнатѣ все было въ смятеніи; Ренцо, стараясь схватить пастора, протягивалъ руки, какъ бы играя въ жмурки; наконецъ нашелъ дверь, и стуча въ нее, кричалъ: «отоприте, отоприте, не дѣлайте огласки.»</note>
+        <note xml:id="Russian_1854_cap8-n78" type="translation" target="quarantana/cap8.xml#c8_11605" targetEnd="quarantana/cap8.xml#c8_11619">
+                          Лучія звала Ренцо и задыхающимся голосомъ умоляла его: «уйдемъ, ради Бога, уйдемъ!»</note>
+        <note xml:id="Russian_1854_cap8-n79" type="translation" target="quarantana/cap8.xml#c8_11620" targetEnd="quarantana/cap8.xml#c8_11646">
+                          Тонiо, согнувшись, шарилъ руками по полу, стараясь найти свою росписку; а Джервазо въ испугѣ кричалъ, дрожалъ и искалъ двери на лѣстницу, чтобы убѣжать.</note>
+        <note xml:id="Russian_1854_cap8-n80" type="translation" target="quarantana/cap8.xml#c8_11647" targetEnd="quarantana/cap8.xml#c8_11663">
+                          Среди этого шума, мы неможемъ, не остановиться на минуту и не предаться размышленіямъ.</note>
+        <note xml:id="Russian_1854_cap8-n81" type="translation" target="quarantana/cap8.xml#c8_11664" targetEnd="quarantana/cap8.xml#c8_11700">
+                          Ренцо, шумѣвшій ночью въ домѣ пастора, обманомъ вошедшій туда, заставившій самаго хозяина запереться въ одной изъ комнать, по видимому, долженъ быть притѣснителемъ; а вмѣсто того онъ притѣсняемый.</note>
+        <note xml:id="Russian_1854_cap8-n82" type="translation" target="quarantana/cap8.xml#c8_11701" targetEnd="quarantana/cap8.xml#c8_11724">
+                          Донъ Абондiо, обманутый, испуганный, прогнанный въ то время, какъ онъ спокойно занимался своими дѣлами, казалось, былъ жертвой; а между тѣмъ въ сущности онъ былъ виноватъ.</note>
+        <note xml:id="Russian_1854_cap8-n83" type="translation" target="quarantana/cap8.xml#c8_11725" targetEnd="quarantana/cap8.xml#c8_11737">
+                          Такъ идутъ дѣла на этомъ свѣтѣ... Я хочу сказать, такъ шли они въ семнадцатомъ вѣкѣ.</note>
+        <note xml:id="Russian_1854_cap8-n84" type="translation" target="quarantana/cap8.xml#c8_11738" targetEnd="quarantana/cap8.xml#c8_11762">
+                          Осажденный, видя, что непрiятель не подаетъ ни малѣйшаго знака къ отступленію, открылъ окно, выходившее къ ризницѣ и началъ кричать: «Помогите! Помогите!»</note>
+        <note xml:id="Russian_1854_cap8-n85" type="translation" target="quarantana/cap8.xml#c8_11763" targetEnd="quarantana/cap8.xml#c8_11804">
+                          Была прекрасная лунная ночь; тѣнь отъ церкви и далѣе длинная тѣнь отъ колокольни чисто и неподвижно отражались на свѣтлой наружной стѣнѣ ризницы; можно было, какъ среди дня, различить каждый предметъ.</note>
+        <note xml:id="Russian_1854_cap8-n86" type="translation" target="quarantana/cap8.xml#c8_11805" targetEnd="quarantana/cap8.xml#c8_11816">
+                          Но куда взоръ ни обращался, нигдѣ не видно было ни одного живаго существа.</note>
+        <note xml:id="Russian_1854_cap8-n87" type="translation" target="quarantana/cap8.xml#c8_11817" targetEnd="quarantana/cap8.xml#c8_11843">
+                          Маленькое строенiе, почти смежное съ боковою стѣною церкви, и подлѣ священническаго дому, служило жилищемъ ризничему.</note>
+        <note xml:id="Russian_1854_cap8-n88" type="translation" target="quarantana/cap8.xml#c8_11844" targetEnd="quarantana/cap8.xml#c8_11878">
+                          Пробужденный необыкновеннымъ крикомъ, онъ соскочилъ съ постели, открылъ окно, высунулъ голову, все еще съ закрытыми глазами, и сказалъ: «что тамъ?»</note>
+        <note xml:id="Russian_1854_cap8-n89" type="translation" target="quarantana/cap8.xml#c8_11879" targetEnd="quarantana/cap8.xml#c8_11889">
+                          «Скорѣй, Амвросій, бѣги на помощь! Грабятъ!» кричалъ донъ Абондiо.</note>
+        <note xml:id="Russian_1854_cap8-n90" type="translation" target="quarantana/cap8.xml#c8_11890" targetEnd="quarantana/cap8.xml#c8_11933">
+                          «Бѣгу,» отвѣчалъ разничій; спряталъ голову, закрылъ окно, и хотя испуганный и удивленный, онъ нашелъ однако жъ способъ доставить помощи болѣе, нежели у него просили, не подвергая между тѣмъ опасности себя, какое бы ни было происшествіе.</note>
+        <note xml:id="Russian_1854_cap8-n91" type="translation" target="quarantana/cap8.xml#c8_11934" targetEnd="quarantana/cap8.xml#c8_11977">
+                          Онъ схватилъ съ постели платье свое, сунулъ его подъ руку, какъ церемоніальную шляпу, и сошедши по деревянной лѣсенкѣ, схватился за веревку самаго большаго колокола и сталъ бить въ набатъ.</note>
+        <note xml:id="Russian_1854_cap8-n92" type="translation" target="quarantana/cap8.xml#c8_11978" targetEnd="quarantana/cap8.xml#c8_11999">
+                          Слыша частый звонъ, крестьяне пробудились отъ страха и повскочили съ постелей; работники, спавшіе на соломѣ, услышавъ сумахоту, тотчасъ были на ногахъ.</note>
+        <note xml:id="Russian_1854_cap8-n93" type="translation" target="quarantana/cap8.xml#c8_12000" targetEnd="quarantana/cap8.xml#c8_12003">
+                          «Что такое?</note>
+        <note xml:id="Russian_1854_cap8-n94" type="translation" target="quarantana/cap8.xml#c8_12004" targetEnd="quarantana/cap8.xml#c8_12006">
+                          Бьютъ въ набатъ!</note>
+        <note xml:id="Russian_1854_cap8-n95" type="translation" target="quarantana/cap8.xml#c8_12007" targetEnd="quarantana/cap8.xml#c8_12007">
+                          Ужъ не пожаръ ли?...</note>
+        <note xml:id="Russian_1854_cap8-n96" type="translation" target="quarantana/cap8.xml#c8_12008" targetEnd="quarantana/cap8.xml#c8_12008">
+                          Не воры ли?</note>
+        <note xml:id="Russian_1854_cap8-n97" type="translation" target="quarantana/cap8.xml#c8_12009" targetEnd="quarantana/cap8.xml#c8_12009">
+                          Не разбойники ль?»</note>
+        <note xml:id="Russian_1854_cap8-n98" type="translation" target="quarantana/cap8.xml#c8_12010" targetEnd="quarantana/cap8.xml#c8_12066">
+                          Многія жены совѣтовали мужьямъ своимъ не ходить и оставить другихъ бѣжать, кто хочетъ; а нѣкоторыя вставали и подходили толпою къ окнамъ; трусливые, какъ будто сдаваясь просьбамъ, завертывались въ одѣяла; самые храбрые вооружались, кто вилами, кто ружьемъ, чтобы бѣжать на мѣсто суматохи; иные, чтобъ только посмотрѣть.</note>
+        <note xml:id="Russian_1854_cap8-n99" type="translation" target="quarantana/cap8.xml#c8_12067" targetEnd="quarantana/cap8.xml#c8_12105">
+                          Но пока они вставали и вооружались, шумъ этотъ дошелъ и до другихъ людей, которые находились не далеко, одѣтые и на ногахъ: съ одной стороны брави, а съ другой Агнеса и Перпетуа.</note>
+        <note xml:id="Russian_1854_cap8-n100" type="translation" target="quarantana/cap8.xml#c8_12106" targetEnd="quarantana/cap8.xml#c8_12125">
+                          Мы разскажемъ сперва, что сдѣлали тѣ и другіе съ тѣхъ поръ, какъ мы ихъ оставили — однихъ въ развалившемся домѣ, другихъ въ гостинницѣ.</note>
+        <note xml:id="Russian_1854_cap8-n101" type="translation" target="quarantana/cap8.xml#c8_12126" targetEnd="quarantana/cap8.xml#c8_12168">
+                          Сидѣвшіе въ гостинницѣ брави, увидѣвъ, что всѣ ворота были заперты и улица опустѣла, вышли, какъ бы сбираясь въ даль, тихо обошли деревню, чтобы удостовѣриться, всѣ ли разошлись по домамъ, и въ самомъ дѣлѣ они не встрѣтили ни одной души, не слыхали ни малѣйшаго шума.</note>
+        <note xml:id="Russian_1854_cap8-n102" type="translation" target="quarantana/cap8.xml#c8_12169" targetEnd="quarantana/cap8.xml#c8_12201">
+                          Такъ же точно прошли они, и еще тише, мимо извѣстнаго намъ домика, который былъ спокойнѣе всѣхъ, потому что въ немъ никого не было, и оттуда прямо отправились къ разоренной дачѣ, чтобы сдѣлать донесеніе свое капитану Гризо.</note>
+        <note xml:id="Russian_1854_cap8-n103" type="translation" target="quarantana/cap8.xml#c8_12202" targetEnd="quarantana/cap8.xml#c8_12269">
+                          Капитанъ тотчась надѣлъ огромную шляпу, накинулъ на плеча клеенчатую епанчу, усѣянную раковинами, взялъ странническій посохъ, и сказалъ: «Впередъ, друзья; молчите и слушайтесь команды.» Онъ вышелъ первый, а за нимъ послѣдовали другіе. Въ скоромъ времени пришли они къ дому Агнесы дорогою, противуположною той, по которой наша маленькая бригада сама шла въ экспедицію.</note>
+        <note xml:id="Russian_1854_cap8-n104" type="translation" target="quarantana/cap8.xml#c8_12270" targetEnd="quarantana/cap8.xml#c8_12327">
+                          Въ нѣсколькихъ шагахъ растоянія, Гризо остановилъ свою команду и пошелъ одинъ для рекогносцировки. Увѣрившись, что снаружи все было спокойно и пусто, онъ подозвалъ двухъ разбойниковъ, приказалъ имъ безъ шуму перелѣзть черезъ стѣну, которая окружала дворъ, сойти туда и спрятаться въ углу, позади толстаго фиговаго дерева, которое замѣтилъ онъ еще утромъ.</note>
+        <note xml:id="Russian_1854_cap8-n105" type="translation" target="quarantana/cap8.xml#c8_12328" targetEnd="quarantana/cap8.xml#c8_12344">
+                          Послѣ этого онъ началъ потихоньку стучаться въ ворота, съ намѣреніемъ выдать себя за бѣднаго странника, который очень усталъ и проситъ себѣ до утра ночлега.</note>
+        <note xml:id="Russian_1854_cap8-n106" type="translation" target="quarantana/cap8.xml#c8_12345" targetEnd="quarantana/cap8.xml#c8_12354">
+                          Никто не отвѣчаетъ; онъ стучитъ сильнѣе — то же молчаніе.</note>
+        <note xml:id="Russian_1854_cap8-n107" type="translation" target="quarantana/cap8.xml#c8_12355" targetEnd="quarantana/cap8.xml#c8_12389">
+                          Тогда призываетъ онъ третьяго разбойника, велитъ ему, какъ и двумъ первымъ, перелѣзть черезъ стѣну и сломать извнутри запоръ, чтобы имѣть свободный входъ и выходъ.</note>
+        <note xml:id="Russian_1854_cap8-n108" type="translation" target="quarantana/cap8.xml#c8_12390" targetEnd="quarantana/cap8.xml#c8_12399">
+                          Все исполнено съ величайшею осторожностію и полнымъ успѣхомъ.</note>
+        <note xml:id="Russian_1854_cap8-n109" type="translation" target="quarantana/cap8.xml#c8_12400" targetEnd="quarantana/cap8.xml#c8_12435">
+                          Онъ зоветъ остальныхъ, вводитъ ихъ за собою и прячетъ по угламъ, какъ первыхъ; потомъ запираетъ тихонько ворота, ставитъ двухъ часовыхъ и идетъ прямо къ двери нижняго этажа.</note>
+        <note xml:id="Russian_1854_cap8-n110" type="translation" target="quarantana/cap8.xml#c8_12436" targetEnd="quarantana/cap8.xml#c8_12464">
+                          Тутъ онъ опять стучится, ждетъ, и могъ бы прождать долго, еслибъ самъ не отперъ и этой двери, какъ можно осторожнѣе; но извнутри никто не спрашиваетъ: «кто тутъ?» Не слыхать никого; все идетъ, какъ не льзя лучше...</note>
+        <note xml:id="Russian_1854_cap8-n111" type="translation" target="quarantana/cap8.xml#c8_12465" targetEnd="quarantana/cap8.xml#c8_12514">
+                          «Впередъ и молчаніе!» Онъ кличетъ тѣхъ, которые были спрятаны за деревомъ, и вмѣстѣ съ ними добирается до той комнаты, гдѣ еще утромъ безчестно получилъ милостыню; вынимаетъ изъ кармана кременъ, трутъ и спички, зажигаетъ свой фонаръ, идетъ въ другую комнату посмотрѣть, есть ли кто — и никого не находитъ...</note>
+        <note xml:id="Russian_1854_cap8-n112" type="translation" target="quarantana/cap8.xml#c8_12515" targetEnd="quarantana/cap8.xml#c8_12525">
+                          Возвращается назадъ, подходить къ лѣстницѣ, смотритъ, прислушивается — все пусто и тихо.</note>
+        <note xml:id="Russian_1854_cap8-n113" type="translation" target="quarantana/cap8.xml#c8_12526" targetEnd="quarantana/cap8.xml#c8_12570">
+                          Онъ оставляетъ двоихъ караулить нижній этажъ, и приказываетъ Гриньяпоку, разбойнику изъ Бергама, слѣдовать за собою. Этотъ брави долженъ былъ однъ стращать, успокоивать, приказывать, словомъ: быть ораторомъ, для того, чтобы, судя по его выговору, Агнеса могла думать, что и всѣ они изъ той же стороны.</note>
+        <note xml:id="Russian_1854_cap8-n114" type="translation" target="quarantana/cap8.xml#c8_12571" targetEnd="quarantana/cap8.xml#c8_12599">
+                          Въ сопровожденіи Гриньяпока и другихъ, Гризо лѣзетъ на верхъ, проклиная каждую ступеньку, которая скрыпитъ подъ ихъ шагами.</note>
+        <note xml:id="Russian_1854_cap8-n115" type="translation" target="quarantana/cap8.xml#c8_12600" targetEnd="quarantana/cap8.xml#c8_12607">
+                          Наконецъ они приходятъ. Тутъ-то добыча!</note>
+        <note xml:id="Russian_1854_cap8-n116" type="translation" target="quarantana/cap8.xml#c8_12608" targetEnd="quarantana/cap8.xml#c8_12639">
+                          Гризо толкаетъ тихонько дверь въ первую комнату; она немного отворяется; все тихо. Онъ прислушивается, не спитъ ли кто. Ничего не слыхать.</note>
+        <note xml:id="Russian_1854_cap8-n117" type="translation" target="quarantana/cap8.xml#c8_12640" targetEnd="quarantana/cap8.xml#c8_12705">
+                          «Впередъ!» думаетъ онъ и ставитъ фонаръ предъ лицемъ, чтобъ видѣть, не будучи видимымъ; отворяетъ настежъ дверь, и — видитъ несмятую постель; онъ пожимаетъ плечами, оборачивается къ своей шайкѣ, показываетъ, что хочетъ итти въ другую комнату, и даетъ знать, чтобы всѣ молча за нимъ слѣдовали. Тамъ - тѣ же церемоніи, и все въ такомъ же положеніи.</note>
+        <note xml:id="Russian_1854_cap8-n118" type="translation" target="quarantana/cap8.xml#c8_12706" targetEnd="quarantana/cap8.xml#c8_12721">
+                          «Что бы это значило?» сказалъ онъ громко. «Какой-нибудь дьяволъ подслушалъ насъ?»</note>
+        <note xml:id="Russian_1854_cap8-n119" type="translation" target="quarantana/cap8.xml#c8_12722" targetEnd="quarantana/cap8.xml#c8_12738">
+                          Тогда всѣ уже, безъ всякихъ предосторожностей, обшариваютъ во всѣхъ углахъ и ставятъ все вверхъ дномъ.</note>
+        <note xml:id="Russian_1854_cap8-n120" type="translation" target="quarantana/cap8.xml#c8_12739" targetEnd="quarantana/cap8.xml#c8_12783">
+                          Пока они занимались этою ревизовкою, часовые, стоявшіе у воротъ, слыша, что кто-то скорыми шагами идетъ съ другаго края деревни и ближе подходитъ къ нимъ, думали, что этотъ человѣкъ, кто бы онъ ни былъ, пройдетъ мимо; и потому пріумолкли и на всякій случай взяли предосторожности.</note>
+        <note xml:id="Russian_1854_cap8-n121" type="translation" target="quarantana/cap8.xml#c8_12784" targetEnd="quarantana/cap8.xml#c8_12793">
+                          Вдруг человѣкъ останавливается у самыхъ воротъ.</note>
+        <note xml:id="Russian_1854_cap8-n122" type="translation" target="quarantana/cap8.xml#c8_12794" targetEnd="quarantana/cap8.xml#c8_12826">
+                          Это былъ Менико, который, запыхавшись, прибѣжалъ отъ отца Христофора уговорить женщинъ, ради Бога, бѣжать скорѣе изъ дому и искать убѣжища въ монастырѣ, потому что... читатель знаетъ уже, почему.</note>
+        <note xml:id="Russian_1854_cap8-n123" type="translation" target="quarantana/cap8.xml#c8_12827" targetEnd="quarantana/cap8.xml#c8_12843">
+                          Онъ берется за замокъ и хочетъ постучать; замокъ вертится у него въ рукахъ; Менико замѣчаетъ, что ворота отперты.</note>
+        <note xml:id="Russian_1854_cap8-n124" type="translation" target="quarantana/cap8.xml#c8_12844" targetEnd="quarantana/cap8.xml#c8_12892">
+                          «Чтобы это значило?» сказалъ ребенокъ самъ про себя и со страхомъ толкнулъ ворота — онѣ отворились. Онъ вошелъ и вдругъ почувствовалъ, что его очень осторожно схватили за обѣ руки; онъ слышитъ какъ съ права и съ лѣва, тихимъ, но угрожающимъ голосомъ говорятъ ему: «Молчать! Ни слова, или ты умрешь.»</note>
+        <note xml:id="Russian_1854_cap8-n125" type="translation" target="quarantana/cap8.xml#c8_12893" targetEnd="quarantana/cap8.xml#c8_12917">
+                          Менико напротивъ того закричалъ; тогда одинъ изъ разбойниковъ съ силою зажалъ ему ротъ и ухватился за ножъ, чтобы испугать ребенка.</note>
+        <note xml:id="Russian_1854_cap8-n126" type="translation" target="quarantana/cap8.xml#c8_12918" targetEnd="quarantana/cap8.xml#c8_12957">
+                          Бѣдный мальчикъ дрожалъ, какъ листъ, и не смѣлъ болѣе кричать; но вдругъ, вмѣсто его и другимъ голосомъ, послышался первый набатный ударъ; а затѣмъ градомъ посыпались и другіе.</note>
+        <note xml:id="Russian_1854_cap8-n127" type="translation" target="quarantana/cap8.xml#c8_12958" targetEnd="quarantana/cap8.xml#c8_13014">
+                          Кто блудливъ, тотъ трусливъ, говорить Миланская пословица. Въ повторяемомъ звонѣ каждому изъ разбойниковъ слышится его имя и прозвище; они оставляютъ руки Менико, съ сердцемъ отнимаютъ свои, разинувъ рты, съ удивленіемъ смотрять другъ на друга и бѣгутъ въ домъ, гдѣ находилась остальная шайка.</note>
+        <note xml:id="Russian_1854_cap8-n128" type="translation" target="quarantana/cap8.xml#c8_13015" targetEnd="quarantana/cap8.xml#c8_13105">
+                          Вырвавшись изъ ихъ рукъ, Менико тотчасъ бѣжитъ черезъ поле къ колокольнѣ, гдѣ надѣется найти народъ… Этотъ ужасный звонъ произвелъ такое же впечатлѣніе и надъ другими разбойниками, которые рылись по всему дому; они смѣшались, торопились, толкали другъ друга и всякой искалъ кратчайшей дороги, чтобы выбѣжать на улицу, и хотя шайка эта составлена была изъ людей испытанной храбрости, привыкшихъ показывать свое лице, но они не считали себя въ безопасности, когда самая опасность имъ не совершенно извѣстна, и когда они заранѣе ее не предвидѣли.</note>
+        <note xml:id="Russian_1854_cap8-n129" type="translation" target="quarantana/cap8.xml#c8_13106" targetEnd="quarantana/cap8.xml#c8_13123">
+                          Нужно было имѣть все превосходство Гризо, чтобы удержать ихъ въ порядкѣ такъ, чтобы выходъ ихъ казался болѣе спокойнымъ уходомъ, нежели побѣгомъ.</note>
+        <note xml:id="Russian_1854_cap8-n130" type="translation" target="quarantana/cap8.xml#c8_13124" targetEnd="quarantana/cap8.xml#c8_13214">
+                          Какъ собака, приставленная къ стаду свиней, бѣгаетъ во всѣ стороны за тѣми, которые отдѣляются, кусаетъ одну за ухо, другую за рыло, на третью лаетъ: такъ и этотъ мнимый странникъ схватилъ за волоса одного изъ разбойниковъ, который уже былъ на крыльцѣ, и привелъ его назадъ, посохомъ прогналъ еще двухъ, слѣдовавшихъ за нимъ, другимъ закричалъ, что они бѣгутъ, не зная сами куда; и наконецъ уладилъ такъ, что всѣ собрались на дворъ.</note>
+        <note xml:id="Russian_1854_cap8-n131" type="translation" target="quarantana/cap8.xml#c8_13215" targetEnd="quarantana/cap8.xml#c8_13230">
+                          «Стой! Пистолеты въ руки, изготовъ ножи, всѣ во фронтъ и потомъ маршъ. Такъ надо дѣйствовать.</note>
+        <note xml:id="Russian_1854_cap8-n132" type="translation" target="quarantana/cap8.xml#c8_13231" targetEnd="quarantana/cap8.xml#c8_13240">
+                          Кто станетъ нападать на насъ когда мы вмѣстѣ, подлецы!</note>
+        <note xml:id="Russian_1854_cap8-n133" type="translation" target="quarantana/cap8.xml#c8_13241" targetEnd="quarantana/cap8.xml#c8_13255">
+                          Если мы раздѣлимся, то и мужики насъ осилятъ.</note>
+        <note xml:id="Russian_1854_cap8-n134" type="translation" target="quarantana/cap8.xml#c8_13256" targetEnd="quarantana/cap8.xml#c8_13261">
+                          За мной, сволочь! всѣ вмѣстѣ!»</note>
+        <note xml:id="Russian_1854_cap8-n135" type="translation" target="quarantana/cap8.xml#c8_13262" targetEnd="quarantana/cap8.xml#c8_13273">
+                          Послѣ этой краткой рѣчи, онъ сталъ передъ своей шайкой, и вышелъ первый.</note>
+        <note xml:id="Russian_1854_cap8-n136" type="translation" target="quarantana/cap8.xml#c8_13274" targetEnd="quarantana/cap8.xml#c8_13299">
+                          Домикъ, какъ мы сказали, былъ при самомъ входѣ въ деревню. Гризо пошелъ прямо въ поле и всѣ послѣдовали за нимъ.</note>
+        <note xml:id="Russian_1854_cap8-n137" type="translation" target="quarantana/cap8.xml#c8_13300" targetEnd="quarantana/cap8.xml#c8_13320">
+                          Пусть они продолжаютъ свою дорогу, а мы пойдемъ къ Агнесѣ и Перпетуѣ, которыхъ оставили недалеко отъ пасторскаго дома.</note>
+        <note xml:id="Russian_1854_cap8-n138" type="translation" target="quarantana/cap8.xml#c8_13321" targetEnd="quarantana/cap8.xml#c8_13347">
+                          Агнеса старалась, сколько могла, удалить Перпетую отъ жилища дона Абондіо, и нѣсколько успѣла въ этомъ.</note>
+        <note xml:id="Russian_1854_cap8-n139" type="translation" target="quarantana/cap8.xml#c8_13348" targetEnd="quarantana/cap8.xml#c8_13364">
+                          Но вскорѣ служанка, вспомнивъ, что она не затворила дверей, хотѣла воротиться назадъ. Противъ этого нечего не было говорить.</note>
+        <note xml:id="Russian_1854_cap8-n140" type="translation" target="quarantana/cap8.xml#c8_13365" targetEnd="quarantana/cap8.xml#c8_13404">
+                          Агнеса, чтобы не навести подозрѣнія, принуждена была воротиться, стараясь удержать ее всякiй разъ, какъ скоро замѣчала, что та пускалась въ разсказы о неудачности своего замужства.</note>
+        <note xml:id="Russian_1854_cap8-n141" type="translation" target="quarantana/cap8.xml#c8_13405" targetEnd="quarantana/cap8.xml#c8_13441">
+                          Она слушала съ большимъ вниманіемъ, и иногда, желая показать свое участіе или более оживить разговоръ, прибавляла: «Конечно — теперь я понимаю — очень хорошо — теперь это ясно. А потому? А онъ? А вы?»</note>
+        <note xml:id="Russian_1854_cap8-n142" type="translation" target="quarantana/cap8.xml#c8_13442" targetEnd="quarantana/cap8.xml#c8_13460">
+                          Но между тѣмъ дѣлала себѣ другіе вопросы: «Что вышли ли они, или еще въ домѣ?</note>
+        <note xml:id="Russian_1854_cap8-n143" type="translation" target="quarantana/cap8.xml#c8_13461" targetEnd="quarantana/cap8.xml#c8_13481">
+                          Какъ мы всѣ трое вѣтрены: не условились какимъ-нибудь образомъ, дать знать, удалось ли дѣло.</note>
+        <note xml:id="Russian_1854_cap8-n144" type="translation" target="quarantana/cap8.xml#c8_13482" targetEnd="quarantana/cap8.xml#c8_13485">
+                          Это очень неловко!</note>
+        <note xml:id="Russian_1854_cap8-n145" type="translation" target="quarantana/cap8.xml#c8_13486" targetEnd="quarantana/cap8.xml#c8_13512">
+                          Теперь уже не время; все, что я могу сдѣлать,» только задерживать здѣсь Перпетуу; на худой конецъ будетъ не много потеряннаго времени.</note>
+        <note xml:id="Russian_1854_cap8-n146" type="translation" target="quarantana/cap8.xml#c8_13513" targetEnd="quarantana/cap8.xml#c8_13580">
+                          «То останавливаясь, то передвигаясь съ мѣста, онѣ довольно близко подошли къ дому дона Абондіо; но его не было еще видно съ того мѣста, гдѣ онѣ находились, и Перпетуа въ жару своего разсказа добровольно остановилась, какъ вдругъ въ безмятежномъ пространствѣ воздуха, среди глубокаго безмолвія ночи, послышался первый задыхающійся крикъ дона-Абондіо: «Помогите! помогите!»</note>
+        <note xml:id="Russian_1854_cap8-n147" type="translation" target="quarantana/cap8.xml#c8_13581" targetEnd="quarantana/cap8.xml#c8_13590">
+                          «Милосердый Боже! что случилось?» закричала Перпетуа, и хотѣла бѣжать къ дому.</note>
+        <note xml:id="Russian_1854_cap8-n148" type="translation" target="quarantana/cap8.xml#c8_13591" targetEnd="quarantana/cap8.xml#c8_13600">
+                          «Что такое?» сказала Агнеса, удерживая ее за юпку.</note>
+        <note xml:id="Russian_1854_cap8-n149" type="translation" target="quarantana/cap8.xml#c8_13601" targetEnd="quarantana/cap8.xml#c8_13607">
+                          «Развѣ ты не слыхала?» отвѣчала она, вырываясь.</note>
+        <note xml:id="Russian_1854_cap8-n150" type="translation" target="quarantana/cap8.xml#c8_13608" targetEnd="quarantana/cap8.xml#c8_13617">
+                          «Что такое? что такое?» повторяла Агнеса, схвативъ ее за руку.</note>
+        <note xml:id="Russian_1854_cap8-n151" type="translation" target="quarantana/cap8.xml#c8_13618" targetEnd="quarantana/cap8.xml#c8_13630">
+                          «Чортъ побери эту женщину!» закричала Перпетуа, и толкнувъ ее, побѣжала со всѣхъ ногъ.</note>
+        <note xml:id="Russian_1854_cap8-n152" type="translation" target="quarantana/cap8.xml#c8_13631" targetEnd="quarantana/cap8.xml#c8_13643">
+                          Въ это время послышались шаги Менико, сперва отдаленные, а потомъ ближе и ближе.</note>
+        <note xml:id="Russian_1854_cap8-n153" type="translation" target="quarantana/cap8.xml#c8_13644" targetEnd="quarantana/cap8.xml#c8_13652">
+                          «Милосердый Боже!» кричала Агнеса въ свою очередь, и побѣжала за нею.</note>
+        <note xml:id="Russian_1854_cap8-n154" type="translation" target="quarantana/cap8.xml#c8_13653" targetEnd="quarantana/cap8.xml#c8_13680">
+                          Едва успѣли онѣ сдѣлать нѣсколько шаговъ, какъ вдругъ раздался ударъ колокола, другой, третій и потомъ одинъ за другимъ безостановочно.</note>
+        <note xml:id="Russian_1854_cap8-n155" type="translation" target="quarantana/cap8.xml#c8_13681" targetEnd="quarantana/cap8.xml#c8_13731">
+                          Перпетуа въ два скачка очутилась на лѣстницѣ первая; она схватилась за дверь, и вдругъ видитъ: дверь отворяется извнутри, и на порогѣ являются Тонiо, Джервазо, Ренцо и Лучiя, которые, нашедши лѣстницу, сошли ощупью, и услышавъ звонъ набата, побѣжали изо-всѣхъ силъ, чтобы какъ нибудь скрыться.</note>
+        <note xml:id="Russian_1854_cap8-n156" type="translation" target="quarantana/cap8.xml#c8_13732" targetEnd="quarantana/cap8.xml#c8_13748">
+                          «Что такое? что случилось?» спросила Перпетуа у братьевъ; но они оттолкнули ее и убѣжали.</note>
+        <note xml:id="Russian_1854_cap8-n157" type="translation" target="quarantana/cap8.xml#c8_13749" targetEnd="quarantana/cap8.xml#c8_13768">
+                          «А вы какъ? Что вы здѣсь дѣлаете? спросила она Ренцо и Лучiю, когда узнала ихъ; но они такъ же ушли, ничего не отвѣчая.</note>
+        <note xml:id="Russian_1854_cap8-n158" type="translation" target="quarantana/cap8.xml#c8_13769" targetEnd="quarantana/cap8.xml#c8_13789">
+                          Перпетуа, чтобы скорѣе придти туда, гдѣ она была всего нужнѣе, болѣе ничего не спрашивала, бросилась въ коридоръ, а оттуда ощупью на лѣстницу.</note>
+        <note xml:id="Russian_1854_cap8-n159" type="translation" target="quarantana/cap8.xml#c8_13790" targetEnd="quarantana/cap8.xml#c8_13804">
+                          Женихъ съ невѣстой, оставшись помолвленными, очутились передъ Агнесою, которая шла въ страхѣ и беспокойствѣ.</note>
+        <note xml:id="Russian_1854_cap8-n160" type="translation" target="quarantana/cap8.xml#c8_13805" targetEnd="quarantana/cap8.xml#c8_13813">
+                          «А! вотъ и вы!» сказала она, съ трудомъ переводя духъ.</note>
+        <note xml:id="Russian_1854_cap8-n161" type="translation" target="quarantana/cap8.xml#c8_13814" targetEnd="quarantana/cap8.xml#c8_13820">
+                          «Какъ все уладилось? Что значитъ этотъ звонъ?</note>
+        <note xml:id="Russian_1854_cap8-n162" type="translation" target="quarantana/cap8.xml#c8_13821" targetEnd="quarantana/cap8.xml#c8_13824">
+                          Мнѣ кажется, что я слышала...» —</note>
+        <note xml:id="Russian_1854_cap8-n163" type="translation" target="quarantana/cap8.xml#c8_13825" targetEnd="quarantana/cap8.xml#c8_13835">
+                          «Скорѣе, скорѣе домой,» отвѣчалъ Ренцо, «пока еще не пришли!»</note>
+        <note xml:id="Russian_1854_cap8-n164" type="translation" target="quarantana/cap8.xml#c8_13836" targetEnd="quarantana/cap8.xml#c8_13868">
+                          И они уже шли туда, какъ вдругъ Менико, бѣжавшій со всѣхъ ногъ, узнаетъ ихъ, заграждаетъ имъ дорогу, и дрожа всѣмъ тѣломъ, говоритъ имъ, едва внятнымъ голосомъ, «Куда вы идете? Воротитесь, воротитесь и скорѣе бѣгите скрыться въ монастырь.»</note>
+        <note xml:id="Russian_1854_cap8-n165" type="translation" target="quarantana/cap8.xml#c8_13869" targetEnd="quarantana/cap8.xml#c8_13873">
+                          «Это ты?... сказала Агнеса.</note>
+        <note xml:id="Russian_1854_cap8-n166" type="translation" target="quarantana/cap8.xml#c8_13874" targetEnd="quarantana/cap8.xml#c8_13877">
+                          «Что такое?» спросилъ Ренцо.</note>
+        <note xml:id="Russian_1854_cap8-n167" type="translation" target="quarantana/cap8.xml#c8_13878" targetEnd="quarantana/cap8.xml#c8_13883">
+                          Лучiя въ испугѣ дрожала и не говорила ни слова.</note>
+        <note xml:id="Russian_1854_cap8-n168" type="translation" target="quarantana/cap8.xml#c8_13884" targetEnd="quarantana/cap8.xml#c8_13891">
+                          «Чортъ въ вашемъ домѣ,» говорилъ Менико, запыхавшись.</note>
+        <note xml:id="Russian_1854_cap8-n169" type="translation" target="quarantana/cap8.xml#c8_13892" targetEnd="quarantana/cap8.xml#c8_13930">
+                          «Я ихъ собственными глазами видѣлъ; они хотѣли убить меня. Отецъ Христофоръ сказалъ, чтобы и ты, Ренцо, также пришелъ. Чтобы вы тотчасъ приходили... и потомъ я видѣлъ ихъ.... Какое счастіе, что я васъ здѣсь нашелъ! Послѣ я вамъ все разскажу»</note>
+        <note xml:id="Russian_1854_cap8-n170" type="translation" target="quarantana/cap8.xml#c8_13931" targetEnd="quarantana/cap8.xml#c8_13972">
+                          Ренцо, сохранившій болѣе всѣхъ хладнокровія, подумалъ, что во всякомъ случаѣ благоразумнѣе было, не теряя времени, уйти, пока еще никого не было, и вѣрнѣе всего дѣлать то, что испуганный Менико совѣтывалъ и даже приказывалъ.</note>
+        <note xml:id="Russian_1854_cap8-n171" type="translation" target="quarantana/cap8.xml#c8_13973" targetEnd="quarantana/cap8.xml#c8_13991">
+                          Дорогой, внѣ всякой опасности и суматохи, яснѣе можно будетъ все узнать отъ мальчика.</note>
+        <note xml:id="Russian_1854_cap8-n172" type="translation" target="quarantana/cap8.xml#c8_13992" targetEnd="quarantana/cap8.xml#c8_14001">
+                          «Ступай впередъ,» сказалъ онъ ему, «а мы пойдемъ за нимъ,» говорилъ онъ женщинамъ.</note>
+        <note xml:id="Russian_1854_cap8-n173" type="translation" target="quarantana/cap8.xml#c8_14002" targetEnd="quarantana/cap8.xml#c8_14047">
+                          Онѣ воротились, повернули къ церкви, прошли мимо ризницы, гдѣ, слава Богу, никого еще не было, вошли въ переулокъ между церковью и домомъ дона Аббондiо и повернули на первомъ поворотѣ, который и вывелъ ихъ въ поле.</note>
+        <note xml:id="Russian_1854_cap8-n174" type="translation" target="quarantana/cap8.xml#c8_14048" targetEnd="quarantana/cap8.xml#c8_14068">
+                          Они не успѣли еще, можетъ быть, отойти шаговъ на пятьдесятъ, какъ поселяне стали собираться около ризницы, и каждую минуту толпа увеличивалась.</note>
+        <note xml:id="Russian_1854_cap8-n175" type="translation" target="quarantana/cap8.xml#c8_14069" targetEnd="quarantana/cap8.xml#c8_14087">
+                          Всѣ смотрѣли другъ на друга, и никто не зналъ, что спросить и отвѣчать.</note>
+        <note xml:id="Russian_1854_cap8-n176" type="translation" target="quarantana/cap8.xml#c8_14088" targetEnd="quarantana/cap8.xml#c8_14097">
+                          Тѣ, которые пришли прежде всѣхъ, побѣжали къ церковнымъ дверямъ... двери заперты.</note>
+        <note xml:id="Russian_1854_cap8-n177" type="translation" target="quarantana/cap8.xml#c8_14098" targetEnd="quarantana/cap8.xml#c8_14123">
+                          Они отправились на колокольню снаружи, и одинъ изъ нихъ, просунувъ голову въ маленькое окошечко, сталъ спрашивать: «что тутъ случилось?»</note>
+        <note xml:id="Russian_1854_cap8-n178" type="translation" target="quarantana/cap8.xml#c8_14124" targetEnd="quarantana/cap8.xml#c8_14147">
+                          Амвросiй, услышавъ знакомый ему голосъ, выпустилъ изъ рукъ веревку и заключая по шуму, что уже собралось много народу, отвѣчалъ: «Сей часъ отопру...</note>
+        <note xml:id="Russian_1854_cap8-n179" type="translation" target="quarantana/cap8.xml#c8_14148" targetEnd="quarantana/cap8.xml#c8_14167">
+                          Онъ надѣлъ на себя платье, которое держалъ подъ рукою, прошелъ черезъ паперть и отперъ дверь.</note>
+        <note xml:id="Russian_1854_cap8-n180" type="translation" target="quarantana/cap8.xml#c8_14168" targetEnd="quarantana/cap8.xml#c8_14180">
+                          «Что значитъ весь этотъ шумъ? что случилось? гдѣ онъ? кто такой?»</note>
+        <note xml:id="Russian_1854_cap8-n181" type="translation" target="quarantana/cap8.xml#c8_14181" targetEnd="quarantana/cap8.xml#c8_14202">
+                          «Какъ, кто такой?» сказалъ Амвросій, держа одною рукою дверь, а въ другой свое платье.</note>
+        <note xml:id="Russian_1854_cap8-n182" type="translation" target="quarantana/cap8.xml#c8_14203" targetEnd="quarantana/cap8.xml#c8_14212">
+                          «Какъ! развѣ вы не знаете, что за люди забрались въ домъ к пастору?</note>
+        <note xml:id="Russian_1854_cap8-n183" type="translation" target="quarantana/cap8.xml#c8_14213" targetEnd="quarantana/cap8.xml#c8_14215">
+                          Впередъ, ребята, на помощь!»</note>
+        <note xml:id="Russian_1854_cap8-n184" type="translation" target="quarantana/cap8.xml#c8_14216" targetEnd="quarantana/cap8.xml#c8_14236">
+                          Всѣ оборачиваютъ взоры свои на этотъ домъ, разсматриваютъ, толпятся около него, глядятъ вверхъ, прислушиваются — все спокойно.</note>
+        <note xml:id="Russian_1854_cap8-n185" type="translation" target="quarantana/cap8.xml#c8_14237" targetEnd="quarantana/cap8.xml#c8_14259">
+                          Нѣкоторые бѣгутъ къ дверямъ: онѣ цѣлы и заперты; поднимаютъ глаза и видятъ открытое окно; однако жъ не слыхать ни малѣйшаго шуму.</note>
+        <note xml:id="Russian_1854_cap8-n186" type="translation" target="quarantana/cap8.xml#c8_14260" targetEnd="quarantana/cap8.xml#c8_14263">
+                          «Кто тамъ?</note>
+        <note xml:id="Russian_1854_cap8-n187" type="translation" target="quarantana/cap8.xml#c8_14264" targetEnd="quarantana/cap8.xml#c8_14272">
+                          Эй! господинъ пасторъ?»</note>
+        <note xml:id="Russian_1854_cap8-n188" type="translation" target="quarantana/cap8.xml#c8_14273" targetEnd="quarantana/cap8.xml#c8_14330">
+                          Донъ Абондiо замѣтивъ, что осаждавшіе его убѣжали, отошелъ отъ окна и заперъ его; а теперь, споря съ служанкою, которая оставила его одного въ такомъ затруднительномъ положенiи, и слыша, что прихожане зовутъ его, онъ принужденъ былъ опять подойти къ окну; но увидѣвъ такое стеченіе народа, раскаявался, что возбудилъ его.</note>
+        <note xml:id="Russian_1854_cap8-n189" type="translation" target="quarantana/cap8.xml#c8_14331" targetEnd="quarantana/cap8.xml#c8_14334">
+                          «Что случилось?</note>
+        <note xml:id="Russian_1854_cap8-n190" type="translation" target="quarantana/cap8.xml#c8_14335" targetEnd="quarantana/cap8.xml#c8_14339">
+                          Что съ вами сдѣлалось?</note>
+        <note xml:id="Russian_1854_cap8-n191" type="translation" target="quarantana/cap8.xml#c8_14340" targetEnd="quarantana/cap8.xml#c8_14343">
+                          Кто эти разбойники?</note>
+        <note xml:id="Russian_1854_cap8-n192" type="translation" target="quarantana/cap8.xml#c8_14344" targetEnd="quarantana/cap8.xml#c8_14355">
+                          Гдѣ они?» кричали ему пятьдесятъ голосовъ заразъ.</note>
+        <note xml:id="Russian_1854_cap8-n193" type="translation" target="quarantana/cap8.xml#c8_14356" targetEnd="quarantana/cap8.xml#c8_14365">
+                          «Уже ни кого нѣтъ; благодарю васъ; ступайте по домамъ.»</note>
+        <note xml:id="Russian_1854_cap8-n194" type="translation" target="quarantana/cap8.xml#c8_14366" targetEnd="quarantana/cap8.xml#c8_14369">
+                          «Но что же такое было?</note>
+        <note xml:id="Russian_1854_cap8-n195" type="translation" target="quarantana/cap8.xml#c8_14370" targetEnd="quarantana/cap8.xml#c8_14373">
+                          Куда они ушли?»</note>
+        <note xml:id="Russian_1854_cap8-n196" type="omission" target="quarantana/cap8.xml#c8_14374" targetEnd="quarantana/cap8.xml#c8_14377" />
+        <note xml:id="Russian_1854_cap8-n197" type="translation" target="quarantana/cap8.xml#c8_14378" targetEnd="quarantana/cap8.xml#c8_14403">
+                          «Это были неблагонамѣренные люди, которые таскаются по ночамъ; но они убѣжали; ступайте по домамъ; никого нѣтъ болѣе. Въ другой разъ, друзья мои; я васъ отъ всего сердца благодарю.»</note>
+        <note xml:id="Russian_1854_cap8-n198" type="translation" target="quarantana/cap8.xml#c8_14404" targetEnd="quarantana/cap8.xml#c8_14412">
+                          Съ этимъ словомъ онъ закрылъ окно, и ушелъ.</note>
+        <note xml:id="Russian_1854_cap8-n199" type="translation" target="quarantana/cap8.xml#c8_14413" targetEnd="quarantana/cap8.xml#c8_14441">
+                          Тутъ нѣкоторые стали роптать, другіе посмѣивались, иные ругали; были и такіе, которые пожимали плечами и уходили: но вдругъ прибѣжалъ одинъ поселянинъ, запыхавшись и насилу переводя духъ.</note>
+        <note xml:id="Russian_1854_cap8-n200" type="translation" target="quarantana/cap8.xml#c8_14442" targetEnd="quarantana/cap8.xml#c8_14472">
+                          Онъ жилъ почти противъ Агнесы и подошедши на шумъ къ окну, видѣлъ, какъ Гризо старался устроить шайку свою.</note>
+        <note xml:id="Russian_1854_cap8-n201" type="translation" target="quarantana/cap8.xml#c8_14473" targetEnd="quarantana/cap8.xml#c8_14512">
+                          Собравшись съ духомъ, онъ закричалъ: «Что вы тутъ дѣлаете, друзья? Чертовщина-то не здѣсь, а въ концѣ деревни, въ домѣ Агнесы Монделлы; онъ полонъ вооруженными людьми, которые хотятъ зарѣзать странника.</note>
+        <note xml:id="Russian_1854_cap8-n202" type="translation" target="quarantana/cap8.xml#c8_14513" targetEnd="quarantana/cap8.xml#c8_14513">
+                          «Какъ?</note>
+        <note xml:id="Russian_1854_cap8-n203" type="translation" target="quarantana/cap8.xml#c8_14514" targetEnd="quarantana/cap8.xml#c8_14517">
+                          Какъ это?»</note>
+        <note xml:id="Russian_1854_cap8-n204" type="translation" target="quarantana/cap8.xml#c8_14518" targetEnd="quarantana/cap8.xml#c8_14522">
+                          И тутъ начался шумный совѣтъ.</note>
+        <note xml:id="Russian_1854_cap8-n205" type="translation" target="quarantana/cap8.xml#c8_14523" targetEnd="quarantana/cap8.xml#c8_14527">
+                          «Надо бѣжать туда... надобно видѣть...</note>
+        <note xml:id="Russian_1854_cap8-n206" type="translation" target="quarantana/cap8.xml#c8_14528" targetEnd="quarantana/cap8.xml#c8_14530">
+                          Сколько ихъ тамъ?...</note>
+        <note xml:id="Russian_1854_cap8-n207" type="omission" target="quarantana/cap8.xml#c8_14531" targetEnd="quarantana/cap8.xml#c8_14536" />
+        <note xml:id="Russian_1854_cap8-n208" type="translation" target="quarantana/cap8.xml#c8_14537" targetEnd="quarantana/cap8.xml#c8_14541">
+                          Старосту! старосту!»</note>
+        <note xml:id="Russian_1854_cap8-n209" type="translation" target="quarantana/cap8.xml#c8_14542" targetEnd="quarantana/cap8.xml#c8_14557">
+                          «Я здѣсь,» отвѣчалъ староста изъ-за толпы; «я здѣсь; но только мнѣ надобно помогать, надобно меня слушать.</note>
+        <note xml:id="Russian_1854_cap8-n210" type="translation" target="quarantana/cap8.xml#c8_14558" targetEnd="quarantana/cap8.xml#c8_14561">
+                          Скорѣе, гдѣ ризничій?...»</note>
+        <note xml:id="Russian_1854_cap8-n211" type="translation" target="quarantana/cap8.xml#c8_14562" targetEnd="quarantana/cap8.xml#c8_14565">
+                          «На колокольнѣ, на колокольнѣ!</note>
+        <note xml:id="Russian_1854_cap8-n212" type="translation" target="quarantana/cap8.xml#c8_14566" targetEnd="quarantana/cap8.xml#c8_14577">
+                          Поскорѣе: пусть одинъ изъ васъ сбѣгаетъ въ Лекко за полиціею; а вы ступайте за мною....»</note>
+        <note xml:id="Russian_1854_cap8-n213" type="translation" target="quarantana/cap8.xml#c8_14578" targetEnd="quarantana/cap8.xml#c8_14626">
+                          Одинъ прибѣгаетъ, другой втирается между двумя поселянами и толкаетъ ихъ — безпорядокъ былъ страшный, какъ вдругъ прибѣгаетъ еще одинъ, который видѣлъ, какъ уходили разбойники. «Они бѣгутъ вмѣстѣ съ странникомъ; и вѣрно уже за границей. Воротитесь! воротитесь!»</note>
+        <note xml:id="Russian_1854_cap8-n214" type="translation" target="quarantana/cap8.xml#c8_14627" targetEnd="quarantana/cap8.xml#c8_14645">
+                          При этомъ совѣтѣ, не ожидая приказаній начальника, они бросаются толпой и бѣгутъ въ безпорядкѣ на улицу.</note>
+        <note xml:id="Russian_1854_cap8-n215" type="translation" target="quarantana/cap8.xml#c8_14646" targetEnd="quarantana/cap8.xml#c8_14678">
+                          По мѣрѣ приближенія этой армии, многіе изъ нихъ, составлявшіе авангардъ, убавляютъ шагъ, даютъ обходить себя и становятся въ боевой порядокъ; послѣдніе дѣлаются первыми; наконецъ смѣшанный отрядъ приходитъ на мѣсто назначенія.</note>
+        <note xml:id="Russian_1854_cap8-n216" type="translation" target="quarantana/cap8.xml#c8_14679" targetEnd="quarantana/cap8.xml#c8_14694">
+                          Слѣды нападенія были свѣжи и очевидны: ворота отперты, замокъ сорванъ, а непріятелей уже не было.</note>
+        <note xml:id="Russian_1854_cap8-n218" type="translation" target="quarantana/cap8.xml#c8_14695" targetEnd="quarantana/cap8.xml#c8_14714">
+                          Входятъ на дворъ, приближаются къ двери нижняго этажа: она такъ же отперта и сломана. Спрашиваютъ другъ друга: «А Лучiя! Агнеса и странникъ!</note>
+        <note xml:id="Russian_1854_cap8-n219" type="translation" target="quarantana/cap8.xml#c8_14715" targetEnd="quarantana/cap8.xml#c8_14717">
+                          Гдѣ же странникъ?</note>
+        <note xml:id="Russian_1854_cap8-n220" type="translation" target="quarantana/cap8.xml#c8_14718" targetEnd="quarantana/cap8.xml#c8_14722">
+                          Стефано, вѣрно, ошибся.</note>
+        <note xml:id="Russian_1854_cap8-n221" type="translation" target="quarantana/cap8.xml#c8_14723" targetEnd="quarantana/cap8.xml#c8_14729">
+                          Нѣтъ, нѣтъ: Карландреа еще видѣлъ его.</note>
+        <note xml:id="Russian_1854_cap8-n222" type="translation" target="quarantana/cap8.xml#c8_14730" targetEnd="quarantana/cap8.xml#c8_14731">
+                          Эй странникъ!</note>
+        <note xml:id="Russian_1854_cap8-n223" type="translation" target="quarantana/cap8.xml#c8_14732" targetEnd="quarantana/cap8.xml#c8_14733">
+                          Агнеса!</note>
+        <note xml:id="Russian_1854_cap8-n224" type="translation" target="quarantana/cap8.xml#c8_14734" targetEnd="quarantana/cap8.xml#c8_14734">
+                          Лучія!</note>
+        <note xml:id="Russian_1854_cap8-n225" type="translation" target="quarantana/cap8.xml#c8_14735" targetEnd="quarantana/cap8.xml#c8_14744">
+                          Никто не отвѣчаетъ, Вѣрно, они увели ихъ съ собою?»</note>
+        <note xml:id="Russian_1854_cap8-n226" type="translation" target="quarantana/cap8.xml#c8_14745" targetEnd="quarantana/cap8.xml#c8_14788">
+                          Тутъ нѣкоторые, возвышая голосъ, предложили бѣжать въ погоню за похитителями, говоря, что это скверное дѣло, даже позоръ для деревни; всякой плутъ могъ спокойно уводить женъ, какъ коршунъ таскаетъ цыплятъ изъ оставленнаго овина.</note>
+        <note xml:id="Russian_1854_cap8-n227" type="translation" target="quarantana/cap8.xml#c8_14789" targetEnd="quarantana/cap8.xml#c8_14820">
+                          Тутъ началось новое совѣщаніе, еще шумнѣе прежняго; но одинъ изъ поселянъ (никогда не узнали, кто такой) внушилъ собранію, что Агнеса и Лучія скрылись въ какомъ-то домѣ.</note>
+        <note xml:id="Russian_1854_cap8-n228" type="translation" target="quarantana/cap8.xml#c8_14821" targetEnd="quarantana/cap8.xml#c8_14846">
+                          Слухъ этотъ разнесся, подтвердился; уже болѣе не говорили о погонѣ за бѣглецами; толпа разошлась и всякой пошелъ домой.</note>
+        <note xml:id="Russian_1854_cap8-n229" type="translation" target="quarantana/cap8.xml#c8_14847" targetEnd="quarantana/cap8.xml#c8_14875">
+                          Говоръ утихъ, и только слышенъ былъ скрыпь и шумъ отпирающихся и запирающихся воротъ; фонари показывались и исчезали; у оконъ видны были женщины, которыя разспрашивали проходящихъ о случившемся...</note>
+        <note xml:id="Russian_1854_cap8-n230" type="translation" target="quarantana/cap8.xml#c8_14876" targetEnd="quarantana/cap8.xml#c8_14894">
+                          Деревня стала опять, какъ пустыня; все пришло въ прежнее спокойствіе; но разговоры длились по домамъ, и только сонъ прекращалъ ихъ до завтрашняго.</note>
+        <note xml:id="Russian_1854_cap8-n231" type="translation" target="quarantana/cap8.xml#c8_14895" targetEnd="quarantana/cap8.xml#c8_15008">
+                          Приключеній болѣе не было; но на другой день, когда староста, находясь въ полѣ и опершись на заступъ, до половины воткнутый въ землю, былъ погруженъ въ размышленіе о таинственномъ событіи прошедшей ночи, о томъ, что онъ замѣтилъ, и что слѣдовало ему дѣлать, увидѣлъ подходящихъ къ нему двухъ человѣкъ, довольно дерзкихъ по наружности, съ длинными волосами, словно Франкскіе короли древнихъ временъ; эти люди совершенно походили на тѣхъ, которые дней пять тому назадъ оскорбили дона Абондіо, и чуть ли не тѣ же самые.</note>
+        <note xml:id="Russian_1854_cap8-n232" type="translation" target="quarantana/cap8.xml#c8_15009" targetEnd="quarantana/cap8.xml#c8_15055">
+                          Они, безъ дальнихъ разспросовъ, предупредили старосту, что если онъ не хочетъ еще умирать, то ни подъ какимъ видомъ не осмѣливался бы доносить подестатѣ о томъ, что случилось, не смѣлъ бы говорить правду даже въ случаѣ допроса, не болталъ бы самъ и другимъ не позволялъ бы этого.</note>
+        <note xml:id="Russian_1854_cap8-n233" type="translation" target="quarantana/cap8.xml#c8_15056" targetEnd="quarantana/cap8.xml#c8_15138">
+                          Наши путешественники въ молчаніи шли нѣкоторое время скорымъ шагомъ, безпрестанно оглядываясь назадъ, не гонится ли кто за ними, волнуемые грустію, что принуждены были бѣжать, безпокойствомъ, печалью объ неудачѣ своего предпріятія, страшась еще новой и безъизвѣстной опасности, и по мѣрѣ удаленія все еще преслѣдуемые звуками набата, которые становились глуше и ужаснѣе.</note>
+        <note xml:id="Russian_1854_cap8-n234" type="translation" target="quarantana/cap8.xml#c8_15139" targetEnd="quarantana/cap8.xml#c8_15142">
+                          Наконецъ колоколъ затихъ.</note>
+        <note xml:id="Russian_1854_cap8-n235" type="translation" target="quarantana/cap8.xml#c8_15143" targetEnd="quarantana/cap8.xml#c8_15184">
+                          Путешественники, находясь тогда въ чистомъ полѣ, и не слыша ни малѣйшаго шума, убавили шагу; Агнеса первая со вздохомъ прервала молчаніе, и спросила у Ренцо, какъ все это случилось; а у Менико, какого дьявола видѣлъ онъ въ ихъ домѣ.</note>
+        <note xml:id="Russian_1854_cap8-n236" type="translation" target="quarantana/cap8.xml#c8_15185" targetEnd="quarantana/cap8.xml#c8_15222">
+                          Ренцо вкратцѣ разсказалъ ей свою несчастную исторію, и всѣ трое обратились къ ребенку, который въ точности передалъ совѣтъ отца Христофора и разсказалъ имъ, кого самъ видѣлъ, и какимъ подвергся опасностямъ; что весьма сильно подтверждало справедливость этого совѣта.</note>
+        <note xml:id="Russian_1854_cap8-n237" type="translation" target="quarantana/cap8.xml#c8_15223" targetEnd="quarantana/cap8.xml#c8_15315">
+                          Слушатели изъ этого разсказа поняли болѣе, нежели наговорилъ Менико. При такомъ открытiи, новый страхъ овладѣлъ ими; они остановились посреди дороги, съ ужасомъ взглянули другъ на друга и одинаковымъ движеніемъ всѣ трое наложили руки свои на ребенка, какъ бы лаская его и въ молчаніи благодаря за то, что онъ для нихъ былъ ангеломъ хранителемъ, какъ бы изъявляя свое сожалѣніе, и, такъ сказать, извиняясь въ страданіи и опасностяхъ, какія онъ перенесъ для нихъ.</note>
+        <note xml:id="Russian_1854_cap8-n238" type="translation" target="quarantana/cap8.xml#c8_15316" targetEnd="quarantana/cap8.xml#c8_15357">
+                          «Теперь возвратись домой, чтобы не навести беспокойства своимъ родителямъ,» сказала ему Агнеса; и вспомнивъ, что обѣщала ему двѣ новыя монеты, она вынула четыре и, отдавая ихъ, прибавила: «Моли Бога, чтобы мы поскорѣй воротились; тогда...»</note>
+        <note xml:id="Russian_1854_cap8-n239" type="translation" target="quarantana/cap8.xml#c8_15358" targetEnd="quarantana/cap8.xml#c8_15397">
+                          Ренцо также далъ ему новый берлингъ и просилъ не говорить ни слова о данномъ ему порученіи. Лучія снова обласкала его, и ребенокъ, нѣжно съ нею раскланявшись, удалился.</note>
+        <note xml:id="Russian_1854_cap8-n240" type="translation" target="quarantana/cap8.xml#c8_15398" targetEnd="quarantana/cap8.xml#c8_15412">
+                          Утомленные печалію, они пустились въ путь; женщины шли впереди, а Ренцо сзади, служа имъ арріергардомъ.</note>
+        <note xml:id="Russian_1854_cap8-n241" type="translation" target="quarantana/cap8.xml#c8_15413" targetEnd="quarantana/cap8.xml#c8_15467">
+                          Лучія крепко сжимала руки своей матери, и съ кротостію, но ловко, отказывалась отъ помощи, которую предлагалъ ей молодой человѣкъ въ мѣстахъ неудобопроходимыхъ, когда они своротили съ большой дороги; она стыдилась, что въ этой суматохѣ была такъ откровенна и осталась съ нимъ одна, тогда какъ за нѣсколько минутъ передъ этимъ думала сдѣлаться его супругою.</note>
+        <note xml:id="Russian_1854_cap8-n242" type="translation" target="quarantana/cap8.xml#c8_15468" targetEnd="quarantana/cap8.xml#c8_15521">
+                          Теперь, когда этотъ сонъ исчезъ, она раскаявалась въ своемъ обращеніи, и среди столькихъ опасностей прибавляла еще себѣ болѣе боязни стыдливостію, которая раждается не отъ сознанія зла, тою стыдливостію, которая не понимаетъ самой себя, какъ ребенокъ, боящійся темноты, не зная самъ отъ чего.</note>
+        <note xml:id="Russian_1854_cap8-n243" type="translation" target="quarantana/cap8.xml#c8_15522" targetEnd="quarantana/cap8.xml#c8_15528">
+                          — «А домъ-то?» сказала вдругъ Агнеса.</note>
+        <note xml:id="Russian_1854_cap8-n244" type="translation" target="quarantana/cap8.xml#c8_15529" targetEnd="quarantana/cap8.xml#c8_15549">
+                          Но хотя причина этого вопроса была извѣстная, никто однако жъ не отвѣчалъ, потому что никто не могъ дать удовлетворительнаго отвѣта.</note>
+        <note xml:id="Russian_1854_cap8-n245" type="translation" target="quarantana/cap8.xml#c8_15550" targetEnd="quarantana/cap8.xml#c8_15568">
+                          Они продолжали путь свой въ молчаніи и скоро вышли на маленькую площадку передъ монастырскою церковью.</note>
+        <note xml:id="Russian_1854_cap8-n246" type="translation" target="quarantana/cap8.xml#c8_15569" targetEnd="quarantana/cap8.xml#c8_15580">
+                          Ренцо подошелъ къ церковнымъ дверямъ и сильно постучался.</note>
+        <note xml:id="Russian_1854_cap8-n247" type="translation" target="quarantana/cap8.xml#c8_15581" targetEnd="quarantana/cap8.xml#c8_15610">
+                          Двери отворились и лучи мѣсяца, проходя насквозь, освѣтили блѣдное лице и серебристую бороду отца Христофора, который стоялъ въ ожиданіи.</note>
+        <note xml:id="Russian_1854_cap8-n248" type="translation" target="quarantana/cap8.xml#c8_15611" targetEnd="quarantana/cap8.xml#c8_15625">
+                          Увидѣвъ ихъ всѣхъ вмѣстѣ, онъ сказалъ: «Слава Богу!» и сдѣлалъ знакъ, чтобы они вошли.</note>
+        <note xml:id="Russian_1854_cap8-n249" type="translation" target="quarantana/cap8.xml#c8_15626" targetEnd="quarantana/cap8.xml#c8_15690">
+                          Подлѣ него стоялъ другой капуцинъ; это былъ бѣлецъ ключарь, котораго отецъ Христофоръ уговорилъ прозьбами и разными убѣжденіями не спать, оставить двери отпертыми и быть в готовности принять этихъ бѣдныхъ угнетенныхъ: только власть и святость отца Христофора могли заставить бѣльца согласиться на эту безпокойную, необыкновенную и опасную снисходительность.</note>
+        <note xml:id="Russian_1854_cap8-n250" type="translation" target="quarantana/cap8.xml#c8_15691" targetEnd="quarantana/cap8.xml#c8_15701">
+                          Когда они вошли, отецъ Христофоръ заперъ тихонько дверь.</note>
+        <note xml:id="Russian_1854_cap8-n251" type="translation" target="quarantana/cap8.xml#c8_15702" targetEnd="quarantana/cap8.xml#c8_15732">
+                          Тогда ключарь не могъ выдержать болѣе и, отведя его въ сторону, сказалъ ему на ухо: «Но, честный отецъ, ночью... въ церкви... съ женщинами... запираться... правила... честный отецъ.» —</note>
+        <note xml:id="Russian_1854_cap8-n252" type="translation" target="quarantana/cap8.xml#">
+                          И онъ качалъ головою, съ трудомъ говорилъ это.</note>
+        <note xml:id="Russian_1854_cap8-n253" type="translation" target="quarantana/cap8.xml#c8_15743" targetEnd="quarantana/cap8.xml#c8_15775">
+                          «Вотъ,» думалъ отецъ Христофоръ, «если бы это былъ путешественникъ внѣ всякой опастности, отецъ Фазіо ни сколько не затруднился бы; а для несчастной, невинной, которая скрывается отъ гоненія...</note>
+        <note xml:id="Russian_1854_cap8-n254" type="translation" target="quarantana/cap8.xml#c8_15776" targetEnd="quarantana/cap8.xml#c8_15793">
+                          «Omnia munda mundis,» сказалъ онъ вдругъ отцу Фазіо, позабывъ, что тотъ не понималъ по-Латыни.</note>
+        <note xml:id="Russian_1854_cap8-n255" type="translation" target="quarantana/cap8.xml#c8_15794" targetEnd="quarantana/cap8.xml#c8_15803">
+                          Но сiи слова произвели именно то дѣйствіе, какого онъ не ожидалъ.</note>
+        <note xml:id="Russian_1854_cap8-n256" type="translation" target="quarantana/cap8.xml#c8_15804" targetEnd="quarantana/cap8.xml#c8_15858">
+                          Если бы онъ сталъ разсуждать съ отцемъ Фазіо, то этотъ не преминулъ бы представить ему другія причины, и Богъ вѣсть, когда и какъ бы это кончилось; теперь же, когда онъ услышалъ слова эти, запечатлѣнныя таинственностію и съ твердостію произнесенныя, то ему казалось, что онъ слышить въ нихъ разрѣшеніе всѣхъ сомнѣній.</note>
+        <note xml:id="Russian_1854_cap8-n257" type="translation" target="quarantana/cap8.xml#c8_15859" targetEnd="quarantana/cap8.xml#c8_15869">
+                          Онъ успокоился, и сказалъ: «Хорошо; вы болѣе моего знаете.» —</note>
+        <note xml:id="Russian_1854_cap8-n258" type="translation" target="quarantana/cap8.xml#c8_15870" targetEnd="quarantana/cap8.xml#c8_15909">
+                          «Положитесь на меня,» отвѣчалъ отецъ Христофоръ; и при дрожащемъ свѣтѣ лампады, теплившейся передъ алтаремъ, онъ подошелъ къ несчастнымъ, которые ждали съ безпокойствомъ, и сказалъ имъ: «Дѣти мои! благодарите Господа, который избавилъ васъ отъ большой напасти.</note>
+        <note xml:id="Russian_1854_cap8-n259" type="translation" target="quarantana/cap8.xml#c8_15910" targetEnd="quarantana/cap8.xml#c8_15913">
+                          Можетъ быть, въ эту минуту...»</note>
+        <note xml:id="Russian_1854_cap8-n260" type="translation" target="quarantana/cap8.xml#c8_15914" targetEnd="quarantana/cap8.xml#c8_15953">
+                          И тутъ сталъ онъ толковать имъ, чего не могъ объяснить черезъ маленькаго посла, не думая ни сколько, чтобы они могли знать болѣе его, и полагая, что Менико нашелъ ихъ въ спокойствіи, прежде чѣмъ пришли разбойники.</note>
+        <note xml:id="Russian_1854_cap8-n261" type="translation" target="quarantana/cap8.xml#c8_15954" targetEnd="quarantana/cap8.xml#c8_15996">
+                          Никто не открылъ ему правды, даже Лучія, которая, вѣроятно, упрекала себя въ притворствѣ съ такимъ человѣкомъ: но это была ночь препятствій и притворства. — «Послѣ этого,» продолжалъ онъ, «вы видите, любезныя дѣти, что вамъ нельзя болѣе оставаться въ этой странѣ.</note>
+        <note xml:id="Russian_1854_cap8-n262" type="translation" target="quarantana/cap8.xml#c8_15997" targetEnd="quarantana/cap8.xml#c8_16012">
+                          Она ваша, вы родились въ ней, зла никому не дѣлали; но такова воля Божія.</note>
+        <note xml:id="Russian_1854_cap8-n263" type="translation" target="quarantana/cap8.xml#c8_16013" targetEnd="quarantana/cap8.xml#c8_16039">
+                          Это для васъ испытаніе, дѣти мои! Переносите его безъ ропота, съ терпѣніемъ, и упованіемъ на Бога, и будьте увѣрены, что придетъ время, когда вы станете радоваться тому, что съ вами теперь случается.</note>
+        <note xml:id="Russian_1854_cap8-n264" type="translation" target="quarantana/cap8.xml#c8_16040" targetEnd="quarantana/cap8.xml#c8_16050">
+                          Я позаботился о томъ, чтобы доставить вамъ убѣжище на первый случай.</note>
+        <note xml:id="Russian_1854_cap8-n265" type="translation" target="quarantana/cap8.xml#c8_16051" targetEnd="quarantana/cap8.xml#c8_16094">
+                          Скоро, надѣюсь, вамъ можно будетъ воротиться въ домъ свой. Богъ все дѣлаетъ къ лучшему. Что же касается до меня, то я постараюсь сдѣлаться достойнымъ той милости, которую Онъ низпосылаетъ на меня, употребляя слабыя силы мои, какъ орудіе, для предохраненія васъ, бѣдные страдальцы.</note>
+        <note xml:id="Russian_1854_cap8-n266" type="translation" target="quarantana/cap8.xml#c8_16095" targetEnd="quarantana/cap8.xml#c8_16104">
+                          «Вы,» продолжалъ онъ, обращаясь къ женщинамъ, «можете остановиться въ *** ....</note>
+        <note xml:id="Russian_1854_cap8-n267" type="translation" target="quarantana/cap8.xml#c8_16105" targetEnd="quarantana/cap8.xml#c8_16120">
+                          Тутъ вы будете укрыты отъ всякой опасности, а между тѣмъ и не отдалитесь отъ своего дома.</note>
+        <note xml:id="Russian_1854_cap8-n268" type="translation" target="quarantana/cap8.xml#c8_16121" targetEnd="quarantana/cap8.xml#c8_16141">
+                          Отыщите монастырь, спросите отца настоятеля и вручите ему это письмо; онъ будетъ для васъ другимъ Христофоромъ.</note>
+        <note xml:id="Russian_1854_cap8-n269" type="translation" target="quarantana/cap8.xml#c8_16142" targetEnd="quarantana/cap8.xml#c8_16159">
+                          А ты, любезный Ренцо, долженъ и теперь остерегаться отъ бѣшенства другихъ и отъ своей собственной горячности.</note>
+        <note xml:id="Russian_1854_cap8-n270" type="translation" target="quarantana/cap8.xml#c8_16160" targetEnd="quarantana/cap8.xml#c8_16175">
+                          Отнести это письмо кь отцу Бонавентуру де Лоди въ нашемъ монастырѣ, у восточныхъ воротъ Медіолана.</note>
+        <note xml:id="Russian_1854_cap8-n271" type="translation" target="quarantana/cap8.xml#c8_16176" targetEnd="quarantana/cap8.xml#c8_16196">
+                          Онъ будетъ твоимъ покровителемъ, наставитъ тебя и найдетъ работы, до того времени, пока ты спокойно можешь возвратиться сюда.</note>
+        <note xml:id="Russian_1854_cap8-n272" type="translation" target="quarantana/cap8.xml#c8_16197" targetEnd="quarantana/cap8.xml#c8_16213">
+                          Ступайте къ озеру, въ то мѣсто, гдѣ впадаетъ Біона (небольшая рѣчка, близь монастыря).</note>
+        <note xml:id="Russian_1854_cap8-n273" type="translation" target="quarantana/cap8.xml#c8_16214" targetEnd="quarantana/cap8.xml#c8_16228">
+                          Тамъ найдете вы отдыхающаго гребца; вы скажите ему: «лодку!» Онъ спроситъ: «Для кого??» вы отвѣчайте: Св. Францискъ!</note>
+        <note xml:id="Russian_1854_cap8-n274" type="translation" target="quarantana/cap8.xml#c8_16229" targetEnd="quarantana/cap8.xml#c8_16248">
+                          Тогда онъ приметъ васъ въ свою лодку и перевезетъ на ту сторону, гдѣ вы найдете карету, которая отвезетъ васъ прямо въ *** ...»</note>
+        <note xml:id="Russian_1854_cap8-n275" type="translation" target="quarantana/cap8.xml#c8_16249" targetEnd="quarantana/cap8.xml#c8_16284">
+                          Кто вздумалъ бы спросить, какимъ образомъ отецъ Христофоръ такъ скоро имѣлъ въ распоряженіи своемъ перевозы сухимъ путемъ и водою, тотъ доказалъ бы, что онъ не знаетъ, какую власть можетъ имѣть капуцинъ, почитаемый за святаго.</note>
+        <note xml:id="Russian_1854_cap8-n276" type="translation" target="quarantana/cap8.xml#c8_16285" targetEnd="quarantana/cap8.xml#c8_16291">
+                          Оставалось подумать о сохраненіи обоихъ домовъ.</note>
+        <note xml:id="Russian_1854_cap8-n277" type="translation" target="quarantana/cap8.xml#c8_16292" targetEnd="quarantana/cap8.xml#c8_16307">
+                          Отецъ Христофоръ получилъ ключи отъ нихъ и взялся доставить ихъ тѣмъ, кого назначили ему Ренцо и Агнеса.</note>
+        <note xml:id="Russian_1854_cap8-n278" type="translation" target="quarantana/cap8.xml#c8_16308" targetEnd="quarantana/cap8.xml#c8_16339">
+                          Послѣдняя, отдавая свой ключъ, глубоко вздохнула, вспомнивъ, что домъ ея былъ отпертъ, что въ него входили разбойники, и что можетъ болѣе нечего было стеречь.</note>
+        <note xml:id="Russian_1854_cap8-n279" type="translation" target="quarantana/cap8.xml#c8_16340" targetEnd="quarantana/cap8.xml#c8_16374">
+                          «Прежде чѣмъ вы пойдете,» сказалъ отецъ Христофоръ, «помолитесь вмѣстѣ со мною Богу, да сопутствуетъ Онъ вамъ во время этого путешествія и всей вашей жизни, и особенно да дастъ вамъ крѣпость и любовь къ тому, чего самъ Онъ захотѣль.»</note>
+        <note xml:id="Russian_1854_cap8-n280" type="translation" target="quarantana/cap8.xml#c8_16375" targetEnd="quarantana/cap8.xml#c8_16386">
+                          Сказавъ эти слова, отецъ Христофоръ сталъ на колѣна посреди церкви, и всѣ послѣдовали его примѣру.</note>
+        <note xml:id="Russian_1854_cap8-n281" type="translation" target="quarantana/cap8.xml#c8_16387" targetEnd="quarantana/cap8.xml#c8_16416">
+                          Помолившись нѣсколько времени, въ молчаніи, онъ слабымъ, но яснымъ голосомъ произнесъ слѣдующія слова. «Еще молимся о несчастномъ, который привелъ насъ въ такое положеніе.</note>
+        <note xml:id="Russian_1854_cap8-n282" type="translation" target="quarantana/cap8.xml#c8_16417" targetEnd="quarantana/cap8.xml#c8_16435">
+                          Мы бы не достойны были Твоего милосердія, если бы откровенно того не просили: онъ столько въ немъ нуждается!</note>
+        <note xml:id="Russian_1854_cap8-n283" type="translation" target="quarantana/cap8.xml#c8_16436" targetEnd="quarantana/cap8.xml#c8_16460">
+                          Мы и при несчастіи своемъ имѣемъ то утѣшеніе, что слѣдуемъ по стези, Тобою указанной, можемъ принести въ жертву несчастія наши, и они дѣлаются для насъ наградою.</note>
+        <note xml:id="Russian_1854_cap8-n284" type="translation" target="quarantana/cap8.xml#c8_16461" targetEnd="quarantana/cap8.xml#c8_16495">
+                          Но онъ врагъ Твой, несчастный, онъ возстаетъ противъ Тебя, Господи! умилосердись надъ нимъ, тронь его сердце, не отвергни его отъ Себя и даруй ему всѣ блага, которыхъ бы мы могли желать для себя.»</note>
+        <note xml:id="Russian_1854_cap8-n285" type="translation" target="quarantana/cap8.xml#c8_16496" targetEnd="quarantana/cap8.xml#c8_16517">
+                          Потомъ, вставая поспѣшно, онъ сказалъ: «Ну, дѣти мои, нечего терять времени: да сохранитъ васъ Господь, да сопутствуетъ вамъ Ангелъ Его! Ступайте съ Богомъ.»</note>
+        <note xml:id="Russian_1854_cap8-n286" type="translation" target="quarantana/cap8.xml#c8_16518" targetEnd="quarantana/cap8.xml#c8_16550">
+                          И пока они удалялись, съ чувствомъ, котораго нельзя изъяснить словами, и которое безъ словъ выражается, отецъ Христофоръ прибавилъ растроганнымъ голосомъ: «Сердце мое говорить мнѣ, что мы скоро увидимся.»</note>
+        <note xml:id="Russian_1854_cap8-n287" type="translation" target="quarantana/cap8.xml#c8_16551" targetEnd="quarantana/cap8.xml#c8_16567">
+                          Конечно для того, кто съ нимъ совѣтуется, сердце всегда найдетъ сказать что-нибудь.</note>
+        <note xml:id="Russian_1854_cap8-n288" type="translation" target="quarantana/cap8.xml#c8_16568" targetEnd="quarantana/cap8.xml#c8_16573">
+                          Но что знаетъ сердце?</note>
+        <note xml:id="Russian_1854_cap8-n289" type="translation" target="quarantana/cap8.xml#c8_16574" targetEnd="quarantana/cap8.xml#c8_16582">
+                          Едва что-нибудь о томъ, что уже случилось.</note>
+        <note xml:id="Russian_1854_cap8-n290" type="translation" target="quarantana/cap8.xml#c8_16583" targetEnd="quarantana/cap8.xml#c8_16609">
+                          Отец Христофоръ, не ожидая отвѣта, удалился скорыми шагами; путешественники пошли, и отецъ Фазіо, запирая дверь, простился съ ними смущеннымъ голосомъ.</note>
+        <note xml:id="Russian_1854_cap8-n291" type="translation" target="quarantana/cap8.xml#c8_16610" targetEnd="quarantana/cap8.xml#c8_16630">
+                          Медленно повернули они на берегъ къ указанному мѣсту и нашли тамъ лодку, которая, послѣ условныхъ вопросовъ, приняла ихъ.</note>
+        <note xml:id="Russian_1854_cap8-n292" type="translation" target="quarantana/cap8.xml#c8_16631" targetEnd="quarantana/cap8.xml#c8_16656">
+                          Гребецъ сѣлъ на носъ, взялъ весло, свѣсилъ другое и, гребя обѣими руками, пустился поперекъ рѣки къ другому берегу...</note>
+        <note xml:id="Russian_1854_cap8-n293" type="translation" target="quarantana/cap8.xml#c8_16657" targetEnd="quarantana/cap8.xml#c8_16691">
+                          Ни малѣйшаго вѣтерка, озеро покойно, и гладкая поверхность его казалась бы совершенно неподвижною, если бы не было видно небольшой струи отражавшагося въ водѣ мѣсяца.</note>
+        <note xml:id="Russian_1854_cap8-n294" type="translation" target="quarantana/cap8.xml#c8_16692" targetEnd="quarantana/cap8.xml#c8_16755">
+                          Только и слышно было шумъ волнъ, плещущихъ въ берегъ, журчаніе водъ, разбивавшихся о сваи моста, и мѣрные удары веселъ, которая, разсѣкая лазуревую поверхность озера, съ шумомъ выходили и снова погружались въ воду, на коей лодка оставляла длинные струи, увеличивавшіяся по мѣрѣ ихъ удаленія отъ берега.</note>
+        <note xml:id="Russian_1854_cap8-n295" type="translation" target="quarantana/cap8.xml#c8_16756" targetEnd="quarantana/cap8.xml#c8_16779">
+                          Путешественники, оборотясь къ мѣсту отъѣзда, безмолвно смотрѣли на свою родину, на горы, освѣщенныя луной и кое-гдѣ покрытыя тѣнью.</note>
+        <note xml:id="Russian_1854_cap8-n296" type="translation" target="quarantana/cap8.xml#c8_16780" targetEnd="quarantana/cap8.xml#c8_16822">
+                          Они различали деревни, домы, хижины и дворецъ дона Родрига, съ плоскою башнею, возвышавшійся надъ множествомъ жилищъ, разбросанныхъ на горѣ, и походившій на злодѣя, который, стоя во мракѣ посреди заснувшей шайки, замышляетъ преступленіе.</note>
+        <note xml:id="Russian_1854_cap8-n297" type="translation" target="quarantana/cap8.xml#c8_16823" targetEnd="quarantana/cap8.xml#c8_16886">
+                          Увидѣвъ его, Лучія вздрогнула; она глазами слѣдовала по сходящей съ этого мѣста дорогѣ въ свою деревню; узнала свой домъ и густую вершину фиговаго дерева, которое осѣняло дверь и окошко ея комнаты. Сидя на кормѣ лодки, она облокотилась на край ея и, склонивъ голову, какъ будто дремала: между тѣмъ украдкою горько плакала.</note>
+        <note xml:id="Russian_1854_cap8-n298" type="translation" target="quarantana/cap8.xml#c8_16887" targetEnd="quarantana/cap8.xml#c8_16944">
+                          «Простите горы, простите поля и долины. Ваша картина рѣзкими чертами запечатлѣлась въ сердцѣ той, которая взросла между вами; как воспоминанія о родныхъ, какъ мечты о прелестномъ возрастѣ младенчества, глубоко, неизгладимо врѣзались вы въ ея памяти. Прости, ручей, котораго шумъ отличала я, какъ голосъ родного; простите домы и деревни, бѣлѣющіеся на отлогостяхъ горъ, какъ стадо, отдыхающее на лугу.</note>
+        <note xml:id="Russian_1854_cap8-n299" type="translation" target="quarantana/cap8.xml#c8_16945" targetEnd="quarantana/cap8.xml#c8_16957">
+                          Какъ тяжело покинуть васъ той, которая взросла между вами!</note>
+        <note xml:id="Russian_1854_cap8-n300" type="translation" target="quarantana/cap8.xml#c8_16958" targetEnd="quarantana/cap8.xml#c8_17001">
+                          Разлука съ вами превосходитъ всякое описанiе; даже тотъ, кто добровольно оставляетъ васъ, въ надеждѣ на лучшую долю въ другомъ мѣстѣ, и тотъ въ золотыхъ мечтахъ о будущемъ счастіи, блѣднѣетъ и теряется при разлукѣ съ вами. Съ этой поры всегдашнею, неразлучною мыслью его будетъ — возвратиться въ нѣдра ваши съ дарами фортуны.</note>
+        <note xml:id="Russian_1854_cap8-n301" type="translation" target="quarantana/cap8.xml#c8_17002" targetEnd="quarantana/cap8.xml#c8_17088">
+                          По мѣрѣ того, какъ онъ углубляется въ долину, взоры его, утомленные однообразіемъ картины, невольно обращаются назадъ; воздухъ кажется ему сухимъ и безжизненнымъ; видъ безчисленнаго множества домовъ, церквей, улицъ, какъ-бы останавливаетъ его дыханіе, и тѣ предметы, которые возбуждаютъ удивленіе и любопытство иноземца, заставляютъ его невольно вспоминать о деревенскомъ колоколѣ, о скромной хижинѣ, на который такъ долго съ удовольствіемъ останавливаетъ взоры свои, и которую, по возвращеніи, увидитъ въ довольствѣ и богатствѣ.</note>
+        <note xml:id="Russian_1854_cap8-n302" type="translation" target="quarantana/cap8.xml#c8_17089" targetEnd="quarantana/cap8.xml#c8_17165">
+                          «Но какъ несчастливъ тотъ, кто, непростирая желанiй своихъ далѣе предѣловъ родины, и заключая всю свою будущность въ селѣ своемъ, принужденъ быть узникомъ неправой силы, лишиться всѣхъ милыхъ привычекъ, всѣхъ надеждъ, покинуть свои мирныя горы, итти въ страну, совершенно чуждую, и наконецъ не имѣть луча надежды на возвращеніе!..</note>
+        <note xml:id="Russian_1854_cap8-n303" type="translation" target="quarantana/cap8.xml#c8_17166" targetEnd="quarantana/cap8.xml#c8_17221">
+                          Прощай родной, милый кровъ мой! въ тебѣ научилась я тайнымъ чувствомъ различать шаги незнакомца отъ шаговъ человѣка, съ нетерпѣніемъ и не безъ тайнаго безпокойства ожидаемаго; прощай и ты, домъ, еще мнѣ чуждый, на который я только разъ смотрѣла украдкою и съ замѣшательствомъ, домъ, въ которомъ я надѣялась основать долгую и мирную жизнь съ мильмъ супругомъ!</note>
+        <note xml:id="Russian_1854_cap8-n304" type="translation" target="quarantana/cap8.xml#c8_17222" targetEnd="quarantana/cap8.xml#c8_17258">
+                          Прощай и ты, святая церковь, гдѣ только разъ успокоивалась душа, воспѣвая хвалы Всевышнему, гдѣ была обѣщана мнѣ брачная церемонія, гдѣ тайные помыслы сердца долженствовали получить торжественное благословеніе, гдѣ любовь должна была обратиться въ долгъ и сдѣлаться священною!</note>
+        <note xml:id="Russian_1854_cap8-n305" type="translation" target="quarantana/cap8.xml#c8_17259" targetEnd="quarantana/cap8.xml#c8_17289">
+                          Но тотъ, кому подвластно все въ мірѣ, возмущаетъ счастіе дѣтей своихъ для того только, чтобы доставить имъ благополучіе большее и продолжительнѣйшее!..»</note>
+        <note xml:id="Russian_1854_cap8-n306" type="translation" target="quarantana/cap8.xml#c8_17290" targetEnd="quarantana/cap8.xml#c8_17320">
+                          Таковы были мысли Лучiи и другихъ изгнанниковъ въ то время, когда лодка бороздила озеро, переплывая на другую сторону Адды.</note>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,1406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Commenti da Обрученные : Медиолан. быль XVIII [!XVII] столетия, найден. и передел. Александром Манзони</title>
+        <author>Alessandro Manzoni</author>
+        <respStmt>
+          <resp>Annotazione digitale</resp>
+          <persName xml:id="Maria_Levchenko">Maria Levchenko</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Leggo Manzoni. Quaranta commenti alla Quarantana</publisher>
+        <pubPlace>Università di Bologna "Alma mater studiorum"</pubPlace>
+        <date>2025</date>
+        <availability>
+          <p>Questa risorsa digitale è liberamente accessibile per uso personale o scientifico. Ogni uso commerciale è vietato.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Alessandro Manzoni</author>
+          <title>Обрученные : Медиолан. быль XVIII [!XVII] столетия, найден. и передел. Александром Манзони</title>
+          <pubPlace>Москва</pubPlace>
+          <publisher>Библиотека романов, повестей, путешествий и записок, изд. Н.Н. Улитиным</publisher>
+          <date>1854</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <listChange>
+        <change who="Maria_Levchenko" when="2025-02-20">Annotazione digitale</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="Russian_1854.xml_cap5">
+        <note xml:id="Russian_1854_cap5-n1" type="translation" target="quarantana/cap5.xml#c5_10001" targetEnd="quarantana/cap5.xml#c5_10009">
+                          Отецъ Христофоръ остановился на порогѣ</note>
+        <note xml:id="Russian_1854_cap5-n2" type="translation" target="quarantana/cap5.xml#c5_10010" targetEnd="quarantana/cap5.xml#c5_10015">
+                          и, взглянувъ на женщинъ, тотчасъ увѣрился,</note>
+        <note xml:id="Russian_1854_cap5-n3" type="translation" target="quarantana/cap5.xml#c5_10016" targetEnd="quarantana/cap5.xml#c5_10024">
+                          что предчувствія его не обманули.</note>
+        <note xml:id="Russian_1854_cap5-n4" type="translation" target="quarantana/cap5.xml#c5_10025" targetEnd="quarantana/cap5.xml#c5_10025">
+                          Тогда,</note>
+        <note xml:id="Russian_1854_cap5-n6" type="translation" target="quarantana/cap5.xml#c5_10026" targetEnd="quarantana/cap5.xml#c5_10047">
+                          поднявъ бороду легкимъ наклоненіемъ головы назадъ, онъ сказалъ имъ тѣмъ вопросительнымъ голосомъ, который, кажется, идетъ на встрѣчу печальному отвѣту:</note>
+        <note xml:id="Russian_1854_cap5-n7" type="translation" target="quarantana/cap5.xml#c5_10048" targetEnd="quarantana/cap5.xml#c5_10049">
+                          «Ну, что?»</note>
+        <note xml:id="Russian_1854_cap5-n8" type="translation" target="quarantana/cap5.xml#c5_10050" targetEnd="quarantana/cap5.xml#c5_10056">
+                          Лучiя отвѣчала обильными слезами;</note>
+        <note xml:id="Russian_1854_cap5-n9" type="translation" target="quarantana/cap5.xml#c5_10057" targetEnd="quarantana/cap5.xml#c5_10068">
+                          мать стала извиняться, что осмѣлилась… но онъ вошелъ въ комнату,</note>
+        <note xml:id="Russian_1854_cap5-n10" type="translation" target="quarantana/cap5.xml#c5_10069" targetEnd="quarantana/cap5.xml#c5_10078">
+                          сѣлъ на треногую скамейку, и,</note>
+        <note xml:id="Russian_1854_cap5-n11" type="translation" target="quarantana/cap5.xml#c5_10079" targetEnd="quarantana/cap5.xml#c5_10082">
+                          прервавъ всѣ извиненія,</note>
+        <note xml:id="Russian_1854_cap5-n13" type="translation" target="quarantana/cap5.xml#c5_10083" targetEnd="quarantana/cap5.xml#c5_10088">
+                          сказалъ Лучiи: «Успокойся, дитя мое.</note>
+        <note xml:id="Russian_1854_cap5-n14" type="translation" target="quarantana/cap5.xml#c5_10089" targetEnd="quarantana/cap5.xml#c5_10090">
+                          А вы,»</note>
+        <note xml:id="Russian_1854_cap5-n15" type="translation" target="quarantana/cap5.xml#c5_10091" targetEnd="quarantana/cap5.xml#c5_10094">
+                          обратился онъ къ Агнесѣ,</note>
+        <note xml:id="Russian_1854_cap5-n16" type="translation" target="quarantana/cap5.xml#c5_10095" targetEnd="quarantana/cap5.xml#c5_10098">
+                          «разскажите мнѣ все, что случилось,»</note>
+        <note xml:id="Russian_1854_cap5-n17" type="translation" target="quarantana/cap5.xml#c5_10099" targetEnd="quarantana/cap5.xml#c5_10109">
+                          Пока добрая старушка разсказывала печальную повѣсть свою,</note>
+        <note xml:id="Russian_1854_cap5-n18" type="translation" target="quarantana/cap5.xml#c5_10110" targetEnd="quarantana/cap5.xml#c5_10115">
+                          отецъ Христофоръ то ударялъ въ землю ногою,</note>
+        <note xml:id="Russian_1854_cap5-n19" type="translation" target="quarantana/cap5.xml#c5_10116" targetEnd="quarantana/cap5.xml#c5_10122">
+                          то возводилъ взоры къ небу,</note>
+        <note xml:id="Russian_1854_cap5-n20" type="translation" target="quarantana/cap5.xml#c5_10123" targetEnd="quarantana/cap5.xml#c5_10126">
+                          безпрестанно измѣняясь въ лицѣ.</note>
+        <note xml:id="Russian_1854_cap5-n21" type="translation" target="quarantana/cap5.xml#c5_10127" targetEnd="quarantana/cap5.xml#c5_10129">
+                          Выслушавъ разсказъ ея,</note>
+        <note xml:id="Russian_1854_cap5-n22" type="translation" target="quarantana/cap5.xml#c5_10130" targetEnd="quarantana/cap5.xml#c5_10145">
+                          онъ закрылъ лице руками и воскликнулъ: «Боже милосердый! долго ли?...»</note>
+        <note xml:id="Russian_1854_cap5-n23" type="translation" target="quarantana/cap5.xml#c5_10146" targetEnd="quarantana/cap5.xml#c5_10150">
+                          Но не окончивъ рѣчи своей,</note>
+        <note xml:id="Russian_1854_cap5-n24" type="translation" target="quarantana/cap5.xml#c5_10151" targetEnd="quarantana/cap5.xml#c5_10155">
+                          онъ снова обратился къ женщинамъ:</note>
+        <note xml:id="Russian_1854_cap5-n25" type="translation" target="quarantana/cap5.xml#c5_10156" targetEnd="quarantana/cap5.xml#c5_10163">
+                          «Бѣдныя! — сказалъ онъ имъ, Богъ послалъ на васъ несчастіе. Бѣдная Лучiя!....»</note>
+        <note xml:id="Russian_1854_cap5-n27" type="translation" target="quarantana/cap5.xml#c5_10164" targetEnd="quarantana/cap5.xml#c5_10170">
+                          «Вы не оставите насъ, отецъ святый, не правда ли,» сказала Лучiя, рыдая.</note>
+        <note xml:id="Russian_1854_cap5-n28" type="translation" target="quarantana/cap5.xml#c5_10171" targetEnd="quarantana/cap5.xml#c5_10173">
+                          «Оставить васъ!..» отвечалъ онъ.</note>
+        <note xml:id="Russian_1854_cap5-n29" type="translation" target="quarantana/cap5.xml#c5_10174" targetEnd="quarantana/cap5.xml#c5_10186">
+                          «Боже Всемогущiй! Какъ же дерзну я прибѣгнуть къ Его милосердію,</note>
+        <note xml:id="Russian_1854_cap5-n30" type="translation" target="quarantana/cap5.xml#c5_10187" targetEnd="quarantana/cap5.xml#c5_10191">
+                          если васъ оставлю?</note>
+        <note xml:id="Russian_1854_cap5-n31" type="translation" target="quarantana/cap5.xml#c5_10192" targetEnd="quarantana/cap5.xml#c5_10195">
+                          Оставить васъ въ этомъ положеніи,</note>
+        <note xml:id="Russian_1854_cap5-n33" type="translation" target="quarantana/cap5.xml#c5_10196" targetEnd="quarantana/cap5.xml#c5_10200">
+                          васъ, которыхъ поручиль Онъ мнѣ!</note>
+        <note xml:id="Russian_1854_cap5-n34" type="translation" target="quarantana/cap5.xml#c5_10201" targetEnd="quarantana/cap5.xml#c5_10207">
+                          Не отчаявайтесь: Онъ защититъ васъ.</note>
+        <note xml:id="Russian_1854_cap5-n35" type="translation" target="quarantana/cap5.xml#c5_10208" targetEnd="quarantana/cap5.xml#c5_10223">
+                          Онъ всевѣдущъ; Онъ можетъ даже избрать меня недостойнаго, какъ орудіе, чтобы сокрушить замыслъ злод...</note>
+        <note xml:id="Russian_1854_cap5-n37" type="translation" target="quarantana/cap5.xml#c5_10224" targetEnd="quarantana/cap5.xml#c5_10229">
+                          Посмотримъ, подумаемъ, что можемъ мы сдѣлать.»</note>
+        <note xml:id="Russian_1854_cap5-n38" type="translation" target="quarantana/cap5.xml#c5_10230" targetEnd="quarantana/cap5.xml#c5_10231">
+                          При сихъ словахъ,</note>
+        <note xml:id="Russian_1854_cap5-n39" type="translation" target="quarantana/cap5.xml#c5_10232" targetEnd="quarantana/cap5.xml#c5_10243">
+                          опершись локтемъ на колѣно, онъ положилъ голову на лѣвую руку,</note>
+        <note xml:id="Russian_1854_cap5-n40" type="translation" target="quarantana/cap5.xml#c5_10244" targetEnd="quarantana/cap5.xml#c5_10253">
+                          а правой взялся за бороду,</note>
+        <note xml:id="Russian_1854_cap5-n41" type="translation" target="quarantana/cap5.xml#c5_10254" targetEnd="quarantana/cap5.xml#c5_10263">
+                          какъ бы желая собрать всѣ душевныя силы.</note>
+        <note xml:id="Russian_1854_cap5-n42" type="translation" target="quarantana/cap5.xml#c5_10264" targetEnd="quarantana/cap5.xml#c5_10283">
+                          Но чѣмъ внимательнѣе размышлялъ онъ, тѣмъ болѣе убѣждался въ томъ, какъ трудно и опасно было положеніе несчастныхъ и,</note>
+        <note xml:id="Russian_1854_cap5-n43" type="translation" target="quarantana/cap5.xml#c5_10284" targetEnd="quarantana/cap5.xml#c5_10286">
+                          какъ недостаточны,</note>
+        <note xml:id="Russian_1854_cap5-n44" type="translation" target="quarantana/cap5.xml#c5_10287" targetEnd="quarantana/cap5.xml#c5_10288">
+                          невѣрны,</note>
+        <note xml:id="Russian_1854_cap5-n45" type="translation" target="quarantana/cap5.xml#c5_10289" targetEnd="quarantana/cap5.xml#c5_10292">
+                          трудны средства къ ихъ спасенію.</note>
+        <note xml:id="Russian_1854_cap5-n46" type="translation" target="quarantana/cap5.xml#c5_10293" targetEnd="quarantana/cap5.xml#c5_10298">
+                          Заставить дона Абондiо устыдиться,</note>
+        <note xml:id="Russian_1854_cap5-n47" type="translation" target="quarantana/cap5.xml#c5_10299" targetEnd="quarantana/cap5.xml#c5_10307">
+                          и почувствовать, до какой степени онъ измѣняетъ своему долгу?</note>
+        <note xml:id="Russian_1854_cap5-n48" type="translation" target="quarantana/cap5.xml#c5_10308" targetEnd="quarantana/cap5.xml#c5_10315">
+                          Стыдъ и долгъ ничтожны въ глазахъ его,</note>
+        <note xml:id="Russian_1854_cap5-n49" type="translation" target="quarantana/cap5.xml#c5_10316" targetEnd="quarantana/cap5.xml#c5_10319">
+                          въ то время, когда имъ овладѣла боязнь.</note>
+        <note xml:id="Russian_1854_cap5-n50" type="translation" target="quarantana/cap5.xml#c5_10320" targetEnd="quarantana/cap5.xml#c5_10322">
+                          Принудить его угрозами?</note>
+        <note xml:id="Russian_1854_cap5-n51" type="translation" target="quarantana/cap5.xml#c5_10323" targetEnd="quarantana/cap5.xml#c5_10337">
+                          Но какимъ средствомъ напугать его? Чего можетъ онъ бояться болѣе ружейной пули?</note>
+        <note xml:id="Russian_1854_cap5-n53" type="translation" target="quarantana/cap5.xml#c5_10338" targetEnd="quarantana/cap5.xml#c5_10348">
+                          Довести все до свѣдѣнія кардинала, епископа и просить его покровительства?</note>
+        <note xml:id="Russian_1854_cap5-n54" type="translation" target="quarantana/cap5.xml#c5_10349" targetEnd="quarantana/cap5.xml#c5_10355">
+                          На все это нужно много времени; а между тѣмъ...</note>
+        <note xml:id="Russian_1854_cap5-n55" type="translation" target="quarantana/cap5.xml#c5_10356" targetEnd="quarantana/cap5.xml#c5_10361">
+                          и даже еслибъ несчастная Лучiя и была обвѣнчена,</note>
+        <note xml:id="Russian_1854_cap5-n56" type="translation" target="quarantana/cap5.xml#c5_10362" targetEnd="quarantana/cap5.xml#c5_10366">
+                          можетъ ли это остановить неукротимаго вельможу?...</note>
+        <note xml:id="Russian_1854_cap5-n57" type="translation" target="quarantana/cap5.xml#c5_10367" targetEnd="quarantana/cap5.xml#c5_10374">
+                          Кто знаетъ, до какой степени можетъ дойти дерзость?</note>
+        <note xml:id="Russian_1854_cap5-n58" type="translation" target="quarantana/cap5.xml#c5_10375" targetEnd="quarantana/cap5.xml#c5_10376">
+                          И какъ противустать ему?</note>
+        <note xml:id="Russian_1854_cap5-n59" type="translation" target="quarantana/cap5.xml#c5_10377" targetEnd="quarantana/cap5.xml#c5_10384">
+                          Ахъ! думалъ отецъ Христофоръ,</note>
+        <note xml:id="Russian_1854_cap5-n60" type="translation" target="quarantana/cap5.xml#c5_10385" targetEnd="quarantana/cap5.xml#c5_10397">
+                          если бы я могъ склонить на свою сторону здѣшнихъ и Медiоланскихъ братiй?</note>
+        <note xml:id="Russian_1854_cap5-n61" type="translation" target="quarantana/cap5.xml#c5_10398" targetEnd="quarantana/cap5.xml#c5_10403">
+                          Но это случай необыкновенный;</note>
+        <note xml:id="Russian_1854_cap5-n62" type="translation" target="quarantana/cap5.xml#c5_10404" targetEnd="quarantana/cap5.xml#c5_10405">
+                          меня оставятъ одного.</note>
+        <note xml:id="Russian_1854_cap5-n63" type="translation" target="quarantana/cap5.xml#c5_10406" targetEnd="quarantana/cap5.xml#c5_10410">
+                          Притомъ донъ Родриго считается покровителемъ монастыря;</note>
+        <note xml:id="Russian_1854_cap5-n64" type="translation" target="quarantana/cap5.xml#c5_10411" targetEnd="quarantana/cap5.xml#c5_10416">
+                          онъ выдаетъ себя за приверженца капуциновъ,</note>
+        <note xml:id="Russian_1854_cap5-n65" type="translation" target="quarantana/cap5.xml#c5_10417" targetEnd="quarantana/cap5.xml#c5_10431">
+                          и его сообщники неоднократно находили у насъ убѣжище.</note>
+        <note xml:id="Russian_1854_cap5-n66" type="translation" target="quarantana/cap5.xml#c5_10432" targetEnd="quarantana/cap5.xml#c5_10441">
+                          Я одинъ подвергну себя опасности, навлеку на себя ссоры,</note>
+        <note xml:id="Russian_1854_cap5-n67" type="translation" target="quarantana/cap5.xml#c5_10442" targetEnd="quarantana/cap5.xml#c5_10442">
+                          непрiятности,</note>
+        <note xml:id="Russian_1854_cap5-n68" type="translation" target="quarantana/cap5.xml#c5_10443" targetEnd="quarantana/cap5.xml#c5_10443">
+                          вражду,</note>
+        <note xml:id="Russian_1854_cap5-n69" type="translation" target="quarantana/cap5.xml#c5_10444" targetEnd="quarantana/cap5.xml#c5_10450">
+                          и, что можетъ быть хуже всего,</note>
+        <note xml:id="Russian_1854_cap5-n70" type="translation" target="quarantana/cap5.xml#c5_10451" targetEnd="quarantana/cap5.xml#c5_10456">
+                          неумѣстной попыткой,</note>
+        <note xml:id="Russian_1854_cap5-n71" type="translation" target="quarantana/cap5.xml#c5_10457" targetEnd="quarantana/cap5.xml#c5_10462">
+                          могу еще увеличить опасность, угрожающую бѣдной дѣвушкѣ.»</note>
+        <note xml:id="Russian_1854_cap5-n72" type="translation" target="quarantana/cap5.xml#c5_10463" targetEnd="quarantana/cap5.xml#c5_10475">
+                          — Исчисливъ однѣ за другими всѣ выгоды и невыгоды различныхъ средствъ,</note>
+        <note xml:id="Russian_1854_cap5-n73" type="translation" target="quarantana/cap5.xml#c5_10476" targetEnd="quarantana/cap5.xml#c5_10483">
+                          онъ счелъ лучше всего предстать предъ самаго дона Родриго,</note>
+        <note xml:id="Russian_1854_cap5-n74" type="translation" target="quarantana/cap5.xml#c5_10484" targetEnd="quarantana/cap5.xml#c5_10490">
+                          и постараться, если возможно,</note>
+        <note xml:id="Russian_1854_cap5-n75" type="translation" target="quarantana/cap5.xml#c5_10491" targetEnd="quarantana/cap5.xml#c5_10496">
+                          отвратить его отъ гнуснаго предпріятія просьбами и угрозами будущей,</note>
+        <note xml:id="Russian_1854_cap5-n76" type="translation" target="quarantana/cap5.xml#c5_10497" targetEnd="quarantana/cap5.xml#c5_10502">
+                          а можетъ быть, и настоящей жизни.</note>
+        <note xml:id="Russian_1854_cap5-n77" type="translation" target="quarantana/cap5.xml#c5_10503" targetEnd="quarantana/cap5.xml#c5_10504">
+                          Во всякомъ случаѣ,</note>
+        <note xml:id="Russian_1854_cap5-n78" type="translation" target="quarantana/cap5.xml#c5_10505" targetEnd="quarantana/cap5.xml#c5_10521">
+                          черезъ это могъ онъ узнать, упорствуетъ ли донъ Родриго въ злобномъ своемъ намѣреніи,</note>
+        <note xml:id="Russian_1854_cap5-n79" type="translation" target="quarantana/cap5.xml#c5_10522" targetEnd="quarantana/cap5.xml#c5_10529">
+                          а слѣдовательно могъ лучше проникнуть его волю,</note>
+        <note xml:id="Russian_1854_cap5-n80" type="translation" target="quarantana/cap5.xml#c5_10530" targetEnd="quarantana/cap5.xml#c5_10534">
+                          и дѣйствовать сообразно съ своимъ открытiемъ.</note>
+        <note xml:id="Russian_1854_cap5-n81" type="translation" target="quarantana/cap5.xml#c5_10535" targetEnd="quarantana/cap5.xml#c5_10540">
+                          Пока отецъ Христофоръ былъ погруженъ въ такія размышленія,</note>
+        <note xml:id="Russian_1854_cap5-n82" type="translation" target="quarantana/cap5.xml#c5_10541" targetEnd="quarantana/cap5.xml#c5_10543">
+                          Ренцо, который,</note>
+        <note xml:id="Russian_1854_cap5-n83" type="translation" target="quarantana/cap5.xml#c5_10544" targetEnd="quarantana/cap5.xml#c5_10551">
+                          какъ легко можно понять,</note>
+        <note xml:id="Russian_1854_cap5-n84" type="translation" target="quarantana/cap5.xml#c5_10552" targetEnd="quarantana/cap5.xml#c5_10558">
+                          не могъ надолго удалиться отъ дому,</note>
+        <note xml:id="Russian_1854_cap5-n85" type="translation" target="quarantana/cap5.xml#c5_10559" targetEnd="quarantana/cap5.xml#c5_10564">
+                          явился уже въ дверяхъ;</note>
+        <note xml:id="Russian_1854_cap5-n86" type="translation" target="quarantana/cap5.xml#c5_10565" targetEnd="quarantana/cap5.xml#c5_10569">
+                          но видя капуцина, погруженнаго въ задумчивость,</note>
+        <note xml:id="Russian_1854_cap5-n87" type="translation" target="quarantana/cap5.xml#c5_10570" targetEnd="quarantana/cap5.xml#c5_10578">
+                          и женщинъ, знаками просившихъ не прерывать его размышленій,</note>
+        <note xml:id="Russian_1854_cap5-n88" type="translation" target="quarantana/cap5.xml#c5_10579" targetEnd="quarantana/cap5.xml#c5_10584">
+                          остановился на порогѣ.</note>
+        <note xml:id="Russian_1854_cap5-n89" type="translation" target="quarantana/cap5.xml#c5_10585" targetEnd="quarantana/cap5.xml#c5_10594">
+                          Отецъ Христофоръ, прервавъ свои думы, чтобы объявить прiятное имъ рѣшеніе,</note>
+        <note xml:id="Russian_1854_cap5-n90" type="translation" target="quarantana/cap5.xml#c5_10595" targetEnd="quarantana/cap5.xml#c5_10615">
+                          увидѣлъ Ренцо и поклонился съ обычной ласкою, которая казалась еще привѣтливѣе на его благочестивомъ лицѣ.</note>
+        <note xml:id="Russian_1854_cap5-n92" type="translation" target="quarantana/cap5.xml#c5_10616" targetEnd="quarantana/cap5.xml#c5_10625">
+                          «Все рассказали онѣ вамъ, батюшка?» спросилъ Ренцо растроганнымъ голосомъ.</note>
+        <note xml:id="Russian_1854_cap5-n94" type="translation" target="quarantana/cap5.xml#c5_10626" targetEnd="quarantana/cap5.xml#c5_10632">
+                          «Конечно, и за этимъ-то самымъ я пришелъ сюда.»</note>
+        <note xml:id="Russian_1854_cap5-n95" type="translation" target="quarantana/cap5.xml#c5_10633" targetEnd="quarantana/cap5.xml#c5_10638">
+                          «Что скажете вы мнѣ объ этомъ злодѣѣ?...»</note>
+        <note xml:id="Russian_1854_cap5-n96" type="translation" target="quarantana/cap5.xml#c5_10639" targetEnd="quarantana/cap5.xml#c5_10645">
+                          «Что мнѣ сказать объ немъ?</note>
+        <note xml:id="Russian_1854_cap5-n97" type="translation" target="quarantana/cap5.xml#c5_10646" targetEnd="quarantana/cap5.xml#c5_10653">
+                          Онъ далеко: къ чему же послужатъ слова мои?</note>
+        <note xml:id="Russian_1854_cap5-n98" type="translation" target="quarantana/cap5.xml#c5_10654" targetEnd="quarantana/cap5.xml#c5_10656">
+                          Но тебѣ,</note>
+        <note xml:id="Russian_1854_cap5-n99" type="translation" target="quarantana/cap5.xml#c5_10657" targetEnd="quarantana/cap5.xml#c5_10659">
+                          любезный Ренцо,</note>
+        <note xml:id="Russian_1854_cap5-n100" type="translation" target="quarantana/cap5.xml#c5_10660" targetEnd="quarantana/cap5.xml#c5_10664">
+                          я скажу: надѣйся на Бога,</note>
+        <note xml:id="Russian_1854_cap5-n101" type="translation" target="quarantana/cap5.xml#c5_10665" targetEnd="quarantana/cap5.xml#c5_10670">
+                          и Богъ тебя не оставитъ.»</note>
+        <note xml:id="Russian_1854_cap5-n102" type="translation" target="quarantana/cap5.xml#c5_10671" targetEnd="quarantana/cap5.xml#c5_10677">
+                          «Да благословитъ васъ Господь!» вскричалъ юноша.</note>
+        <note xml:id="Russian_1854_cap5-n103" type="translation" target="quarantana/cap5.xml#c5_10678" targetEnd="quarantana/cap5.xml#c5_10688">
+                          «Вы не изъ числа тѣхъ людей, которые всегда обвиняютъ несчастыхъ.</note>
+        <note xml:id="Russian_1854_cap5-n104" type="translation" target="quarantana/cap5.xml#c5_10689" targetEnd="quarantana/cap5.xml#c5_10696">
+                          Но господинъ пасторъ, господинъ докторъ...»</note>
+        <note xml:id="Russian_1854_cap5-n105" type="translation" target="quarantana/cap5.xml#c5_10697" targetEnd="quarantana/cap5.xml#c5_10709">
+                          «Не вспоминай того, что только понапрасну будетъ мучить меня,</note>
+        <note xml:id="Russian_1854_cap5-n106" type="translation" target="quarantana/cap5.xml#c5_10710" targetEnd="quarantana/cap5.xml#c5_10714">
+                          я не иное что, как бедный капуцинъ;</note>
+        <note xml:id="Russian_1854_cap5-n107" type="translation" target="quarantana/cap5.xml#c5_10715" targetEnd="quarantana/cap5.xml#c5_10724">
+                          но повторяю тебѣ то, что уже сказалъ имъ</note>
+        <note xml:id="Russian_1854_cap5-n108" type="translation" target="quarantana/cap5.xml#c5_10725" targetEnd="quarantana/cap5.xml#c5_10731">
+                          не смотря на мою ничтожность, я васъ не оставлю.»</note>
+        <note xml:id="Russian_1854_cap5-n109" type="translation" target="quarantana/cap5.xml#c5_10732" targetEnd="quarantana/cap5.xml#c5_10741">
+                          «О! вы не похожи на друзей здѣшняго свѣта, совершенно безполезныхъ въ то время,</note>
+        <note xml:id="Russian_1854_cap5-n110" type="translation" target="quarantana/cap5.xml#c5_10742" targetEnd="quarantana/cap5.xml#c5_10753">
+                          когда нужда коснется до нихъ. Кто бы не повѣрилъ ихъ увѣренiямъ въ счастливое время?</note>
+        <note xml:id="Russian_1854_cap5-n111" type="omission" target="quarantana/cap5.xml#c5_10754" targetEnd="quarantana/cap5.xml#c5_10755"/>
+        <note xml:id="Russian_1854_cap5-n112" type="translation" target="quarantana/cap5.xml#c5_10756" targetEnd="quarantana/cap5.xml#c5_10763">
+                          Они, казалось, были готовы отдать всю кровь свою за меня;</note>
+        <note xml:id="Russian_1854_cap5-n113" type="translation" target="quarantana/cap5.xml#c5_10764" targetEnd="quarantana/cap5.xml#c5_10769">
+                          они пошли бы за меня на самаго чорта.</note>
+        <note xml:id="Russian_1854_cap5-n114" type="translation" target="quarantana/cap5.xml#c5_10770" targetEnd="quarantana/cap5.xml#c5_10779">
+                          Случись у меня врагъ, стоило бы только сказать имъ слово,</note>
+        <note xml:id="Russian_1854_cap5-n115" type="translation" target="quarantana/cap5.xml#c5_10780" targetEnd="quarantana/cap5.xml#c5_10785">
+                          и не быть ему въ живыхъ.</note>
+        <note xml:id="Russian_1854_cap5-n116" type="translation" target="quarantana/cap5.xml#c5_10786" targetEnd="quarantana/cap5.xml#c5_10792">
+                          А теперь посмотрѣли бы на нихъ, всѣ удаляются.…»</note>
+        <note xml:id="Russian_1854_cap5-n117" type="translation" target="quarantana/cap5.xml#c5_10793" targetEnd="quarantana/cap5.xml#c5_10797">
+                          Въ это мгновеніе Ренцо,</note>
+        <note xml:id="Russian_1854_cap5-n118" type="translation" target="quarantana/cap5.xml#c5_10798" targetEnd="quarantana/cap5.xml#c5_10805">
+                          взглянувъ на разговаривавшаго съ нимъ отца Христофора,</note>
+        <note xml:id="Russian_1854_cap5-n119" type="translation" target="quarantana/cap5.xml#c5_10806" targetEnd="quarantana/cap5.xml#c5_10810">
+                          замѣтилъ, что лице его помрачилось:</note>
+        <note xml:id="Russian_1854_cap5-n120" type="translation" target="quarantana/cap5.xml#c5_10811" targetEnd="quarantana/cap5.xml#c5_10816">
+                          это возбудило въ немъ опасеніе, не сказалъ ли онъ какой-нибудь глупости.</note>
+        <note xml:id="Russian_1854_cap5-n121" type="translation" target="quarantana/cap5.xml#c5_10817" targetEnd="quarantana/cap5.xml#c5_10819">
+                          Но желая поправиться,</note>
+        <note xml:id="Russian_1854_cap5-n122" type="translation" target="quarantana/cap5.xml#c5_10820" targetEnd="quarantana/cap5.xml#c5_10823">
+                          онъ еще болѣе смущался.</note>
+        <note xml:id="Russian_1854_cap5-n123" type="translation" target="quarantana/cap5.xml#c5_10824" targetEnd="quarantana/cap5.xml#c5_10832">
+                          «Я хотѣлъ сказать... я не имѣлъ намѣренія... я хотѣлъ было сказать...»</note>
+        <note xml:id="Russian_1854_cap5-n124" type="translation" target="quarantana/cap5.xml#c5_10833" targetEnd="quarantana/cap5.xml#c5_10836">
+                          «Что хотѣлъ ты сказать?</note>
+        <note xml:id="Russian_1854_cap5-n125" type="translation" target="quarantana/cap5.xml#c5_10837" targetEnd="quarantana/cap5.xml#c5_10850">
+                          Какъ! Ты испортилъ мнѣ дѣло прежде, чѣмъ я началъ его!</note>
+        <note xml:id="Russian_1854_cap5-n126" type="translation" target="quarantana/cap5.xml#c5_10851" targetEnd="quarantana/cap5.xml#c5_10859">
+                          Счастье твое, что ты былъ обманутъ.</note>
+        <note xml:id="Russian_1854_cap5-n127" type="translation" target="quarantana/cap5.xml#c5_10860" targetEnd="quarantana/cap5.xml#c5_10876">
+                          Какъ! ты искалъ друзей!.. И какихъ друзей!.... которые бы не могли тебѣ ни въ чемъ помочь, даже если бы и хотѣли;</note>
+        <note xml:id="Russian_1854_cap5-n128" type="translation" target="quarantana/cap5.xml#c5_10877" targetEnd="quarantana/cap5.xml#c5_10888">
+                          и ты могъ потерять тoгo единственнаго, который можетъ и хочетъ.</note>
+        <note xml:id="Russian_1854_cap5-n129" type="translation" target="quarantana/cap5.xml#c5_10889" targetEnd="quarantana/cap5.xml#c5_10901">
+                          Развѣ ты не знаешь, что Богъ — защита утѣсненныхъ, когда они на Него полагаютъ свою надежду?</note>
+        <note xml:id="Russian_1854_cap5-n130" type="translation" target="quarantana/cap5.xml#c5_10902" targetEnd="quarantana/cap5.xml#c5_10916">
+                          Развѣ ты не знаешь, что слабые никогда не побѣдятъ сильныхъ; и еслибъ даже…»</note>
+        <note xml:id="Russian_1854_cap5-n131" type="translation" target="quarantana/cap5.xml#c5_10917" targetEnd="quarantana/cap5.xml#c5_10929">
+                          Тутъ онъ крѣпко сжалъ руку Ренцо; видъ его,</note>
+        <note xml:id="Russian_1854_cap5-n132" type="translation" target="quarantana/cap5.xml#c5_10930" targetEnd="quarantana/cap5.xml#c5_10933">
+                          не теряя своего могущества,</note>
+        <note xml:id="Russian_1854_cap5-n133" type="translation" target="quarantana/cap5.xml#c5_10934" targetEnd="quarantana/cap5.xml#c5_10939">
+                          оживлялся торжественнымъ чувствомъ;</note>
+        <note xml:id="Russian_1854_cap5-n134" type="translation" target="quarantana/cap5.xml#c5_10940" targetEnd="quarantana/cap5.xml#c5_10950">
+                          онъ потупилъ глаза и сказалъ важнымъ и медленнымъ голосомъ:</note>
+        <note xml:id="Russian_1854_cap5-n135" type="translation" target="quarantana/cap5.xml#c5_10951" targetEnd="quarantana/cap5.xml#c5_10959">
+                          «И даже еслибъ и побѣдили, это ужасная побѣда.</note>
+        <note xml:id="Russian_1854_cap5-n136" type="translation" target="quarantana/cap5.xml#c5_10960" targetEnd="quarantana/cap5.xml#c5_10965">
+                          Ренцо! хочешь ли ты положиться на меня?</note>
+        <note xml:id="Russian_1854_cap5-n137" type="translation" target="quarantana/cap5.xml#c5_10966" targetEnd="quarantana/cap5.xml#c5_10971">
+                          Что я говорю на меня, ничтожного бѣдного монаха?</note>
+        <note xml:id="Russian_1854_cap5-n138" type="translation" target="quarantana/cap5.xml#c5_10972" targetEnd="quarantana/cap5.xml#c5_10976">
+                          Хочешь ли ты возложить упованiе на Бога?»</note>
+        <note xml:id="Russian_1854_cap5-n139" type="translation" target="quarantana/cap5.xml#c5_10977" targetEnd="quarantana/cap5.xml#c5_10985">
+                          «О, конечно!» отвѣчалъ Ренцо, «какъ Богъ святъ».</note>
+        <note xml:id="Russian_1854_cap5-n140" type="translation" target="quarantana/cap5.xml#c5_10986" targetEnd="quarantana/cap5.xml#c5_10991">
+                          «Обѣщай же мнѣ, что ты ни на что не отважишься,</note>
+        <note xml:id="Russian_1854_cap5-n141" type="translation" target="quarantana/cap5.xml#c5_10992" targetEnd="quarantana/cap5.xml#c5_10995">
+                          никого не будешь вызывать,</note>
+        <note xml:id="Russian_1854_cap5-n142" type="translation" target="quarantana/cap5.xml#c5_10996" targetEnd="quarantana/cap5.xml#c5_11002">
+                          и отдашь себя совершенно въ мою волю.»</note>
+        <note xml:id="Russian_1854_cap5-n143" type="translation" target="quarantana/cap5.xml#c5_11003" targetEnd="quarantana/cap5.xml#c5_11004">
+                          «Обѣщаю.»</note>
+        <note xml:id="Russian_1854_cap5-n144" type="translation" target="quarantana/cap5.xml#c5_11005" targetEnd="quarantana/cap5.xml#c5_11009">
+                          Лучія глубоко вздохнула,</note>
+        <note xml:id="Russian_1854_cap5-n145" type="translation" target="quarantana/cap5.xml#c5_11010" targetEnd="quarantana/cap5.xml#c5_11023">
+                          какъ будто освободясь отъ тяжкаго бремени, а Агнеса промолвила юношѣ: «хорошо, сынъ мой!»</note>
+        <note xml:id="Russian_1854_cap5-n147" type="translation" target="quarantana/cap5.xml#c5_11024" targetEnd="quarantana/cap5.xml#c5_11028">
+                          «Послушайте, дѣти!» продолжалъ отецъ Христофоръ,</note>
+        <note xml:id="Russian_1854_cap5-n148" type="translation" target="quarantana/cap5.xml#c5_11029" targetEnd="quarantana/cap5.xml#c5_11035">
+                          «я сегодня пойду къ этому человѣку.</note>
+        <note xml:id="Russian_1854_cap5-n149" type="translation" target="quarantana/cap5.xml#c5_11036" targetEnd="quarantana/cap5.xml#c5_11047">
+                          Если Богъ смягчитъ его сердце и даруетъ силу словамъ моимъ,</note>
+        <note xml:id="Russian_1854_cap5-n150" type="translation" target="quarantana/cap5.xml#c5_11048" targetEnd="quarantana/cap5.xml#c5_11051">
+                          мы станетъ благодарить Его; если случится иначе,</note>
+        <note xml:id="Russian_1854_cap5-n151" type="translation" target="quarantana/cap5.xml#c5_11052" targetEnd="quarantana/cap5.xml#c5_11058">
+                          Онъ намъ откроетъ другой способъ.</note>
+        <note xml:id="Russian_1854_cap5-n152" type="translation" target="quarantana/cap5.xml#c5_11059" targetEnd="quarantana/cap5.xml#c5_11062">
+                          Вы между тѣмъ будьте спокойны,</note>
+        <note xml:id="Russian_1854_cap5-n153" type="translation" target="quarantana/cap5.xml#c5_11063" targetEnd="quarantana/cap5.xml#c5_11063">
+                          не выходите изъ дому,</note>
+        <note xml:id="Russian_1854_cap5-n154" type="translation" target="quarantana/cap5.xml#c5_11064" targetEnd="quarantana/cap5.xml#c5_11066">
+                          остерегайтесь всякаго лишняго слова,</note>
+        <note xml:id="Russian_1854_cap5-n155" type="translation" target="quarantana/cap5.xml#c5_11067" targetEnd="quarantana/cap5.xml#c5_11069">
+                          не показывайтесь нигдѣ.</note>
+        <note xml:id="Russian_1854_cap5-n156" type="translation" target="quarantana/cap5.xml#c5_11070" targetEnd="quarantana/cap5.xml#c5_11071">
+                          Сегодня ввечеру,</note>
+        <note xml:id="Russian_1854_cap5-n157" type="translation" target="quarantana/cap5.xml#c5_11072" targetEnd="quarantana/cap5.xml#c5_11076">
+                          или по крайней мѣрѣ завтра утромъ,</note>
+        <note xml:id="Russian_1854_cap5-n158" type="translation" target="quarantana/cap5.xml#c5_11077" targetEnd="quarantana/cap5.xml#c5_11078">
+                          вы меня увидите.»</note>
+        <note xml:id="Russian_1854_cap5-n159" type="translation" target="quarantana/cap5.xml#c5_11079" targetEnd="quarantana/cap5.xml#c5_11080">
+                          И съ этими словами,</note>
+        <note xml:id="Russian_1854_cap5-n160" type="translation" target="quarantana/cap5.xml#c5_11081" targetEnd="quarantana/cap5.xml#c5_11087">
+                          прервавъ благодарность и благословенія, которыми его осыпали,</note>
+        <note xml:id="Russian_1854_cap5-n161" type="translation" target="quarantana/cap5.xml#c5_11088" targetEnd="quarantana/cap5.xml#c5_11089">
+                          онъ ушелъ.</note>
+        <note xml:id="Russian_1854_cap5-n162" type="translation" target="quarantana/cap5.xml#c5_11090" targetEnd="quarantana/cap5.xml#c5_11092">
+                          Отправившись въ свой монастырь,</note>
+        <note xml:id="Russian_1854_cap5-n163" type="translation" target="quarantana/cap5.xml#c5_11093" targetEnd="quarantana/cap5.xml#c5_11100">
+                          онъ пришелъ еще во время, такъ что могъ пропѣть на крилосѣ псалмы,</note>
+        <note xml:id="Russian_1854_cap5-n164" type="translation" target="quarantana/cap5.xml#c5_11101" targetEnd="quarantana/cap5.xml#c5_11101">
+                          потомъ отобѣдать,</note>
+        <note xml:id="Russian_1854_cap5-n165" type="translation" target="quarantana/cap5.xml#c5_11102" targetEnd="quarantana/cap5.xml#c5_11112">
+                          и не медля ни мало, снова пустился въ путь, къ жилищу жестокаго вельможи,</note>
+        <note xml:id="Russian_1854_cap5-n166" type="translation" target="quarantana/cap5.xml#c5_11113" targetEnd="quarantana/cap5.xml#c5_11117">
+                          котораго хотѣлъ преклонить силою своего убѣжденія.</note>
+        <note xml:id="Russian_1854_cap5-n167" type="translation" target="quarantana/cap5.xml#c5_11118" targetEnd="quarantana/cap5.xml#c5_11124">
+                          Замокъ дона Родриго стоялъ уединенно,</note>
+        <note xml:id="Russian_1854_cap5-n168" type="translation" target="quarantana/cap5.xml#c5_11125" targetEnd="quarantana/cap5.xml#c5_11128">
+                          какъ скала, на вершинѣ одного изъ пригорковъ,</note>
+        <note xml:id="Russian_1854_cap5-n169" type="translation" target="quarantana/cap5.xml#c5_11129" targetEnd="quarantana/cap5.xml#c5_11139">
+                          откуда, по видимому, спускалась эта часть берега.</note>
+        <note xml:id="Russian_1854_cap5-n170" type="translation" target="quarantana/cap5.xml#c5_11140" targetEnd="quarantana/cap5.xml#c5_11144">
+                          Къ этому описанiю нашъ неизвѣстный авторъ прибавляетъ еще,</note>
+        <note xml:id="Russian_1854_cap5-n171" type="translation" target="quarantana/cap5.xml#c5_11145" targetEnd="quarantana/cap5.xml#c5_11160">
+                          что мѣсто, гдѣ возвышался зaмокъ, находилось (гораздо было бы лучше, еслибъ онъ просто назвалъ его) находилось по ту сторону,</note>
+        <note xml:id="Russian_1854_cap5-n172" type="translation" target="quarantana/cap5.xml#c5_11161" targetEnd="quarantana/cap5.xml#c5_11170">
+                          въ трехъ миляхъ отъ селенiя, гдѣ жили наши обрученные,</note>
+        <note xml:id="Russian_1854_cap5-n173" type="translation" target="quarantana/cap5.xml#c5_11171" targetEnd="quarantana/cap5.xml#c5_11174">
+                          и въ четырехъ миляхъ отъ монастыря.</note>
+        <note xml:id="Russian_1854_cap5-n174" type="translation" target="quarantana/cap5.xml#c5_11175" targetEnd="quarantana/cap5.xml#c5_11177">
+                          У подошвы пригорка,</note>
+        <note xml:id="Russian_1854_cap5-n175" type="translation" target="quarantana/cap5.xml#c5_11178" targetEnd="quarantana/cap5.xml#c5_11185">
+                          на берегу самаго озера, возвышались многочисленныя хижины,</note>
+        <note xml:id="Russian_1854_cap5-n176" type="translation" target="quarantana/cap5.xml#c5_11186" targetEnd="quarantana/cap5.xml#c5_11196">
+                          заселенные крестьянами дона Родриго;</note>
+        <note xml:id="Russian_1854_cap5-n177" type="translation" target="quarantana/cap5.xml#c5_11197" targetEnd="quarantana/cap5.xml#c5_11207">
+                          все это составляло как бы столицу его маленького королевства.</note>
+        <note xml:id="Russian_1854_cap5-n178" type="translation" target="quarantana/cap5.xml#c5_11208" targetEnd="quarantana/cap5.xml#c5_11219">
+                          Стоило разъ пройти тамъ, чтобы составить себѣ точное понятіе о состояніи и правахъ страны:</note>
+        <note xml:id="Russian_1854_cap5-n179" type="translation" target="quarantana/cap5.xml#c5_11220" targetEnd="quarantana/cap5.xml#c5_11224">
+                          только заглянувъ въ нижнія комнаты,</note>
+        <note xml:id="Russian_1854_cap5-n180" type="translation" target="quarantana/cap5.xml#c5_11225" targetEnd="quarantana/cap5.xml#c5_11229">
+                          гдѣ было отперто нѣсколько дверей,</note>
+        <note xml:id="Russian_1854_cap5-n181" type="translation" target="quarantana/cap5.xml#c5_11230" targetEnd="quarantana/cap5.xml#c5_11235">
+                          тотчасъ можно было замѣтить на стѣнахъ пищали,</note>
+        <note xml:id="Russian_1854_cap5-n182" type="translation" target="quarantana/cap5.xml#c5_11236" targetEnd="quarantana/cap5.xml#c5_11237">
+                          лопаты, сохи,</note>
+        <note xml:id="Russian_1854_cap5-n183" type="translation" target="quarantana/cap5.xml#c5_11238" targetEnd="quarantana/cap5.xml#c5_11240">
+                          соломенныя шляпы,</note>
+        <note xml:id="Russian_1854_cap5-n184" type="translation" target="quarantana/cap5.xml#c5_11241" targetEnd="quarantana/cap5.xml#c5_11245">
+                          сѣти и пороховые рожки,</note>
+        <note xml:id="Russian_1854_cap5-n185" type="translation" target="quarantana/cap5.xml#c5_11246" targetEnd="quarantana/cap5.xml#c5_11247">
+                          въ большомъ количествѣ.</note>
+        <note xml:id="Russian_1854_cap5-n186" type="translation" target="quarantana/cap5.xml#c5_11248" targetEnd="quarantana/cap5.xml#c5_11257">
+                          Жители, попадавшіяся на встрѣчу, казались сильными и грубыми разбойниками,</note>
+        <note xml:id="Russian_1854_cap5-n187" type="translation" target="quarantana/cap5.xml#c5_11258" targetEnd="quarantana/cap5.xml#c5_11269">
+                          съ длинными волосами, зачесанными назадъ и скрытыми подъ сѣтки.</note>
+        <note xml:id="Russian_1854_cap5-n188" type="translation" target="quarantana/cap5.xml#c5_11270" targetEnd="quarantana/cap5.xml#c5_11277">
+                          Самые старики, хотя уже беззубые, казалось, готовы были съѣсть каждаго,</note>
+        <note xml:id="Russian_1854_cap5-n189" type="translation" target="quarantana/cap5.xml#c5_11278" targetEnd="quarantana/cap5.xml#c5_11284">
+                          кто бы чѣмъ-нибудь до нихъ дотронулся;</note>
+        <note xml:id="Russian_1854_cap5-n190" type="translation" target="quarantana/cap5.xml#c5_11285" targetEnd="quarantana/cap5.xml#c5_11294">
+                          женщины были одной масти съ мужчинами;</note>
+        <note xml:id="Russian_1854_cap5-n191" type="omission" target="quarantana/cap5.xml#c5_11295" targetEnd="quarantana/cap5.xml#c5_11304"/>
+        <note xml:id="Russian_1854_cap5-n192" type="translation" target="quarantana/cap5.xml#c5_11305" targetEnd="quarantana/cap5.xml#c5_11317">
+                          даже самыя дѣти, игравшія на улицѣ,</note>
+        <note xml:id="Russian_1854_cap5-n193" type="translation" target="quarantana/cap5.xml#c5_11318" targetEnd="quarantana/cap5.xml#c5_11327">
+                          выказывали въ поступкахъ своихъ какую-то заносчивость и дерзость.</note>
+        <note xml:id="Russian_1854_cap5-n194" type="translation" target="quarantana/cap5.xml#c5_11328" targetEnd="quarantana/cap5.xml#c5_11332">
+                          Отец Христофоръ прошелъ черезъ селеніе,</note>
+        <note xml:id="Russian_1854_cap5-n195" type="translation" target="quarantana/cap5.xml#c5_11333" targetEnd="quarantana/cap5.xml#c5_11338">
+                          и потомъ по узкой, кривой тропинкѣ</note>
+        <note xml:id="Russian_1854_cap5-n196" type="translation" target="quarantana/cap5.xml#c5_11339" targetEnd="quarantana/cap5.xml#c5_11344">
+                          добрался до маленькой площадки,</note>
+        <note xml:id="Russian_1854_cap5-n197" type="translation" target="quarantana/cap5.xml#c5_11345" targetEnd="quarantana/cap5.xml#c5_11347">
+                          находившейся передъ замкомъ.</note>
+        <note xml:id="Russian_1854_cap5-n198" type="translation" target="quarantana/cap5.xml#c5_11348" targetEnd="quarantana/cap5.xml#c5_11351">
+                          Ворота были заперты —</note>
+        <note xml:id="Russian_1854_cap5-n199" type="translation" target="quarantana/cap5.xml#c5_11352" targetEnd="quarantana/cap5.xml#c5_11362">
+                          доказательство, что владѣтель былъ въ замкѣ и не хотѣлъ, чтобы его безпокоили.</note>
+        <note xml:id="Russian_1854_cap5-n200" type="translation" target="quarantana/cap5.xml#c5_11363" targetEnd="quarantana/cap5.xml#c5_11371">
+                          Рѣдкія и узкія окна, выдававшіяся на дорогу,</note>
+        <note xml:id="Russian_1854_cap5-n201" type="translation" target="quarantana/cap5.xml#c5_11372" targetEnd="quarantana/cap5.xml#c5_11379">
+                          закрытыя разсохшимися, и отъ ветхости полуразвалившимися ставнями,</note>
+        <note xml:id="Russian_1854_cap5-n202" type="translation" target="quarantana/cap5.xml#c5_11380" targetEnd="quarantana/cap5.xml#c5_11385">
+                          были приперты огромными замками;</note>
+        <note xml:id="Russian_1854_cap5-n203" type="translation" target="quarantana/cap5.xml#c5_11386" targetEnd="quarantana/cap5.xml#c5_11392">
+                          а окна нижняго этажа такъ высоки,</note>
+        <note xml:id="Russian_1854_cap5-n204" type="translation" target="quarantana/cap5.xml#c5_11393" targetEnd="quarantana/cap5.xml#c5_11404">
+                          что ставши на плеча другаго, едва·ли бы можно было достать до нихъ.</note>
+        <note xml:id="Russian_1854_cap5-n205" type="translation" target="quarantana/cap5.xml#c5_11405" targetEnd="quarantana/cap5.xml#c5_11409">
+                          Глубокое молчанiе царствовало въ сихъ мѣстахъ,</note>
+        <note xml:id="Russian_1854_cap5-n206" type="translation" target="quarantana/cap5.xml#c5_11410" targetEnd="quarantana/cap5.xml#c5_11420">
+                          и путешественникъ могъ бы подумать, что это какое-нибудь покинутое зданiе,</note>
+        <note xml:id="Russian_1854_cap5-n207" type="translation" target="quarantana/cap5.xml#c5_11421" targetEnd="quarantana/cap5.xml#c5_11434">
+                          еслибъ четыре твари — двѣ мертвыя и двѣ живыя — симметрически выставленныя снаружи,</note>
+        <note xml:id="Russian_1854_cap5-n208" type="translation" target="quarantana/cap5.xml#c5_11435" targetEnd="quarantana/cap5.xml#c5_11441">
+                          не служили бы нѣкоторыми признаками поселенія:</note>
+        <note xml:id="Russian_1854_cap5-n210" type="translation" target="quarantana/cap5.xml#c5_11442" targetEnd="quarantana/cap5.xml#c5_11451">
+                          два огромныхъ коршуна, съ растянутыми крыльями, съ висящими головами,</note>
+        <note xml:id="Russian_1854_cap5-n211" type="translation" target="quarantana/cap5.xml#c5_11452" targetEnd="quarantana/cap5.xml#c5_11458">
+                          одинъ общипанный и полууничтоженный временемъ,</note>
+        <note xml:id="Russian_1854_cap5-n212" type="translation" target="quarantana/cap5.xml#c5_11459" targetEnd="quarantana/cap5.xml#c5_11463">
+                          другой еще цѣлый и покрытый перьями,</note>
+        <note xml:id="Russian_1854_cap5-n213" type="translation" target="quarantana/cap5.xml#c5_11464" targetEnd="quarantana/cap5.xml#c5_11471">
+                          украшали каждую половину воротъ,</note>
+        <note xml:id="Russian_1854_cap5-n214" type="translation" target="quarantana/cap5.xml#c5_11472" targetEnd="quarantana/cap5.xml#c5_11486">
+                          и два брави, лежавшie на скамьяхъ направо и налѣво,</note>
+        <note xml:id="Russian_1854_cap5-n215" type="translation" target="quarantana/cap5.xml#c5_11487" targetEnd="quarantana/cap5.xml#c5_11489">
+                          сторожили замокъ,</note>
+        <note xml:id="Russian_1854_cap5-n216" type="translation" target="quarantana/cap5.xml#c5_11490" targetEnd="quarantana/cap5.xml#c5_11500">
+                          ожидая, что бы ихъ позвали попользоваться остатками барскаго стола.</note>
+        <note xml:id="Russian_1854_cap5-n217" type="translation" target="quarantana/cap5.xml#c5_11501" targetEnd="quarantana/cap5.xml#c5_11505">
+                          Монахъ остановился,</note>
+        <note xml:id="Russian_1854_cap5-n218" type="translation" target="quarantana/cap5.xml#c5_11506" targetEnd="quarantana/cap5.xml#c5_11513">
+                          какъ бы думая подождать;</note>
+        <note xml:id="Russian_1854_cap5-n219" type="translation" target="quarantana/cap5.xml#c5_11514" targetEnd="quarantana/cap5.xml#c5_11522">
+                          но одинъ изъ брави всталъ и сказалъ ему:</note>
+        <note xml:id="Russian_1854_cap5-n220" type="translation" target="quarantana/cap5.xml#">
+                          «Отецъ святой! войдите: у насъ капуцины не дожидаются здѣсь;</note>
+        <note xml:id="Russian_1854_cap5-n221" type="translation" target="quarantana/cap5.xml#c5_11535" targetEnd="quarantana/cap5.xml#c5_11539">
+                          мы въ дружбѣ съ монастыремъ вашимъ;</note>
+        <note xml:id="Russian_1854_cap5-n222" type="translation" target="quarantana/cap5.xml#c5_11540" targetEnd="quarantana/cap5.xml#c5_11557">
+                          и я самъ не разъ укрывался въ немъ, когда чистый воздухъ не совершенно благопріятствовалъ моему здоровью,</note>
+        <note xml:id="Russian_1854_cap5-n223" type="translation" target="quarantana/cap5.xml#c5_11558" targetEnd="quarantana/cap5.xml#c5_11565">
+                          и безъ вашего гостепріимства, можетъ быть,</note>
+        <note xml:id="Russian_1854_cap5-n224" type="translation" target="quarantana/cap5.xml#c5_11566" targetEnd="quarantana/cap5.xml#c5_11569">
+                          пришлось бы мнѣ худо.»</note>
+        <note xml:id="Russian_1854_cap5-n225" type="translation" target="quarantana/cap5.xml#c5_11570" targetEnd="quarantana/cap5.xml#c5_11576">
+                          При сихъ словахъ онъ два раза ударилъ молоткомъ въ желѣзную доску.</note>
+        <note xml:id="Russian_1854_cap5-n226" type="translation" target="quarantana/cap5.xml#c5_11577" targetEnd="quarantana/cap5.xml#c5_11593">
+                          На этотъ знакъ тотчасъ отозвалась воемъ и лаемъ собака,</note>
+        <note xml:id="Russian_1854_cap5-n227" type="translation" target="quarantana/cap5.xml#c5_11594" targetEnd="quarantana/cap5.xml#c5_11602">
+                          и спустя нѣсколько минутъ, явился старый слуга;</note>
+        <note xml:id="Russian_1854_cap5-n228" type="translation" target="quarantana/cap5.xml#c5_11603" targetEnd="quarantana/cap5.xml#c5_11606">
+                          увидѣвъ монаха,</note>
+        <note xml:id="Russian_1854_cap5-n229" type="translation" target="quarantana/cap5.xml#c5_11607" targetEnd="quarantana/cap5.xml#c5_11611">
+                          онъ низко поклонился ему,</note>
+        <note xml:id="Russian_1854_cap5-n230" type="translation" target="quarantana/cap5.xml#c5_11612" targetEnd="quarantana/cap5.xml#c5_11619">
+                          словами и ласками унялъ псовъ своихъ,</note>
+        <note xml:id="Russian_1854_cap5-n231" type="translation" target="quarantana/cap5.xml#c5_11620" targetEnd="quarantana/cap5.xml#c5_11629">
+                          провелъ гостя на тѣсный дворъ, и заперъ ворота.</note>
+        <note xml:id="Russian_1854_cap5-n232" type="translation" target="quarantana/cap5.xml#c5_11630" targetEnd="quarantana/cap5.xml#c5_11634">
+                          Потомъ повелъ онъ его въ одну изъ залъ,</note>
+        <note xml:id="Russian_1854_cap5-n233" type="translation" target="quarantana/cap5.xml#c5_11635" targetEnd="quarantana/cap5.xml#c5_11644">
+                          и взглянувъ на него, сказалъ ему съ удивленiемъ и почтительностью:</note>
+        <note xml:id="Russian_1854_cap5-n234" type="translation" target="quarantana/cap5.xml#c5_11645" targetEnd="quarantana/cap5.xml#c5_11652">
+                          «Не вы ли отецъ Христофоръ изъ Пескаренико.»</note>
+        <note xml:id="Russian_1854_cap5-n235" type="translation" target="quarantana/cap5.xml#c5_11653" targetEnd="quarantana/cap5.xml#c5_11654">
+                          — «Точно такъ, я самый.»</note>
+        <note xml:id="Russian_1854_cap5-n236" type="translation" target="quarantana/cap5.xml#c5_11655" targetEnd="quarantana/cap5.xml#c5_11656">
+                          — «Вы здѣсь!»</note>
+        <note xml:id="Russian_1854_cap5-n238" type="translation" target="quarantana/cap5.xml#c5_11657" targetEnd="quarantana/cap5.xml#c5_11660">
+                          — «Как видишь, прiятель.</note>
+        <note xml:id="Russian_1854_cap5-n239" type="translation" target="quarantana/cap5.xml#c5_11661" targetEnd="quarantana/cap5.xml#c5_11665">
+                          — «Конечно, съ добрымъ намѣреніемъ.</note>
+        <note xml:id="Russian_1854_cap5-n240" type="translation" target="quarantana/cap5.xml#c5_11666" targetEnd="quarantana/cap5.xml#c5_11667">
+                          Добро,»</note>
+        <note xml:id="Russian_1854_cap5-n241" type="translation" target="quarantana/cap5.xml#c5_11668" targetEnd="quarantana/cap5.xml#c5_11672">
+                          продолжалъ онъ бормотать сквозь зубы,</note>
+        <note xml:id="Russian_1854_cap5-n242" type="translation" target="quarantana/cap5.xml#c5_11673" targetEnd="quarantana/cap5.xml#c5_11676">
+                          и снова выступая впередъ,</note>
+        <note xml:id="Russian_1854_cap5-n243" type="translation" target="quarantana/cap5.xml#c5_11677" targetEnd="quarantana/cap5.xml#c5_11683">
+                          «добро можно творить вездѣ.»</note>
+        <note xml:id="Russian_1854_cap5-n244" type="translation" target="quarantana/cap5.xml#c5_11684" targetEnd="quarantana/cap5.xml#c5_11689">
+                          Пройдя двѣ или три темныя комнаты,</note>
+        <note xml:id="Russian_1854_cap5-n245" type="translation" target="quarantana/cap5.xml#c5_11690" targetEnd="quarantana/cap5.xml#c5_11696">
+                          они подошли къ столовой залѣ.</note>
+        <note xml:id="Russian_1854_cap5-n246" type="translation" target="quarantana/cap5.xml#c5_11697" targetEnd="quarantana/cap5.xml#c5_11703">
+                          Оттуда слышань былъ смѣшанный звукъ вилокъ,</note>
+        <note xml:id="Russian_1854_cap5-n247" type="translation" target="quarantana/cap5.xml#c5_11704" targetEnd="quarantana/cap5.xml#c5_11705">
+                          ножей,</note>
+        <note xml:id="Russian_1854_cap5-n248" type="translation" target="quarantana/cap5.xml#c5_11706" targetEnd="quarantana/cap5.xml#c5_11707">
+                          стакановъ,</note>
+        <note xml:id="Russian_1854_cap5-n249" type="translation" target="quarantana/cap5.xml#c5_11708" targetEnd="quarantana/cap5.xml#c5_11711">
+                          оловянныхъ блюдъ</note>
+        <note xml:id="Russian_1854_cap5-n250" type="translation" target="quarantana/cap5.xml#c5_11712" targetEnd="quarantana/cap5.xml#c5_11723">
+                          и въ особенности говоръ множества голосовъ, силившихся заглушить другъ друга.</note>
+        <note xml:id="Russian_1854_cap5-n251" type="translation" target="quarantana/cap5.xml#c5_11724" targetEnd="quarantana/cap5.xml#c5_11734">
+                          Монахъ хотѣлъ удалиться и уговаривалъ слугу,</note>
+        <note xml:id="Russian_1854_cap5-n252" type="translation" target="quarantana/cap5.xml#c5_11735" targetEnd="quarantana/cap5.xml#c5_11750">
+                          чтобы онъ оставилъ его въ какомъ-нибудь уголку дома, пока пиръ кончится,</note>
+        <note xml:id="Russian_1854_cap5-n253" type="translation" target="quarantana/cap5.xml#c5_11751" targetEnd="quarantana/cap5.xml#c5_11755">
+                          какъ вдругъ растворилась дверь.</note>
+        <note xml:id="Russian_1854_cap5-n254" type="translation" target="quarantana/cap5.xml#c5_11756" targetEnd="quarantana/cap5.xml#c5_11771">
+                          Графъ Аттилiо, сидевший почти подлѣ нея (онъ былъ двоюродный братъ хозяину дома,</note>
+        <note xml:id="Russian_1854_cap5-n255" type="translation" target="quarantana/cap5.xml#c5_11772" targetEnd="quarantana/cap5.xml#c5_11778">
+                          и мы говорили уже о немъ прежде,</note>
+        <note xml:id="Russian_1854_cap5-n256" type="translation" target="quarantana/cap5.xml#c5_11779" targetEnd="quarantana/cap5.xml#c5_11780">
+                          не называя его по имени),</note>
+        <note xml:id="Russian_1854_cap5-n257" type="translation" target="quarantana/cap5.xml#c5_11781" targetEnd="quarantana/cap5.xml#c5_11795">
+                          графъ Аттилiо, увидѣвъ рясу и бритую голову и замѣтивъ скромное намѣреніе монаха,</note>
+        <note xml:id="Russian_1854_cap5-n258" type="translation" target="quarantana/cap5.xml#c5_11796" targetEnd="quarantana/cap5.xml#c5_11801">
+                          воскричалъ громкимъ голосомъ: «А! Вы не уйдете отъ насъ,</note>
+        <note xml:id="Russian_1854_cap5-n259" type="translation" target="quarantana/cap5.xml#c5_11802" targetEnd="quarantana/cap5.xml#c5_11803">
+                          почтеннѣйшій отецъ капуцинъ.</note>
+        <note xml:id="Russian_1854_cap5-n260" type="translation" target="quarantana/cap5.xml#c5_11804" targetEnd="quarantana/cap5.xml#c5_11805">
+                          Войдите, войдите!»</note>
+        <note xml:id="Russian_1854_cap5-n261" type="translation" target="quarantana/cap5.xml#c5_11806" targetEnd="quarantana/cap5.xml#c5_11807">
+                          Донъ Родриго,</note>
+        <note xml:id="Russian_1854_cap5-n262" type="translation" target="quarantana/cap5.xml#c5_11808" targetEnd="quarantana/cap5.xml#c5_11815">
+                          не угадывая совершенно причины этого посѣщенiя,</note>
+        <note xml:id="Russian_1854_cap5-n264" type="translation" target="quarantana/cap5.xml#c5_11816" targetEnd="quarantana/cap5.xml#c5_11822">
+                          однакожъ не знаю, какимъ то неяснымъ предчувствіемъ,</note>
+        <note xml:id="Russian_1854_cap5-n265" type="translation" target="quarantana/cap5.xml#c5_11823" targetEnd="quarantana/cap5.xml#c5_11826">
+                          понялъ ее.</note>
+        <note xml:id="Russian_1854_cap5-n266" type="translation" target="quarantana/cap5.xml#c5_11827" targetEnd="quarantana/cap5.xml#c5_11836">
+                          Но послѣ восклицанія дона Аттиліо не прилично было бы отослать монаха,</note>
+        <note xml:id="Russian_1854_cap5-n267" type="translation" target="quarantana/cap5.xml#c5_11837" targetEnd="quarantana/cap5.xml#c5_11845">
+                          и онъ сказалъ ему:</note>
+        <note xml:id="Russian_1854_cap5-n269" type="translation" target="quarantana/cap5.xml#c5_11846" targetEnd="quarantana/cap5.xml#c5_11848">
+                          «пожалуйте, отецъ капуцинъ, пожалуйте.»</note>
+        <note xml:id="Russian_1854_cap5-n270" type="translation" target="quarantana/cap5.xml#c5_11849" targetEnd="quarantana/cap5.xml#c5_11851">
+                          Тотъ вошелъ,</note>
+        <note xml:id="Russian_1854_cap5-n271" type="translation" target="quarantana/cap5.xml#c5_11852" targetEnd="quarantana/cap5.xml#c5_11854">
+                          низко кланяясь хозяину и гостямъ,</note>
+        <note xml:id="Russian_1854_cap5-n272" type="translation" target="quarantana/cap5.xml#c5_11855" targetEnd="quarantana/cap5.xml#c5_11863">
+                          на обѣ стороны.</note>
+        <note xml:id="Russian_1854_cap5-n273" type="translation" target="quarantana/cap5.xml#c5_11864" targetEnd="quarantana/cap5.xml#c5_11876">
+                          Всегда отрадно видѣть (не говорю для всѣхъ) честнаго человѣка въ присутствiи какого-нибудь злодѣя; любишь представлять его себѣ</note>
+        <note xml:id="Russian_1854_cap5-n274" type="translation" target="quarantana/cap5.xml#c5_11877" targetEnd="quarantana/cap5.xml#c5_11879">
+                          съ челомъ возвышеннымъ,</note>
+        <note xml:id="Russian_1854_cap5-n275" type="translation" target="quarantana/cap5.xml#c5_11880" targetEnd="quarantana/cap5.xml#c5_11883">
+                          взглядомъ спокойнымъ,</note>
+        <note xml:id="Russian_1854_cap5-n276" type="translation" target="quarantana/cap5.xml#c5_11884" targetEnd="quarantana/cap5.xml#c5_11886">
+                          грудью смѣло выдавшеюся впередъ,</note>
+        <note xml:id="Russian_1854_cap5-n277" type="translation" target="quarantana/cap5.xml#c5_11887" targetEnd="quarantana/cap5.xml#c5_11891">
+                          съ словомъ твердымъ;</note>
+        <note xml:id="Russian_1854_cap5-n278" type="translation" target="quarantana/cap5.xml#c5_11892" targetEnd="quarantana/cap5.xml#c5_11899">
+                          но чтобы придать ему подобный видъ,</note>
+        <note xml:id="Russian_1854_cap5-n279" type="translation" target="quarantana/cap5.xml#c5_11900" targetEnd="quarantana/cap5.xml#c5_11903">
+                          потребны извѣстныя обстоятельства,</note>
+        <note xml:id="Russian_1854_cap5-n280" type="translation" target="quarantana/cap5.xml#c5_11904" targetEnd="quarantana/cap5.xml#c5_11912">
+                          которыя рѣдко встрѣчаются.</note>
+        <note xml:id="Russian_1854_cap5-n281" type="translation" target="quarantana/cap5.xml#c5_11913" targetEnd="quarantana/cap5.xml#c5_11919">
+                          Не удивляйтесь же, если отецъ Христофоръ,</note>
+        <note xml:id="Russian_1854_cap5-n282" type="translation" target="quarantana/cap5.xml#c5_11920" targetEnd="quarantana/cap5.xml#c5_11936">
+                          не смотря на чистое свидѣтельство совѣсти, на искреннюю увѣренность въ правотѣ своего дѣла,</note>
+        <note xml:id="Russian_1854_cap5-n283" type="translation" target="quarantana/cap5.xml#c5_11937" targetEnd="quarantana/cap5.xml#c5_11947">
+                          на чувство прeзрѣнія и состраданія къ дону Родригу,</note>
+        <note xml:id="Russian_1854_cap5-n284" type="translation" target="quarantana/cap5.xml#c5_11948" targetEnd="quarantana/cap5.xml#c5_11963">
+                          стоялъ съ видомъ повиновенія и покорности предъ тѣмь самымъ Родриго,</note>
+        <note xml:id="Russian_1854_cap5-n285" type="translation" target="quarantana/cap5.xml#c5_11964" targetEnd="quarantana/cap5.xml#c5_11969">
+                          который, развалясь въ креслахъ,</note>
+        <note xml:id="Russian_1854_cap5-n286" type="translation" target="quarantana/cap5.xml#c5_11970" targetEnd="quarantana/cap5.xml#c5_11972">
+                          въ собственномъ своемъ замкѣ,</note>
+        <note xml:id="Russian_1854_cap5-n287" type="translation" target="quarantana/cap5.xml#c5_11973" targetEnd="quarantana/cap5.xml#c5_11975">
+                          въ своемъ царствѣ,</note>
+        <note xml:id="Russian_1854_cap5-n288" type="translation" target="quarantana/cap5.xml#c5_11976" targetEnd="quarantana/cap5.xml#c5_11978">
+                          посреди друзей,</note>
+        <note xml:id="Russian_1854_cap5-n289" type="translation" target="quarantana/cap5.xml#c5_11979" targetEnd="quarantana/cap5.xml#c5_11985">
+                          окружаемый глубокимъ почтеніемъ и всѣми признаками своей власти,</note>
+        <note xml:id="Russian_1854_cap5-n290" type="translation" target="quarantana/cap5.xml#c5_11986" targetEnd="quarantana/cap5.xml#c5_11999">
+                          сидѣлъ съ такимъ видомъ, который долженъ былъ заглушить на устахъ дерзновеннаго всякую просьбу,</note>
+        <note xml:id="Russian_1854_cap5-n291" type="translation" target="quarantana/cap5.xml#c5_12000" targetEnd="quarantana/cap5.xml#c5_12011">
+                          увѣщанiе или упрекъ.</note>
+        <note xml:id="Russian_1854_cap5-n292" type="translation" target="quarantana/cap5.xml#c5_12012" targetEnd="quarantana/cap5.xml#c5_12021">
+                          По правою руку его находился графъ Аттилiо, двоюродный братъ,</note>
+        <note xml:id="Russian_1854_cap5-n293" type="translation" target="quarantana/cap5.xml#c5_12022" targetEnd="quarantana/cap5.xml#c5_12027">
+                          и, если должно сказать,</note>
+        <note xml:id="Russian_1854_cap5-n294" type="translation" target="quarantana/cap5.xml#c5_12028" targetEnd="quarantana/cap5.xml#c5_12034">
+                          товарищъ его распутствъ и злодѣяній,</note>
+        <note xml:id="Russian_1854_cap5-n295" type="translation" target="quarantana/cap5.xml#c5_12035" targetEnd="quarantana/cap5.xml#c5_12047">
+                          прiѣхавшій нарочно изъ Медіолана, провести нѣсколько днѣй въ его замкѣ.</note>
+        <note xml:id="Russian_1854_cap5-n296" type="translation" target="quarantana/cap5.xml#c5_12048" targetEnd="quarantana/cap5.xml#c5_12049">
+                          Налѣво,</note>
+        <note xml:id="Russian_1854_cap5-n297" type="translation" target="quarantana/cap5.xml#c5_12050" targetEnd="quarantana/cap5.xml#c5_12056">
+                          по другую сторону стола,</note>
+        <note xml:id="Russian_1854_cap5-n298" type="translation" target="quarantana/cap5.xml#c5_12057" targetEnd="quarantana/cap5.xml#c5_12075">
+                          сидѣлъ съ глубокомъ почтеніемъ, умѣряемымъ какимъ-то спокойствіемъ и самодовольствіемъ господинъ подеста (судья),</note>
+        <note xml:id="Russian_1854_cap5-n299" type="translation" target="quarantana/cap5.xml#c5_12076" targetEnd="quarantana/cap5.xml#c5_12079">
+                          тотъ самый,</note>
+        <note xml:id="Russian_1854_cap5-n300" type="translation" target="quarantana/cap5.xml#c5_12080" targetEnd="quarantana/cap5.xml#c5_12090">
+                          который по справедливости долженъ былъ бы взять подъ свою защиту дѣло Ренцо Трамальина,</note>
+        <note xml:id="Russian_1854_cap5-n301" type="translation" target="quarantana/cap5.xml#c5_12091" targetEnd="quarantana/cap5.xml#c5_12101">
+                          и наложить на дона одно изъ тѣхъ наказанiй, которыя опредѣляются въ подобныхъ случаяхъ.</note>
+        <note xml:id="Russian_1854_cap5-n302" type="translation" target="quarantana/cap5.xml#c5_12102" targetEnd="quarantana/cap5.xml#c5_12105">
+                          Насупротивъ подесты сидѣлъ,</note>
+        <note xml:id="Russian_1854_cap5-n303" type="translation" target="quarantana/cap5.xml#c5_12106" targetEnd="quarantana/cap5.xml#c5_12115">
+                          съ видомъ самаго почтительнаго и преданнаго гостя,</note>
+        <note xml:id="Russian_1854_cap5-n304" type="translation" target="quarantana/cap5.xml#c5_12116" targetEnd="quarantana/cap5.xml#c5_12120">
+                          нашъ докторъ Ацекка-крючокъ,</note>
+        <note xml:id="Russian_1854_cap5-n305" type="translation" target="quarantana/cap5.xml#c5_12121" targetEnd="quarantana/cap5.xml#c5_12123">
+                          въ черномъ платьѣ</note>
+        <note xml:id="Russian_1854_cap5-n306" type="translation" target="quarantana/cap5.xml#c5_12124" targetEnd="quarantana/cap5.xml#c5_12130">
+                          и съ носомъ, краснѣе обыкновеннаго.</note>
+        <note xml:id="Russian_1854_cap5-n307" type="translation" target="quarantana/cap5.xml#c5_12131" targetEnd="quarantana/cap5.xml#c5_12134">
+                          Противу двухъ братьевъ: Родрига и Аттилiо,</note>
+        <note xml:id="Russian_1854_cap5-n308" type="translation" target="quarantana/cap5.xml#c5_12135" targetEnd="quarantana/cap5.xml#c5_12137">
+                          сидѣли двое неизвѣстныхъ гостей,</note>
+        <note xml:id="Russian_1854_cap5-n309" type="translation" target="quarantana/cap5.xml#c5_12138" targetEnd="quarantana/cap5.xml#c5_12150">
+                          которые, по словамъ нашей повѣсти, только и знали, что ѣсть,</note>
+        <note xml:id="Russian_1854_cap5-n310" type="translation" target="quarantana/cap5.xml#c5_12151" targetEnd="quarantana/cap5.xml#c5_12162">
+                          кланяться и улыбаться и подтакивать всему, что ни скажетъ кто — либо изъ пирующихъ,</note>
+        <note xml:id="Russian_1854_cap5-n311" type="translation" target="quarantana/cap5.xml#c5_12163" targetEnd="quarantana/cap5.xml#c5_12169">
+                          если только другой не станетъ ему противорѣчить.</note>
+        <note xml:id="Russian_1854_cap5-n312" type="translation" target="quarantana/cap5.xml#c5_12170" targetEnd="quarantana/cap5.xml#c5_12173">
+                          «Принесите стулъ отцу капуцину,»</note>
+        <note xml:id="Russian_1854_cap5-n313" type="translation" target="quarantana/cap5.xml#c5_12174" targetEnd="quarantana/cap5.xml#c5_12176">
+                          сказалъ донъ Родриго,</note>
+        <note xml:id="Russian_1854_cap5-n314" type="translation" target="quarantana/cap5.xml#c5_12177" targetEnd="quarantana/cap5.xml#c5_12181">
+                          и слуга немедленно исполнилъ приказаніе;</note>
+        <note xml:id="Russian_1854_cap5-n315" type="translation" target="quarantana/cap5.xml#c5_12182" targetEnd="quarantana/cap5.xml#c5_12193">
+                          отецъ Христофоръ сѣлъ, извиняясь передъ вельможей;</note>
+        <note xml:id="Russian_1854_cap5-n316" type="translation" target="quarantana/cap5.xml#c5_12194" targetEnd="quarantana/cap5.xml#c5_12198">
+                          что пришелъ въ такое неблагопріятное время.</note>
+        <note xml:id="Russian_1854_cap5-n317" type="translation" target="quarantana/cap5.xml#c5_12199" targetEnd="quarantana/cap5.xml#c5_12209">
+                          «Я желалъ бы побесѣдовать съ вами наединѣ объ одномъ важномъ дѣлѣ,</note>
+        <note xml:id="Russian_1854_cap5-n318" type="translation" target="quarantana/cap5.xml#c5_12210" targetEnd="quarantana/cap5.xml#c5_12220">
+                          — въ полголоса сказалъ онъ дону Родриго на ухо.</note>
+        <note xml:id="Russian_1854_cap5-n321" type="translation" target="quarantana/cap5.xml#c5_12221" targetEnd="quarantana/cap5.xml#c5_12223">
+                          «Хорошо, хорошо, мы поговоримъ послѣ,»</note>
+        <note xml:id="Russian_1854_cap5-n322" type="translation" target="quarantana/cap5.xml#c5_12224" targetEnd="quarantana/cap5.xml#c5_12233">
+                          отвѣчалъ онъ; «но пока прошу васъ освѣжиться виномъ.»</note>
+        <note xml:id="Russian_1854_cap5-n323" type="translation" target="quarantana/cap5.xml#c5_12234" targetEnd="quarantana/cap5.xml#c5_12237">
+                          Капуцинь хотѣлъ-было отказаться;</note>
+        <note xml:id="Russian_1854_cap5-n324" type="translation" target="quarantana/cap5.xml#c5_12238" targetEnd="quarantana/cap5.xml#c5_12250">
+                          но донъ Родриго, возвыся голосъ посреди снова начавшагося шума;</note>
+        <note xml:id="Russian_1854_cap5-n325" type="translation" target="quarantana/cap5.xml#c5_12251" targetEnd="quarantana/cap5.xml#c5_12254">
+                          кричалъ: «Per bacco,</note>
+        <note xml:id="Russian_1854_cap5-n326" type="translation" target="quarantana/cap5.xml#c5_12255" targetEnd="quarantana/cap5.xml#c5_12260">
+                          вы меня такъ не обидите!</note>
+        <note xml:id="Russian_1854_cap5-n327" type="translation" target="quarantana/cap5.xml#c5_12261" targetEnd="quarantana/cap5.xml#c5_12277">
+                          Никто не скажетъ, чтобы капуцинъ вышелъ изъ моего дома; не отведавъ вина моего,</note>
+        <note xml:id="Russian_1854_cap5-n328" type="translation" target="quarantana/cap5.xml#c5_12278" targetEnd="quarantana/cap5.xml#c5_12289">
+                          или грубый заимодавецъ, не познакомившись съ деревомъ, которое растетъ въ лѣсахъ моихъ.»</note>
+        <note xml:id="Russian_1854_cap5-n329" type="translation" target="quarantana/cap5.xml#c5_12290" targetEnd="quarantana/cap5.xml#c5_12297">
+                          За этими словами послѣдовалъ общiй хохотъ,</note>
+        <note xml:id="Russian_1854_cap5-n330" type="translation" target="quarantana/cap5.xml#c5_12298" targetEnd="quarantana/cap5.xml#c5_12310">
+                          прервавшій на время жаркій споръ между пирующими.</note>
+        <note xml:id="Russian_1854_cap5-n331" type="translation" target="quarantana/cap5.xml#c5_12311" targetEnd="quarantana/cap5.xml#c5_12327">
+                          Слуга принесъ на блюдѣ бутылку вина и длинный стакань наподобiе чаши,</note>
+        <note xml:id="Russian_1854_cap5-n332" type="translation" target="quarantana/cap5.xml#c5_12328" targetEnd="quarantana/cap5.xml#c5_12331">
+                          подошелъ къ отцу Христофору,</note>
+        <note xml:id="Russian_1854_cap5-n333" type="translation" target="quarantana/cap5.xml#c5_10542" targetEnd="quarantana/cap5.xml#c5_10543">
+                          и онъ,</note>
+        <note xml:id="Russian_1854_cap5-n334" type="translation" target="quarantana/cap5.xml#c5_12334" targetEnd="quarantana/cap5.xml#c5_12342">
+                          не желая противиться настоятельнымъ просьбамъ человѣка,</note>
+        <note xml:id="Russian_1854_cap5-n335" type="translation" target="quarantana/cap5.xml#c5_12343" targetEnd="quarantana/cap5.xml#c5_12354">
+                          съ которымъ надлежало ему обходиться осторожно,</note>
+        <note xml:id="Russian_1854_cap5-n336" type="translation" target="quarantana/cap5.xml#c5_12355" targetEnd="quarantana/cap5.xml#c5_12362">
+                          согласился и сталъ медленно прихлебывать вино.</note>
+        <note xml:id="Russian_1854_cap5-n337" type="translation" target="quarantana/cap5.xml#c5_12363" targetEnd="quarantana/cap5.xml#c5_12370">
+                          «Словъ Тасса нельзя толковать въ вашу пользу,</note>
+        <note xml:id="Russian_1854_cap5-n338" type="translation" target="quarantana/cap5.xml#c5_12371" targetEnd="quarantana/cap5.xml#c5_12384">
+                          господинъ подеста: напротивъ.» возразилъ снова графъ Аттилiо, «онѣ служатъ вамъ опроверженіемъ,</note>
+        <note xml:id="Russian_1854_cap5-n340" type="translation" target="quarantana/cap5.xml#c5_12385" targetEnd="quarantana/cap5.xml#c5_12387">
+                          потому что этотъ ученый,</note>
+        <note xml:id="Russian_1854_cap5-n341" type="translation" target="quarantana/cap5.xml#c5_12388" targetEnd="quarantana/cap5.xml#c5_12389">
+                          великій человѣкъ,</note>
+        <note xml:id="Russian_1854_cap5-n342" type="translation" target="quarantana/cap5.xml#c5_12390" targetEnd="quarantana/cap5.xml#c5_12398">
+                          которому въ совѣршенствѣ были извѣстны всѣ правила рыцарства,</note>
+        <note xml:id="Russian_1854_cap5-n343" type="translation" target="quarantana/cap5.xml#c5_12399" targetEnd="quarantana/cap5.xml#c5_12413">
+                          хотѣлъ, чтобы посланникъ Арганта, прежде предложенiя вызова Христiанскимъ рыцарямъ,</note>
+        <note xml:id="Russian_1854_cap5-n344" type="translation" target="quarantana/cap5.xml#c5_12414" targetEnd="quarantana/cap5.xml#c5_12418">
+                          испросилъ на то позволенія у мудраго Годфрида Бульонскаго...»</note>
+        <note xml:id="Russian_1854_cap5-n345" type="translation" target="quarantana/cap5.xml#c5_12419" targetEnd="quarantana/cap5.xml#c5_12426">
+                          «Но это», отвечалъ подеста не менѣе громогласно,</note>
+        <note xml:id="Russian_1854_cap5-n346" type="translation" target="quarantana/cap5.xml#c5_12427" targetEnd="quarantana/cap5.xml#c5_12438">
+                          «это просто лишнее поэтическое украшенiе,</note>
+        <note xml:id="Russian_1854_cap5-n347" type="translation" target="quarantana/cap5.xml#c5_12439" targetEnd="quarantana/cap5.xml#c5_12446">
+                          потому что лице посланника само по себѣ полномочно,</note>
+        <note xml:id="Russian_1854_cap5-n348" type="translation" target="quarantana/cap5.xml#c5_12447" targetEnd="quarantana/cap5.xml#c5_12452">
+                          въ силу народнаго права jure gentium;</note>
+        <note xml:id="Russian_1854_cap5-n349" type="translation" target="quarantana/cap5.xml#c5_12453" targetEnd="quarantana/cap5.xml#c5_12458">
+                          да безъ дальнихъ доказательствъ,</note>
+        <note xml:id="Russian_1854_cap5-n350" type="translation" target="quarantana/cap5.xml#c5_12459" targetEnd="quarantana/cap5.xml#c5_12467">
+                          это подтверждается самой пословицей Imbasciator non posita pena (посланнику нѣтъ наказанія) ;</note>
+        <note xml:id="Russian_1854_cap5-n351" type="translation" target="quarantana/cap5.xml#c5_12468" targetEnd="quarantana/cap5.xml#c5_12470">
+                          a пословицы,</note>
+        <note xml:id="Russian_1854_cap5-n352" type="translation" target="quarantana/cap5.xml#c5_12471" targetEnd="quarantana/cap5.xml#c5_12472">
+                          любезный графъ,</note>
+        <note xml:id="Russian_1854_cap5-n353" type="translation" target="quarantana/cap5.xml#c5_12473" targetEnd="quarantana/cap5.xml#c5_12478">
+                          это мудрость народовъ.</note>
+        <note xml:id="Russian_1854_cap5-n354" type="translation" target="quarantana/cap5.xml#c5_12479" targetEnd="quarantana/cap5.xml#c5_12489">
+                          Притомъ посланникъ, не сказавъ ни слова отъ своего имени,</note>
+        <note xml:id="Russian_1854_cap5-n355" type="translation" target="quarantana/cap5.xml#c5_12490" targetEnd="quarantana/cap5.xml#c5_12496">
+                          но только вручивъ письменный вызовъ ...»</note>
+        <note xml:id="Russian_1854_cap5-n356" type="translation" target="quarantana/cap5.xml#c5_12497" targetEnd="quarantana/cap5.xml#c5_12508">
+                          «Да поймете ли вы когда-нибудь, что этотъ посланникъ былъ дерзкiй оселъ,</note>
+        <note xml:id="Russian_1854_cap5-n357" type="translation" target="quarantana/cap5.xml#c5_12509" targetEnd="quarantana/cap5.xml#c5_12513">
+                          который не зналъ даже первыхъ…»</note>
+        <note xml:id="Russian_1854_cap5-n358" type="translation" target="quarantana/cap5.xml#c5_12514" targetEnd="quarantana/cap5.xml#c5_12519">
+                          «Съ вашего позволенія, господа,»</note>
+        <note xml:id="Russian_1854_cap5-n359" type="translation" target="quarantana/cap5.xml#c5_12520" targetEnd="quarantana/cap5.xml#c5_12522">
+                          сказалъ донъ Родриго,</note>
+        <note xml:id="Russian_1854_cap5-n360" type="translation" target="quarantana/cap5.xml#c5_12523" targetEnd="quarantana/cap5.xml#c5_12533">
+                          которому не хотѣлось, чтобы споръ зашелъ слишкомъ далеко,</note>
+        <note xml:id="Russian_1854_cap5-n361" type="translation" target="quarantana/cap5.xml#c5_12534" targetEnd="quarantana/cap5.xml#c5_12537">
+                          «положимся на судъ отца Христофора,</note>
+        <note xml:id="Russian_1854_cap5-n362" type="translation" target="quarantana/cap5.xml#c5_12538" targetEnd="quarantana/cap5.xml#c5_12543">
+                          и заранѣе примемъ его рѣшеніе.»</note>
+        <note xml:id="Russian_1854_cap5-n364" type="translation" target="quarantana/cap5.xml#c5_12544" targetEnd="quarantana/cap5.xml#c5_12549">
+                          «Прекрасно, превосходно!» сказалъ графъ Аттилiо,</note>
+        <note xml:id="Russian_1854_cap5-n365" type="translation" target="quarantana/cap5.xml#c5_12550" targetEnd="quarantana/cap5.xml#c5_12565">
+                          которому казалось очень смѣшнымъ предложить рыцарскiй вопросъ на рѣшеніе капуцину;</note>
+        <note xml:id="Russian_1854_cap5-n366" type="translation" target="quarantana/cap5.xml#c5_12566" targetEnd="quarantana/cap5.xml#c5_12587">
+                          но разгоряченный подеста съ трудомъ и съ нѣкоторымъ принужденiемъ умѣрялъ себя и какъ будто хотѣлъ сказать: упрямцы!</note>
+        <note xml:id="Russian_1854_cap5-n367" type="translation" target="quarantana/cap5.xml#c5_12588" targetEnd="quarantana/cap5.xml#c5_12595">
+                          «Но изъ всего, что я слышалъ,»</note>
+        <note xml:id="Russian_1854_cap5-n368" type="translation" target="quarantana/cap5.xml#c5_12596" targetEnd="quarantana/cap5.xml#c5_12598">
+                          сказалъ капуцинъ,</note>
+        <note xml:id="Russian_1854_cap5-n369" type="translation" target="quarantana/cap5.xml#c5_12599" targetEnd="quarantana/cap5.xml#c5_12607">
+                          «мнѣ кажется, споръ вашъ идетъ о такомъ предметѣ, о которомъ я знать ничего не могу.»</note>
+        <note xml:id="Russian_1854_cap5-n370" type="translation" target="quarantana/cap5.xml#c5_12608" targetEnd="quarantana/cap5.xml#c5_12614">
+                          «Обыкновенныя отговорки монашескаго смиренія,»</note>
+        <note xml:id="Russian_1854_cap5-n371" type="translation" target="quarantana/cap5.xml#c5_12615" targetEnd="quarantana/cap5.xml#c5_12621">
+                          сказалъ Родриго; «но мы отъ васъ такъ не отстанемъ.</note>
+        <note xml:id="Russian_1854_cap5-n372" type="translation" target="quarantana/cap5.xml#c5_12622" targetEnd="quarantana/cap5.xml#c5_12635">
+                          Мь всѣ знаемъ, что вы родились не въ рясѣ,</note>
+        <note xml:id="Russian_1854_cap5-n373" type="translation" target="quarantana/cap5.xml#c5_12636" targetEnd="quarantana/cap5.xml#c5_12642">
+                          и свѣтъ зналъ объ васъ.</note>
+        <note xml:id="Russian_1854_cap5-n375" type="translation" target="quarantana/cap5.xml#c5_12643" targetEnd="quarantana/cap5.xml#c5_12647">
+                          Послушайте, вотъ въ чемъ вопросъ…»</note>
+        <note xml:id="Russian_1854_cap5-n376" type="translation" target="quarantana/cap5.xml#c5_12648" targetEnd="quarantana/cap5.xml#c5_12657">
+                          «Вотъ въ чемъ дѣло…» завопилъ графъ Аттилiо.</note>
+        <note xml:id="Russian_1854_cap5-n378" type="translation" target="quarantana/cap5.xml#c5_12658" targetEnd="quarantana/cap5.xml#c5_12664">
+                          «Позвольте, братецъ, мнѣ разсказать это дѣло; я тутъ человѣкъ посторонній,»</note>
+        <note xml:id="Russian_1854_cap5-n379" type="translation" target="quarantana/cap5.xml#c5_12665" targetEnd="quarantana/cap5.xml#c5_12667">
+                          отвѣчалъ донъ Родриго.</note>
+        <note xml:id="Russian_1854_cap5-n380" type="translation" target="quarantana/cap5.xml#c5_12668" targetEnd="quarantana/cap5.xml#c5_12670">
+                          «Вотъ какъ это было:</note>
+        <note xml:id="Russian_1854_cap5-n381" type="translation" target="quarantana/cap5.xml#c5_12671" targetEnd="quarantana/cap5.xml#c5_12682">
+                          Испанскій кавалеръ дѣлалъ вызовъ кавалеру Медiоланскому; посланный,</note>
+        <note xml:id="Russian_1854_cap5-n382" type="translation" target="quarantana/cap5.xml#c5_12683" targetEnd="quarantana/cap5.xml#c5_12688">
+                          не заставъ дома того, къ кому онъ ​шелъ съ вызовомъ,</note>
+        <note xml:id="Russian_1854_cap5-n383" type="translation" target="quarantana/cap5.xml#c5_12689" targetEnd="quarantana/cap5.xml#c5_12696">
+                          вручилъ письмо брату этого кавалера;</note>
+        <note xml:id="Russian_1854_cap5-n384" type="translation" target="quarantana/cap5.xml#c5_12697" targetEnd="quarantana/cap5.xml#c5_12702">
+                          а братъ, прочитавъ его,</note>
+        <note xml:id="Russian_1854_cap5-n385" type="translation" target="quarantana/cap5.xml#c5_12703" targetEnd="quarantana/cap5.xml#c5_12710">
+                          вмѣсто всякаго отвѣта, палкой прибилъ посланнаго.</note>
+        <note xml:id="Russian_1854_cap5-n386" type="translation" target="quarantana/cap5.xml#c5_12711" targetEnd="quarantana/cap5.xml#c5_12712">
+                          Увѣряютъ...»</note>
+        <note xml:id="Russian_1854_cap5-n388" type="translation" target="quarantana/cap5.xml#c5_12713" targetEnd="quarantana/cap5.xml#c5_12720">
+                          «И какъ прибылъ, какъ откаталъ его!» вскричалъ графъ Аттилiо.</note>
+        <note xml:id="Russian_1854_cap5-n389" type="translation" target="quarantana/cap5.xml#c5_12721" targetEnd="quarantana/cap5.xml#c5_12724">
+                          «Это было какое-то внушенiе...»</note>
+        <note xml:id="Russian_1854_cap5-n390" type="translation" target="quarantana/cap5.xml#c5_12725" targetEnd="quarantana/cap5.xml#c5_12729">
+                          «Чортъ возьми!» возразилъ подеста;</note>
+        <note xml:id="Russian_1854_cap5-n391" type="translation" target="quarantana/cap5.xml#c5_12730" targetEnd="quarantana/cap5.xml#c5_12734">
+                          «обижать посланнаго! Лицо священное!</note>
+        <note xml:id="Russian_1854_cap5-n392" type="translation" target="quarantana/cap5.xml#c5_12735" targetEnd="quarantana/cap5.xml#c5_12736">
+                          Отецъ капуцинъ! скажите,</note>
+        <note xml:id="Russian_1854_cap5-n393" type="translation" target="quarantana/cap5.xml#c5_12737" targetEnd="quarantana/cap5.xml#c5_12744">
+                          прилично ли такъ поступать кавалеру?»</note>
+        <note xml:id="Russian_1854_cap5-n394" type="translation" target="quarantana/cap5.xml#c5_12745" targetEnd="quarantana/cap5.xml#c5_12746">
+                          «Да, сударь,</note>
+        <note xml:id="Russian_1854_cap5-n395" type="translation" target="quarantana/cap5.xml#c5_12747" targetEnd="quarantana/cap5.xml#c5_12748">
+                          прилично»,</note>
+        <note xml:id="Russian_1854_cap5-n396" type="translation" target="quarantana/cap5.xml#c5_12749" targetEnd="quarantana/cap5.xml#c5_12757">
+                          закричалъ графъ, «и надѣюсь, вы согласитесь,</note>
+        <note xml:id="Russian_1854_cap5-n397" type="translation" target="quarantana/cap5.xml#c5_12758" targetEnd="quarantana/cap5.xml#c5_12767">
+                          что я знаю правила рыцарства.</note>
+        <note xml:id="Russian_1854_cap5-n398" type="translation" target="quarantana/cap5.xml#c5_12768" targetEnd="quarantana/cap5.xml#c5_12772">
+                          Вотъ еслибъ его прибили кулаками,</note>
+        <note xml:id="Russian_1854_cap5-n399" type="translation" target="quarantana/cap5.xml#c5_12773" targetEnd="quarantana/cap5.xml#c5_12775">
+                          такъ дѣло другое;</note>
+        <note xml:id="Russian_1854_cap5-n400" type="translation" target="quarantana/cap5.xml#c5_12776" targetEnd="quarantana/cap5.xml#c5_12784">
+                          но палка ни чьихъ рукъ не мараетъ.</note>
+        <note xml:id="Russian_1854_cap5-n401" type="translation" target="quarantana/cap5.xml#c5_12785" targetEnd="quarantana/cap5.xml#c5_12799">
+                          Только я никакъ не понимаю, отъ чего вы берете такое участiе въ спинѣ мерзавца...»</note>
+        <note xml:id="Russian_1854_cap5-n402" type="translation" target="quarantana/cap5.xml#c5_12800" targetEnd="quarantana/cap5.xml#c5_12809">
+                          «Кто вамъ говорилъ про его спину, графъ?</note>
+        <note xml:id="Russian_1854_cap5-n403" type="translation" target="quarantana/cap5.xml#c5_12810" targetEnd="quarantana/cap5.xml#c5_12814">
+                          Вы приписываете мнѣ вещи,</note>
+        <note xml:id="Russian_1854_cap5-n404" type="translation" target="quarantana/cap5.xml#c5_12815" targetEnd="quarantana/cap5.xml#c5_12823">
+                          которыя никогда мнѣ и на умъ не приходили.</note>
+        <note xml:id="Russian_1854_cap5-n405" type="translation" target="quarantana/cap5.xml#c5_12824" targetEnd="quarantana/cap5.xml#c5_12827">
+                          Я говорилъ объ его званіи,</note>
+        <note xml:id="Russian_1854_cap5-n407" type="translation" target="quarantana/cap5.xml#c5_12828" targetEnd="quarantana/cap5.xml#c5_12832">
+                          a не о спинѣ.</note>
+        <note xml:id="Russian_1854_cap5-n408" type="translation" target="quarantana/cap5.xml#c5_12833" targetEnd="quarantana/cap5.xml#c5_12839">
+                          Я вообще говорю о правилахъ рыцарства.</note>
+        <note xml:id="Russian_1854_cap5-n409" type="translation" target="quarantana/cap5.xml#c5_12840" targetEnd="quarantana/cap5.xml#c5_12845">
+                          Покорно прошу сказать мнѣ:</note>
+        <note xml:id="Russian_1854_cap5-n410" type="translation" target="quarantana/cap5.xml#c5_12846" targetEnd="quarantana/cap5.xml#c5_12860">
+                          фецiалы, которыхъ древнiе Римляне обыкновенно посылали вызывать на брань другiе народы,</note>
+        <note xml:id="Russian_1854_cap5-n411" type="translation" target="quarantana/cap5.xml#c5_12861" targetEnd="quarantana/cap5.xml#c5_12865">
+                          просили ли они позволенiя, изложить предметъ своего посланія,</note>
+        <note xml:id="Russian_1854_cap5-n412" type="translation" target="quarantana/cap5.xml#c5_12866" targetEnd="quarantana/cap5.xml#c5_12882">
+                          и назовите мнѣ хоть одного писателя, который бы говорилъ, что когда-либо фецiала отдѣлали палками.»</note>
+        <note xml:id="Russian_1854_cap5-n413" type="translation" target="quarantana/cap5.xml#c5_12883" targetEnd="quarantana/cap5.xml#c5_12893">
+                          «Что тутъ общаго между нашими обыкновеніями и обычаями древнихъ Римлянъ?</note>
+        <note xml:id="Russian_1854_cap5-n415" type="translation" target="quarantana/cap5.xml#c5_12894" targetEnd="quarantana/cap5.xml#c5_12906">
+                          Этотъ народъ дѣйствовалъ безъ всякихъ церемонiй и на счетъ этого былъ назади, и очень назади насъ.</note>
+        <note xml:id="Russian_1854_cap5-n417" type="translation" target="quarantana/cap5.xml#c5_12907" targetEnd="quarantana/cap5.xml#c5_12913">
+                          Но, по правиламъ нынѣшяго истиннаго рыцарства,</note>
+        <note xml:id="Russian_1854_cap5-n418" type="translation" target="quarantana/cap5.xml#c5_12914" targetEnd="quarantana/cap5.xml#c5_12923">
+                          я говорю и утверждаю, что посланникъ,</note>
+        <note xml:id="Russian_1854_cap5-n419" type="translation" target="quarantana/cap5.xml#c5_12924" targetEnd="quarantana/cap5.xml#c5_12935">
+                          который осмѣлится вручить вызовъ кавалеру,</note>
+        <note xml:id="Russian_1854_cap5-n420" type="translation" target="quarantana/cap5.xml#c5_12936" targetEnd="quarantana/cap5.xml#c5_12939">
+                          не испросивъ напередъ его позволенія,</note>
+        <note xml:id="Russian_1854_cap5-n421" type="translation" target="quarantana/cap5.xml#c5_12940" targetEnd="quarantana/cap5.xml#c5_12942">
+                          есть просто нахаль,</note>
+        <note xml:id="Russian_1854_cap5-n422" type="translation" target="quarantana/cap5.xml#c5_12943" targetEnd="quarantana/cap5.xml#c5_12944">
+                          котораго не должно щадить,</note>
+        <note xml:id="Russian_1854_cap5-n423" type="translation" target="quarantana/cap5.xml#c5_12945" targetEnd="quarantana/cap5.xml#c5_12946">
+                          котораго можно бить и прибить….»</note>
+        <note xml:id="Russian_1854_cap5-n424" type="translation" target="quarantana/cap5.xml#c5_12947" targetEnd="quarantana/cap5.xml#c5_12952">
+                          «Отвечайте-ка на этотъ силлогизмъ.»</note>
+        <note xml:id="Russian_1854_cap5-n425" type="translation" target="quarantana/cap5.xml#c5_12953" targetEnd="quarantana/cap5.xml#c5_12955">
+                          «И отвѣчать нечего.»</note>
+        <note xml:id="Russian_1854_cap5-n426" type="translation" target="quarantana/cap5.xml#c5_12956" targetEnd="quarantana/cap5.xml#c5_12961">
+                          «Но послушайте.</note>
+        <note xml:id="Russian_1854_cap5-n427" type="translation" target="quarantana/cap5.xml#c5_12962" targetEnd="quarantana/cap5.xml#c5_12967">
+                          Бить человѣка безоружнаго, это не благородно.</note>
+        <note xml:id="Russian_1854_cap5-n428" type="translation" target="quarantana/cap5.xml#c5_12968" targetEnd="quarantana/cap5.xml#c5_12974">
+                          Atqui посланный de quo былъ безъ оружія;</note>
+        <note xml:id="Russian_1854_cap5-n429" type="translation" target="quarantana/cap5.xml#c5_12975" targetEnd="quarantana/cap5.xml#c5_12975">
+                          ergo...»</note>
+        <note xml:id="Russian_1854_cap5-n432" type="translation" target="quarantana/cap5.xml#c5_12976" targetEnd="quarantana/cap5.xml#c5_12979">
+                          «Потише, потише, господинъ подеста.»</note>
+        <note xml:id="Russian_1854_cap5-n433" type="translation" target="quarantana/cap5.xml#c5_12980" targetEnd="quarantana/cap5.xml#c5_12981">
+                          «Какъ потише?»</note>
+        <note xml:id="Russian_1854_cap5-n435" type="translation" target="quarantana/cap5.xml#c5_12982" targetEnd="quarantana/cap5.xml#c5_12990">
+                          «Потише, говорю вамъ. Что вы мнѣ напѣваете?</note>
+        <note xml:id="Russian_1854_cap5-n436" type="translation" target="quarantana/cap5.xml#c5_12991" targetEnd="quarantana/cap5.xml#c5_12997">
+                          Не благородно было бы шпагою ранить сзади,</note>
+        <note xml:id="Russian_1854_cap5-n437" type="translation" target="quarantana/cap5.xml#c5_12998" targetEnd="quarantana/cap5.xml#c5_13014">
+                          или всадить пулю въ бокъ: и на этотъ счеть я могъ бы еще представить нѣсколько случаевъ…</note>
+        <note xml:id="Russian_1854_cap5-n438" type="translation" target="quarantana/cap5.xml#c5_13015" targetEnd="quarantana/cap5.xml#c5_13018">
+                          Но не въ томъ дѣло.</note>
+        <note xml:id="Russian_1854_cap5-n439" type="translation" target="quarantana/cap5.xml#c5_13019" targetEnd="quarantana/cap5.xml#c5_13026">
+                          Я согласенъ, что подобное дѣло вообще можно назвать неблагороднымъ поступкомъ.</note>
+        <note xml:id="Russian_1854_cap5-n440" type="translation" target="quarantana/cap5.xml#c5_13027" targetEnd="quarantana/cap5.xml#c5_13033">
+                          Но дать нѣсколько палочныхъ ударовъ мерзавцу!</note>
+        <note xml:id="Russian_1854_cap5-n441" type="translation" target="quarantana/cap5.xml#c5_13034" targetEnd="quarantana/cap5.xml#c5_13052">
+                          Не прикажите ли сказать ему: Берегись, чтобъ я тебя не поколотилъ, такъ же, какъ говорится благородному человѣку: Шпагу въ руки!...</note>
+        <note xml:id="Russian_1854_cap5-n443" type="translation" target="quarantana/cap5.xml#c5_13053" targetEnd="quarantana/cap5.xml#c5_13058">
+                          А вы, почтеннѣйшій господинъ докторъ,</note>
+        <note xml:id="Russian_1854_cap5-n444" type="translation" target="quarantana/cap5.xml#c5_13059" targetEnd="quarantana/cap5.xml#c5_13063">
+                          вмѣсто того, чтобъ улыбками показывать мнѣ,</note>
+        <note xml:id="Russian_1854_cap5-n445" type="translation" target="quarantana/cap5.xml#c5_13064" targetEnd="quarantana/cap5.xml#c5_13072">
+                          что вы согласны съ моимъ мнѣніемъ,</note>
+        <note xml:id="Russian_1854_cap5-n446" type="translation" target="quarantana/cap5.xml#c5_13073" targetEnd="quarantana/cap5.xml#c5_13082">
+                          зачѣмъ вы краснорѣчiемъ своимъ не поддерживаете моихъ словъ</note>
+        <note xml:id="Russian_1854_cap5-n447" type="translation" target="quarantana/cap5.xml#c5_13083" targetEnd="quarantana/cap5.xml#c5_13094">
+                          и не помогаете мнѣ образумить этого господина?</note>
+        <note xml:id="Russian_1854_cap5-n448" type="translation" target="quarantana/cap5.xml#c5_13095" targetEnd="quarantana/cap5.xml#c5_13105">
+                          «Я...» отвечалъ докторъ съ нѣкоторымъ смущеніемъ, «я наслаждаюсь этимъ ученымъ споромъ,</note>
+        <note xml:id="Russian_1854_cap5-n449" type="translation" target="quarantana/cap5.xml#c5_13106" targetEnd="quarantana/cap5.xml#c5_13119">
+                          и радуюсь случаю, который подалъ поводъ къ такому пріятному пренію.</note>
+        <note xml:id="Russian_1854_cap5-n450" type="translation" target="quarantana/cap5.xml#c5_13120" targetEnd="quarantana/cap5.xml#c5_13128">
+                          При томъ мнѣ не прилично произносить свое сужденіе:</note>
+        <note xml:id="Russian_1854_cap5-n451" type="translation" target="quarantana/cap5.xml#c5_13129" targetEnd="quarantana/cap5.xml#c5_13139">
+                          благородный сеньоръ донъ Родриго уже назвалъ судью... вотъ отецъ капуцинъ...»</note>
+        <note xml:id="Russian_1854_cap5-n452" type="translation" target="quarantana/cap5.xml#c5_13140" targetEnd="quarantana/cap5.xml#c5_13141">
+                          «Правда,»</note>
+        <note xml:id="Russian_1854_cap5-n453" type="translation" target="quarantana/cap5.xml#c5_13142" targetEnd="quarantana/cap5.xml#c5_13151">
+                          сказалъ донъ Родриго; «но какъ же хотите вы, чтобы судья говорилъ,</note>
+        <note xml:id="Russian_1854_cap5-n454" type="translation" target="quarantana/cap5.xml#c5_13152" targetEnd="quarantana/cap5.xml#c5_13157">
+                          когда спорныя стороны не хотятъ молчать?»</note>
+        <note xml:id="Russian_1854_cap5-n455" type="translation" target="quarantana/cap5.xml#c5_13158" targetEnd="quarantana/cap5.xml#c5_13158">
+                          «Я нѣмъ,»</note>
+        <note xml:id="Russian_1854_cap5-n456" type="translation" target="quarantana/cap5.xml#c5_13159" targetEnd="quarantana/cap5.xml#c5_13162">
+                          сказалъ графъ Аттилiо;</note>
+        <note xml:id="Russian_1854_cap5-n457" type="translation" target="quarantana/cap5.xml#c5_13163" targetEnd="quarantana/cap5.xml#c5_13169">
+                          подеста также обѣщалъ молчать.</note>
+        <note xml:id="Russian_1854_cap5-n458" type="translation" target="quarantana/cap5.xml#c5_13170" targetEnd="quarantana/cap5.xml#c5_13171">
+                          «А! наконецъ!</note>
+        <note xml:id="Russian_1854_cap5-n460" type="translation" target="quarantana/cap5.xml#c5_13172" targetEnd="quarantana/cap5.xml#c5_13174">
+                          Теперь ваша очередь, батюшка,»</note>
+        <note xml:id="Russian_1854_cap5-n461" type="translation" target="quarantana/cap5.xml#c5_13175" targetEnd="quarantana/cap5.xml#c5_13182">
+                          сказалъ донъ Родриго, частiю серьозно, частiю насмѣшливо.</note>
+        <note xml:id="Russian_1854_cap5-n463" type="translation" target="quarantana/cap5.xml#c5_13183" targetEnd="quarantana/cap5.xml#c5_13198">
+                          «Я уже извинился», отвечалъ отецъ Христофоръ, «я уже сказалъ вамъ, что въ этомъ дѣлѣ я совершенный невѣжда» —</note>
+        <note xml:id="Russian_1854_cap5-n464" type="translation" target="quarantana/cap5.xml#c5_13199" targetEnd="quarantana/cap5.xml#c5_13204">
+                          и онъ возвратилъ стаканъ свой слугѣ.</note>
+        <note xml:id="Russian_1854_cap5-n465" type="translation" target="quarantana/cap5.xml#c5_13205" targetEnd="quarantana/cap5.xml#c5_13213">
+                          «Плохія отговорки!» вскричали оба брата. Мы хотимъ вашего рѣшенiя.»</note>
+        <note xml:id="Russian_1854_cap5-n467" type="translation" target="quarantana/cap5.xml#c5_13214" targetEnd="quarantana/cap5.xml#c5_13218">
+                          «Если такъ, — возразилъ монахъ,</note>
+        <note xml:id="Russian_1854_cap5-n468" type="translation" target="quarantana/cap5.xml#c5_13219" targetEnd="quarantana/cap5.xml#c5_13229">
+                          — то, по моему мнѣнію, не должно бъ быть ни вызововъ,</note>
+        <note xml:id="Russian_1854_cap5-n469" type="translation" target="quarantana/cap5.xml#c5_13230" targetEnd="quarantana/cap5.xml#c5_13231">
+                          ни посланныхъ,</note>
+        <note xml:id="Russian_1854_cap5-n470" type="translation" target="quarantana/cap5.xml#c5_13232" targetEnd="quarantana/cap5.xml#c5_13233">
+                          ни палочныхъ ударовъ.»</note>
+        <note xml:id="Russian_1854_cap5-n471" type="translation" target="quarantana/cap5.xml#c5_13234" targetEnd="quarantana/cap5.xml#c5_13240">
+                          Всѣ съ удивленіемъ смотрѣли другъ на друга.</note>
+        <note xml:id="Russian_1854_cap5-n472" type="translation" target="quarantana/cap5.xml#c5_13241" targetEnd="quarantana/cap5.xml#c5_13248">
+                          «О! ужъ это слишкомъ просто!» сказалъ графъ Аттилiо.</note>
+        <note xml:id="Russian_1854_cap5-n474" type="translation" target="quarantana/cap5.xml#c5_13249" targetEnd="quarantana/cap5.xml#c5_13251">
+                          «Извините, батюшка;</note>
+        <note xml:id="Russian_1854_cap5-n475" type="translation" target="quarantana/cap5.xml#c5_13252" targetEnd="quarantana/cap5.xml#c5_13255">
+                          но это уже слишкомъ просто.</note>
+        <note xml:id="Russian_1854_cap5-n476" type="translation" target="quarantana/cap5.xml#c5_13256" targetEnd="quarantana/cap5.xml#c5_13263">
+                          Видно, что вамъ незнакомъ свѣтъ.»</note>
+        <note xml:id="Russian_1854_cap5-n477" type="translation" target="quarantana/cap5.xml#c5_13264" targetEnd="quarantana/cap5.xml#c5_13267">
+                          «Ему?» сказалъ донъ Родриго.</note>
+        <note xml:id="Russian_1854_cap5-n480" type="translation" target="quarantana/cap5.xml#c5_13268" targetEnd="quarantana/cap5.xml#c5_13274">
+                          «Ха, ха! Онъ, братецъ, знаетъ свѣтъ вѣрно не хуже васъ.</note>
+        <note xml:id="Russian_1854_cap5-n481" type="translation" target="quarantana/cap5.xml#c5_13275" targetEnd="quarantana/cap5.xml#c5_13278">
+                          Не правда ли, батюшка?</note>
+        <note xml:id="Russian_1854_cap5-n482" type="translation" target="quarantana/cap5.xml#c5_13279" targetEnd="quarantana/cap5.xml#c5_13279">
+                          Скажите,</note>
+        <note xml:id="Russian_1854_cap5-n483" type="translation" target="quarantana/cap5.xml#c5_13280" targetEnd="quarantana/cap5.xml#c5_13287">
+                          скажите, развѣ вы не испытали его?»</note>
+        <note xml:id="Russian_1854_cap5-n484" type="translation" target="quarantana/cap5.xml#c5_13288" targetEnd="quarantana/cap5.xml#c5_13294">
+                          Вмѣсто отвѣта на такой невѣжливый вопросъ,</note>
+        <note xml:id="Russian_1854_cap5-n485" type="translation" target="quarantana/cap5.xml#c5_13295" targetEnd="quarantana/cap5.xml#c5_13309">
+                          капуцинъ подумалъ про себя: это касается до тебя лично;</note>
+        <note xml:id="Russian_1854_cap5-n486" type="translation" target="quarantana/cap5.xml#c5_13310" targetEnd="quarantana/cap5.xml#c5_13311">
+                          но помни,</note>
+        <note xml:id="Russian_1854_cap5-n487" type="omission" target="quarantana/cap5.xml#c5_10384" targetEnd="quarantana/cap5.xml#c5_10384"/>
+        <note xml:id="Russian_1854_cap5-n488" type="translation" target="quarantana/cap5.xml#c5_13313" targetEnd="quarantana/cap5.xml#c5_13318">
+                          что ты здѣсь не для себя,</note>
+        <note xml:id="Russian_1854_cap5-n489" type="translation" target="quarantana/cap5.xml#c5_13319" targetEnd="quarantana/cap5.xml#c5_13325">
+                          и все, относящееся къ одному тебѣ,</note>
+        <note xml:id="Russian_1854_cap5-n490" type="translation" target="quarantana/cap5.xml#c5_13326" targetEnd="quarantana/cap5.xml#c5_13329">
+                          ты долженъ ставить ни во что.</note>
+        <note xml:id="Russian_1854_cap5-n491" type="translation" target="quarantana/cap5.xml#c5_13330" targetEnd="quarantana/cap5.xml#c5_13334">
+                          «Можетъ статься,» сказалъ графъ Аттиліо,</note>
+        <note xml:id="Russian_1854_cap5-n492" type="translation" target="quarantana/cap5.xml#c5_13335" targetEnd="quarantana/cap5.xml#c5_13342">
+                          «Но отецъ... Какъ зовутъ отца?»</note>
+        <note xml:id="Russian_1854_cap5-n493" type="translation" target="quarantana/cap5.xml#c5_13343" targetEnd="quarantana/cap5.xml#c5_13347">
+                          «Отцемъ Христофоромъ! отвѣчало нѣсколько голосовъ.</note>
+        <note xml:id="Russian_1854_cap5-n494" type="translation" target="quarantana/cap5.xml#c5_13348" targetEnd="quarantana/cap5.xml#c5_13350">
+                          «Но отецъ Христофоръ,</note>
+        <note xml:id="Russian_1854_cap5-n495" type="translation" target="quarantana/cap5.xml#c5_13351" targetEnd="quarantana/cap5.xml#c5_13353">
+                          мой почтеннѣйшій наставникъ,</note>
+        <note xml:id="Russian_1854_cap5-n496" type="translation" target="quarantana/cap5.xml#c5_13354" targetEnd="quarantana/cap5.xml#c5_13363">
+                          съ вашими правилами вы перевернете свѣтъ вверхъ дномъ.</note>
+        <note xml:id="Russian_1854_cap5-n497" type="translation" target="quarantana/cap5.xml#c5_13364" targetEnd="quarantana/cap5.xml#c5_13365">
+                          Безъ вызововъ,</note>
+        <note xml:id="Russian_1854_cap5-n498" type="translation" target="quarantana/cap5.xml#c5_13366" targetEnd="quarantana/cap5.xml#c5_13367">
+                          безъ палокъ!</note>
+        <note xml:id="Russian_1854_cap5-n499" type="translation" target="quarantana/cap5.xml#c5_13368" targetEnd="quarantana/cap5.xml#c5_13376">
+                          Тогда прощайся съ честію! Невѣжи останутся безъ наказанія...</note>
+        <note xml:id="Russian_1854_cap5-n500" type="translation" target="quarantana/cap5.xml#c5_13377" targetEnd="quarantana/cap5.xml#c5_13384">
+                          По счастію, такого предположенія нельзя и допустить.»</note>
+        <note xml:id="Russian_1854_cap5-n502" type="translation" target="quarantana/cap5.xml#c5_13385" targetEnd="quarantana/cap5.xml#c5_13386">
+                          «Что жъ, докторъ,»</note>
+        <note xml:id="Russian_1854_cap5-n503" type="translation" target="quarantana/cap5.xml#c5_13387" targetEnd="quarantana/cap5.xml#c5_13390">
+                          сказалъ донъ Родриго,</note>
+        <note xml:id="Russian_1854_cap5-n504" type="translation" target="quarantana/cap5.xml#c5_13391" targetEnd="quarantana/cap5.xml#c5_13401">
+                          который старался отклонить отъ спорнаго состязанія двухъ первыxъ витязей,</note>
+        <note xml:id="Russian_1854_cap5-n505" type="translation" target="quarantana/cap5.xml#c5_13402" targetEnd="quarantana/cap5.xml#c5_13413">
+                          «вы мастеръ оправдывать каждаго.</note>
+        <note xml:id="Russian_1854_cap5-n506" type="translation" target="quarantana/cap5.xml#c5_13414" targetEnd="quarantana/cap5.xml#c5_13426">
+                          Посмотримъ, какъ то вы на этотъ разъ оправдаете отца Христофора.»</note>
+        <note xml:id="Russian_1854_cap5-n507" type="translation" target="quarantana/cap5.xml#c5_13427" targetEnd="quarantana/cap5.xml#c5_13428">
+                          «Право,»</note>
+        <note xml:id="Russian_1854_cap5-n508" type="translation" target="quarantana/cap5.xml#c5_13429" targetEnd="quarantana/cap5.xml#c5_13431">
+                          отвѣчалъ докторъ,</note>
+        <note xml:id="Russian_1854_cap5-n509" type="translation" target="quarantana/cap5.xml#c5_13432" targetEnd="quarantana/cap5.xml#c5_13441">
+                          поднявъ свою вилку и обращаясь къ монаху,</note>
+        <note xml:id="Russian_1854_cap5-n510" type="translation" target="quarantana/cap5.xml#c5_13442" targetEnd="quarantana/cap5.xml#c5_13451">
+                          «право я не понимаю, какъ отецъ Христофоръ,</note>
+        <note xml:id="Russian_1854_cap5-n511" type="translation" target="quarantana/cap5.xml#c5_13452" targetEnd="quarantana/cap5.xml#c5_13462">
+                          который соединяетъ въ себѣ и совершенства затворника и знанія свѣтскаго человѣка,</note>
+        <note xml:id="Russian_1854_cap5-n512" type="translation" target="quarantana/cap5.xml#c5_13463" targetEnd="quarantana/cap5.xml#c5_13470">
+                          не разсудилъ, что его рѣшеніе,</note>
+        <note xml:id="Russian_1854_cap5-n514" type="translation" target="quarantana/cap5.xml#c5_13471" targetEnd="quarantana/cap5.xml#c5_13478">
+                          прекрасное, отличное и достойное всякаго уваженія въ проповѣди,</note>
+        <note xml:id="Russian_1854_cap5-n515" type="translation" target="quarantana/cap5.xml#c5_13479" targetEnd="quarantana/cap5.xml#c5_13490">
+                          вовсе негодится (говорю со всѣмъ должнымъ почтеніемъ) въ рыцарскомъ спорѣ.</note>
+        <note xml:id="Russian_1854_cap5-n516" type="translation" target="quarantana/cap5.xml#c5_13491" targetEnd="quarantana/cap5.xml#c5_13505">
+                          Но отецъ капуцинъ знаетъ лучше меня, что каждая вещь хороша только на своемъ мѣстѣ;</note>
+        <note xml:id="Russian_1854_cap5-n517" type="translation" target="quarantana/cap5.xml#c5_13506" targetEnd="quarantana/cap5.xml#c5_13522">
+                          я думаю, что на этотъ разъ онъ хотѣлъ шуткою отдѣлаться отъ весьма затруднительнаго сужденія.»</note>
+        <note xml:id="Russian_1854_cap5-n518" type="translation" target="quarantana/cap5.xml#c5_13523" targetEnd="quarantana/cap5.xml#c5_13538">
+                          Что отвѣчать на выводъ столь древней и вмѣстѣ всегда новой премудрости?</note>
+        <note xml:id="Russian_1854_cap5-n519" type="translation" target="quarantana/cap5.xml#c5_13539" targetEnd="quarantana/cap5.xml#c5_13545">
+                          Ничего. Такъ точно и поступилъ нашъ капуцинъ.</note>
+        <note xml:id="Russian_1854_cap5-n520" type="translation" target="quarantana/cap5.xml#c5_13546" targetEnd="quarantana/cap5.xml#c5_13548">
+                          Но донъ Родриго,</note>
+        <note xml:id="Russian_1854_cap5-n521" type="translation" target="quarantana/cap5.xml#c5_13549" targetEnd="quarantana/cap5.xml#c5_13553">
+                          желая пресѣчь подобный разговоръ,</note>
+        <note xml:id="Russian_1854_cap5-n522" type="translation" target="quarantana/cap5.xml#c5_13554" targetEnd="quarantana/cap5.xml#c5_13558">
+                          завелъ другую рѣчь.</note>
+        <note xml:id="Russian_1854_cap5-n523" type="translation" target="quarantana/cap5.xml#c5_13559" targetEnd="quarantana/cap5.xml#c5_13560">
+                          «Кстати,»</note>
+        <note xml:id="Russian_1854_cap5-n524" type="translation" target="quarantana/cap5.xml#c5_13561" targetEnd="quarantana/cap5.xml#c5_13561">
+                          сказалъ онъ,</note>
+        <note xml:id="Russian_1854_cap5-n525" type="translation" target="quarantana/cap5.xml#c5_13562" targetEnd="quarantana/cap5.xml#c5_13570">
+                          «я слышалъ, что въ Медіоланѣ говорятъ о примиреніи.»</note>
+        <note xml:id="Russian_1854_cap5-n526" type="translation" target="quarantana/cap5.xml#c5_13571" targetEnd="quarantana/cap5.xml#c5_13585">
+                          Читателю извѣстно, что въ это время происходили споры о наслѣдiи герцогства Мантуанскаго,</note>
+        <note xml:id="Russian_1854_cap5-n527" type="translation" target="quarantana/cap5.xml#c5_13586" targetEnd="quarantana/cap5.xml#c5_13592">
+                          которое по смерти Винченца Гонзаго,</note>
+        <note xml:id="Russian_1854_cap5-n528" type="translation" target="quarantana/cap5.xml#c5_13593" targetEnd="quarantana/cap5.xml#c5_13598">
+                          неоставившаго по себѣ наслѣдниковъ мужескаго пола,</note>
+        <note xml:id="Russian_1854_cap5-n529" type="translation" target="quarantana/cap5.xml#c5_13599" targetEnd="quarantana/cap5.xml#c5_13610">
+                          перешло во владѣніе герцога Неверскаго, ближайшаго его родственника.</note>
+        <note xml:id="Russian_1854_cap5-n530" type="translation" target="quarantana/cap5.xml#c5_13611" targetEnd="quarantana/cap5.xml#c5_13612">
+                          Людовикъ XIII,</note>
+        <note xml:id="Russian_1854_cap5-n531" type="translation" target="quarantana/cap5.xml#c5_13613" targetEnd="quarantana/cap5.xml#c5_13617">
+                          или, лучше сказать, кардиналъ Ришелье,</note>
+        <note xml:id="Russian_1854_cap5-n532" type="translation" target="quarantana/cap5.xml#c5_13618" targetEnd="quarantana/cap5.xml#c5_13626">
+                          хотѣлъ поддержать его за приверженность къ выгодамъ Франціи.</note>
+        <note xml:id="Russian_1854_cap5-n533" type="translation" target="quarantana/cap5.xml#c5_13627" targetEnd="quarantana/cap5.xml#c5_13632">
+                          Съ другой стороны Филиппъ IV, или лучше графъ Оливарецъ,</note>
+        <note xml:id="Russian_1854_cap5-n534" type="translation" target="quarantana/cap5.xml#c5_13633" targetEnd="quarantana/cap5.xml#c5_13637">
+                          обыкновенно называемый графомъ-герцогомъ,</note>
+        <note xml:id="Russian_1854_cap5-n535" type="translation" target="quarantana/cap5.xml#c5_13638" targetEnd="quarantana/cap5.xml#c5_13645">
+                          не хотѣль согласиться по тѣмъ самымъ причинамъ,</note>
+        <note xml:id="Russian_1854_cap5-n536" type="translation" target="quarantana/cap5.xml#c5_13646" targetEnd="quarantana/cap5.xml#c5_13650">
+                          и возбудилъ противъ него войну.</note>
+        <note xml:id="Russian_1854_cap5-n537" type="translation" target="quarantana/cap5.xml#c5_13651" targetEnd="quarantana/cap5.xml#c5_13657">
+                          И такъ какъ это герцогство принадлежало къ феодальнымъ владѣнiямъ имперіи,</note>
+        <note xml:id="Russian_1854_cap5-n538" type="translation" target="quarantana/cap5.xml#c5_13658" targetEnd="quarantana/cap5.xml#c5_13664">
+                          то оба государства употребляли всѣ возможныя интриги,</note>
+        <note xml:id="Russian_1854_cap5-n539" type="translation" target="quarantana/cap5.xml#c5_13665" targetEnd="quarantana/cap5.xml#c5_13668">
+                          просьбы, угрозы:</note>
+        <note xml:id="Russian_1854_cap5-n540" type="translation" target="quarantana/cap5.xml#c5_13669" targetEnd="quarantana/cap5.xml#c5_13680">
+                          первое, чтобы заставить императора Фердинанда II даровать инвеституру новому герцогу;</note>
+        <note xml:id="Russian_1854_cap5-n542" type="translation" target="quarantana/cap5.xml#c5_13681" targetEnd="quarantana/cap5.xml#c5_13692">
+                          второе, чтобы принудить его отказать ему и вмѣстѣ с Испанцами выгнать изъ Италiи.</note>
+        <note xml:id="Russian_1854_cap5-n543" type="translation" target="quarantana/cap5.xml#c5_13693" targetEnd="quarantana/cap5.xml#c5_13697">
+                          «Я не считаю подобный случай вѣроятнымъ,»</note>
+        <note xml:id="Russian_1854_cap5-n544" type="translation" target="quarantana/cap5.xml#c5_13698" targetEnd="quarantana/cap5.xml#c5_13701">
+                          сказалъ графъ Аттилio,</note>
+        <note xml:id="Russian_1854_cap5-n545" type="translation" target="quarantana/cap5.xml#c5_13702" targetEnd="quarantana/cap5.xml#c5_13710">
+                          тѣмъ болѣе что имѣю причины думать...»</note>
+        <note xml:id="Russian_1854_cap5-n548" type="translation" target="quarantana/cap5.xml#c5_13711" targetEnd="quarantana/cap5.xml#c5_13716">
+                          «Не вѣрьте, графъ, не вѣрьте,»</note>
+        <note xml:id="Russian_1854_cap5-n549" type="translation" target="quarantana/cap5.xml#c5_13717" targetEnd="quarantana/cap5.xml#c5_13719">
+                          прервалъ подеста.</note>
+        <note xml:id="Russian_1854_cap5-n550" type="translation" target="quarantana/cap5.xml#c5_13720" targetEnd="quarantana/cap5.xml#c5_13727">
+                          Я могу имѣть вѣрныя свѣдѣнія обо всемъ, что касается до этой страны,</note>
+        <note xml:id="Russian_1854_cap5-n551" type="translation" target="quarantana/cap5.xml#c5_13728" targetEnd="quarantana/cap5.xml#c5_13732">
+                          потому что синьоръ кастелано Испанскiй,</note>
+        <note xml:id="Russian_1854_cap5-n552" type="translation" target="quarantana/cap5.xml#c5_13733" targetEnd="quarantana/cap5.xml#c5_13742">
+                          которaго покровительствомъ я имѣю счастiе пользоваться,</note>
+        <note xml:id="Russian_1854_cap5-n553" type="translation" target="quarantana/cap5.xml#c5_13743" targetEnd="quarantana/cap5.xml#c5_13755">
+                          и котораго отецъ пользуется особенной милостію графа-герцога, все знаетъ….»</note>
+        <note xml:id="Russian_1854_cap5-n554" type="translation" target="quarantana/cap5.xml#c5_13756" targetEnd="quarantana/cap5.xml#c5_13770">
+                          «А я вамъ говорю, что мнѣ всякій день случается въ Медіоланѣ говорить объ этомъ съ знатными особами,</note>
+        <note xml:id="Russian_1854_cap5-n555" type="translation" target="quarantana/cap5.xml#c5_13771" targetEnd="quarantana/cap5.xml#c5_13778">
+                          и я знаю навѣрно, что папа,</note>
+        <note xml:id="Russian_1854_cap5-n556" type="translation" target="quarantana/cap5.xml#c5_13779" targetEnd="quarantana/cap5.xml#c5_13783">
+                          выгоды котораго зависятъ отъ скорѣйшаго заключенія мира,</note>
+        <note xml:id="Russian_1854_cap5-n557" type="translation" target="quarantana/cap5.xml#c5_13784" targetEnd="quarantana/cap5.xml#c5_13786">
+                          дѣлалъ предложенія»</note>
+        <note xml:id="Russian_1854_cap5-n558" type="translation" target="quarantana/cap5.xml#c5_13787" targetEnd="quarantana/cap5.xml#c5_13793">
+                          «Такъ должно быть это согласно со всѣми правилами;</note>
+        <note xml:id="Russian_1854_cap5-n559" type="translation" target="quarantana/cap5.xml#c5_13794" targetEnd="quarantana/cap5.xml#c5_13799">
+                          его святѣйшество исполняетъ долгъ свой.</note>
+        <note xml:id="Russian_1854_cap5-n560" type="translation" target="quarantana/cap5.xml#c5_13800" targetEnd="quarantana/cap5.xml#c5_13809">
+                          Папа всегда долженъ стараться о водвореніи мира между Христіанскими государями;</note>
+        <note xml:id="Russian_1854_cap5-n562" type="translation" target="quarantana/cap5.xml#c5_13810" targetEnd="quarantana/cap5.xml#c5_13818">
+                          но у графа-герцога другая политика, и..."</note>
+        <note xml:id="Russian_1854_cap5-n567" type="translation" target="quarantana/cap5.xml#c5_13819" targetEnd="quarantana/cap5.xml#c5_13825">
+                          «И, и, и, знаете ли вы, сударь,</note>
+        <note xml:id="Russian_1854_cap5-n568" type="translation" target="quarantana/cap5.xml#c5_13826" targetEnd="quarantana/cap5.xml#c5_13832">
+                          о чемъ теперь помышляетъ императоръ?</note>
+        <note xml:id="Russian_1854_cap5-n569" type="translation" target="quarantana/cap5.xml#c5_13833" targetEnd="quarantana/cap5.xml#c5_13844">
+                          Развѣ на свѣтѣ только и есть, что одна Мантуа?</note>
+        <note xml:id="Russian_1854_cap5-n570" type="translation" target="quarantana/cap5.xml#c5_13845" targetEnd="quarantana/cap5.xml#c5_13850">
+                          Многое можно предвидѣть,</note>
+        <note xml:id="Russian_1854_cap5-n571" type="translation" target="quarantana/cap5.xml#c5_13851" targetEnd="quarantana/cap5.xml#c5_13852">
+                          сударь.</note>
+        <note xml:id="Russian_1854_cap5-n572" type="translation" target="quarantana/cap5.xml#c5_13853" targetEnd="quarantana/cap5.xml#c5_13854">
+                          Знаете ли вы,</note>
+        <note xml:id="Russian_1854_cap5-n573" type="translation" target="quarantana/cap5.xml#c5_13855" targetEnd="quarantana/cap5.xml#c5_13856">
+                          напримѣръ,</note>
+        <note xml:id="Russian_1854_cap5-n574" type="translation" target="quarantana/cap5.xml#c5_13857" targetEnd="quarantana/cap5.xml#c5_13875">
+                          до какой степени императоръ можетъ довѣриться князю Вальдистану, или Вальистаи,</note>
+        <note xml:id="Russian_1854_cap5-n575" type="translation" target="quarantana/cap5.xml#c5_13876" targetEnd="quarantana/cap5.xml#c5_13879">
+                          какъ его называютъ,</note>
+        <note xml:id="Russian_1854_cap5-n576" type="translation" target="quarantana/cap5.xml#c5_13880" targetEnd="quarantana/cap5.xml#c5_13881">
+                          и если...»</note>
+        <note xml:id="Russian_1854_cap5-n578" type="translation" target="quarantana/cap5.xml#c5_13882" targetEnd="quarantana/cap5.xml#c5_13893">
+                          «Настоящее имя по-Нѣмецки Валенштейнъ,» прервалъ подеста;</note>
+        <note xml:id="Russian_1854_cap5-n579" type="translation" target="quarantana/cap5.xml#c5_13894" targetEnd="quarantana/cap5.xml#c5_13904">
+                          «такъ его выговариваетъ синьоръ Испанскій кастелано.</note>
+        <note xml:id="Russian_1854_cap5-n581" type="translation" target="quarantana/cap5.xml#c5_13905" targetEnd="quarantana/cap5.xml#c5_13911">
+                          Но будьте увѣрены, что…»</note>
+        <note xml:id="Russian_1854_cap5-n582" type="translation" target="quarantana/cap5.xml#c5_13912" targetEnd="quarantana/cap5.xml#c5_13917">
+                          «Не хотите ли вы учить меня?» вскричалъ графъ;</note>
+        <note xml:id="Russian_1854_cap5-n583" type="translation" target="quarantana/cap5.xml#c5_13918" targetEnd="quarantana/cap5.xml#c5_13931">
+                          но донъ Родриго, толкнувъ его колѣномъ, далъ почувствовать, чтобы онъ изъ одолженія къ нему оставилъ подесту въ покоѣ.</note>
+        <note xml:id="Russian_1854_cap5-n584" type="translation" target="quarantana/cap5.xml#c5_13932" targetEnd="quarantana/cap5.xml#c5_13933">
+                          Графъ замолчалъ;</note>
+        <note xml:id="Russian_1854_cap5-n585" type="translation" target="quarantana/cap5.xml#c5_13934" targetEnd="quarantana/cap5.xml#c5_13936">
+                          но между тѣмъ подеста,</note>
+        <note xml:id="Russian_1854_cap5-n586" type="translation" target="quarantana/cap5.xml#c5_13937" targetEnd="quarantana/cap5.xml#c5_13943">
+                          какъ сорвавшійся съ мели корабль,</note>
+        <note xml:id="Russian_1854_cap5-n587" type="translation" target="quarantana/cap5.xml#c5_13944" targetEnd="quarantana/cap5.xml#c5_13952">
+                          предался на всѣхъ парусахъ теченію своего краснорѣчія.</note>
+        <note xml:id="Russian_1854_cap5-n588" type="translation" target="quarantana/cap5.xml#c5_13953" targetEnd="quarantana/cap5.xml#c5_13969">
+                          «Валенштейнъ меня мало безпокоитъ; потому-что графъ-герцогъ все и вездѣ видитъ;</note>
+        <note xml:id="Russian_1854_cap5-n589" type="translation" target="quarantana/cap5.xml#c5_13970" targetEnd="quarantana/cap5.xml#c5_13976">
+                          и если Валенштейнъ захочетъ сыграть шутку,</note>
+        <note xml:id="Russian_1854_cap5-n590" type="translation" target="quarantana/cap5.xml#c5_13977" targetEnd="quarantana/cap5.xml#c5_13982">
+                          онъ заставитъ итти прямо,</note>
+        <note xml:id="Russian_1854_cap5-n591" type="translation" target="quarantana/cap5.xml#c5_13983" targetEnd="quarantana/cap5.xml#c5_13987">
+                          волею или не волею.</note>
+        <note xml:id="Russian_1854_cap5-n592" type="translation" target="quarantana/cap5.xml#c5_13988" targetEnd="quarantana/cap5.xml#c5_13993">
+                          Онъ, говорю вамъ, видитъ все;</note>
+        <note xml:id="Russian_1854_cap5-n593" type="translation" target="quarantana/cap5.xml#c5_13994" targetEnd="quarantana/cap5.xml#c5_13997">
+                          руки у него длинны,</note>
+        <note xml:id="Russian_1854_cap5-n594" type="translation" target="quarantana/cap5.xml#c5_13998" targetEnd="quarantana/cap5.xml#c5_14003">
+                          и если онъ рѣшилъ,</note>
+        <note xml:id="Russian_1854_cap5-n595" type="translation" target="quarantana/cap5.xml#c5_14004" targetEnd="quarantana/cap5.xml#c5_14015">
+                          такъ какъ оно и есть,</note>
+        <note xml:id="Russian_1854_cap5-n596" type="translation" target="quarantana/cap5.xml#c5_14016" targetEnd="quarantana/cap5.xml#c5_14027">
+                          что герцогъ Ниверскiи не ступитъ ногою въ Мантуу,</note>
+        <note xml:id="Russian_1854_cap5-n597" type="translation" target="quarantana/cap5.xml#c5_14028" targetEnd="quarantana/cap5.xml#c5_14036">
+                          то герцогъ Ниверскiй не ступитъ,</note>
+        <note xml:id="Russian_1854_cap5-n598" type="translation" target="quarantana/cap5.xml#c5_14037" targetEnd="quarantana/cap5.xml#c5_14046">
+                          и кардиналъ Ришельё дастъ промахъ.</note>
+        <note xml:id="Russian_1854_cap5-n599" type="translation" target="quarantana/cap5.xml#c5_14047" targetEnd="quarantana/cap5.xml#c5_14054">
+                          Въ самомъ дѣлѣ, смѣшонь мнѣ этотъ кардиналъ,</note>
+        <note xml:id="Russian_1854_cap5-n600" type="translation" target="quarantana/cap5.xml#c5_14055" targetEnd="quarantana/cap5.xml#c5_14064">
+                          когда онъ хочетъ тягаться съ графомъ-герцогомъ, съ Оливаресомъ.</note>
+        <note xml:id="Russian_1854_cap5-n601" type="translation" target="quarantana/cap5.xml#c5_14065" targetEnd="quarantana/cap5.xml#c5_14074">
+                          Признаюсь откровенно, я желалъ бы воскреснуть лѣть черезъ двѣсти,</note>
+        <note xml:id="Russian_1854_cap5-n602" type="translation" target="quarantana/cap5.xml#c5_14075" targetEnd="quarantana/cap5.xml#c5_14085">
+                          чтобы послушать сужденія нашихъ потомковъ о такомъ замыслѣ.</note>
+        <note xml:id="Russian_1854_cap5-n603" type="translation" target="quarantana/cap5.xml#c5_14086" targetEnd="quarantana/cap5.xml#c5_14090">
+                          Мало того, что есть охота,</note>
+        <note xml:id="Russian_1854_cap5-n604" type="translation" target="quarantana/cap5.xml#c5_14091" targetEnd="quarantana/cap5.xml#c5_14107">
+                          нужна голова; а во всемъ свѣтѣ не сыщется головы подобной графъ-герцогу.</note>
+        <note xml:id="Russian_1854_cap5-n605" type="translation" target="quarantana/cap5.xml#c5_14108" targetEnd="quarantana/cap5.xml#c5_14112">
+                          Графъ-герцогъ, господа,»</note>
+        <note xml:id="Russian_1854_cap5-n606" type="translation" target="quarantana/cap5.xml#c5_14113" targetEnd="quarantana/cap5.xml#c5_14115">
+                          продолжалъ подеста,</note>
+        <note xml:id="Russian_1854_cap5-n607" type="translation" target="quarantana/cap5.xml#c5_14116" targetEnd="quarantana/cap5.xml#c5_14120">
+                          все гонимый попутнымъ вѣтромъ,</note>
+        <note xml:id="Russian_1854_cap5-n608" type="translation" target="quarantana/cap5.xml#c5_14121" targetEnd="quarantana/cap5.xml#c5_14131">
+                          и даже самъ нѣсколько удивляясь, что не встрѣчаетъ никакихъ препятствій,</note>
+        <note xml:id="Russian_1854_cap5-n609" type="translation" target="quarantana/cap5.xml#c5_14132" targetEnd="quarantana/cap5.xml#c5_14142">
+                          «графъ-герцогъ-старая лисица — будь сказано не въ обиду —</note>
+        <note xml:id="Russian_1854_cap5-n610" type="translation" target="quarantana/cap5.xml#c5_14143" targetEnd="quarantana/cap5.xml#c5_14156">
+                          собьетъ съ пути хоть кого, и когда прикинется, будто беретъ въ право,</note>
+        <note xml:id="Russian_1854_cap5-n611" type="translation" target="quarantana/cap5.xml#c5_14157" targetEnd="quarantana/cap5.xml#c5_14164">
+                          смъло ищи его въ лѣвѣ.</note>
+        <note xml:id="Russian_1854_cap5-n612" type="translation" target="quarantana/cap5.xml#c5_14165" targetEnd="quarantana/cap5.xml#c5_14175">
+                          Изъ этого слѣдуетъ, что никогда никто не можетъ хвастаться тѣмъ, что знаетъ его намѣренiя,</note>
+        <note xml:id="Russian_1854_cap5-n613" type="translation" target="quarantana/cap5.xml#c5_14176" targetEnd="quarantana/cap5.xml#c5_14183">
+                          и даже тѣ люди, которымъ поручено исполненiе ихъ,</note>
+        <note xml:id="Russian_1854_cap5-n614" type="translation" target="quarantana/cap5.xml#c5_14184" targetEnd="quarantana/cap5.xml#c5_14189">
+                          которые пишутъ его депеши,</note>
+        <note xml:id="Russian_1854_cap5-n615" type="translation" target="quarantana/cap5.xml#c5_14190" targetEnd="quarantana/cap5.xml#c5_14193">
+                          сами ничего въ нихъ не понимаютъ.</note>
+        <note xml:id="Russian_1854_cap5-n616" type="translation" target="quarantana/cap5.xml#c5_14194" targetEnd="quarantana/cap5.xml#c5_14201">
+                          Я могу говорить объ этомъ сколько-нибудь,</note>
+        <note xml:id="Russian_1854_cap5-n617" type="translation" target="quarantana/cap5.xml#c5_14202" targetEnd="quarantana/cap5.xml#c5_14215">
+                          потому что этотъ достойный синьоръ кастеллано Испанскій благоволитъ бесѣдовать со мною о дѣлахъ съ нѣкоторою довѣренностію.</note>
+        <note xml:id="Russian_1854_cap5-n618" type="translation" target="quarantana/cap5.xml#c5_14108" targetEnd="quarantana/cap5.xml#c5_14110">
+                          Графъ-герцогъ,</note>
+        <note xml:id="Russian_1854_cap5-n619" type="translation" target="quarantana/cap5.xml#c5_14219" targetEnd="quarantana/cap5.xml#c5_14219">
+                          напротивъ,</note>
+        <note xml:id="Russian_1854_cap5-n620" type="translation" target="quarantana/cap5.xml#c5_14220" targetEnd="quarantana/cap5.xml#c5_14231">
+                          знаетъ въ точности всѣ замыслы, которые въ тайнѣ затѣваютъ иностранные дворы;</note>
+        <note xml:id="Russian_1854_cap5-n621" type="translation" target="quarantana/cap5.xml#c5_14232" targetEnd="quarantana/cap5.xml#c5_14235">
+                          и всѣ ихъ политики</note>
+        <note xml:id="Russian_1854_cap5-n622" type="translation" target="quarantana/cap5.xml#c5_14236" targetEnd="quarantana/cap5.xml#c5_14250">
+                          (а сказать правду, въ нихъ нѣть недостатка) только что вздумаютъ какой-нибудь планъ,</note>
+        <note xml:id="Russian_1854_cap5-n623" type="translation" target="quarantana/cap5.xml#c5_14251" targetEnd="quarantana/cap5.xml#c5_14268">
+                          глядишь графъ-герцогъ ужъ отгадалъ его своимъ генiальнымъ умомъ, при помощи тайныхъ средствъ,</note>
+        <note xml:id="Russian_1854_cap5-n624" type="translation" target="quarantana/cap5.xml#c5_14269" targetEnd="quarantana/cap5.xml#c5_14276">
+                          и сѣтей, которыя онъ вездѣ разставилъ.</note>
+        <note xml:id="Russian_1854_cap5-n625" type="translation" target="quarantana/cap5.xml#c5_14277" targetEnd="quarantana/cap5.xml#c5_14285">
+                          Этотъ бѣдный кардиналъ де Ришелье мечется то туда,</note>
+        <note xml:id="Russian_1854_cap5-n626" type="translation" target="quarantana/cap5.xml#c5_14286" targetEnd="quarantana/cap5.xml#c5_14288">
+                          то сюда,</note>
+        <note xml:id="Russian_1854_cap5-n628" type="translation" target="quarantana/cap5.xml#c5_14289" targetEnd="quarantana/cap5.xml#c5_14290">
+                          потѣетъ, мучится...</note>
+        <note xml:id="Russian_1854_cap5-n629" type="translation" target="quarantana/cap5.xml#c5_14291" targetEnd="quarantana/cap5.xml#c5_14299">
+                          И чтожъ проку? Только что успѣетъ подвести гдѣ-нибудь мину,</note>
+        <note xml:id="Russian_1854_cap5-n630" type="translation" target="quarantana/cap5.xml#c5_14300" targetEnd="quarantana/cap5.xml#c5_14308">
+                          глядишь: анъ съ другой стороны подведенъ ужъ подкопъ графомъ-герцогомъ, и гораздо получше его…»</note>
+        <note xml:id="Russian_1854_cap5-n631" type="translation" target="quarantana/cap5.xml#c5_14309" targetEnd="quarantana/cap5.xml#c5_14317">
+                          Богъ знаетъ, когда бы подеста присталъ къ берегу;</note>
+        <note xml:id="Russian_1854_cap5-n632" type="translation" target="quarantana/cap5.xml#c5_14318" targetEnd="quarantana/cap5.xml#c5_14320">
+                          но донъ Родриго,</note>
+        <note xml:id="Russian_1854_cap5-n633" type="translation" target="quarantana/cap5.xml#c5_14321" targetEnd="quarantana/cap5.xml#c5_14326">
+                          видя, что братъ его все еще хмурится,</note>
+        <note xml:id="Russian_1854_cap5-n634" type="translation" target="quarantana/cap5.xml#c5_14327" targetEnd="quarantana/cap5.xml#c5_14335">
+                          велѣлъ слугѣ подать бутылку вина.</note>
+        <note xml:id="Russian_1854_cap5-n635" type="translation" target="quarantana/cap5.xml#c5_14336" targetEnd="quarantana/cap5.xml#c5_14337">
+                          «Господинъ подеста,»</note>
+        <note xml:id="Russian_1854_cap5-n636" type="translation" target="quarantana/cap5.xml#c5_14338" targetEnd="quarantana/cap5.xml#c5_14340">
+                          сказалъ онъ,</note>
+        <note xml:id="Russian_1854_cap5-n637" type="translation" target="quarantana/cap5.xml#c5_14341" targetEnd="quarantana/cap5.xml#c5_14348">
+                          «и вы, господа! я предлагаю вамъ выпить за здоровье графа-герцога,</note>
+        <note xml:id="Russian_1854_cap5-n638" type="translation" target="quarantana/cap5.xml#c5_14349" targetEnd="quarantana/cap5.xml#c5_14360">
+                          и прошу сказать мнѣ, достойно ли это вино высокой особы?»</note>
+        <note xml:id="Russian_1854_cap5-n639" type="translation" target="quarantana/cap5.xml#c5_14361" targetEnd="quarantana/cap5.xml#c5_14366">
+                          Подеста отвѣчалъ поклономъ,</note>
+        <note xml:id="Russian_1854_cap5-n640" type="translation" target="quarantana/cap5.xml#c5_14367" targetEnd="quarantana/cap5.xml#c5_14374">
+                          выражавшимъ нѣсколько и личную благодарность,</note>
+        <note xml:id="Russian_1854_cap5-n641" type="translation" target="quarantana/cap5.xml#c5_14375" targetEnd="quarantana/cap5.xml#c5_14397">
+                          потому что онъ приписывалъ себѣ большую часть того, что дѣлалось и говорилось въ честь графа-герцога.</note>
+        <note xml:id="Russian_1854_cap5-n642" type="translation" target="quarantana/cap5.xml#c5_14398" targetEnd="quarantana/cap5.xml#c5_14402">
+                          «Тысячу лѣтъ здравствовать дону Гаспару Гусману,</note>
+        <note xml:id="Russian_1854_cap5-n643" type="translation" target="quarantana/cap5.xml#c5_13631" targetEnd="quarantana/cap5.xml#c5_13632">
+                          графу Оливарецу,</note>
+        <note xml:id="Russian_1854_cap5-n644" type="translation" target="quarantana/cap5.xml#c5_14405" targetEnd="quarantana/cap5.xml#c5_14408">
+                          герцогу ди Сан-Лукаръ,</note>
+        <note xml:id="Russian_1854_cap5-n645" type="translation" target="quarantana/cap5.xml#c5_14409" targetEnd="quarantana/cap5.xml#c5_14416">
+                          тайному совѣтнику короля дона-Филиппа Великаго,</note>
+        <note xml:id="Russian_1854_cap5-n646" type="translation" target="quarantana/cap5.xml#c5_14417" targetEnd="quarantana/cap5.xml#c5_14420">
+                          нашего государя.» вcкpичалъ oнь,</note>
+        <note xml:id="Russian_1854_cap5-n647" type="translation" target="quarantana/cap5.xml#c5_14421" targetEnd="quarantana/cap5.xml#c5_14423">
+                          пoднимая cтaкaнъ.</note>
+        <note xml:id="Russian_1854_cap5-n648" type="translation" target="quarantana/cap5.xml#c5_14424" targetEnd="quarantana/cap5.xml#c5_14424">
+                          Тайными (privati),</note>
+        <note xml:id="Russian_1854_cap5-n649" type="translation" target="quarantana/cap5.xml#c5_14425" targetEnd="quarantana/cap5.xml#c5_14427">
+                          если кто этого не знаетъ,</note>
+        <note xml:id="Russian_1854_cap5-n650" type="translation" target="quarantana/cap5.xml#c5_14428" targetEnd="quarantana/cap5.xml#c5_14442">
+                          называли в тогдашнее время любимцев королевскихъ.</note>
+        <note xml:id="Russian_1854_cap5-n651" type="translation" target="quarantana/cap5.xml#c5_14443" targetEnd="quarantana/cap5.xml#c5_14446">
+                          «Тысячу лѣтъ здравствовать!» отвѣчали всѣ гости.</note>
+        <note xml:id="Russian_1854_cap5-n652" type="translation" target="quarantana/cap5.xml#c5_14447" targetEnd="quarantana/cap5.xml#c5_14449">
+                          «Поднесите вина отцу капуцину,»</note>
+        <note xml:id="Russian_1854_cap5-n653" type="translation" target="quarantana/cap5.xml#c5_12174" targetEnd="quarantana/cap5.xml#c5_12176">
+                          сказалъ дoнъ Рoдриго.</note>
+        <note xml:id="Russian_1854_cap5-n654" type="translation" target="quarantana/cap5.xml#c5_14453" targetEnd="quarantana/cap5.xml#c5_14454">
+                          «Извините меня,»</note>
+        <note xml:id="Russian_1854_cap5-n655" type="translation" target="quarantana/cap5.xml#c5_14455" targetEnd="quarantana/cap5.xml#c5_14462">
+                          отвѣчалъ монахъ: «я уже и такъ пилъ,</note>
+        <note xml:id="Russian_1854_cap5-n656" type="translation" target="quarantana/cap5.xml#c5_14463" targetEnd="quarantana/cap5.xml#c5_14465">
+                          и не могу…</note>
+        <note xml:id="Russian_1854_cap5-n657" type="translation" target="quarantana/cap5.xml#c5_14466" targetEnd="quarantana/cap5.xml#c5_14476">
+                          «Какъ», сказалъ донъ Родриго, «за здоровье графа-герцога!</note>
+        <note xml:id="Russian_1854_cap5-n658" type="translation" target="quarantana/cap5.xml#c5_14477" targetEnd="quarantana/cap5.xml#c5_14484">
+                          Развѣ вы хотите, чтобы я почелъ васъ за Наварца?»</note>
+        <note xml:id="Russian_1854_cap5-n659" type="translation" target="quarantana/cap5.xml#c5_14485" targetEnd="quarantana/cap5.xml#c5_14522">
+                          Наварцами называли тогда вообще всѣхъ Французовъ, по Наварскимъ королямъ, которые со временъ Генриха IV-го уже управляли ихъ государствомъ.</note>
+        <note xml:id="Russian_1854_cap5-n660" type="translation" target="quarantana/cap5.xml#c5_14523" targetEnd="quarantana/cap5.xml#c5_14527">
+                          Монахъ не могъ отказаться, не подвергаясь подобному обвиненію.</note>
+        <note xml:id="Russian_1854_cap5-n661" type="translation" target="quarantana/cap5.xml#c5_14528" targetEnd="quarantana/cap5.xml#c5_14535">
+                          Всѣ гости завопили, и похвалы вину посыпались со всѣхъ сторонъ;</note>
+        <note xml:id="Russian_1854_cap5-n662" type="translation" target="quarantana/cap5.xml#c5_14536" targetEnd="quarantana/cap5.xml#c5_14539">
+                          одинъ только докторъ,</note>
+        <note xml:id="Russian_1854_cap5-n663" type="translation" target="quarantana/cap5.xml#c5_14540" targetEnd="quarantana/cap5.xml#c5_14545">
+                          качая головою,</note>
+        <note xml:id="Russian_1854_cap5-n664" type="translation" target="quarantana/cap5.xml#c5_14546" targetEnd="quarantana/cap5.xml#c5_14552">
+                          вертя глазами и кусая губы,</note>
+        <note xml:id="Russian_1854_cap5-n665" type="translation" target="quarantana/cap5.xml#c5_14553" targetEnd="quarantana/cap5.xml#c5_14557">
+                          ясно давалъ почувствовать, что на словахъ онъ этого сдѣлать не могъ.</note>
+        <note xml:id="Russian_1854_cap5-n667" type="translation" target="quarantana/cap5.xml#c5_14558" targetEnd="quarantana/cap5.xml#c5_14566">
+                          «Что скажете вы, докторъ?» спросилъ Родриго.</note>
+        <note xml:id="Russian_1854_cap5-n668" type="translation" target="quarantana/cap5.xml#c5_14567" targetEnd="quarantana/cap5.xml#c5_14579">
+                          Вынувъ изъ стакана носъ, который цвѣтомъ и блескомъ превосходилъ налитую въ стаканѣ влагу,</note>
+        <note xml:id="Russian_1854_cap5-n669" type="translation" target="quarantana/cap5.xml#c5_14580" targetEnd="quarantana/cap5.xml#c5_14582">
+                          докторъ отвѣчалъ,</note>
+        <note xml:id="Russian_1854_cap5-n670" type="translation" target="quarantana/cap5.xml#c5_14583" targetEnd="quarantana/cap5.xml#c5_14587">
+                          дѣлая удареніе на каждомъ слогѣ:</note>
+        <note xml:id="Russian_1854_cap5-n671" type="translation" target="quarantana/cap5.xml#c5_14588" targetEnd="quarantana/cap5.xml#c5_14589">
+                          «Я говорю, объявляю,</note>
+        <note xml:id="Russian_1854_cap5-n672" type="translation" target="quarantana/cap5.xml#c5_14590" targetEnd="quarantana/cap5.xml#c5_14597">
+                          и подтверждаю, что это вино Оливарецъ между винами.</note>
+        <note xml:id="Russian_1854_cap5-n673" type="translation" target="quarantana/cap5.xml#c5_14598" targetEnd="quarantana/cap5.xml#c5_14603">
+                          Gensui et in eam ivi sententiam,</note>
+        <note xml:id="Russian_1854_cap5-n674" type="translation" target="quarantana/cap5.xml#c5_14604" targetEnd="quarantana/cap5.xml#c5_14619">
+                          что подобнаго вина не сыщешь на всемъ протяженiи двадцати двухъ королевствъ нашего короля государя,</note>
+        <note xml:id="Russian_1854_cap5-n675" type="translation" target="quarantana/cap5.xml#c5_14620" targetEnd="quarantana/cap5.xml#c5_14622">
+                          да хранитъ его Господь.</note>
+        <note xml:id="Russian_1854_cap5-n676" type="translation" target="quarantana/cap5.xml#c5_14623" targetEnd="quarantana/cap5.xml#c5_14637">
+                          Я говорю и объявляю, что пиръ достопочтеннаго синьора дона Родриго, превосходнѣ всѣхъ пировъ Гелiогабала,</note>
+        <note xml:id="Russian_1854_cap5-n677" type="translation" target="quarantana/cap5.xml#c5_14638" targetEnd="quarantana/cap5.xml#c5_14650">
+                          и что голодъ навсегда изгнанъ изъ этого дворца,</note>
+        <note xml:id="Russian_1854_cap5-n678" type="translation" target="quarantana/cap5.xml#c5_14651" targetEnd="quarantana/cap5.xml#c5_14656">
+                          гдѣ вѣчно царствуютъ роскошь и изобиліе.</note>
+        <note xml:id="Russian_1854_cap5-n679" type="translation" target="quarantana/cap5.xml#c5_14657" targetEnd="quarantana/cap5.xml#c5_14665">
+                          «Хорошо сказано! Хорошо!» хоромъ вскричали всѣ гости.</note>
+        <note xml:id="Russian_1854_cap5-n680" type="translation" target="quarantana/cap5.xml#c5_14666" targetEnd="quarantana/cap5.xml#c5_14669">
+                          Но слово голодъ,</note>
+        <note xml:id="Russian_1854_cap5-n681" type="translation" target="quarantana/cap5.xml#c5_14670" targetEnd="quarantana/cap5.xml#c5_14674">
+                          случайно имъ произнесенное,</note>
+        <note xml:id="Russian_1854_cap5-n682" type="translation" target="quarantana/cap5.xml#c5_14675" targetEnd="quarantana/cap5.xml#c5_14685">
+                          тотчась обратило мысли всѣхъ на сей печальный предметъ,</note>
+        <note xml:id="Russian_1854_cap5-n683" type="translation" target="quarantana/cap5.xml#c5_14686" targetEnd="quarantana/cap5.xml#c5_14690">
+                          и всѣ стали говорить о голодѣ.</note>
+        <note xml:id="Russian_1854_cap5-n684" type="translation" target="quarantana/cap5.xml#c5_14691" targetEnd="quarantana/cap5.xml#c5_14693">
+                          Всѣ были согласны,</note>
+        <note xml:id="Russian_1854_cap5-n685" type="translation" target="quarantana/cap5.xml#c5_14694" targetEnd="quarantana/cap5.xml#c5_14696">
+                          по крайней мѣрѣ въ отношеніи къ главному пункту;</note>
+        <note xml:id="Russian_1854_cap5-n686" type="translation" target="quarantana/cap5.xml#c5_14697" targetEnd="quarantana/cap5.xml#c5_14709">
+                          но разговоръ ихъ былъ, можетъ статься, еще шумнѣе, чѣмъ еслибъ они были разныхъ мнѣній;</note>
+        <note xml:id="Russian_1854_cap5-n687" type="translation" target="quarantana/cap5.xml#c5_14710" targetEnd="quarantana/cap5.xml#c5_14714">
+                          всѣ кричали разомъ.</note>
+        <note xml:id="Russian_1854_cap5-n688" type="translation" target="quarantana/cap5.xml#c5_14715" targetEnd="quarantana/cap5.xml#c5_14717">
+                          «Нѣтъ голода,»</note>
+        <note xml:id="Russian_1854_cap5-n689" type="translation" target="quarantana/cap5.xml#c5_14718" targetEnd="quarantana/cap5.xml#c5_14723">
+                          говорилъ одинъ; «только закупатели всему виною...»</note>
+        <note xml:id="Russian_1854_cap5-n690" type="translation" target="quarantana/cap5.xml#c5_14724" targetEnd="quarantana/cap5.xml#c5_14729">
+                          «А хлѣбники?» отвѣчалъ другой.</note>
+        <note xml:id="Russian_1854_cap5-n691" type="translation" target="quarantana/cap5.xml#c5_14730" targetEnd="quarantana/cap5.xml#c5_14733">
+                          «Они хлѣбъ прячутъ;</note>
+        <note xml:id="Russian_1854_cap5-n692" type="translation" target="quarantana/cap5.xml#c5_14734" targetEnd="quarantana/cap5.xml#c5_14734">
+                          надобно ихъ повѣсить.»</note>
+        <note xml:id="Russian_1854_cap5-n693" type="translation" target="quarantana/cap5.xml#c5_14735" targetEnd="quarantana/cap5.xml#c5_14736">
+                          «Да,</note>
+        <note xml:id="Russian_1854_cap5-n694" type="translation" target="quarantana/cap5.xml#c5_14737" targetEnd="quarantana/cap5.xml#c5_14739">
+                          повѣсить ихъ безъ пощады.»</note>
+        <note xml:id="Russian_1854_cap5-n695" type="translation" target="quarantana/cap5.xml#c5_14740" targetEnd="quarantana/cap5.xml#c5_14745">
+                          «Завести съ ними хороший процессъ!» кричалъ подеста.</note>
+        <note xml:id="Russian_1854_cap5-n696" type="translation" target="quarantana/cap5.xml#c5_14746" targetEnd="quarantana/cap5.xml#c5_14755">
+                          «Какой процессъ?» еще громче вскричал графъ Аттилiо. «Нужны решительныя мѣры.</note>
+        <note xml:id="Russian_1854_cap5-n697" type="translation" target="quarantana/cap5.xml#c5_14756" targetEnd="quarantana/cap5.xml#c5_14763">
+                          Выбрать пять или шесть изъ такихъ,</note>
+        <note xml:id="Russian_1854_cap5-n698" type="translation" target="quarantana/cap5.xml#c5_14764" targetEnd="quarantana/cap5.xml#c5_14780">
+                          которыхъ общее мнѣніе считаетъ самыми богатыми и жестокосердыми,</note>
+        <note xml:id="Russian_1854_cap5-n699" type="translation" target="quarantana/cap5.xml#c5_14781" targetEnd="quarantana/cap5.xml#c5_14782">
+                          и повѣсить ихъ.»</note>
+        <note xml:id="Russian_1854_cap5-n700" type="translation" target="quarantana/cap5.xml#c5_14783" targetEnd="quarantana/cap5.xml#c5_14790">
+                          «Нуженъ примѣръ! Примѣръ! Безъ примѣра нельзя ожидать успѣха.»</note>
+        <note xml:id="Russian_1854_cap5-n701" type="translation" target="quarantana/cap5.xml#c5_14791" targetEnd="quarantana/cap5.xml#c5_14799">
+                          «Повѣсить ихъ, повѣсить, и тогда хлѣба будетъ вдоволь.».</note>
+        <note xml:id="Russian_1854_cap5-n702" type="translation" target="quarantana/cap5.xml#c5_14800" targetEnd="quarantana/cap5.xml#c5_14815">
+                          Кому случалось на какой-нибудь ярмаркѣ наслаждаться гармонiей оркестра въ то время,</note>
+        <note xml:id="Russian_1854_cap5-n703" type="translation" target="quarantana/cap5.xml#c5_14816" targetEnd="quarantana/cap5.xml#c5_14831">
+                          когда въ антрактъ между двумя пiэсами каждый музыкантъ настраиваетъ свой инструментъ, и изо всѣхъ силъ играетъ на немъ,</note>
+        <note xml:id="Russian_1854_cap5-n704" type="translation" target="quarantana/cap5.xml#c5_14832" targetEnd="quarantana/cap5.xml#c5_14841">
+                          чтобы ясно разслышать его среди шума и грома всѣхъ прочихъ,</note>
+        <note xml:id="Russian_1854_cap5-n705" type="translation" target="quarantana/cap5.xml#c5_14842" targetEnd="quarantana/cap5.xml#c5_14854">
+                          тотъ могъ составить себѣ довольно вѣрное понятіе объ этой шумной бесѣдѣ пирующихъ.</note>
+        <note xml:id="Russian_1854_cap5-n706" type="translation" target="quarantana/cap5.xml#c5_14855" targetEnd="quarantana/cap5.xml#c5_14870">
+                          Между тѣмъ не переставали однакожь доливать стаканы, въ минуту осушаемые; и похвалы вину,</note>
+        <note xml:id="Russian_1854_cap5-n707" type="translation" target="quarantana/cap5.xml#c5_14871" targetEnd="quarantana/cap5.xml#c5_14872">
+                          какъ обыкновенно водится,</note>
+        <note xml:id="Russian_1854_cap5-n708" type="translation" target="quarantana/cap5.xml#c5_14873" targetEnd="quarantana/cap5.xml#c5_14878">
+                          перемѣшиваемыя правилами экономической юриспруденціи,</note>
+        <note xml:id="Russian_1854_cap5-n709" type="translation" target="quarantana/cap5.xml#c5_14879" targetEnd="quarantana/cap5.xml#c5_14890">
+                          составляли какой-то хаосъ; гдѣ яснѣе всего раздавались слова:</note>
+        <note xml:id="Russian_1854_cap5-n710" type="translation" target="quarantana/cap5.xml#c5_14891" targetEnd="quarantana/cap5.xml#c5_14893">
+                          «это нектаръ», и «надобно ихъ повѣсить!»</note>
+        <note xml:id="Russian_1854_cap5-n711" type="translation" target="quarantana/cap5.xml#c5_14894" targetEnd="quarantana/cap5.xml#c5_14903">
+                          Донъ Родриго изрѣдка между тѣмъ бросалъ взглядъ на монаха</note>
+        <note xml:id="Russian_1854_cap5-n712" type="translation" target="quarantana/cap5.xml#c5_14904" targetEnd="quarantana/cap5.xml#c5_14909">
+                          и всегда находилъ его спокойнымъ;</note>
+        <note xml:id="Russian_1854_cap5-n713" type="translation" target="quarantana/cap5.xml#c5_14910" targetEnd="quarantana/cap5.xml#c5_14916">
+                          на лицѣ его не выражалось никакого знака нетерпѣнія или поспѣшности;</note>
+        <note xml:id="Russian_1854_cap5-n714" type="translation" target="quarantana/cap5.xml#c5_14917" targetEnd="quarantana/cap5.xml#c5_14927">
+                          онъ не давалъ чувствовать, что давно дожидается; но сидѣлъ съ твердымъ намѣреніемъ человѣка,</note>
+        <note xml:id="Russian_1854_cap5-n715" type="translation" target="quarantana/cap5.xml#c5_14928" targetEnd="quarantana/cap5.xml#c5_14938">
+                          рѣшившагося не уходить до тѣхъ поръ, пока не объяснитъ предмета своего посѣщенія.</note>
+        <note xml:id="Russian_1854_cap5-n716" type="translation" target="quarantana/cap5.xml#c5_14939" targetEnd="quarantana/cap5.xml#c5_14945">
+                          Дону Родриго хотѣлось бы отослать его,</note>
+        <note xml:id="Russian_1854_cap5-n717" type="translation" target="quarantana/cap5.xml#c5_14946" targetEnd="quarantana/cap5.xml#c5_14950">
+                          не выслушавъ;</note>
+        <note xml:id="Russian_1854_cap5-n718" type="translation" target="quarantana/cap5.xml#c5_14951" targetEnd="quarantana/cap5.xml#c5_14958">
+                          но поступать такимъ образомъ съ капуциномъ,</note>
+        <note xml:id="Russian_1854_cap5-n719" type="translation" target="quarantana/cap5.xml#c5_14959" targetEnd="quarantana/cap5.xml#c5_14966">
+                          было не согласно съ его обыкновенной политикой.</note>
+        <note xml:id="Russian_1854_cap5-n720" type="translation" target="quarantana/cap5.xml#c5_14967" targetEnd="quarantana/cap5.xml#c5_14973">
+                          Увѣрясь наконецъ, что никакими средствами не можетъ отдѣлаться отъ него,</note>
+        <note xml:id="Russian_1854_cap5-n721" type="translation" target="quarantana/cap5.xml#c5_14974" targetEnd="quarantana/cap5.xml#c5_14977">
+                          онъ рѣшился немедленно перенести пытку,</note>
+        <note xml:id="Russian_1854_cap5-n722" type="translation" target="quarantana/cap5.xml#c5_14978" targetEnd="quarantana/cap5.xml#c5_14980">
+                          чтобы скорѣе потомъ освободиться.</note>
+        <note xml:id="Russian_1854_cap5-n723" type="translation" target="quarantana/cap5.xml#c5_14981" targetEnd="quarantana/cap5.xml#c5_14984">
+                          Онъ всталъ изъ-за стола,</note>
+        <note xml:id="Russian_1854_cap5-n724" type="translation" target="quarantana/cap5.xml#c5_14985" targetEnd="quarantana/cap5.xml#c5_14990">
+                          а за нимъ и всѣ гости,</note>
+        <note xml:id="Russian_1854_cap5-n725" type="translation" target="quarantana/cap5.xml#c5_14991" targetEnd="quarantana/cap5.xml#c5_14994">
+                          неперестававшіе кричать.</note>
+        <note xml:id="Russian_1854_cap5-n726" type="translation" target="quarantana/cap5.xml#c5_14995" targetEnd="quarantana/cap5.xml#c5_14999">
+                          Испросивъ позволеніе, оставить ихъ на время,</note>
+        <note xml:id="Russian_1854_cap5-n727" type="translation" target="quarantana/cap5.xml#c5_15000" targetEnd="quarantana/cap5.xml#c5_15014">
+                          донъ Родриго съ важнымъ видомъ подошелъ къ монаху, который всталъ вмѣстѣ съ прочими,</note>
+        <note xml:id="Russian_1854_cap5-n728" type="translation" target="quarantana/cap5.xml#c5_15015" targetEnd="quarantana/cap5.xml#c5_15020">
+                          и сказавъ ему:» Батюшка! я готовъ васъ выслушать,»</note>
+        <note xml:id="Russian_1854_cap5-n729" type="translation" target="quarantana/cap5.xml#c5_15021" targetEnd="quarantana/cap5.xml#c5_15027">
+                          онъ повелъ отца Христофора въ другую залу.</note>
+      </div>
+    </body>
+  </text>
+</TEI>

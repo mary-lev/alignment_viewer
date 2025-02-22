@@ -1,0 +1,1365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Commenti da Обрученные : Медиолан. быль XVIII [!XVII] столетия, найден. и передел. Александром Манзони</title>
+        <author>Alessandro Manzoni</author>
+        <respStmt>
+          <resp>Annotazione digitale</resp>
+          <persName xml:id="Maria_Levchenko">Maria Levchenko</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Leggo Manzoni. Quaranta commenti alla Quarantana</publisher>
+        <pubPlace>Università di Bologna "Alma mater studiorum"</pubPlace>
+        <date>2025</date>
+        <availability>
+          <p>Questa risorsa digitale è liberamente accessibile per uso personale o scientifico. Ogni uso commerciale è vietato.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Alessandro Manzoni</author>
+          <title>Обрученные : Медиолан. быль XVIII [!XVII] столетия, найден. и передел. Александром Манзони</title>
+          <pubPlace>Москва</pubPlace>
+          <publisher>Библиотека романов, повестей, путешествий и записок, изд. Н.Н. Улитиным</publisher>
+          <date>1854</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <listChange>
+        <change who="Maria_Levchenko" when="2025-02-22">Annotazione digitale</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="Russian_1854.xml_cap15">
+        <note xml:id="Russian_1854_cap15-n1" type="translation" target="quarantana/cap15.xml#c15_10001" targetEnd="quarantana/cap15.xml#c15_10001">
+                          Хозяинъ,</note>
+        <note xml:id="Russian_1854_cap15-n2" type="translation" target="quarantana/cap15.xml#c15_10002" targetEnd="quarantana/cap15.xml#c15_10012">
+                          видя, что шутки начали переходить границы,</note>
+        <note xml:id="Russian_1854_cap15-n3" type="translation" target="quarantana/cap15.xml#c15_10013" targetEnd="quarantana/cap15.xml#c15_10016">
+                          подошелъ къ Ренцо и,</note>
+        <note xml:id="Russian_1854_cap15-n4" type="translation" target="quarantana/cap15.xml#c15_10017" targetEnd="quarantana/cap15.xml#c15_10028">
+                          попросивъ собесѣдниковъ перестать,</note>
+        <note xml:id="Russian_1854_cap15-n5" type="translation" target="quarantana/cap15.xml#c15_10029" targetEnd="quarantana/cap15.xml#c15_10046">
+                          взялъ его за руку и хотѣлъ уложить спать,</note>
+        <note xml:id="Russian_1854_cap15-n6" type="translation" target="quarantana/cap15.xml#c15_10047" targetEnd="quarantana/cap15.xml#c15_10057">
+                          но онъ безпрестанно толковалъ объ имени,</note>
+        <note xml:id="Russian_1854_cap15-n7" type="translation" target="quarantana/cap15.xml#c15_10058" targetEnd="quarantana/cap15.xml#c15_10064">
+                          повелѣніяхъ и честныхъ людяхъ.</note>
+        <note xml:id="Russian_1854_cap15-n8" type="translation" target="quarantana/cap15.xml#c15_10065" targetEnd="quarantana/cap15.xml#c15_10081">
+                          Однако-же мягкая постель и спокойствіе сильно его плѣнили,</note>
+        <note xml:id="Russian_1854_cap15-n9" type="omission" target="quarantana/cap15.xml#c15_10082" targetEnd="quarantana/cap15.xml#c15_10094"/>
+        <note xml:id="Russian_1854_cap15-n10" type="translation" target="quarantana/cap15.xml#c15_10095" targetEnd="quarantana/cap15.xml#c15_10101">
+                          и на нѣкоторое время онъ прекратилъ свои разсказы.</note>
+        <note xml:id="Russian_1854_cap15-n11" type="translation" target="quarantana/cap15.xml#c15_10102" targetEnd="quarantana/cap15.xml#c15_10114">
+                          Пришедъ немного въ себя, онъ замѣтилъ,</note>
+        <note xml:id="Russian_1854_cap15-n12" type="translation" target="quarantana/cap15.xml#c15_10115" targetEnd="quarantana/cap15.xml#c15_10136">
+                          что большая часть собесѣдниковъ удалилась.</note>
+        <note xml:id="Russian_1854_cap15-n13" type="omission" target="quarantana/cap15.xml#c15_10137" targetEnd="quarantana/cap15.xml#c15_10139"/>
+        <note xml:id="Russian_1854_cap15-n14" type="translation" target="quarantana/cap15.xml#c15_10140" targetEnd="quarantana/cap15.xml#c15_10145">
+                          Онъ протянулъ руки къ столу,</note>
+        <note xml:id="Russian_1854_cap15-n15" type="translation" target="quarantana/cap15.xml#c15_10146" targetEnd="quarantana/cap15.xml#c15_10154">
+                          два раза пытался приподняться, вздохнулъ и пошатнулся,</note>
+        <note xml:id="Russian_1854_cap15-n16" type="translation" target="quarantana/cap15.xml#c15_10155" targetEnd="quarantana/cap15.xml#c15_10156">
+                          наконецъ въ третій разъ,</note>
+        <note xml:id="Russian_1854_cap15-n17" type="translation" target="quarantana/cap15.xml#c15_10157" targetEnd="quarantana/cap15.xml#c15_10158">
+                          съ помощію хозяина,</note>
+        <note xml:id="Russian_1854_cap15-n18" type="translation" target="quarantana/cap15.xml#c15_10159" targetEnd="quarantana/cap15.xml#c15_10161">
+                          всталъ на ноги.</note>
+        <note xml:id="Russian_1854_cap15-n19" type="translation" target="quarantana/cap15.xml#c15_10162" targetEnd="quarantana/cap15.xml#c15_10162">
+                          Сей послѣдній,</note>
+        <note xml:id="Russian_1854_cap15-n20" type="omission" target="quarantana/cap15.xml#c15_10163" targetEnd="quarantana/cap15.xml#c15_10173"/>
+        <note xml:id="Russian_1854_cap15-n21" type="translation" target="quarantana/cap15.xml#c15_10174" targetEnd="quarantana/cap15.xml#c15_10180">
+                          взявъ въ одну руку фонаръ,</note>
+        <note xml:id="Russian_1854_cap15-n22" type="translation" target="quarantana/cap15.xml#c15_10181" targetEnd="quarantana/cap15.xml#c15_10194">
+                          поддерживалъ его другою и такимъ образомъ повелъ на лѣстницу.</note>
+        <note xml:id="Russian_1854_cap15-n23" type="translation" target="quarantana/cap15.xml#c15_10195" targetEnd="quarantana/cap15.xml#c15_10196">
+                          Ренцо,</note>
+        <note xml:id="Russian_1854_cap15-n24" type="translation" target="quarantana/cap15.xml#c15_10197" targetEnd="quarantana/cap15.xml#c15_10211">
+                          оглушенный привѣтствіемъ собесѣдниковъ, поспѣшно обратился къ нимъ,</note>
+        <note xml:id="Russian_1854_cap15-n27" type="translation" target="quarantana/cap15.xml#c15_10212" targetEnd="quarantana/cap15.xml#c15_10255">
+                          дѣлая различные знаки свободною рукою, и если бы не твердая рука хозяина, то упалъ бы подъ столь.</note>
+        <note xml:id="Russian_1854_cap15-n28" type="translation" target="quarantana/cap15.xml#c15_10256" targetEnd="quarantana/cap15.xml#c15_10263">
+                          «Пора спать!» говорилъ хозяинъ,</note>
+        <note xml:id="Russian_1854_cap15-n29" type="translation" target="quarantana/cap15.xml#c15_10264" targetEnd="quarantana/cap15.xml#c15_10267">
+                          таща его.</note>
+        <note xml:id="Russian_1854_cap15-n30" type="translation" target="quarantana/cap15.xml#c15_10268" targetEnd="quarantana/cap15.xml#c15_10287">
+                          Онъ заставилъ его войти въ дверь и еще съ большимъ трудомъ провелъ по узкой деревянной лѣстницѣ въ назначенную ему комнату.</note>
+        <note xml:id="Russian_1854_cap15-n31" type="translation" target="quarantana/cap15.xml#c15_10288" targetEnd="quarantana/cap15.xml#c15_10294">
+                          Увидѣвъ постель, Ренцо</note>
+        <note xml:id="Russian_1854_cap15-n32" type="translation" target="quarantana/cap15.xml#c15_10295" targetEnd="quarantana/cap15.xml#c15_10308">
+                          очень обрадовался и томно посмотрѣлъ на хозяина; глаза его то блистали,</note>
+        <note xml:id="Russian_1854_cap15-n33" type="translation" target="quarantana/cap15.xml#c15_10309" targetEnd="quarantana/cap15.xml#c15_10311">
+                          то смыкались,</note>
+        <note xml:id="Russian_1854_cap15-n34" type="translation" target="quarantana/cap15.xml#c15_10312" targetEnd="quarantana/cap15.xml#c15_10314">
+                          какъ двѣ потухающія свѣчи.</note>
+        <note xml:id="Russian_1854_cap15-n36" type="translation" target="quarantana/cap15.xml#c15_10315" targetEnd="quarantana/cap15.xml#c15_10334">
+                          Онъ протянулъ руку, чтобы потрепать его по щекѣ,</note>
+        <note xml:id="Russian_1854_cap15-n37" type="omission" target="quarantana/cap15.xml#c15_10335" targetEnd="quarantana/cap15.xml#c15_10341"/>
+        <note xml:id="Russian_1854_cap15-n38" type="translation" target="quarantana/cap15.xml#c15_10342" targetEnd="quarantana/cap15.xml#c15_10345">
+                          но никакъ не могъ этого сдѣлать.</note>
+        <note xml:id="Russian_1854_cap15-n40" type="translation" target="quarantana/cap15.xml#c15_10346" targetEnd="quarantana/cap15.xml#c15_10362">
+                          Наконецъ онъ собрался съ силами сказать. Это, братъ, хорошо; теперь я вижу, что ты лихой малый;</note>
+        <note xml:id="Russian_1854_cap15-n41" type="translation" target="quarantana/cap15.xml#c15_10363" targetEnd="quarantana/cap15.xml#c15_10381">
+                          но къ чему было тебѣ спрашивать мое имя, отечество и, чортъ знаетъ, что еще.</note>
+        <note xml:id="Russian_1854_cap15-n42" type="translation" target="quarantana/cap15.xml#c15_10382" targetEnd="quarantana/cap15.xml#c15_10391">
+                          Да вѣдь я не дурно отъ тебя отдѣлался, не правда ли?...»</note>
+        <note xml:id="Russian_1854_cap15-n43" type="translation" target="quarantana/cap15.xml#c15_10392" targetEnd="quarantana/cap15.xml#c15_10404">
+                          Хозяинъ никакъ не думалъ, чтобъ онъ могъ говорить такимъ образомъ и,</note>
+        <note xml:id="Russian_1854_cap15-n44" type="translation" target="quarantana/cap15.xml#c15_10405" targetEnd="quarantana/cap15.xml#c15_10426">
+                          зная по опыту, что люди въ подобномъ состояніи часто мѣняютъ образъ мыслей,</note>
+        <note xml:id="Russian_1854_cap15-n45" type="translation" target="quarantana/cap15.xml#c15_10427" targetEnd="quarantana/cap15.xml#c15_10432">
+                          хотѣлъ воспользоваться симъ случаемъ,</note>
+        <note xml:id="Russian_1854_cap15-n46" type="translation" target="quarantana/cap15.xml#c15_10433" targetEnd="quarantana/cap15.xml#c15_10437">
+                          чтобъ сдѣлать новую попытку;</note>
+        <note xml:id="Russian_1854_cap15-n47" type="translation" target="quarantana/cap15.xml#c15_10438" targetEnd="quarantana/cap15.xml#c15_10439">
+                          «Любезный другъ,»</note>
+        <note xml:id="Russian_1854_cap15-n48" type="translation" target="quarantana/cap15.xml#c15_10440" targetEnd="quarantana/cap15.xml#c15_10449">
+                          сказалъ онъ ему ласково,» я у васъ спросилъ объ этомъ отнюдь не съ тѣмъ,</note>
+        <note xml:id="Russian_1854_cap15-n49" type="translation" target="quarantana/cap15.xml#c15_10450" targetEnd="quarantana/cap15.xml#c15_10461">
+                          чтобы вывѣдать о вашихъ дѣлахъ.</note>
+        <note xml:id="Russian_1854_cap15-n50" type="translation" target="quarantana/cap15.xml#c15_10462" targetEnd="quarantana/cap15.xml#c15_10463">
+                          Что дѣлать?</note>
+        <note xml:id="Russian_1854_cap15-n51" type="translation" target="quarantana/cap15.xml#c15_10464" targetEnd="quarantana/cap15.xml#c15_10466">
+                          Таковъ законъ,</note>
+        <note xml:id="Russian_1854_cap15-n52" type="translation" target="quarantana/cap15.xml#c15_10467" targetEnd="quarantana/cap15.xml#c15_10470">
+                          и мы должны ему повиноваться,</note>
+        <note xml:id="Russian_1854_cap15-n53" type="translation" target="quarantana/cap15.xml#c15_10471" targetEnd="quarantana/cap15.xml#c15_10478">
+                          не то съ насъ первыхъ взыщутъ.</note>
+        <note xml:id="Russian_1854_cap15-n54" type="translation" target="quarantana/cap15.xml#c15_10479" targetEnd="quarantana/cap15.xml#c15_10481">
+                          Такъ лучше покориться необходимости.</note>
+        <note xml:id="Russian_1854_cap15-n55" type="translation" target="quarantana/cap15.xml#c15_10482" targetEnd="quarantana/cap15.xml#c15_10487">
+                          И въ самомъ дѣлѣ, чего отъ насъ требуютъ?</note>
+        <note xml:id="Russian_1854_cap15-n56" type="translation" target="quarantana/cap15.xml#c15_10488" targetEnd="quarantana/cap15.xml#c15_10492">
+                          Важное дѣло сказать два слова!</note>
+        <note xml:id="Russian_1854_cap15-n57" type="translation" target="quarantana/cap15.xml#c15_10493" targetEnd="quarantana/cap15.xml#c15_10503">
+                          Я увѣренъ,</note>
+        <note xml:id="Russian_1854_cap15-n59" type="translation" target="quarantana/cap15.xml#c15_10504" targetEnd="quarantana/cap15.xml#c15_10509">
+                          что, изъ снисхожденія ко мнѣ,</note>
+        <note xml:id="Russian_1854_cap15-n60" type="translation" target="quarantana/cap15.xml#c15_10510" targetEnd="quarantana/cap15.xml#c15_10513">
+                          вы не откажетесь удовлетворить меня,</note>
+        <note xml:id="Russian_1854_cap15-n61" type="translation" target="quarantana/cap15.xml#c15_10514" targetEnd="quarantana/cap15.xml#c15_10526">
+                          скажите ваше имя, и потомъ покойно можете лечь спать.</note>
+        <note xml:id="Russian_1854_cap15-n62" type="translation" target="quarantana/cap15.xml#c15_10527" targetEnd="quarantana/cap15.xml#c15_10537">
+                          — «Ахъ, бездѣльникъ! ахъ, негодяй! вскричалъ Ренцо,» ты опять затѣялъ</note>
+        <note xml:id="Russian_1854_cap15-n63" type="translation" target="quarantana/cap15.xml#c15_10538" targetEnd="quarantana/cap15.xml#c15_10545">
+                          распросы объ имени, отечествѣ и дѣлахъ!»</note>
+        <note xml:id="Russian_1854_cap15-n64" type="translation" target="quarantana/cap15.xml#c15_10546" targetEnd="quarantana/cap15.xml#c15_10550">
+                          — «Перестаньте шумѣть и ложитесь спать,»</note>
+        <note xml:id="Russian_1854_cap15-n65" type="translation" target="quarantana/cap15.xml#c15_10551" targetEnd="quarantana/cap15.xml#c15_10552">
+                          сказалъ хозяинъ.</note>
+        <note xml:id="Russian_1854_cap15-n66" type="translation" target="quarantana/cap15.xml#c15_10553" targetEnd="quarantana/cap15.xml#c15_10557">
+                          Но тотъ продолжалъ еще громче:</note>
+        <note xml:id="Russian_1854_cap15-n67" type="translation" target="quarantana/cap15.xml#c15_10558" targetEnd="quarantana/cap15.xml#c15_10565">
+                          «Я тебя понимаю; ты также изъ ихъ шайки.</note>
+        <note xml:id="Russian_1854_cap15-n68" type="translation" target="quarantana/cap15.xml#c15_10566" targetEnd="quarantana/cap15.xml#c15_10570">
+                          Постой-ка я тебя отдѣлаю.»</note>
+        <note xml:id="Russian_1854_cap15-n69" type="translation" target="quarantana/cap15.xml#c15_10571" targetEnd="quarantana/cap15.xml#c15_10579">
+                          И оборотившись къ двери на лѣстницу,</note>
+        <note xml:id="Russian_1854_cap15-n70" type="translation" target="quarantana/cap15.xml#c15_10580" targetEnd="quarantana/cap15.xml#c15_10585">
+                          онъ громко закричалъ:</note>
+        <note xml:id="Russian_1854_cap15-n71" type="translation" target="quarantana/cap15.xml#c15_10586" targetEnd="quarantana/cap15.xml#c15_10589">
+                          «Друзья! хозяинъ также изъ этой проклятой...»</note>
+        <note xml:id="Russian_1854_cap15-n72" type="translation" target="quarantana/cap15.xml#c15_10590" targetEnd="quarantana/cap15.xml#c15_10593">
+                          — «Я съ вами пошутилъ,»</note>
+        <note xml:id="Russian_1854_cap15-n73" type="translation" target="quarantana/cap15.xml#c15_10594" targetEnd="quarantana/cap15.xml#c15_10599">
+                          сказалъ сей послѣдній,</note>
+        <note xml:id="Russian_1854_cap15-n74" type="translation" target="quarantana/cap15.xml#c15_10600" targetEnd="quarantana/cap15.xml#c15_10605">
+                          толкнувъ его на постель.</note>
+        <note xml:id="Russian_1854_cap15-n75" type="translation" target="quarantana/cap15.xml#c15_10606" targetEnd="quarantana/cap15.xml#c15_10615">
+                          Развѣ вы этого не замѣтили?</note>
+        <note xml:id="Russian_1854_cap15-n76" type="translation" target="quarantana/cap15.xml#c15_10616" targetEnd="quarantana/cap15.xml#c15_10622">
+                          — «А! ты пошутилъ;</note>
+        <note xml:id="Russian_1854_cap15-n77" type="translation" target="quarantana/cap15.xml#c15_10623" targetEnd="quarantana/cap15.xml#c15_10627">
+                          такъ этого другое дѣло...</note>
+        <note xml:id="Russian_1854_cap15-n78" type="translation" target="quarantana/cap15.xml#c15_10628" targetEnd="quarantana/cap15.xml#c15_10633">
+                          «Признаюсь тебѣ, братъ, это очень смѣшно»,...</note>
+        <note xml:id="Russian_1854_cap15-n79" type="translation" target="quarantana/cap15.xml#c15_10634" targetEnd="quarantana/cap15.xml#c15_10637">
+                          И онъ упалъ на постель.</note>
+        <note xml:id="Russian_1854_cap15-n81" type="translation" target="quarantana/cap15.xml#c15_10638" targetEnd="quarantana/cap15.xml#c15_10641">
+                          — «Вотъ и хорошо. Теперь раздѣвайтесь скорѣе,»</note>
+        <note xml:id="Russian_1854_cap15-n82" type="translation" target="quarantana/cap15.xml#c15_10642" targetEnd="quarantana/cap15.xml#c15_10648">
+                          сказалъ хозяинъ и къ совѣту прибавилъ помощь,</note>
+        <note xml:id="Russian_1854_cap15-n83" type="translation" target="quarantana/cap15.xml#c15_10649" targetEnd="quarantana/cap15.xml#c15_10652">
+                          потому что бѣднякъ имѣлъ въ ней нужду.</note>
+        <note xml:id="Russian_1854_cap15-n84" type="translation" target="quarantana/cap15.xml#c15_10653" targetEnd="quarantana/cap15.xml#c15_10662">
+                          Когда Ренцо снялъ куртку,</note>
+        <note xml:id="Russian_1854_cap15-n85" type="translation" target="quarantana/cap15.xml#c15_10663" targetEnd="quarantana/cap15.xml#c15_10670">
+                          хозяинъ всунулъ руку въ карманы,</note>
+        <note xml:id="Russian_1854_cap15-n86" type="translation" target="quarantana/cap15.xml#c15_10671" targetEnd="quarantana/cap15.xml#c15_10676">
+                          чтобы увѣриться, есть ли деньги.</note>
+        <note xml:id="Russian_1854_cap15-n87" type="translation" target="quarantana/cap15.xml#c15_10677" targetEnd="quarantana/cap15.xml#c15_10679">
+                          Онъ ихъ нашелъ и,</note>
+        <note xml:id="Russian_1854_cap15-n88" type="translation" target="quarantana/cap15.xml#c15_10680" targetEnd="quarantana/cap15.xml#c15_10695">
+                          подумавъ, что на другой день гость его не подумаетъ съ нимъ расплатиться</note>
+        <note xml:id="Russian_1854_cap15-n89" type="translation" target="quarantana/cap15.xml#c15_10696" targetEnd="quarantana/cap15.xml#c15_10711">
+                          и деньги перейдутъ въ другія руки,</note>
+        <note xml:id="Russian_1854_cap15-n91" type="translation" target="quarantana/cap15.xml#c15_10712" targetEnd="quarantana/cap15.xml#c15_10719">
+                          онъ рѣшился сдѣлать новую попытку.</note>
+        <note xml:id="Russian_1854_cap15-n93" type="translation" target="quarantana/cap15.xml#c15_10720" targetEnd="quarantana/cap15.xml#c15_10727">
+                          — «Вѣдь вы добрый малый, не правда ли? спросилъ онъ.</note>
+        <note xml:id="Russian_1854_cap15-n95" type="translation" target="quarantana/cap15.xml#c15_10728" targetEnd="quarantana/cap15.xml#c15_10730">
+                          — «Добрый малый,»</note>
+        <note xml:id="Russian_1854_cap15-n96" type="translation" target="quarantana/cap15.xml#c15_10731" targetEnd="quarantana/cap15.xml#c15_10732">
+                          отвѣчалъ Ренцо,</note>
+        <note xml:id="Russian_1854_cap15-n97" type="translation" target="quarantana/cap15.xml#c15_10733" targetEnd="quarantana/cap15.xml#c15_10749">
+                          водя руками по пуговицамъ нижняго платья.</note>
+        <note xml:id="Russian_1854_cap15-n98" type="translation" target="quarantana/cap15.xml#c15_10750" targetEnd="quarantana/cap15.xml#c15_10758">
+                          — «Такъ заплатите мнѣ теперь,</note>
+        <note xml:id="Russian_1854_cap15-n99" type="translation" target="quarantana/cap15.xml#c15_10759" targetEnd="quarantana/cap15.xml#c15_10767">
+                          потому что завтра мнѣ нужно рано итти по дѣламъ...»</note>
+        <note xml:id="Russian_1854_cap15-n100" type="translation" target="quarantana/cap15.xml#c15_10768" targetEnd="quarantana/cap15.xml#c15_10770">
+                          — «Это справедливо,»</note>
+        <note xml:id="Russian_1854_cap15-n101" type="translation" target="quarantana/cap15.xml#c15_10771" targetEnd="quarantana/cap15.xml#c15_10776">
+                          сказалъ Ренцо: хоть я и лихой, но также честный малый...</note>
+        <note xml:id="Russian_1854_cap15-n102" type="translation" target="quarantana/cap15.xml#c15_10777" targetEnd="quarantana/cap15.xml#c15_10779">
+                          Но деньги мои?</note>
+        <note xml:id="Russian_1854_cap15-n103" type="translation" target="quarantana/cap15.xml#c15_10780" targetEnd="quarantana/cap15.xml#c15_10786">
+                          Гдѣжъ деньги мои?</note>
+        <note xml:id="Russian_1854_cap15-n104" type="translation" target="quarantana/cap15.xml#c15_10787" targetEnd="quarantana/cap15.xml#c15_10788">
+                          — «Они здѣсь,»</note>
+        <note xml:id="Russian_1854_cap15-n105" type="translation" target="quarantana/cap15.xml#c15_10789" targetEnd="quarantana/cap15.xml#c15_10798">
+                          отвѣчалъ хозяинъ и, употребивъ все свое искусство,</note>
+        <note xml:id="Russian_1854_cap15-n106" type="translation" target="quarantana/cap15.xml#c15_10799" targetEnd="quarantana/cap15.xml#c15_10806">
+                          терпѣніе, ловкость,</note>
+        <note xml:id="Russian_1854_cap15-n107" type="translation" target="quarantana/cap15.xml#c15_10807" targetEnd="quarantana/cap15.xml#c15_10818">
+                          достигъ того, что заставилъ его расплатиться съ собою.</note>
+        <note xml:id="Russian_1854_cap15-n109" type="translation" target="quarantana/cap15.xml#c15_10819" targetEnd="quarantana/cap15.xml#c15_10826">
+                          — «Помоги же мнѣ раздѣться, любезный другъ,»</note>
+        <note xml:id="Russian_1854_cap15-n110" type="translation" target="quarantana/cap15.xml#c15_10771" targetEnd="quarantana/cap15.xml#c15_10772">
+                          сказалъ Ренцо;</note>
+        <note xml:id="Russian_1854_cap15-n111" type="translation" target="quarantana/cap15.xml#c15_10829" targetEnd="quarantana/cap15.xml#c15_10837">
+                          « сонъ меня одолѣлъ.»</note>
+        <note xml:id="Russian_1854_cap15-n112" type="translation" target="quarantana/cap15.xml#c15_10838" targetEnd="quarantana/cap15.xml#c15_10842">
+                          Хозяинъ исполнилъ его желаніе.</note>
+        <note xml:id="Russian_1854_cap15-n113" type="translation" target="quarantana/cap15.xml#c15_10843" targetEnd="quarantana/cap15.xml#c15_10849">
+                          Онъ сдѣлалъ еще больше: покрылъ его одѣяломъ и, оправивъ,</note>
+        <note xml:id="Russian_1854_cap15-n114" type="translation" target="quarantana/cap15.xml#c15_10850" targetEnd="quarantana/cap15.xml#c15_10855">
+                          сказалъ ему: «покойной ночи!»</note>
+        <note xml:id="Russian_1854_cap15-n115" type="translation" target="quarantana/cap15.xml#c15_10856" targetEnd="quarantana/cap15.xml#c15_10859">
+                          Но Ренцо уже храпѣлъ.</note>
+        <note xml:id="Russian_1854_cap15-n116" type="translation" target="quarantana/cap15.xml#c15_10860" targetEnd="quarantana/cap15.xml#c15_10860">
+                          Потомъ,</note>
+        <note xml:id="Russian_1854_cap15-n117" type="translation" target="quarantana/cap15.xml#c15_10861" targetEnd="quarantana/cap15.xml#c15_10865">
+                          подъ вліяніемъ того непобѣдимаго чувства,</note>
+        <note xml:id="Russian_1854_cap15-n118" type="translation" target="quarantana/cap15.xml#c15_10866" targetEnd="quarantana/cap15.xml#c15_10883">
+                          которое заставляетъ насъ быть столь же внимательнымъ къ предмету нашей ненависти, какъ и къ предмету любви, и которое,</note>
+        <note xml:id="Russian_1854_cap15-n119" type="translation" target="quarantana/cap15.xml#c15_10884" targetEnd="quarantana/cap15.xml#c15_10900">
+                          можетъ быть, не иное что, какъ желаніе узнать то, что сильно дѣйствуетъ на умъ нашъ,</note>
+        <note xml:id="Russian_1854_cap15-n120" type="translation" target="quarantana/cap15.xml#c15_10901" targetEnd="quarantana/cap15.xml#c15_10911">
+                          онъ остановился на минуту посмотрѣть на скучнаго гостя,</note>
+        <note xml:id="Russian_1854_cap15-n121" type="translation" target="quarantana/cap15.xml#c15_10912" targetEnd="quarantana/cap15.xml#c15_10926">
+                          поднялъ фонаръ и освѣтилъ его лице почти въ томъ же положеніи,</note>
+        <note xml:id="Russian_1854_cap15-n122" type="translation" target="quarantana/cap15.xml#c15_10927" targetEnd="quarantana/cap15.xml#c15_10935">
+                          въ какомъ изображаютъ Психею,</note>
+        <note xml:id="Russian_1854_cap15-n123" type="translation" target="quarantana/cap15.xml#c15_10936" targetEnd="quarantana/cap15.xml#c15_10945">
+                          разсматривающую украдкой своего таинственнаго супруга.</note>
+        <note xml:id="Russian_1854_cap15-n124" type="translation" target="quarantana/cap15.xml#c15_10946" targetEnd="quarantana/cap15.xml#c15_10954">
+                          «Глупецъ!» подумалъ онъ,</note>
+        <note xml:id="Russian_1854_cap15-n125" type="translation" target="quarantana/cap15.xml#c15_10955" targetEnd="quarantana/cap15.xml#c15_10969">
+                          «ты самъ попался въ бѣду! завтра увидишь, какъ дорого заплатилъ за это удовольствіе.</note>
+        <note xml:id="Russian_1854_cap15-n126" type="translation" target="quarantana/cap15.xml#c15_10970" targetEnd="quarantana/cap15.xml#c15_10975">
+                          Олухи! вы еще пускаетесь въ свѣтъ;</note>
+        <note xml:id="Russian_1854_cap15-n127" type="translation" target="quarantana/cap15.xml#c15_10976" targetEnd="quarantana/cap15.xml#c15_10984">
+                          а не знаете, гдѣ солнце восходитъ;</note>
+        <note xml:id="Russian_1854_cap15-n128" type="translation" target="quarantana/cap15.xml#c15_10985" targetEnd="quarantana/cap15.xml#c15_10990">
+                          и только путаете себя и другихъ!»</note>
+        <note xml:id="Russian_1854_cap15-n129" type="translation" target="quarantana/cap15.xml#c15_10991" targetEnd="quarantana/cap15.xml#c15_10994">
+                          Сказавъ или подумавъ это,</note>
+        <note xml:id="Russian_1854_cap15-n130" type="translation" target="quarantana/cap15.xml#c15_10995" targetEnd="quarantana/cap15.xml#c15_10997">
+                          онъ принялъ фонарь,</note>
+        <note xml:id="Russian_1854_cap15-n131" type="translation" target="quarantana/cap15.xml#c15_10998" targetEnd="quarantana/cap15.xml#c15_11010">
+                          вышелъ изъ комнаты и заперъ дверь.</note>
+        <note xml:id="Russian_1854_cap15-n132" type="translation" target="quarantana/cap15.xml#c15_11011" targetEnd="quarantana/cap15.xml#c15_11014">
+                          Пришедъ на площадку крыльца,</note>
+        <note xml:id="Russian_1854_cap15-n133" type="translation" target="quarantana/cap15.xml#c15_11015" targetEnd="quarantana/cap15.xml#c15_11016">
+                          онъ позвалъ жену,</note>
+        <note xml:id="Russian_1854_cap15-n134" type="translation" target="quarantana/cap15.xml#c15_11017" targetEnd="quarantana/cap15.xml#c15_11029">
+                          велѣлъ ей оставить дѣтей съ служанкой,</note>
+        <note xml:id="Russian_1854_cap15-n135" type="translation" target="quarantana/cap15.xml#c15_11030" targetEnd="quarantana/cap15.xml#c15_11039">
+                          а самой сойти въ кухню и смотрѣть вмѣсто его.</note>
+        <note xml:id="Russian_1854_cap15-n136" type="translation" target="quarantana/cap15.xml#c15_11040" targetEnd="quarantana/cap15.xml#c15_11043">
+                          «Мнѣ сей часъ надобно итти со двора,</note>
+        <note xml:id="Russian_1854_cap15-n137" type="translation" target="quarantana/cap15.xml#c15_11044" targetEnd="quarantana/cap15.xml#c15_11052">
+                          благодаря одного постояльца, который прибылъ сюда на бѣду,</note>
+        <note xml:id="Russian_1854_cap15-n138" type="translation" target="quarantana/cap15.xml#c15_11053" targetEnd="quarantana/cap15.xml#c15_11053">
+                          сказалъ онъ.</note>
+        <note xml:id="Russian_1854_cap15-n139" type="translation" target="quarantana/cap15.xml#c15_11054" targetEnd="quarantana/cap15.xml#c15_11061">
+                          Потомъ онъ вкратцѣ разсказалъ ей все, что происходило</note>
+        <note xml:id="Russian_1854_cap15-n140" type="translation" target="quarantana/cap15.xml#c15_11062" targetEnd="quarantana/cap15.xml#c15_11066">
+                          и примолвилъ: «смотрижъ хорошенько за всѣмъ;</note>
+        <note xml:id="Russian_1854_cap15-n141" type="translation" target="quarantana/cap15.xml#c15_11067" targetEnd="quarantana/cap15.xml#c15_11070">
+                          а главное будь осторожна.</note>
+        <note xml:id="Russian_1854_cap15-n142" type="translation" target="quarantana/cap15.xml#c15_11071" targetEnd="quarantana/cap15.xml#c15_11081">
+                          Внизу сидитъ цѣлая шайка вольнодумцевъ,</note>
+        <note xml:id="Russian_1854_cap15-n143" type="translation" target="quarantana/cap15.xml#c15_11082" targetEnd="quarantana/cap15.xml#c15_11085">
+                          которые отъ вина</note>
+        <note xml:id="Russian_1854_cap15-n144" type="translation" target="quarantana/cap15.xml#c15_11086" targetEnd="quarantana/cap15.xml#c15_11094">
+                          или отъ того, что отъ природы у нихъ широко горло,</note>
+        <note xml:id="Russian_1854_cap15-n145" type="translation" target="quarantana/cap15.xml#c15_11095" targetEnd="quarantana/cap15.xml#c15_11098">
+                          говорятъ, Богъ знаетъ что...</note>
+        <note xml:id="Russian_1854_cap15-n147" type="translation" target="quarantana/cap15.xml#c15_11099" targetEnd="quarantana/cap15.xml#c15_11103">
+                          Такъ смотри жъ, если какой нибудь дерзкій...</note>
+        <note xml:id="Russian_1854_cap15-n148" type="translation" target="quarantana/cap15.xml#c15_11104" targetEnd="quarantana/cap15.xml#c15_11109">
+                          — «Будь спокоенъ: я не ребенокъ,</note>
+        <note xml:id="Russian_1854_cap15-n149" type="translation" target="quarantana/cap15.xml#c15_11110" targetEnd="quarantana/cap15.xml#c15_11116">
+                          и знаю, какъ должно поступить.</note>
+        <note xml:id="Russian_1854_cap15-n150" type="translation" target="quarantana/cap15.xml#c15_11117" targetEnd="quarantana/cap15.xml#c15_11117">
+                          Кажется,</note>
+        <note xml:id="Russian_1854_cap15-n151" type="translation" target="quarantana/cap15.xml#c15_11118" targetEnd="quarantana/cap15.xml#c15_11124">
+                          доселѣ никто не можетъ сказать...»</note>
+        <note xml:id="Russian_1854_cap15-n153" type="translation" target="quarantana/cap15.xml#c15_11125" targetEnd="quarantana/cap15.xml#c15_11126">
+                          — «Хорошо, хорошо,</note>
+        <note xml:id="Russian_1854_cap15-n154" type="translation" target="quarantana/cap15.xml#c15_11127" targetEnd="quarantana/cap15.xml#c15_11130">
+                          смотри жъ, чтобъ они расплатились.</note>
+        <note xml:id="Russian_1854_cap15-n155" type="translation" target="quarantana/cap15.xml#c15_11131" targetEnd="quarantana/cap15.xml#c15_11136">
+                          Чтожъ касается до того, что они будутъ говорить</note>
+        <note xml:id="Russian_1854_cap15-n156" type="translation" target="quarantana/cap15.xml#c15_11137" targetEnd="quarantana/cap15.xml#c15_11159">
+                          о смотрителѣ за продовольствіемъ, о губернаторѣ, о Феррерѣ, о декуріонахъ, объ Испаніи и Франціи и другихъ подобныхъ глупостяхъ,</note>
+        <note xml:id="Russian_1854_cap15-n157" type="translation" target="quarantana/cap15.xml#c15_11160" targetEnd="quarantana/cap15.xml#c15_11164">
+                          то показывай видъ, будто не слышишь,</note>
+        <note xml:id="Russian_1854_cap15-n158" type="translation" target="quarantana/cap15.xml#c15_11165" targetEnd="quarantana/cap15.xml#c15_11167">
+                          потому что если ты станешь имъ противурѣчить,</note>
+        <note xml:id="Russian_1854_cap15-n159" type="translation" target="quarantana/cap15.xml#c15_11168" targetEnd="quarantana/cap15.xml#c15_11172">
+                          то можешь навлечь на себя непріятности,</note>
+        <note xml:id="Russian_1854_cap15-n160" type="translation" target="quarantana/cap15.xml#c15_11173" targetEnd="quarantana/cap15.xml#c15_11176">
+                          а если согласишься съ ними,</note>
+        <note xml:id="Russian_1854_cap15-n161" type="translation" target="quarantana/cap15.xml#c15_11177" targetEnd="quarantana/cap15.xml#c15_11182">
+                          то въ послѣдствіи можетъ быть еще хуже.</note>
+        <note xml:id="Russian_1854_cap15-n162" type="translation" target="quarantana/cap15.xml#c15_11183" targetEnd="quarantana/cap15.xml#c15_11197">
+                          Ты сама знаешь, что иногда тѣ самые, которые болѣе всѣхъ говорятъ... понимаешь.</note>
+        <note xml:id="Russian_1854_cap15-n163" type="translation" target="quarantana/cap15.xml#c15_11198" targetEnd="quarantana/cap15.xml#c15_11217">
+                          Когда будутъ говорить... понимаешь... ты отвернись въ другую сторону и скажи: сей часъ иду! какъ будто кто тебя зоветъ.</note>
+        <note xml:id="Russian_1854_cap15-n164" type="translation" target="quarantana/cap15.xml#c15_11218" targetEnd="quarantana/cap15.xml#c15_11224">
+                          Впрочемъ я самъ скоро возвращусь.»</note>
+        <note xml:id="Russian_1854_cap15-n165" type="translation" target="quarantana/cap15.xml#c15_11225" targetEnd="quarantana/cap15.xml#c15_11226">
+                          Сказавъ это,</note>
+        <note xml:id="Russian_1854_cap15-n166" type="translation" target="quarantana/cap15.xml#c15_11227" targetEnd="quarantana/cap15.xml#c15_11231">
+                          онъ сошелъ съ нею въ кухню,</note>
+        <note xml:id="Russian_1854_cap15-n167" type="translation" target="quarantana/cap15.xml#c15_11232" targetEnd="quarantana/cap15.xml#c15_11235">
+                          заглянулъ въ залу,</note>
+        <note xml:id="Russian_1854_cap15-n168" type="translation" target="quarantana/cap15.xml#c15_11236" targetEnd="quarantana/cap15.xml#c15_11243">
+                          чтобъ узнать, не случилось ли чего нового,</note>
+        <note xml:id="Russian_1854_cap15-n169" type="translation" target="quarantana/cap15.xml#c15_11244" targetEnd="quarantana/cap15.xml#c15_11258">
+                          взялъ шляпу и палку,</note>
+        <note xml:id="Russian_1854_cap15-n170" type="translation" target="quarantana/cap15.xml#c15_11259" targetEnd="quarantana/cap15.xml#c15_11272">
+                          напомнилъ женѣ о своихъ наставленіяхъ и пошелъ.</note>
+        <note xml:id="Russian_1854_cap15-n172" type="translation" target="quarantana/cap15.xml#c15_11273" targetEnd="quarantana/cap15.xml#c15_11299">
+                          Вышедъ на улицу, онъ снова началъ размышлять, какъ у постели бѣднаго Ренцо.</note>
+        <note xml:id="Russian_1854_cap15-n173" type="translation" target="quarantana/cap15.xml#c15_11300" targetEnd="quarantana/cap15.xml#c15_11323">
+                          «Упрямый гордецъ!» потому что хотя Ренцо и скрывалъ свое званіе, но по разговорамъ, ухваткамъ</note>
+        <note xml:id="Russian_1854_cap15-n174" type="translation" target="quarantana/cap15.xml#c15_11324" targetEnd="quarantana/cap15.xml#c15_11329">
+                          и произношенію можно было догадаться, кто онъ;</note>
+        <note xml:id="Russian_1854_cap15-n175" type="translation" target="quarantana/cap15.xml#c15_11330" targetEnd="quarantana/cap15.xml#c15_11346">
+                          « нынешній день прошелъ бы для меня безъ шума и непріятностей,</note>
+        <note xml:id="Russian_1854_cap15-n176" type="translation" target="quarantana/cap15.xml#c15_11347" targetEnd="quarantana/cap15.xml#c15_11358">
+                          еслибъ ты не подвернулся.</note>
+        <note xml:id="Russian_1854_cap15-n177" type="translation" target="quarantana/cap15.xml#c15_11359" targetEnd="quarantana/cap15.xml#c15_11369">
+                          Развѣ мало гостинницъ въ Медiоланѣ? Еслибъ,</note>
+        <note xml:id="Russian_1854_cap15-n178" type="translation" target="quarantana/cap15.xml#c15_11370" targetEnd="quarantana/cap15.xml#c15_11373">
+                          по крайней мѣрѣ, ты пришелъ одинъ,</note>
+        <note xml:id="Russian_1854_cap15-n179" type="translation" target="quarantana/cap15.xml#c15_11374" targetEnd="quarantana/cap15.xml#c15_11380">
+                          я еще могъ бы потерпѣть вечеръ,</note>
+        <note xml:id="Russian_1854_cap15-n180" type="translation" target="quarantana/cap15.xml#c15_11381" targetEnd="quarantana/cap15.xml#c15_11387">
+                          а завтра предупредилъ бы тебя;</note>
+        <note xml:id="Russian_1854_cap15-n181" type="translation" target="quarantana/cap15.xml#c15_11388" targetEnd="quarantana/cap15.xml#c15_11390">
+                          но нѣтъ,</note>
+        <note xml:id="Russian_1854_cap15-n182" type="translation" target="quarantana/cap15.xml#c15_11391" targetEnd="quarantana/cap15.xml#c15_11402">
+                          надо еще было прійти съ полицейскимъ чиновникомъ.</note>
+        <note xml:id="Russian_1854_cap15-n183" type="translation" target="quarantana/cap15.xml#c15_11403" targetEnd="quarantana/cap15.xml#c15_11419">
+                          На каждомъ шагу хозяинъ встрѣчалъ незначительныя толпы людей,</note>
+        <note xml:id="Russian_1854_cap15-n184" type="translation" target="quarantana/cap15.xml#c15_11420" targetEnd="quarantana/cap15.xml#c15_11422">
+                          разговаривающихъ въ полголоса;</note>
+        <note xml:id="Russian_1854_cap15-n185" type="translation" target="quarantana/cap15.xml#c15_11423" targetEnd="quarantana/cap15.xml#c15_11435">
+                          отошедъ немного далѣе, онъ встрѣтилъ патрули солдатъ.</note>
+        <note xml:id="Russian_1854_cap15-n186" type="omission" target="quarantana/cap15.xml#c15_11436" targetEnd="quarantana/cap15.xml#c15_11451"/>
+        <note xml:id="Russian_1854_cap15-n187" type="translation" target="quarantana/cap15.xml#c15_11452" targetEnd="quarantana/cap15.xml#c15_11455">
+                          «Вотъ бичи неосторожныхъ!</note>
+        <note xml:id="Russian_1854_cap15-n189" type="translation" target="quarantana/cap15.xml#c15_11456" targetEnd="quarantana/cap15.xml#c15_11459">
+                          Глупецъ, глупецъ!</note>
+        <note xml:id="Russian_1854_cap15-n190" type="translation" target="quarantana/cap15.xml#c15_11460" targetEnd="quarantana/cap15.xml#c15_11471">
+                          Услышавъ шумъ горсти негодяевъ,</note>
+        <note xml:id="Russian_1854_cap15-n191" type="translation" target="quarantana/cap15.xml#c15_11472" targetEnd="quarantana/cap15.xml#c15_11482">
+                          ты вообразилъ, что свѣтъ измѣнился,</note>
+        <note xml:id="Russian_1854_cap15-n192" type="translation" target="quarantana/cap15.xml#c15_11483" targetEnd="quarantana/cap15.xml#c15_11495">
+                          самъ чрезъ то попался въ бѣду и хотѣлъ меня увлечь за собою;</note>
+        <note xml:id="Russian_1854_cap15-n193" type="translation" target="quarantana/cap15.xml#c15_11496" targetEnd="quarantana/cap15.xml#c15_11499">
+                          это несправедливо.</note>
+        <note xml:id="Russian_1854_cap15-n194" type="translation" target="quarantana/cap15.xml#c15_11500" targetEnd="quarantana/cap15.xml#c15_11505">
+                          Я всячески старался тебя спасти,</note>
+        <note xml:id="Russian_1854_cap15-n195" type="translation" target="quarantana/cap15.xml#c15_11506" targetEnd="quarantana/cap15.xml#c15_11519">
+                          а ты едва было меня не погубилъ;</note>
+        <note xml:id="Russian_1854_cap15-n196" type="translation" target="quarantana/cap15.xml#c15_11520" targetEnd="quarantana/cap15.xml#c15_11531">
+                          теперь выпутывайся самъ, какъ хочешь; а я знаю, что мнѣ дѣлать.</note>
+        <note xml:id="Russian_1854_cap15-n197" type="translation" target="quarantana/cap15.xml#c15_11532" targetEnd="quarantana/cap15.xml#c15_11542">
+                          Какъ будто бы я изъ любопытства хотѣлъ узнать твое имя.</note>
+        <note xml:id="Russian_1854_cap15-n198" type="translation" target="quarantana/cap15.xml#c15_11543" targetEnd="quarantana/cap15.xml#c15_11553">
+                          Будь ты Ѳома или Бартоломео, мнѣ какое дѣло?</note>
+        <note xml:id="Russian_1854_cap15-n199" type="translation" target="quarantana/cap15.xml#c15_11554" targetEnd="quarantana/cap15.xml#c15_11566">
+                          Будто бы мнѣ пріятно взяться за перо!</note>
+        <note xml:id="Russian_1854_cap15-n200" type="translation" target="quarantana/cap15.xml#c15_11567" targetEnd="quarantana/cap15.xml#c15_11580">
+                          Но ты не одинъ хочешь устроить все на свой ладъ.</note>
+        <note xml:id="Russian_1854_cap15-n201" type="translation" target="quarantana/cap15.xml#c15_11581" targetEnd="quarantana/cap15.xml#c15_11591">
+                          Я самъ также знаю, что есть повелѣнія, которыя никогда не исполняются.</note>
+        <note xml:id="Russian_1854_cap15-n202" type="translation" target="quarantana/cap15.xml#c15_11592" targetEnd="quarantana/cap15.xml#c15_11599">
+                          Вотъ какую новость хотѣлъ намъ сказать!</note>
+        <note xml:id="Russian_1854_cap15-n203" type="translation" target="quarantana/cap15.xml#c15_11600" targetEnd="quarantana/cap15.xml#c15_11611">
+                          Но приказанія, которыя относятся до содержателей гостинницъ, дѣйствуютъ во всей силѣ.</note>
+        <note xml:id="Russian_1854_cap15-n204" type="translation" target="quarantana/cap15.xml#c15_11612" targetEnd="quarantana/cap15.xml#c15_11616">
+                          И ты хочешь управлять свѣтомъ?</note>
+        <note xml:id="Russian_1854_cap15-n205" type="translation" target="quarantana/cap15.xml#c15_11617" targetEnd="quarantana/cap15.xml#c15_11622">
+                          Развѣ не знаешь, что тотъ,</note>
+        <note xml:id="Russian_1854_cap15-n206" type="translation" target="quarantana/cap15.xml#c15_11623" targetEnd="quarantana/cap15.xml#c15_11634">
+                          кто презираетъ повелѣнія,</note>
+        <note xml:id="Russian_1854_cap15-n207" type="translation" target="quarantana/cap15.xml#c15_11635" targetEnd="quarantana/cap15.xml#c15_11643">
+                          никогда объ этомъ не разглашаетъ?</note>
+        <note xml:id="Russian_1854_cap15-n208" type="translation" target="quarantana/cap15.xml#c15_11644" targetEnd="quarantana/cap15.xml#c15_11653">
+                          Бѣдный хозяинъ, у котораго ты остановился на ночлегъ,</note>
+        <note xml:id="Russian_1854_cap15-n209" type="insertion">подвергся бы строгой ответственности, еслибъ думалъ такъ,</note>
+        <note xml:id="Russian_1854_cap15-n210" type="translation" target="quarantana/cap15.xml#c15_11654" targetEnd="quarantana/cap15.xml#c15_11663">
+                          какъ ты, и не зналъ твоего имени.</note>
+        <note xml:id="Russian_1854_cap15-n211" type="omission" target="quarantana/cap15.xml#c15_11664" targetEnd="quarantana/cap15.xml#c15_11671"/>
+        <note xml:id="Russian_1854_cap15-n212" type="translation" target="quarantana/cap15.xml#c15_11672" targetEnd="quarantana/cap15.xml#c15_11688">
+                          Съ означенныхъ трактирщиковъ, содержателей гостинницъ и другихъ взыскивать пени триста червонныхъ.</note>
+        <note xml:id="Russian_1854_cap15-n213" type="translation" target="quarantana/cap15.xml#c15_11689" targetEnd="quarantana/cap15.xml#c15_11693">
+                          Шутка ли! Триста червонныхъ!</note>
+        <note xml:id="Russian_1854_cap15-n214" type="omission" target="quarantana/cap15.xml#c15_11694" targetEnd="quarantana/cap15.xml#c15_11698"/>
+        <note xml:id="Russian_1854_cap15-n215" type="translation" target="quarantana/cap15.xml#c15_11699" targetEnd="quarantana/cap15.xml#c15_11708">
+                          Изъ нихъ двѣ трети обращать въ казну,</note>
+        <note xml:id="Russian_1854_cap15-n216" type="translation" target="quarantana/cap15.xml#c15_11709" targetEnd="quarantana/cap15.xml#c15_11716">
+                          а остальные доносчику. Какое прекрасное учрежденіе!</note>
+        <note xml:id="Russian_1854_cap15-n217" type="translation" target="quarantana/cap15.xml#c15_11717" targetEnd="quarantana/cap15.xml#c15_11721">
+                          А въ случаю несостоятельности,</note>
+        <note xml:id="Russian_1854_cap15-n218" type="translation" target="quarantana/cap15.xml#c15_11722" targetEnd="quarantana/cap15.xml#c15_11725">
+                          виновные осуждаются на пятилѣтнюю ссылку на галеры,</note>
+        <note xml:id="Russian_1854_cap15-n219" type="translation" target="quarantana/cap15.xml#c15_11726" targetEnd="quarantana/cap15.xml#c15_11731">
+                          или приговариваются къ тѣлесному наказанію или взысканію большей пени,</note>
+        <note xml:id="Russian_1854_cap15-n220" type="translation" target="quarantana/cap15.xml#c15_11732" targetEnd="quarantana/cap15.xml#c15_11735">
+                          смотря по распоряженію его превосходительства.</note>
+        <note xml:id="Russian_1854_cap15-n221" type="translation" target="quarantana/cap15.xml#c15_11736" targetEnd="quarantana/cap15.xml#c15_11740">
+                          Нечего сказать, есть за что поблагодарить его превосходительство.»</note>
+        <note xml:id="Russian_1854_cap15-n222" type="translation" target="quarantana/cap15.xml#c15_11741" targetEnd="quarantana/cap15.xml#c15_11743">
+                          Говоря это,</note>
+        <note xml:id="Russian_1854_cap15-n223" type="translation" target="quarantana/cap15.xml#c15_11744" targetEnd="quarantana/cap15.xml#c15_11754">
+                          трактирщикъ вступилъ за порогъ пышнаго дворца блюстителя правосудія.</note>
+        <note xml:id="Russian_1854_cap15-n224" type="translation" target="quarantana/cap15.xml#c15_11755" targetEnd="quarantana/cap15.xml#c15_11755">
+                          Тамъ,</note>
+        <note xml:id="Russian_1854_cap15-n225" type="translation" target="quarantana/cap15.xml#c15_11756" targetEnd="quarantana/cap15.xml#c15_11765">
+                          какъ и во всѣхъ присутственныхъ мѣстахъ было множество дѣла.</note>
+        <note xml:id="Russian_1854_cap15-n226" type="translation" target="quarantana/cap15.xml#c15_11766" targetEnd="quarantana/cap15.xml#c15_11796">
+                          Всюду занимались распоряженіями для прекращенія безпорядковъ на слѣдующій день</note>
+        <note xml:id="Russian_1854_cap15-n227" type="translation" target="quarantana/cap15.xml#c15_11797" targetEnd="quarantana/cap15.xml#c15_11804">
+                          и задержанія зачинщиковъ.</note>
+        <note xml:id="Russian_1854_cap15-n228" type="translation" target="quarantana/cap15.xml#c15_11805" targetEnd="quarantana/cap15.xml#c15_11812">
+                          Усилили стражу у дома смотрителя за продовольствiемъ.</note>
+        <note xml:id="Russian_1854_cap15-n229" type="translation" target="quarantana/cap15.xml#c15_11813" targetEnd="quarantana/cap15.xml#c15_11823">
+                          Входы въ улицы загородили бревнами и телегами.</note>
+        <note xml:id="Russian_1854_cap15-n230" type="translation" target="quarantana/cap15.xml#c15_11824" targetEnd="quarantana/cap15.xml#c15_11835">
+                          Хлѣбникамъ предписали не оставлять печенія хлѣбовъ.</note>
+        <note xml:id="Russian_1854_cap15-n231" type="translation" target="quarantana/cap15.xml#c15_11836" targetEnd="quarantana/cap15.xml#c15_11842">
+                          Разослали курьеровъ въ сосѣдніе округи,</note>
+        <note xml:id="Russian_1854_cap15-n232" type="translation" target="quarantana/cap15.xml#c15_11843" targetEnd="quarantana/cap15.xml#c15_11851">
+                          для ускоренія приссылки продовольствія</note>
+        <note xml:id="Russian_1854_cap15-n233" type="translation" target="quarantana/cap15.xml#c15_11852" targetEnd="quarantana/cap15.xml#c15_11864">
+                          и отправили по человѣку въ каждую пекарню</note>
+        <note xml:id="Russian_1854_cap15-n234" type="translation" target="quarantana/cap15.xml#c15_11865" targetEnd="quarantana/cap15.xml#c15_11879">
+                          для наблюденія за раздачею хлѣба и отвращенія безпорядковъ.</note>
+        <note xml:id="Russian_1854_cap15-n235" type="translation" target="quarantana/cap15.xml#c15_11880" targetEnd="quarantana/cap15.xml#c15_11882">
+                          Но чтобы,</note>
+        <note xml:id="Russian_1854_cap15-n236" type="translation" target="quarantana/cap15.xml#c15_11883" targetEnd="quarantana/cap15.xml#c15_11885">
+                          какъ говорится,</note>
+        <note xml:id="Russian_1854_cap15-n237" type="translation" target="quarantana/cap15.xml#c15_11886" targetEnd="quarantana/cap15.xml#c15_11904">
+                          нанести рѣшительный ударъ и посредствомъ строгости сдѣлать ласки еще дѣйствительнѣе,</note>
+        <note xml:id="Russian_1854_cap15-n238" type="translation" target="quarantana/cap15.xml#c15_11905" targetEnd="quarantana/cap15.xml#c15_11918">
+                          предположено непремѣнно захватить кого нибудь изъ мятежниковъ.</note>
+        <note xml:id="Russian_1854_cap15-n239" type="translation" target="quarantana/cap15.xml#c15_11919" targetEnd="quarantana/cap15.xml#c15_11928">
+                          Это поручено полицейскому приставу.</note>
+        <note xml:id="Russian_1854_cap15-n240" type="translation" target="quarantana/cap15.xml#c15_11929" targetEnd="quarantana/cap15.xml#c15_11943">
+                          Легко себѣ вообразить, какими глазами смотрѣлъ онъ на возмущеніе и возмутителей,</note>
+        <note xml:id="Russian_1854_cap15-n241" type="translation" target="quarantana/cap15.xml#c15_11944" targetEnd="quarantana/cap15.xml#c15_11955">
+                          имѣя повязку на одномъ изъ органовъ глубокой метафизики.</note>
+        <note xml:id="Russian_1854_cap15-n242" type="translation" target="quarantana/cap15.xml#c15_11956" targetEnd="quarantana/cap15.xml#c15_11966">
+                          Его лазутчики дѣлали розыски съ самаго начала мятежа.</note>
+        <note xml:id="Russian_1854_cap15-n243" type="translation" target="quarantana/cap15.xml#c15_11967" targetEnd="quarantana/cap15.xml#c15_11972">
+                          Этотъ Амброджіо Фузелла,</note>
+        <note xml:id="Russian_1854_cap15-n244" type="translation" target="quarantana/cap15.xml#c15_11973" targetEnd="quarantana/cap15.xml#c15_11976">
+                          какъ сказалъ трактирщикъ,</note>
+        <note xml:id="Russian_1854_cap15-n245" type="translation" target="quarantana/cap15.xml#c15_11977" targetEnd="quarantana/cap15.xml#c15_11991">
+                          былъ переодѣтый шпіонъ,</note>
+        <note xml:id="Russian_1854_cap15-n246" type="translation" target="quarantana/cap15.xml#c15_11992" targetEnd="quarantana/cap15.xml#c15_11993">
+                          посланный,</note>
+        <note xml:id="Russian_1854_cap15-n247" type="translation" target="quarantana/cap15.xml#c15_11994" targetEnd="quarantana/cap15.xml#c15_11997">
+                          чтобъ захватить преступниковъ на самомъ дѣлѣ.</note>
+        <note xml:id="Russian_1854_cap15-n248" type="omission" target="quarantana/cap15.xml#c15_11998" targetEnd="quarantana/cap15.xml#c15_12007"/>
+        <note xml:id="Russian_1854_cap15-n249" type="translation" target="quarantana/cap15.xml#c15_12008" targetEnd="quarantana/cap15.xml#c15_12015">
+                          Услышавъ краснорѣчивый разговоръ Ренцо,</note>
+        <note xml:id="Russian_1854_cap15-n250" type="translation" target="quarantana/cap15.xml#c15_12016" targetEnd="quarantana/cap15.xml#c15_12022">
+                          онъ тотчасъ обратилъ на него вниманіе;</note>
+        <note xml:id="Russian_1854_cap15-n251" type="omission" target="quarantana/cap15.xml#c15_12023" targetEnd="quarantana/cap15.xml#c15_12031"/>
+        <note xml:id="Russian_1854_cap15-n252" type="translation" target="quarantana/cap15.xml#c15_12032" targetEnd="quarantana/cap15.xml#c15_12037">
+                          а узнавъ, что это крестьянинъ, недавно пришедшій изъ деревни,</note>
+        <note xml:id="Russian_1854_cap15-n253" type="translation" target="quarantana/cap15.xml#c15_12038" targetEnd="quarantana/cap15.xml#c15_12048">
+                          онъ было покушался отправить его прямо въ тюрьму,</note>
+        <note xml:id="Russian_1854_cap15-n254" type="translation" target="quarantana/cap15.xml#c15_12049" targetEnd="quarantana/cap15.xml#c15_12054">
+                          какъ въ самую надежную гостинницу;</note>
+        <note xml:id="Russian_1854_cap15-n255" type="translation" target="quarantana/cap15.xml#c15_12055" targetEnd="quarantana/cap15.xml#c15_12061">
+                          но это намѣреніе не удалось, какъ мы видѣли.</note>
+        <note xml:id="Russian_1854_cap15-n256" type="translation" target="quarantana/cap15.xml#c15_12062" targetEnd="quarantana/cap15.xml#c15_12071">
+                          Однако же онъ могъ доставить полиціи точныя извѣстія о его имени,</note>
+        <note xml:id="Russian_1854_cap15-n257" type="translation" target="quarantana/cap15.xml#c15_12072" targetEnd="quarantana/cap15.xml#c15_12074">
+                          прозваніи и мѣстѣ рожденія,</note>
+        <note xml:id="Russian_1854_cap15-n258" type="translation" target="quarantana/cap15.xml#c15_12075" targetEnd="quarantana/cap15.xml#c15_12080">
+                          прибавивъ къ сему тысячи предположеній,</note>
+        <note xml:id="Russian_1854_cap15-n259" type="translation" target="quarantana/cap15.xml#c15_12081" targetEnd="quarantana/cap15.xml#c15_12095">
+                          такъ что когда трактирщикъ пришелъ сказать, что зналъ о Ренцо,</note>
+        <note xml:id="Russian_1854_cap15-n260" type="translation" target="quarantana/cap15.xml#c15_12096" targetEnd="quarantana/cap15.xml#c15_12101">
+                          тамъ уже знали болѣе его.</note>
+        <note xml:id="Russian_1854_cap15-n261" type="translation" target="quarantana/cap15.xml#c15_12102" targetEnd="quarantana/cap15.xml#c15_12111">
+                          Онъ вошелъ въ пріемную и объявилъ свое донесенiе:</note>
+        <note xml:id="Russian_1854_cap15-n262" type="translation" target="quarantana/cap15.xml#c15_12112" targetEnd="quarantana/cap15.xml#c15_12120">
+                          рассказалъ, какъ явился къ нему незнакомецъ</note>
+        <note xml:id="Russian_1854_cap15-n263" type="translation" target="quarantana/cap15.xml#c15_12121" targetEnd="quarantana/cap15.xml#c15_12129">
+                          и не хотѣлъ сказать своего имени.</note>
+        <note xml:id="Russian_1854_cap15-n264" type="translation" target="quarantana/cap15.xml#c15_12130" targetEnd="quarantana/cap15.xml#c15_12137">
+                          — «Вы исполнили свою обязанность, предупредивъ насъ,»</note>
+        <note xml:id="Russian_1854_cap15-n265" type="translation" target="quarantana/cap15.xml#c15_12138" targetEnd="quarantana/cap15.xml#c15_12141">
+                          сказалъ уголовный стряпчій,</note>
+        <note xml:id="Russian_1854_cap15-n266" type="translation" target="quarantana/cap15.xml#c15_12142" targetEnd="quarantana/cap15.xml#c15_12149">
+                          положивъ перо свое; «но мы уже это знаемъ.»</note>
+        <note xml:id="Russian_1854_cap15-n267" type="translation" target="quarantana/cap15.xml#c15_12150" targetEnd="quarantana/cap15.xml#c15_12156">
+                          — «Важная тайна!» подумалъ хозяинъ.</note>
+        <note xml:id="Russian_1854_cap15-n268" type="translation" target="quarantana/cap15.xml#c15_12157" targetEnd="quarantana/cap15.xml#c15_12161">
+                          Въ самомъ дѣлѣ, для этого надобно большое искусство!»</note>
+        <note xml:id="Russian_1854_cap15-n269" type="translation" target="quarantana/cap15.xml#c15_12162" targetEnd="quarantana/cap15.xml#c15_12165">
+                          — «Сверхъ того,»</note>
+        <note xml:id="Russian_1854_cap15-n270" type="translation" target="quarantana/cap15.xml#c15_12166" targetEnd="quarantana/cap15.xml#c15_12168">
+                          сказалъ стряпчій,</note>
+        <note xml:id="Russian_1854_cap15-n271" type="translation" target="quarantana/cap15.xml#c15_12169" targetEnd="quarantana/cap15.xml#c15_12171">
+                          «намъ извѣстно это знаменитое имя.»</note>
+        <note xml:id="Russian_1854_cap15-n272" type="translation" target="quarantana/cap15.xml#c15_12172" targetEnd="quarantana/cap15.xml#c15_12176">
+                          — «Чортъ возьми! Какъ и имя также?</note>
+        <note xml:id="Russian_1854_cap15-n273" type="translation" target="quarantana/cap15.xml#c15_12177" targetEnd="quarantana/cap15.xml#c15_12184">
+                          Какъ же они это сдѣлали? подумалъ хозяинъ.</note>
+        <note xml:id="Russian_1854_cap15-n274" type="translation" target="quarantana/cap15.xml#c15_12185" targetEnd="quarantana/cap15.xml#c15_12186">
+                          — «Но вы,</note>
+        <note xml:id="Russian_1854_cap15-n275" type="translation" target="quarantana/cap15.xml#c15_12187" targetEnd="quarantana/cap15.xml#c15_12191">
+                          — сказалъ съ строгимъ видомъ стряпчій,</note>
+        <note xml:id="Russian_1854_cap15-n276" type="translation" target="quarantana/cap15.xml#c15_12192" targetEnd="quarantana/cap15.xml#c15_12196">
+                          «вы не все сказали, что знаете.»</note>
+        <note xml:id="Russian_1854_cap15-n277" type="translation" target="quarantana/cap15.xml#c15_12197" targetEnd="quarantana/cap15.xml#c15_12203">
+                          — «Чтожъ мнѣ болѣе сказать?»</note>
+        <note xml:id="Russian_1854_cap15-n278" type="translation" target="quarantana/cap15.xml#c15_12204" targetEnd="quarantana/cap15.xml#c15_12218">
+                          — «Ага! Мы знаемъ, что этотъ крестьянинъ принесъ въ вашу гостиницу множество хлѣба,</note>
+        <note xml:id="Russian_1854_cap15-n279" type="translation" target="quarantana/cap15.xml#c15_12219" targetEnd="quarantana/cap15.xml#c15_12226">
+                          награбленнаго во время возмущенія.»</note>
+        <note xml:id="Russian_1854_cap15-n280" type="translation" target="quarantana/cap15.xml#c15_12227" targetEnd="quarantana/cap15.xml#c15_12233">
+                          — «Если кто приходитъ ко мнѣ съ своимъ хлѣбомъ въ карманѣ,</note>
+        <note xml:id="Russian_1854_cap15-n281" type="translation" target="quarantana/cap15.xml#c15_12234" targetEnd="quarantana/cap15.xml#c15_12242">
+                          могу ли я знать, какимъ образомъ онъ его досталъ.</note>
+        <note xml:id="Russian_1854_cap15-n282" type="translation" target="quarantana/cap15.xml#c15_12243" targetEnd="quarantana/cap15.xml#c15_12243">
+                          Къ томужъ,</note>
+        <note xml:id="Russian_1854_cap15-n283" type="translation" target="quarantana/cap15.xml#c15_12244" targetEnd="quarantana/cap15.xml#c15_12250">
+                          клянусь вамъ,</note>
+        <note xml:id="Russian_1854_cap15-n284" type="translation" target="quarantana/cap15.xml#c15_12251" targetEnd="quarantana/cap15.xml#c15_12261">
+                          что я видѣлъ у него только одинъ хлѣбъ.»</note>
+        <note xml:id="Russian_1854_cap15-n285" type="translation" target="quarantana/cap15.xml#c15_12262" targetEnd="quarantana/cap15.xml#c15_12268">
+                          — «Вотъ вы каковы: всегда стараетесь извинять и защищать. По вашимъ словамъ,</note>
+        <note xml:id="Russian_1854_cap15-n286" type="translation" target="quarantana/cap15.xml#c15_12269" targetEnd="quarantana/cap15.xml#c15_12271">
+                          всѣ они честные люди.</note>
+        <note xml:id="Russian_1854_cap15-n287" type="translation" target="quarantana/cap15.xml#c15_12272" targetEnd="quarantana/cap15.xml#c15_12281">
+                          Чѣмъ вы докажете, что это не краденый хлѣбъ.»</note>
+        <note xml:id="Russian_1854_cap15-n288" type="translation" target="quarantana/cap15.xml#c15_12282" targetEnd="quarantana/cap15.xml#c15_12287">
+                          — «Къ чему мнѣ доказывать?</note>
+        <note xml:id="Russian_1854_cap15-n289" type="translation" target="quarantana/cap15.xml#c15_12288" targetEnd="quarantana/cap15.xml#c15_12294">
+                          Это не мое дѣло. Я трактирщикъ.» —</note>
+        <note xml:id="Russian_1854_cap15-n290" type="translation" target="quarantana/cap15.xml#c15_12295" targetEnd="quarantana/cap15.xml#c15_12311">
+                          «По крайней мѣрѣ, вы не можете запереться, что вашъ всегдашній гость имѣлъ дерзость насмѣхаться</note>
+        <note xml:id="Russian_1854_cap15-n291" type="translation" target="quarantana/cap15.xml#c15_12312" targetEnd="quarantana/cap15.xml#c15_12326">
+                          надъ повелѣніями и надъ гербомъ его превосходительства.»</note>
+        <note xml:id="Russian_1854_cap15-n292" type="translation" target="quarantana/cap15.xml#c15_12327" targetEnd="quarantana/cap15.xml#c15_12329">
+                          — «Позвольте замѣтить,</note>
+        <note xml:id="Russian_1854_cap15-n293" type="translation" target="quarantana/cap15.xml#c15_12330" targetEnd="quarantana/cap15.xml#c15_12336">
+                          что этого человѣка не льзя назвать всегдашнимъ моимъ гостемъ,</note>
+        <note xml:id="Russian_1854_cap15-n294" type="translation" target="quarantana/cap15.xml#c15_12337" targetEnd="quarantana/cap15.xml#c15_12343">
+                          если я въ первый разъ вижу его.</note>
+        <note xml:id="Russian_1854_cap15-n297" type="translation" target="quarantana/cap15.xml#c15_12344" targetEnd="quarantana/cap15.xml#c15_12355">
+                          Видно, самъ чортъ привелъ его въ мой домъ! Извините мое выраженіе.</note>
+        <note xml:id="Russian_1854_cap15-n298" type="translation" target="quarantana/cap15.xml#c15_12356" targetEnd="quarantana/cap15.xml#c15_12372">
+                          Еслибъ онъ мнѣ былъ знакомъ, то мнѣ не нужно было бы спрашивать его объ имени.»</note>
+        <note xml:id="Russian_1854_cap15-n299" type="translation" target="quarantana/cap15.xml#c15_12373" targetEnd="quarantana/cap15.xml#c15_12376">
+                          — «Однакожъ въ вашей гостиницѣ,</note>
+        <note xml:id="Russian_1854_cap15-n300" type="translation" target="quarantana/cap15.xml#c15_12377" targetEnd="quarantana/cap15.xml#c15_12387">
+                          въ вашемъ присутствіи говорили возмутительныя рѣчи,</note>
+        <note xml:id="Russian_1854_cap15-n302" type="translation" target="quarantana/cap15.xml#c15_12388" targetEnd="quarantana/cap15.xml#c15_12392">
+                          кричали, шумѣли.»</note>
+        <note xml:id="Russian_1854_cap15-n303" type="translation" target="quarantana/cap15.xml#c15_12393" targetEnd="quarantana/cap15.xml#c15_12404">
+                          — «Могу ли я замѣтить каждое слово,</note>
+        <note xml:id="Russian_1854_cap15-n304" type="translation" target="quarantana/cap15.xml#c15_12405" targetEnd="quarantana/cap15.xml#c15_12410">
+                          когда всѣ разговариваютъ въ одно время?</note>
+        <note xml:id="Russian_1854_cap15-n305" type="translation" target="quarantana/cap15.xml#c15_12411" targetEnd="quarantana/cap15.xml#c15_12420">
+                          Я человѣкъ бѣдный и стараюсь только о своихъ выгодахъ.</note>
+        <note xml:id="Russian_1854_cap15-n306" type="translation" target="quarantana/cap15.xml#c15_12421" targetEnd="quarantana/cap15.xml#c15_12431">
+                          Притомъ же вы изволите знать, что такіе люди, давая волю языку,</note>
+        <note xml:id="Russian_1854_cap15-n307" type="translation" target="quarantana/cap15.xml#c15_12432" targetEnd="quarantana/cap15.xml#c15_12439">
+                          могутъ также дѣйствовать и руками,</note>
+        <note xml:id="Russian_1854_cap15-n308" type="translation" target="quarantana/cap15.xml#c15_12440" targetEnd="quarantana/cap15.xml#c15_12445">
+                          особенно когда ихъ много.»</note>
+        <note xml:id="Russian_1854_cap15-n310" type="translation" target="quarantana/cap15.xml#c15_12446" targetEnd="quarantana/cap15.xml#c15_12452">
+                          — «Хорошо, пусть ихъ говорятъ и дѣлаютъ что хотятъ,</note>
+        <note xml:id="Russian_1854_cap15-n311" type="translation" target="quarantana/cap15.xml#c15_12453" targetEnd="quarantana/cap15.xml#c15_12463">
+                          завтра вы увидите, пройдетъ ли у нихъ жаръ.</note>
+        <note xml:id="Russian_1854_cap15-n312" type="translation" target="quarantana/cap15.xml#c15_12464" targetEnd="quarantana/cap15.xml#c15_12465">
+                          Какъ вы думаете?»</note>
+        <note xml:id="Russian_1854_cap15-n313" type="translation" target="quarantana/cap15.xml#c15_12466" targetEnd="quarantana/cap15.xml#c15_12469">
+                          — «Я ничего не думаю.»</note>
+        <note xml:id="Russian_1854_cap15-n314" type="translation" target="quarantana/cap15.xml#c15_12470" targetEnd="quarantana/cap15.xml#c15_12477">
+                          — «Чтобы чернь овладѣла Медiоланомъ!»</note>
+        <note xml:id="Russian_1854_cap15-n316" type="translation" target="quarantana/cap15.xml#c15_12478" targetEnd="quarantana/cap15.xml#c15_12479">
+                          — «О, никогда.</note>
+        <note xml:id="Russian_1854_cap15-n318" type="translation" target="quarantana/cap15.xml#c15_12480" targetEnd="quarantana/cap15.xml#c15_12481">
+                          — «Вы увидите, вы увидите. —</note>
+        <note xml:id="Russian_1854_cap15-n319" type="translation" target="quarantana/cap15.xml#c15_12482" targetEnd="quarantana/cap15.xml#c15_12483">
+                          «Я очень хорошо понимаю.</note>
+        <note xml:id="Russian_1854_cap15-n320" type="translation" target="quarantana/cap15.xml#c15_12484" targetEnd="quarantana/cap15.xml#c15_12493">
+                          Король всегда останется королемъ и не оставитъ безъ наказанія виновныхъ.</note>
+        <note xml:id="Russian_1854_cap15-n321" type="translation" target="quarantana/cap15.xml#c15_12494" targetEnd="quarantana/cap15.xml#c15_12507">
+                          Впрочемъ бѣдному отцу семейства не до возмущеній.</note>
+        <note xml:id="Russian_1854_cap15-n322" type="translation" target="quarantana/cap15.xml#c15_12508" targetEnd="quarantana/cap15.xml#c15_12512">
+                          Вамъ дана власть,</note>
+        <note xml:id="Russian_1854_cap15-n323" type="translation" target="quarantana/cap15.xml#c15_12513" targetEnd="quarantana/cap15.xml#c15_12516">
+                          и потому уничтожать такіе безпорядки ваша обязанность.»</note>
+        <note xml:id="Russian_1854_cap15-n324" type="translation" target="quarantana/cap15.xml#c15_12517" targetEnd="quarantana/cap15.xml#c15_12522">
+                          — «Много ли у васъ осталось народа въ гостиницѣ?»</note>
+        <note xml:id="Russian_1854_cap15-n325" type="translation" target="quarantana/cap15.xml#c15_12523" targetEnd="quarantana/cap15.xml#c15_12524">
+                          — «Много.»</note>
+        <note xml:id="Russian_1854_cap15-n326" type="translation" target="quarantana/cap15.xml#c15_12525" targetEnd="quarantana/cap15.xml#c15_12530">
+                          — «А что теперь дѣлаетъ вашъ постоялецъ?</note>
+        <note xml:id="Russian_1854_cap15-n327" type="translation" target="quarantana/cap15.xml#c15_12531" targetEnd="quarantana/cap15.xml#c15_12541">
+                          Продолжаетъ ли онъ говорить и возмущать умы?»</note>
+        <note xml:id="Russian_1854_cap15-n329" type="translation" target="quarantana/cap15.xml#c15_12542" targetEnd="quarantana/cap15.xml#c15_12550">
+                          — «Вы, вѣроятно, изволите говорить о крестьянинѣ: онъ теперь спитъ.»</note>
+        <note xml:id="Russian_1854_cap15-n330" type="translation" target="quarantana/cap15.xml#c15_12551" targetEnd="quarantana/cap15.xml#c15_12554">
+                          — «Такъ у васъ еще много гостей? хорошо...</note>
+        <note xml:id="Russian_1854_cap15-n332" type="translation" target="quarantana/cap15.xml#c15_12555" targetEnd="quarantana/cap15.xml#c15_12561">
+                          Смотритежь, чтобъ они отъ васъ не ушли.»</note>
+        <note xml:id="Russian_1854_cap15-n333" type="translation" target="quarantana/cap15.xml#c15_12562" targetEnd="quarantana/cap15.xml#c15_12571">
+                          — Не-уже-ли мнѣ исполнять должность сбира? подумалъ хозяинъ;</note>
+        <note xml:id="Russian_1854_cap15-n334" type="translation" target="quarantana/cap15.xml#c15_12572" targetEnd="quarantana/cap15.xml#c15_12578">
+                          но не сказалъ ни да, ни нѣтъ.</note>
+        <note xml:id="Russian_1854_cap15-n335" type="translation" target="quarantana/cap15.xml#c15_12579" targetEnd="quarantana/cap15.xml#c15_12585">
+                          — «Ступайте домой и будьте осторожнѣе,»</note>
+        <note xml:id="Russian_1854_cap15-n336" type="translation" target="quarantana/cap15.xml#c15_12586" targetEnd="quarantana/cap15.xml#c15_12588">
+                          прибавилъ стряпчій.</note>
+        <note xml:id="Russian_1854_cap15-n337" type="translation" target="quarantana/cap15.xml#c15_12589" targetEnd="quarantana/cap15.xml#c15_12593">
+                          — «Я всегда былъ остороженъ.</note>
+        <note xml:id="Russian_1854_cap15-n338" type="translation" target="quarantana/cap15.xml#c15_12594" targetEnd="quarantana/cap15.xml#c15_12603">
+                          Вы сами изволите знать, безпокоилъ-ли я когда нибудь начальство.»</note>
+        <note xml:id="Russian_1854_cap15-n340" type="translation" target="quarantana/cap15.xml#c15_12604" targetEnd="quarantana/cap15.xml#c15_12605">
+                          — «Хорошо, хорошо,</note>
+        <note xml:id="Russian_1854_cap15-n341" type="translation" target="quarantana/cap15.xml#c15_12606" targetEnd="quarantana/cap15.xml#c15_12616">
+                          впрочемъ не думайте, чтобъ правосудіе дремало.»</note>
+        <note xml:id="Russian_1854_cap15-n343" type="translation" target="quarantana/cap15.xml#c15_12617" targetEnd="quarantana/cap15.xml#c15_12621">
+                          — «Я? Праведный Боже!</note>
+        <note xml:id="Russian_1854_cap15-n344" type="translation" target="quarantana/cap15.xml#c15_12622" targetEnd="quarantana/cap15.xml#c15_12630">
+                          я вовсе объ этомъ не думаю, и только исполняю свою должность.»</note>
+        <note xml:id="Russian_1854_cap15-n345" type="translation" target="quarantana/cap15.xml#c15_12631" targetEnd="quarantana/cap15.xml#c15_12639">
+                          — «Это обыкновенная поговорка ваша. Не имѣете ли вы еще чего сказать?»</note>
+        <note xml:id="Russian_1854_cap15-n346" type="translation" target="quarantana/cap15.xml#c15_12640" targetEnd="quarantana/cap15.xml#c15_12650">
+                          — «Что вамъ угодно, чтобы я еще сказалъ? Истина всегда одинакова.»</note>
+        <note xml:id="Russian_1854_cap15-n348" type="translation" target="quarantana/cap15.xml#c15_12651" targetEnd="quarantana/cap15.xml#c15_12658">
+                          — «Хорошо, показанiе ваше пока достаточно,</note>
+        <note xml:id="Russian_1854_cap15-n349" type="translation" target="quarantana/cap15.xml#c15_12659" targetEnd="quarantana/cap15.xml#c15_12663">
+                          но когда мы станемъ разсматривать дѣло,</note>
+        <note xml:id="Russian_1854_cap15-n350" type="translation" target="quarantana/cap15.xml#c15_12664" targetEnd="quarantana/cap15.xml#c15_12676">
+                          вы должны будете отдать болѣе подробный отчетъ.» —</note>
+        <note xml:id="Russian_1854_cap15-n351" type="translation" target="quarantana/cap15.xml#c15_12677" targetEnd="quarantana/cap15.xml#c15_12686">
+                          «О чемъ мнѣ доносить? Я болѣе ничего не знаю;</note>
+        <note xml:id="Russian_1854_cap15-n352" type="translation" target="quarantana/cap15.xml#c15_12687" targetEnd="quarantana/cap15.xml#c15_12694">
+                          я едва могу управиться и съ своими дѣлами.»</note>
+        <note xml:id="Russian_1854_cap15-n353" type="translation" target="quarantana/cap15.xml#c15_12695" targetEnd="quarantana/cap15.xml#c15_12699">
+                          — «Смотрите, чтобъ онъ не ушелъ.» —</note>
+        <note xml:id="Russian_1854_cap15-n354" type="translation" target="quarantana/cap15.xml#c15_12700" targetEnd="quarantana/cap15.xml#c15_12715">
+                          «Я надѣюсь, что вы доведете до свѣденія высшаго начальства, что я немедленно пришелъ исполнить свою обязанность.</note>
+        <note xml:id="Russian_1854_cap15-n355" type="translation" target="quarantana/cap15.xml#c15_12716" targetEnd="quarantana/cap15.xml#c15_12720">
+                          Честь имѣю вамъ кланяться.»</note>
+        <note xml:id="Russian_1854_cap15-n356" type="translation" target="quarantana/cap15.xml#c15_12721" targetEnd="quarantana/cap15.xml#c15_12733">
+                          Ренцо храпѣлъ уже около семи часовъ, какъ на разсвѣтѣ,</note>
+        <note xml:id="Russian_1854_cap15-n357" type="translation" target="quarantana/cap15.xml#c15_12734" targetEnd="quarantana/cap15.xml#c15_12737">
+                          когда бѣднякъ спалъ еще очень крѣпко,</note>
+        <note xml:id="Russian_1854_cap15-n358" type="translation" target="quarantana/cap15.xml#c15_12738" targetEnd="quarantana/cap15.xml#c15_12744">
+                          два сильныхъ толчка въ руку и громкой голосъ,</note>
+        <note xml:id="Russian_1854_cap15-n359" type="translation" target="quarantana/cap15.xml#c15_12745" targetEnd="quarantana/cap15.xml#c15_12758">
+                          кричавшій ему: «Лоренцо Трамальино!» вдругъ разбудили его.</note>
+        <note xml:id="Russian_1854_cap15-n360" type="translation" target="quarantana/cap15.xml#c15_12759" targetEnd="quarantana/cap15.xml#c15_12763">
+                          Онъ перевернулся, протянулъ руки,</note>
+        <note xml:id="Russian_1854_cap15-n361" type="translation" target="quarantana/cap15.xml#c15_12764" targetEnd="quarantana/cap15.xml#c15_12782">
+                          съ трудомъ открылъ глаза и увидѣлъ человѣка, въ черной одеждѣ,</note>
+        <note xml:id="Russian_1854_cap15-n362" type="translation" target="quarantana/cap15.xml#c15_12783" targetEnd="quarantana/cap15.xml#c15_12785">
+                          и двухъ другихъ,</note>
+        <note xml:id="Russian_1854_cap15-n363" type="translation" target="quarantana/cap15.xml#c15_12786" targetEnd="quarantana/cap15.xml#c15_12793">
+                          въ полномъ вооруженiи, по правую и по лѣвую сторону постели.</note>
+        <note xml:id="Russian_1854_cap15-n364" type="translation" target="quarantana/cap15.xml#c15_12794" targetEnd="quarantana/cap15.xml#c15_12797">
+                          Отъ изумленія,</note>
+        <note xml:id="Russian_1854_cap15-n365" type="translation" target="quarantana/cap15.xml#c15_12798" targetEnd="quarantana/cap15.xml#c15_12811">
+                          сна и винныхъ паровъ,</note>
+        <note xml:id="Russian_1854_cap15-n366" type="translation" target="quarantana/cap15.xml#c15_12812" targetEnd="quarantana/cap15.xml#c15_12816">
+                          Ренцо съ минуту оставался, какъ будто въ какомъ очарованіи.</note>
+        <note xml:id="Russian_1854_cap15-n367" type="translation" target="quarantana/cap15.xml#c15_12817" targetEnd="quarantana/cap15.xml#c15_12820">
+                          Думая еще, что все это сонъ,</note>
+        <note xml:id="Russian_1854_cap15-n368" type="translation" target="quarantana/cap15.xml#c15_12821" targetEnd="quarantana/cap15.xml#c15_12826">
+                          но непріятный сонъ,</note>
+        <note xml:id="Russian_1854_cap15-n369" type="translation" target="quarantana/cap15.xml#c15_12827" targetEnd="quarantana/cap15.xml#c15_12828">
+                          онъ ворочался,</note>
+        <note xml:id="Russian_1854_cap15-n370" type="translation" target="quarantana/cap15.xml#c15_12829" targetEnd="quarantana/cap15.xml#c15_12832">
+                          какъ бы желая совершенно проснуться.</note>
+        <note xml:id="Russian_1854_cap15-n371" type="translation" target="quarantana/cap15.xml#c15_12833" targetEnd="quarantana/cap15.xml#c15_12839">
+                          «Вставай скорѣе, Лоренцо Трамальино!»</note>
+        <note xml:id="Russian_1854_cap15-n372" type="translation" target="quarantana/cap15.xml#c15_12840" targetEnd="quarantana/cap15.xml#c15_12844">
+                          сказалъ незнакомецъ въ черномъ плащѣ,</note>
+        <note xml:id="Russian_1854_cap15-n374" type="translation" target="quarantana/cap15.xml#c15_12845" targetEnd="quarantana/cap15.xml#c15_12858">
+                          вставай и ступай за мною.» Это былъ вчерашній полицейскій чиновникъ.</note>
+        <note xml:id="Russian_1854_cap15-n375" type="translation" target="quarantana/cap15.xml#c15_12859" targetEnd="quarantana/cap15.xml#c15_12867">
+                          — «Лоренцо Трамальино!» сказалъ Ренцо. «Что это значитъ?</note>
+        <note xml:id="Russian_1854_cap15-n376" type="translation" target="quarantana/cap15.xml#c15_12868" targetEnd="quarantana/cap15.xml#c15_12871">
+                          Чего вы отъ меня хотите?</note>
+        <note xml:id="Russian_1854_cap15-n377" type="translation" target="quarantana/cap15.xml#c15_12872" targetEnd="quarantana/cap15.xml#c15_12877">
+                          Кто вамъ сказалъ мое имя?»</note>
+        <note xml:id="Russian_1854_cap15-n378" type="translation" target="quarantana/cap15.xml#c15_12878" targetEnd="quarantana/cap15.xml#c15_12879">
+                          — «Перестань болтать;</note>
+        <note xml:id="Russian_1854_cap15-n379" type="translation" target="quarantana/cap15.xml#c15_12880" targetEnd="quarantana/cap15.xml#c15_12882">
+                          вставай скорѣе,»</note>
+        <note xml:id="Russian_1854_cap15-n380" type="translation" target="quarantana/cap15.xml#c15_12883" targetEnd="quarantana/cap15.xml#c15_12891">
+                          сказалъ одинъ изъ сбировъ, стоявшій возлѣ него,</note>
+        <note xml:id="Russian_1854_cap15-n381" type="translation" target="quarantana/cap15.xml#c15_12892" targetEnd="quarantana/cap15.xml#c15_12896">
+                          взявъ его за руку.</note>
+        <note xml:id="Russian_1854_cap15-n382" type="translation" target="quarantana/cap15.xml#c15_12897" targetEnd="quarantana/cap15.xml#c15_12903">
+                          — «Что это за насилiе? вскричал Ренцо,</note>
+        <note xml:id="Russian_1854_cap15-n383" type="translation" target="quarantana/cap15.xml#c15_12904" targetEnd="quarantana/cap15.xml#c15_12906">
+                          выдернувъ свою руку.</note>
+        <note xml:id="Russian_1854_cap15-n384" type="translation" target="quarantana/cap15.xml#c15_12907" targetEnd="quarantana/cap15.xml#c15_12909">
+                          «Хозяинъ! хозяинъ!»</note>
+        <note xml:id="Russian_1854_cap15-n385" type="translation" target="quarantana/cap15.xml#c15_12910" targetEnd="quarantana/cap15.xml#c15_12921">
+                          — «Не взять ли его въ одной рубашкѣ!» спросилъ тотъ же сбиръ у полицейскаго чиновника.</note>
+        <note xml:id="Russian_1854_cap15-n386" type="translation" target="quarantana/cap15.xml#c15_12922" targetEnd="quarantana/cap15.xml#c15_12927">
+                          — «Слышите ли?» сказалъ сей послѣдній Ренцо.</note>
+        <note xml:id="Russian_1854_cap15-n387" type="translation" target="quarantana/cap15.xml#c15_12928" targetEnd="quarantana/cap15.xml#c15_12940">
+                          «Мы принуждены будемъ употребить это средство, если вы сію же минуту не пойдете съ нами.»</note>
+        <note xml:id="Russian_1854_cap15-n388" type="translation" target="quarantana/cap15.xml#c15_12941" targetEnd="quarantana/cap15.xml#c15_12945">
+                          — «А для чего же?» спросилъ Ренцо.</note>
+        <note xml:id="Russian_1854_cap15-n389" type="translation" target="quarantana/cap15.xml#c15_12946" targetEnd="quarantana/cap15.xml#c15_12954">
+                          — «Причину вы узнаете от полицейскаго пристава.»</note>
+        <note xml:id="Russian_1854_cap15-n390" type="translation" target="quarantana/cap15.xml#c15_12955" targetEnd="quarantana/cap15.xml#c15_12967">
+                          — «Я честный человѣкъ, ничего не сдѣлалъ предосудительнаго и удивляюсь...</note>
+        <note xml:id="Russian_1854_cap15-n391" type="translation" target="quarantana/cap15.xml#c15_12968" targetEnd="quarantana/cap15.xml#c15_12973">
+                          — «Тѣмъ лучше для васъ.</note>
+        <note xml:id="Russian_1854_cap15-n392" type="translation" target="quarantana/cap15.xml#c15_12974" targetEnd="quarantana/cap15.xml#c15_12985">
+                          Тогда вы кончите съ нимъ въ два слова, и васъ отпустятъ.»</note>
+        <note xml:id="Russian_1854_cap15-n393" type="translation" target="quarantana/cap15.xml#c15_12986" targetEnd="quarantana/cap15.xml#c15_12989">
+                          — «Отпустите меня сей часъ,»</note>
+        <note xml:id="Russian_1854_cap15-n394" type="translation" target="quarantana/cap15.xml#c15_12990" targetEnd="quarantana/cap15.xml#c15_12999">
+                          возразил Ренцо: «мнѣ нечего толковать съ судьями.»</note>
+        <note xml:id="Russian_1854_cap15-n396" type="translation" target="quarantana/cap15.xml#c15_13000" targetEnd="quarantana/cap15.xml#c15_13004">
+                          — «Ну, перестаньте!» сказал один изъ сбировъ.</note>
+        <note xml:id="Russian_1854_cap15-n397" type="translation" target="quarantana/cap15.xml#c15_13005" targetEnd="quarantana/cap15.xml#c15_13011">
+                          — «Не вести ли его?» прибавилъ другой.»</note>
+        <note xml:id="Russian_1854_cap15-n398" type="translation" target="quarantana/cap15.xml#c15_13012" targetEnd="quarantana/cap15.xml#c15_13016">
+                          — «Лоренцо Трамальино!» сказалъ стряпчій.</note>
+        <note xml:id="Russian_1854_cap15-n399" type="translation" target="quarantana/cap15.xml#c15_13017" targetEnd="quarantana/cap15.xml#c15_13022">
+                          — «Какимъ образомъ вы узнали мое имя!</note>
+        <note xml:id="Russian_1854_cap15-n400" type="translation" target="quarantana/cap15.xml#c15_13023" targetEnd="quarantana/cap15.xml#c15_13026">
+                          — «Исполняйте свою обязанность,»</note>
+        <note xml:id="Russian_1854_cap15-n401" type="translation" target="quarantana/cap15.xml#c15_13027" targetEnd="quarantana/cap15.xml#c15_13031">
+                          сказалъ стряпчiй,</note>
+        <note xml:id="Russian_1854_cap15-n402" type="translation" target="quarantana/cap15.xml#c15_13032" targetEnd="quarantana/cap15.xml#c15_13044">
+                          обратившись къ сбирамъ, которые немедленно стащили Ренцо съ постели.</note>
+        <note xml:id="Russian_1854_cap15-n404" type="translation" target="quarantana/cap15.xml#c15_13045" targetEnd="quarantana/cap15.xml#c15_13052">
+                          — «Не смѣйте трогать честнаго человѣка, иначе...</note>
+        <note xml:id="Russian_1854_cap15-n405" type="translation" target="quarantana/cap15.xml#c15_13053" targetEnd="quarantana/cap15.xml#c15_13057">
+                          Я самъ могу одѣться. —</note>
+        <note xml:id="Russian_1854_cap15-n406" type="translation" target="quarantana/cap15.xml#c15_13058" targetEnd="quarantana/cap15.xml#c15_13062">
+                          «Вставайте же и одѣвайтесь скорѣе.</note>
+        <note xml:id="Russian_1854_cap15-n407" type="omission" target="quarantana/cap15.xml#c15_13014" targetEnd="quarantana/cap15.xml#c15_13016"/>
+        <note xml:id="Russian_1854_cap15-n408" type="translation" target="quarantana/cap15.xml#c15_13066" targetEnd="quarantana/cap15.xml#c15_13067">
+                          — «Я встаю,»</note>
+        <note xml:id="Russian_1854_cap15-n409" type="translation" target="quarantana/cap15.xml#c15_13068" targetEnd="quarantana/cap15.xml#c15_13082">
+                          отвѣчалъ Ренцо и сталъ сбирать платье, которое было разбросано по кровати,</note>
+        <note xml:id="Russian_1854_cap15-n410" type="translation" target="quarantana/cap15.xml#c15_13083" targetEnd="quarantana/cap15.xml#c15_13089">
+                          такъ какъ доски на берегу моря послѣ кораблекрушенія, и,</note>
+        <note xml:id="Russian_1854_cap15-n411" type="translation" target="quarantana/cap15.xml#c15_13090" targetEnd="quarantana/cap15.xml#c15_13093">
+                          начиная одѣваться,</note>
+        <note xml:id="Russian_1854_cap15-n412" type="translation" target="quarantana/cap15.xml#c15_13094" targetEnd="quarantana/cap15.xml#c15_13096">
+                          продолжалъ:</note>
+        <note xml:id="Russian_1854_cap15-n413" type="translation" target="quarantana/cap15.xml#c15_13097" targetEnd="quarantana/cap15.xml#c15_13105">
+                          «Но я никакъ не хочу итти къ полицейскому приставу» продолжалъ онъ.</note>
+        <note xml:id="Russian_1854_cap15-n414" type="translation" target="quarantana/cap15.xml#c15_13106" targetEnd="quarantana/cap15.xml#c15_13111">
+                          «Мнѣ до него нѣтъ никакого дѣла.</note>
+        <note xml:id="Russian_1854_cap15-n415" type="translation" target="quarantana/cap15.xml#c15_13112" targetEnd="quarantana/cap15.xml#c15_13118">
+                          А такъ какъ мнѣ несправедливо дѣлаютъ такую обиду,</note>
+        <note xml:id="Russian_1854_cap15-n416" type="translation" target="quarantana/cap15.xml#c15_13119" targetEnd="quarantana/cap15.xml#c15_13123">
+                          то пусть лучше отведутъ къ Феррерѣ,</note>
+        <note xml:id="Russian_1854_cap15-n417" type="translation" target="quarantana/cap15.xml#c15_13124" targetEnd="quarantana/cap15.xml#c15_13126">
+                          я его знаю;</note>
+        <note xml:id="Russian_1854_cap15-n418" type="translation" target="quarantana/cap15.xml#c15_13127" targetEnd="quarantana/cap15.xml#c15_13136">
+                          онъ добрый человѣкъ и мнѣ обязанъ.»</note>
+        <note xml:id="Russian_1854_cap15-n420" type="translation" target="quarantana/cap15.xml#c15_13137" targetEnd="quarantana/cap15.xml#c15_13138">
+                          — «Хорошо, хорошо,</note>
+        <note xml:id="Russian_1854_cap15-n421" type="omission" target="quarantana/cap15.xml#c15_10729" targetEnd="quarantana/cap15.xml#c15_10729"/>
+        <note xml:id="Russian_1854_cap15-n422" type="translation" target="quarantana/cap15.xml#c15_13140" targetEnd="quarantana/cap15.xml#c15_13143">
+                          васъ отведутъ къ Феррерѣ,»</note>
+        <note xml:id="Russian_1854_cap15-n423" type="translation" target="quarantana/cap15.xml#c15_13144" targetEnd="quarantana/cap15.xml#c15_13146">
+                          отвѣчалъ стряпчий,</note>
+        <note xml:id="Russian_1854_cap15-n424" type="translation" target="quarantana/cap15.xml#c15_13147" targetEnd="quarantana/cap15.xml#c15_13158">
+                          который въ другое время разсмѣялся бы на такое преложеніе,</note>
+        <note xml:id="Russian_1854_cap15-n425" type="translation" target="quarantana/cap15.xml#c15_13159" targetEnd="quarantana/cap15.xml#c15_13164">
+                          но тогда было не до смѣха.</note>
+        <note xml:id="Russian_1854_cap15-n426" type="translation" target="quarantana/cap15.xml#c15_13165" targetEnd="quarantana/cap15.xml#c15_13167">
+                          Еще идучи къ Ренцо,</note>
+        <note xml:id="Russian_1854_cap15-n427" type="translation" target="quarantana/cap15.xml#c15_13168" targetEnd="quarantana/cap15.xml#c15_13176">
+                          онъ замѣтилъ большое движеніе въ народѣ,</note>
+        <note xml:id="Russian_1854_cap15-n428" type="translation" target="quarantana/cap15.xml#c15_13177" targetEnd="quarantana/cap15.xml#c15_13181">
+                          не понимая,</note>
+        <note xml:id="Russian_1854_cap15-n429" type="translation" target="quarantana/cap15.xml#c15_13182" targetEnd="quarantana/cap15.xml#c15_13193">
+                          продолженіе ли это прежняго возмущенія или новое.</note>
+        <note xml:id="Russian_1854_cap15-n430" type="translation" target="quarantana/cap15.xml#c15_13194" targetEnd="quarantana/cap15.xml#c15_13207">
+                          Толпы собирались со всѣхъ сторонъ;</note>
+        <note xml:id="Russian_1854_cap15-n431" type="translation" target="quarantana/cap15.xml#c15_13208" targetEnd="quarantana/cap15.xml#c15_13223">
+                          онъ осторожно прислушивался и ему казалось,</note>
+        <note xml:id="Russian_1854_cap15-n432" type="translation" target="quarantana/cap15.xml#c15_13224" targetEnd="quarantana/cap15.xml#c15_13228">
+                          что шумъ увеличивался.</note>
+        <note xml:id="Russian_1854_cap15-n433" type="translation" target="quarantana/cap15.xml#c15_13229" targetEnd="quarantana/cap15.xml#c15_13232">
+                          Ему хотѣлось бы скорѣе удалиться</note>
+        <note xml:id="Russian_1854_cap15-n434" type="omission" target="quarantana/cap15.xml#c15_13233" targetEnd="quarantana/cap15.xml#c15_13242"/>
+        <note xml:id="Russian_1854_cap15-n435" type="translation" target="quarantana/cap15.xml#c15_13243" targetEnd="quarantana/cap15.xml#c15_13250">
+                          и не употреблять насилія для отведенія Ренцо.</note>
+        <note xml:id="Russian_1854_cap15-n436" type="omission" target="quarantana/cap15.xml#c15_13251" targetEnd="quarantana/cap15.xml#c15_13263"/>
+        <note xml:id="Russian_1854_cap15-n437" type="translation" target="quarantana/cap15.xml#c15_13264" targetEnd="quarantana/cap15.xml#c15_13268">
+                          Въ семъ намѣреніи онъ дѣлалъ знаки сбирамъ,</note>
+        <note xml:id="Russian_1854_cap15-n438" type="translation" target="quarantana/cap15.xml#c15_13269" targetEnd="quarantana/cap15.xml#c15_13276">
+                          чтобы они его не раздражали</note>
+        <note xml:id="Russian_1854_cap15-n439" type="translation" target="quarantana/cap15.xml#c15_13277" targetEnd="quarantana/cap15.xml#c15_13285">
+                          и самъ съ своей стороны старался уговорить его ласками.</note>
+        <note xml:id="Russian_1854_cap15-n440" type="translation" target="quarantana/cap15.xml#c15_13286" targetEnd="quarantana/cap15.xml#c15_13288">
+                          Однакоже молодой человѣкъ,</note>
+        <note xml:id="Russian_1854_cap15-n441" type="translation" target="quarantana/cap15.xml#c15_13289" targetEnd="quarantana/cap15.xml#c15_13302">
+                          стараясь припомнить все, что происходило наканунѣ,</note>
+        <note xml:id="Russian_1854_cap15-n443" type="translation" target="quarantana/cap15.xml#c15_13303" targetEnd="quarantana/cap15.xml#c15_13324">
+                          заключилъ, что приказанія, имя, прозваніе и проч: были причиною сей непріятности;</note>
+        <note xml:id="Russian_1854_cap15-n444" type="translation" target="quarantana/cap15.xml#c15_13325" targetEnd="quarantana/cap15.xml#c15_13334">
+                          но какимъ же образомъ этотъ человѣкъ могъ узнать его имя?</note>
+        <note xml:id="Russian_1854_cap15-n445" type="translation" target="quarantana/cap15.xml#c15_13335" targetEnd="quarantana/cap15.xml#c15_13342">
+                          И что могло случиться ночью,</note>
+        <note xml:id="Russian_1854_cap15-n446" type="translation" target="quarantana/cap15.xml#c15_13343" targetEnd="quarantana/cap15.xml#c15_13363">
+                          что полиція осмѣлилась останавливать одного изъ тѣхъ людей,</note>
+        <note xml:id="Russian_1854_cap15-n447" type="translation" target="quarantana/cap15.xml#c15_13364" targetEnd="quarantana/cap15.xml#c15_13372">
+                          которые принимали сильное участіе въ происшествіяхъ минувшаго дня,</note>
+        <note xml:id="Russian_1854_cap15-n448" type="translation" target="quarantana/cap15.xml#c15_13373" targetEnd="quarantana/cap15.xml#c15_13379">
+                          и которые, вѣроятно, не всѣ уснули,</note>
+        <note xml:id="Russian_1854_cap15-n449" type="translation" target="quarantana/cap15.xml#c15_13380" targetEnd="quarantana/cap15.xml#c15_13388">
+                          ибо шумъ на улицахъ болѣе и болѣе увеличивался?</note>
+        <note xml:id="Russian_1854_cap15-n450" type="translation" target="quarantana/cap15.xml#c15_13389" targetEnd="quarantana/cap15.xml#c15_13394">
+                          Потомъ, взглянувъ на стряпчаго,</note>
+        <note xml:id="Russian_1854_cap15-n451" type="translation" target="quarantana/cap15.xml#c15_13395" targetEnd="quarantana/cap15.xml#c15_13410">
+                          Ренцо замѣтилъ его смущеніе, которое онъ напрасно старался скрывать.</note>
+        <note xml:id="Russian_1854_cap15-n452" type="translation" target="quarantana/cap15.xml#c15_13411" targetEnd="quarantana/cap15.xml#c15_13420">
+                          Чтобы болѣе увѣриться въ своихъ предположеніяхъ,</note>
+        <note xml:id="Russian_1854_cap15-n453" type="translation" target="quarantana/cap15.xml#c15_13421" targetEnd="quarantana/cap15.xml#c15_13430">
+                          узнать мѣстности и выиграть время для совершенія своего удара,</note>
+        <note xml:id="Russian_1854_cap15-n454" type="translation" target="quarantana/cap15.xml#c15_13431" targetEnd="quarantana/cap15.xml#c15_13449">
+                          онъ сказалъ: «Теперь я знаю, что причиною всего этого распросы объ имени и отечествѣ.</note>
+        <note xml:id="Russian_1854_cap15-n455" type="translation" target="quarantana/cap15.xml#c15_13450" targetEnd="quarantana/cap15.xml#c15_13458">
+                          Вчера я былъ немного навеселѣ.</note>
+        <note xml:id="Russian_1854_cap15-n457" type="translation" target="quarantana/cap15.xml#c15_13459" targetEnd="quarantana/cap15.xml#c15_13471">
+                          Эти проклятые трактирщики держутъ иногда такое вино, которое прямо бросается въ голову,</note>
+        <note xml:id="Russian_1854_cap15-n458" type="translation" target="quarantana/cap15.xml#c15_13472" targetEnd="quarantana/cap15.xml#c15_13473">
+                          а вы знаете,</note>
+        <note xml:id="Russian_1854_cap15-n459" type="translation" target="quarantana/cap15.xml#c15_13474" targetEnd="quarantana/cap15.xml#c15_13487">
+                          что тогда трудно удержать языкъ.</note>
+        <note xml:id="Russian_1854_cap15-n460" type="translation" target="quarantana/cap15.xml#c15_13488" targetEnd="quarantana/cap15.xml#c15_13493">
+                          Но если въ томъ только дѣло,</note>
+        <note xml:id="Russian_1854_cap15-n461" type="translation" target="quarantana/cap15.xml#c15_13494" targetEnd="quarantana/cap15.xml#c15_13500">
+                          я готовъ васъ удовлетворить.</note>
+        <note xml:id="Russian_1854_cap15-n462" type="translation" target="quarantana/cap15.xml#c15_13501" targetEnd="quarantana/cap15.xml#c15_13509">
+                          При томъ вы уже знаете мое имя.</note>
+        <note xml:id="Russian_1854_cap15-n463" type="translation" target="quarantana/cap15.xml#c15_13510" targetEnd="quarantana/cap15.xml#c15_13514">
+                          Какой чортъ могъ вамъ сказать его?»</note>
+        <note xml:id="Russian_1854_cap15-n465" type="translation" target="quarantana/cap15.xml#c15_13515" targetEnd="quarantana/cap15.xml#c15_13516">
+                          — «Очень хорошо, мой другъ,»</note>
+        <note xml:id="Russian_1854_cap15-n466" type="translation" target="quarantana/cap15.xml#c15_13517" targetEnd="quarantana/cap15.xml#c15_13522">
+                          отвѣчалъ ласково стряпчій.</note>
+        <note xml:id="Russian_1854_cap15-n467" type="translation" target="quarantana/cap15.xml#c15_13523" targetEnd="quarantana/cap15.xml#c15_13534">
+                          «Я вижу, что вы благоразумны, и смѣло можете на меня положиться,</note>
+        <note xml:id="Russian_1854_cap15-n468" type="omission" target="quarantana/cap15.xml#c15_13535" targetEnd="quarantana/cap15.xml#c15_13540"/>
+        <note xml:id="Russian_1854_cap15-n469" type="omission" target="quarantana/cap15.xml#c15_13541" targetEnd="quarantana/cap15.xml#c15_13553"/>
+        <note xml:id="Russian_1854_cap15-n470" type="translation" target="quarantana/cap15.xml#c15_13554" targetEnd="quarantana/cap15.xml#c15_13562">
+                          васъ не долго продержутъ и тотчасть освободятъ.</note>
+        <note xml:id="Russian_1854_cap15-n471" type="translation" target="quarantana/cap15.xml#c15_13563" targetEnd="quarantana/cap15.xml#c15_13570">
+                          Но это не въ моей волѣ,</note>
+        <note xml:id="Russian_1854_cap15-n472" type="translation" target="quarantana/cap15.xml#c15_13571" targetEnd="quarantana/cap15.xml#c15_13574">
+                          и я не могу васъ отпустить,</note>
+        <note xml:id="Russian_1854_cap15-n473" type="translation" target="quarantana/cap15.xml#c15_13575" targetEnd="quarantana/cap15.xml#c15_13576">
+                          какъ бы мнѣ ни хотѣлось...</note>
+        <note xml:id="Russian_1854_cap15-n474" type="translation" target="quarantana/cap15.xml#c15_13577" targetEnd="quarantana/cap15.xml#c15_13579">
+                          Пойдемте скорѣе.</note>
+        <note xml:id="Russian_1854_cap15-n475" type="translation" target="quarantana/cap15.xml#c15_13580" targetEnd="quarantana/cap15.xml#c15_13594">
+                          Когда узнаютъ ваше имя... къ томужъ и я замолвлю за васъ словечко.</note>
+        <note xml:id="Russian_1854_cap15-n476" type="translation" target="quarantana/cap15.xml#c15_13595" targetEnd="quarantana/cap15.xml#c15_13598">
+                          Положитесь на меня» ...</note>
+        <note xml:id="Russian_1854_cap15-n477" type="omission" target="quarantana/cap15.xml#c15_13599" targetEnd="quarantana/cap15.xml#c15_13601"/>
+        <note xml:id="Russian_1854_cap15-n478" type="translation" target="quarantana/cap15.xml#c15_13602" targetEnd="quarantana/cap15.xml#c15_13608">
+                          — «Такъ вы не можете! понимаю отвѣчалъ Ренцо,</note>
+        <note xml:id="Russian_1854_cap15-n479" type="translation" target="quarantana/cap15.xml#c15_13609" targetEnd="quarantana/cap15.xml#c15_13629">
+                          и продолжалъ одѣваться отталкивая руки сбировъ, которые хотѣли ему помочь.</note>
+        <note xml:id="Russian_1854_cap15-n480" type="translation" target="quarantana/cap15.xml#c15_13630" targetEnd="quarantana/cap15.xml#c15_13639">
+                          — «Пойдемъ ли мы черезъ соборную площадь? спросилъ онъ потомъ у стряпчаго.» —</note>
+        <note xml:id="Russian_1854_cap15-n481" type="translation" target="quarantana/cap15.xml#c15_13640" targetEnd="quarantana/cap15.xml#c15_13646">
+                          «Мнѣ все равно,</note>
+        <note xml:id="Russian_1854_cap15-n482" type="translation" target="quarantana/cap15.xml#c15_13647" targetEnd="quarantana/cap15.xml#c15_13653">
+                          гдѣ хотите,»</note>
+        <note xml:id="Russian_1854_cap15-n483" type="translation" target="quarantana/cap15.xml#c15_13654" targetEnd="quarantana/cap15.xml#c15_13655">
+                          возразилъ сей послѣдній,</note>
+        <note xml:id="Russian_1854_cap15-n484" type="translation" target="quarantana/cap15.xml#c15_13656" targetEnd="quarantana/cap15.xml#c15_13678">
+                          внутренно досадуя, что не можетъ воспользоваться симъ таинственнымъ вопросомъ.</note>
+        <note xml:id="Russian_1854_cap15-n485" type="translation" target="quarantana/cap15.xml#c15_13679" targetEnd="quarantana/cap15.xml#c15_13686">
+                          «Надобно признаться, что я несчастливъ,» подумалъ онъ,</note>
+        <note xml:id="Russian_1854_cap15-n486" type="translation" target="quarantana/cap15.xml#c15_13687" targetEnd="quarantana/cap15.xml#c15_13693">
+                          « мнѣ попадается человѣкъ,</note>
+        <note xml:id="Russian_1854_cap15-n487" type="translation" target="quarantana/cap15.xml#c15_13694" targetEnd="quarantana/cap15.xml#c15_13700">
+                          который во всемъ сознается,</note>
+        <note xml:id="Russian_1854_cap15-n488" type="omission" target="quarantana/cap15.xml#c15_13701" targetEnd="quarantana/cap15.xml#c15_13716"/>
+        <note xml:id="Russian_1854_cap15-n489" type="translation" target="quarantana/cap15.xml#c15_13717" targetEnd="quarantana/cap15.xml#c15_13726">
+                          и, кажется все можно отъ него вывѣдать.</note>
+        <note xml:id="Russian_1854_cap15-n490" type="omission" target="quarantana/cap15.xml#c15_13727" targetEnd="quarantana/cap15.xml#c15_13741"/>
+        <note xml:id="Russian_1854_cap15-n491" type="translation" target="quarantana/cap15.xml#c15_13742" targetEnd="quarantana/cap15.xml#c15_13756">
+                          Надобно же, чтобъ такой человѣкъ попался мнѣ въ эту минуту!</note>
+        <note xml:id="Russian_1854_cap15-n492" type="translation" target="quarantana/cap15.xml#c15_13757" targetEnd="quarantana/cap15.xml#c15_13760">
+                          Но дѣлать нечего,»</note>
+        <note xml:id="Russian_1854_cap15-n493" type="translation" target="quarantana/cap15.xml#c15_13761" targetEnd="quarantana/cap15.xml#c15_13767">
+                          продолжалъ онъ, прислушиваясь,</note>
+        <note xml:id="Russian_1854_cap15-n494" type="translation" target="quarantana/cap15.xml#c15_13768" targetEnd="quarantana/cap15.xml#c15_13785">
+                          «дѣлать нечего: нынѣшній день, можетъ быть, будетъ жарче вчерашняго.»</note>
+        <note xml:id="Russian_1854_cap15-n495" type="translation" target="quarantana/cap15.xml#c15_13786" targetEnd="quarantana/cap15.xml#c15_13799">
+                          Такъ думалъ онъ, потому что на улицѣ послышался необыкновенный шумъ.</note>
+        <note xml:id="Russian_1854_cap15-n496" type="translation" target="quarantana/cap15.xml#c15_13800" targetEnd="quarantana/cap15.xml#c15_13807">
+                          Онъ не могъ удержаться, чтобъ не отворить окна</note>
+        <note xml:id="Russian_1854_cap15-n497" type="translation" target="quarantana/cap15.xml#c15_13808" targetEnd="quarantana/cap15.xml#c15_13810">
+                          и не взглянуть на то, что происходило.</note>
+        <note xml:id="Russian_1854_cap15-n498" type="translation" target="quarantana/cap15.xml#c15_13811" targetEnd="quarantana/cap15.xml#c15_13817">
+                          Онъ увидѣлъ, что это жители изъ предмѣстій,</note>
+        <note xml:id="Russian_1854_cap15-n499" type="translation" target="quarantana/cap15.xml#c15_13818" targetEnd="quarantana/cap15.xml#c15_13819">
+                          которые,</note>
+        <note xml:id="Russian_1854_cap15-n500" type="translation" target="quarantana/cap15.xml#c15_13820" targetEnd="quarantana/cap15.xml#c15_13827">
+                          на приказаніе патруля — удалиться,</note>
+        <note xml:id="Russian_1854_cap15-n501" type="translation" target="quarantana/cap15.xml#c15_13828" targetEnd="quarantana/cap15.xml#c15_13834">
+                          отвѣчали сначала ругательствами,</note>
+        <note xml:id="Russian_1854_cap15-n502" type="translation" target="quarantana/cap15.xml#c15_13835" targetEnd="quarantana/cap15.xml#c15_13840">
+                          а потомъ разошлись съ ропотомъ.</note>
+        <note xml:id="Russian_1854_cap15-n503" type="translation" target="quarantana/cap15.xml#c15_13841" targetEnd="quarantana/cap15.xml#c15_13856">
+                          Но болѣе всего поразило стряпчаго кроткое обращеніе солдатъ.</note>
+        <note xml:id="Russian_1854_cap15-n504" type="translation" target="quarantana/cap15.xml#c15_13857" targetEnd="quarantana/cap15.xml#c15_13865">
+                          Онъ закрылъ окно и нѣкоторое время размышлялъ,</note>
+        <note xml:id="Russian_1854_cap15-n505" type="translation" target="quarantana/cap15.xml#c15_13866" targetEnd="quarantana/cap15.xml#c15_13871">
+                          окончить ли ему свое дѣло,</note>
+        <note xml:id="Russian_1854_cap15-n506" type="translation" target="quarantana/cap15.xml#c15_13872" targetEnd="quarantana/cap15.xml#c15_13879">
+                          и поручить Ренцо сбирамъ,</note>
+        <note xml:id="Russian_1854_cap15-n507" type="translation" target="quarantana/cap15.xml#c15_13880" targetEnd="quarantana/cap15.xml#c15_13890">
+                          а самому отправиться къ полицейскому приставу и извѣстить его о происходившемъ.</note>
+        <note xml:id="Russian_1854_cap15-n509" type="translation" target="quarantana/cap15.xml#c15_13891" targetEnd="quarantana/cap15.xml#c15_13896">
+                          «Но можетъ быть,» подумалъ онъ,</note>
+        <note xml:id="Russian_1854_cap15-n510" type="translation" target="quarantana/cap15.xml#c15_13897" targetEnd="quarantana/cap15.xml#c15_13904">
+                          «меня упрекнутъ въ слабости,</note>
+        <note xml:id="Russian_1854_cap15-n511" type="translation" target="quarantana/cap15.xml#c15_13905" targetEnd="quarantana/cap15.xml#c15_13906">
+                          въ измѣнѣ,</note>
+        <note xml:id="Russian_1854_cap15-n512" type="translation" target="quarantana/cap15.xml#c15_13907" targetEnd="quarantana/cap15.xml#c15_13912">
+                          и спросятъ, отъ чего я не исполнилъ въ точности приказанія.</note>
+        <note xml:id="Russian_1854_cap15-n513" type="translation" target="quarantana/cap15.xml#c15_13913" targetEnd="quarantana/cap15.xml#c15_13915">
+                          Мячикъ въ моихъ рукахъ;</note>
+        <note xml:id="Russian_1854_cap15-n514" type="translation" target="quarantana/cap15.xml#c15_13916" targetEnd="quarantana/cap15.xml#c15_13917">
+                          надо его бросить.</note>
+        <note xml:id="Russian_1854_cap15-n515" type="translation" target="quarantana/cap15.xml#c15_13918" targetEnd="quarantana/cap15.xml#c15_13924">
+                          Проклятое возмущеніе! тяжелая служба!...»</note>
+        <note xml:id="Russian_1854_cap15-n516" type="translation" target="quarantana/cap15.xml#c15_13925" targetEnd="quarantana/cap15.xml#c15_13928">
+                          Ренцо стоялъ неподвижно,</note>
+        <note xml:id="Russian_1854_cap15-n517" type="translation" target="quarantana/cap15.xml#c15_13929" targetEnd="quarantana/cap15.xml#c15_13938">
+                          окруженный сбирами,</note>
+        <note xml:id="Russian_1854_cap15-n518" type="translation" target="quarantana/cap15.xml#c15_13939" targetEnd="quarantana/cap15.xml#c15_13949">
+                          стряпчій сдѣлалъ имъ знакъ, чтобъ они нисходительно обходились съ нимъ;</note>
+        <note xml:id="Russian_1854_cap15-n519" type="translation" target="quarantana/cap15.xml#c15_13950" targetEnd="quarantana/cap15.xml#c15_13953">
+                          а самъ сказалъ ему:</note>
+        <note xml:id="Russian_1854_cap15-n520" type="translation" target="quarantana/cap15.xml#c15_13954" targetEnd="quarantana/cap15.xml#c15_13959">
+                          «Пойдемте, добрый молодой человѣкъ!»</note>
+        <note xml:id="Russian_1854_cap15-n521" type="translation" target="quarantana/cap15.xml#c15_13960" targetEnd="quarantana/cap15.xml#c15_13962">
+                          Между тѣмъ Ренцо слушалъ,</note>
+        <note xml:id="Russian_1854_cap15-n522" type="translation" target="quarantana/cap15.xml#c15_13963" targetEnd="quarantana/cap15.xml#c15_13965">
+                          смотрѣлъ и размышлялъ.</note>
+        <note xml:id="Russian_1854_cap15-n523" type="translation" target="quarantana/cap15.xml#c15_13966" targetEnd="quarantana/cap15.xml#c15_13973">
+                          Онъ уже надѣлъ все кромѣ куртки,</note>
+        <note xml:id="Russian_1854_cap15-n524" type="translation" target="quarantana/cap15.xml#c15_13974" targetEnd="quarantana/cap15.xml#c15_13978">
+                          которую держалъ одной рукою,</note>
+        <note xml:id="Russian_1854_cap15-n525" type="translation" target="quarantana/cap15.xml#c15_13979" targetEnd="quarantana/cap15.xml#c15_13984">
+                          а другою шарилъ въ карманахъ.</note>
+        <note xml:id="Russian_1854_cap15-n526" type="translation" target="quarantana/cap15.xml#c15_13985" targetEnd="quarantana/cap15.xml#c15_13986">
+                          «Ого!» сказалъ онъ,</note>
+        <note xml:id="Russian_1854_cap15-n527" type="translation" target="quarantana/cap15.xml#c15_13987" targetEnd="quarantana/cap15.xml#c15_13994">
+                          значительно взглянувъ на стряпчаго,</note>
+        <note xml:id="Russian_1854_cap15-n528" type="translation" target="quarantana/cap15.xml#c15_13995" targetEnd="quarantana/cap15.xml#c15_14001">
+                          здѣсь были деньги и письмо.»</note>
+        <note xml:id="Russian_1854_cap15-n529" type="omission" target="quarantana/cap15.xml#c15_14002" targetEnd="quarantana/cap15.xml#c15_14003"/>
+        <note xml:id="Russian_1854_cap15-n530" type="translation" target="quarantana/cap15.xml#c15_14004" targetEnd="quarantana/cap15.xml#c15_14009">
+                          — «Все это исправно возвратится вамъ,</note>
+        <note xml:id="Russian_1854_cap15-n531" type="translation" target="quarantana/cap15.xml#c15_14010" targetEnd="quarantana/cap15.xml#c15_14018">
+                          когда исполнятся нѣкоторыя формы, о которыхъ я уже вамъ говорилъ.</note>
+        <note xml:id="Russian_1854_cap15-n532" type="translation" target="quarantana/cap15.xml#c15_14019" targetEnd="quarantana/cap15.xml#c15_14020">
+                          Теперь пойдемте.»</note>
+        <note xml:id="Russian_1854_cap15-n533" type="translation" target="quarantana/cap15.xml#c15_14021" targetEnd="quarantana/cap15.xml#c15_14023">
+                          — «Нѣтъ,»</note>
+        <note xml:id="Russian_1854_cap15-n534" type="translation" target="quarantana/cap15.xml#c15_14024" targetEnd="quarantana/cap15.xml#c15_14025">
+                          возразилъ Ренцо,</note>
+        <note xml:id="Russian_1854_cap15-n535" type="translation" target="quarantana/cap15.xml#c15_14026" targetEnd="quarantana/cap15.xml#c15_14028">
+                          покачавъ головою;</note>
+        <note xml:id="Russian_1854_cap15-n536" type="translation" target="quarantana/cap15.xml#c15_14029" targetEnd="quarantana/cap15.xml#c15_14032">
+                          «это мнѣ совсѣмъ ненравится.</note>
+        <note xml:id="Russian_1854_cap15-n537" type="translation" target="quarantana/cap15.xml#c15_14033" targetEnd="quarantana/cap15.xml#c15_14038">
+                          Я требую моей собственности.</note>
+        <note xml:id="Russian_1854_cap15-n538" type="translation" target="quarantana/cap15.xml#c15_14039" targetEnd="quarantana/cap15.xml#c15_14043">
+                          Въ поступкахъ моихъ я дамъ отчетъ,</note>
+        <note xml:id="Russian_1854_cap15-n539" type="translation" target="quarantana/cap15.xml#c15_14044" targetEnd="quarantana/cap15.xml#c15_14048">
+                          но прежде отдайте мнѣ письмо и деньги.</note>
+        <note xml:id="Russian_1854_cap15-n540" type="translation" target="quarantana/cap15.xml#c15_14049" targetEnd="quarantana/cap15.xml#c15_14055">
+                          — «Вотъ вамъ и то и другое; вы видите, какую я къ вамъ имѣю довѣренность;</note>
+        <note xml:id="Russian_1854_cap15-n541" type="translation" target="quarantana/cap15.xml#c15_14056" targetEnd="quarantana/cap15.xml#c15_14059">
+                          но пойдемте поскорѣе,»</note>
+        <note xml:id="Russian_1854_cap15-n542" type="translation" target="quarantana/cap15.xml#c15_14010" targetEnd="quarantana/cap15.xml#c15_14012">
+                          сказалъ стряпчій,</note>
+        <note xml:id="Russian_1854_cap15-n543" type="translation" target="quarantana/cap15.xml#c15_14063" targetEnd="quarantana/cap15.xml#c15_14075">
+                          вынимая изъ-за пазухи и отдавая со вздохомъ Ренцу взятыя вещи.</note>
+        <note xml:id="Russian_1854_cap15-n544" type="translation" target="quarantana/cap15.xml#c15_14076" targetEnd="quarantana/cap15.xml#c15_14076">
+                          Сей послѣдній,</note>
+        <note xml:id="Russian_1854_cap15-n545" type="translation" target="quarantana/cap15.xml#c15_14077" targetEnd="quarantana/cap15.xml#c15_14080">
+                          взявъ ихъ,</note>
+        <note xml:id="Russian_1854_cap15-n546" type="translation" target="quarantana/cap15.xml#c15_14081" targetEnd="quarantana/cap15.xml#c15_14084">
+                          сказалъ: «Имѣя,</note>
+        <note xml:id="Russian_1854_cap15-n547" type="translation" target="quarantana/cap15.xml#c15_14085" targetEnd="quarantana/cap15.xml#c15_14090">
+                          постоянно дѣла съ мошенниками,</note>
+        <note xml:id="Russian_1854_cap15-n548" type="translation" target="quarantana/cap15.xml#c15_14091" targetEnd="quarantana/cap15.xml#c15_14097">
+                          вы, вѣроятно, заимствовали у нихъ и привычки.»</note>
+        <note xml:id="Russian_1854_cap15-n549" type="translation" target="quarantana/cap15.xml#c15_14098" targetEnd="quarantana/cap15.xml#c15_14103">
+                          Сбиры вспыхнули отъ гнѣва,</note>
+        <note xml:id="Russian_1854_cap15-n550" type="translation" target="quarantana/cap15.xml#c15_14104" targetEnd="quarantana/cap15.xml#c15_14115">
+                          но стряпчій удержалъ ихъ грознымъ взглядомъ и прошепталъ:</note>
+        <note xml:id="Russian_1854_cap15-n551" type="translation" target="quarantana/cap15.xml#c15_14116" targetEnd="quarantana/cap15.xml#c15_14134">
+                          «Если ты когда нибудь попадешься въ тюрьму, то дорого заплатишь мнѣ за это слово.»</note>
+        <note xml:id="Russian_1854_cap15-n552" type="translation" target="quarantana/cap15.xml#c15_14135" targetEnd="quarantana/cap15.xml#c15_14145">
+                          Между тѣмъ какъ Ренцо надѣвалъ куртку и шляпу,</note>
+        <note xml:id="Russian_1854_cap15-n553" type="translation" target="quarantana/cap15.xml#c15_14146" targetEnd="quarantana/cap15.xml#c15_14152">
+                          стряпчій сдѣлалъ знакъ одному изъ сбировъ,</note>
+        <note xml:id="Russian_1854_cap15-n554" type="translation" target="quarantana/cap15.xml#c15_14153" targetEnd="quarantana/cap15.xml#c15_14158">
+                          чтобъ онъ шелъ впередъ,</note>
+        <note xml:id="Russian_1854_cap15-n555" type="translation" target="quarantana/cap15.xml#c15_14159" targetEnd="quarantana/cap15.xml#c15_14166">
+                          велѣлъ другому свести арестанта съ лѣстницы,</note>
+        <note xml:id="Russian_1854_cap15-n556" type="translation" target="quarantana/cap15.xml#c15_14167" targetEnd="quarantana/cap15.xml#c15_14170">
+                          а самъ пошелъ назади.</note>
+        <note xml:id="Russian_1854_cap15-n557" type="translation" target="quarantana/cap15.xml#c15_14171" targetEnd="quarantana/cap15.xml#c15_14174">
+                          Когда дошли до кухни,</note>
+        <note xml:id="Russian_1854_cap15-n558" type="translation" target="quarantana/cap15.xml#c15_14175" targetEnd="quarantana/cap15.xml#c15_14184">
+                          Ренцо вскричалъ: «Да гдѣ же этотъ услужливый хозяинъ? Куда онъ спрятался?»</note>
+        <note xml:id="Russian_1854_cap15-n559" type="translation" target="quarantana/cap15.xml#c15_14185" targetEnd="quarantana/cap15.xml#c15_14192">
+                          Стряпчій подалъ знакъ сбирамъ,</note>
+        <note xml:id="Russian_1854_cap15-n560" type="translation" target="quarantana/cap15.xml#c15_14193" targetEnd="quarantana/cap15.xml#c15_14203">
+                          они взяли молодаго человѣка одинъ за правую,</note>
+        <note xml:id="Russian_1854_cap15-n561" type="translation" target="quarantana/cap15.xml#c15_14204" targetEnd="quarantana/cap15.xml#c15_14221">
+                          другой за лѣвую руку и связали орудіемъ,</note>
+        <note xml:id="Russian_1854_cap15-n562" type="translation" target="quarantana/cap15.xml#c15_14222" targetEnd="quarantana/cap15.xml#c15_14223">
+                          которое называется кандалами.</note>
+        <note xml:id="Russian_1854_cap15-n563" type="translation" target="quarantana/cap15.xml#c15_14224" targetEnd="quarantana/cap15.xml#c15_14225">
+                          Эти кандалы состояли</note>
+        <note xml:id="Russian_1854_cap15-n564" type="translation" target="quarantana/cap15.xml#c15_14226" targetEnd="quarantana/cap15.xml#c15_14240">
+                          (непріятно входить въ такія мелочи, недостойныя исторической важности, но точность предписываетъ не отступать отъ сего правила)</note>
+        <note xml:id="Russian_1854_cap15-n565" type="translation" target="quarantana/cap15.xml#c15_14241" targetEnd="quarantana/cap15.xml#c15_14254">
+                          состояли, говорю я, изъ небольшой веревки,</note>
+        <note xml:id="Russian_1854_cap15-n566" type="translation" target="quarantana/cap15.xml#c15_14255" targetEnd="quarantana/cap15.xml#c15_14268">
+                          не болѣе ладони въ длину,</note>
+        <note xml:id="Russian_1854_cap15-n567" type="translation" target="quarantana/cap15.xml#c15_14269" targetEnd="quarantana/cap15.xml#c15_14272">
+                          съ небольшими клиньями по концамъ.</note>
+        <note xml:id="Russian_1854_cap15-n568" type="translation" target="quarantana/cap15.xml#c15_14273" targetEnd="quarantana/cap15.xml#c15_14279">
+                          Веревка окружала кисть руки арестанта,</note>
+        <note xml:id="Russian_1854_cap15-n569" type="translation" target="quarantana/cap15.xml#c15_14280" targetEnd="quarantana/cap15.xml#c15_14294">
+                          клинья проходили между большимъ и указательнымъ пальцами и оставались въ рукахъ исполнителя сей операціи,</note>
+        <note xml:id="Russian_1854_cap15-n570" type="translation" target="quarantana/cap15.xml#c15_14295" targetEnd="quarantana/cap15.xml#c15_14298">
+                          такъ что,</note>
+        <note xml:id="Russian_1854_cap15-n571" type="translation" target="quarantana/cap15.xml#c15_14299" targetEnd="quarantana/cap15.xml#c15_14299">
+                          поворачивая оными,</note>
+        <note xml:id="Russian_1854_cap15-n572" type="translation" target="quarantana/cap15.xml#c15_14300" targetEnd="quarantana/cap15.xml#c15_14303">
+                          онъ стѣснялъ завязку, сколько ему было угодно.</note>
+        <note xml:id="Russian_1854_cap15-n573" type="translation" target="quarantana/cap15.xml#c15_14304" targetEnd="quarantana/cap15.xml#c15_14325">
+                          Этимъ средствомъ онъ не только могъ совершенно владѣть своею жертвою, но даже укрощать безпокойныхъ;</note>
+        <note xml:id="Russian_1854_cap15-n574" type="translation" target="quarantana/cap15.xml#c15_14326" targetEnd="quarantana/cap15.xml#c15_14331">
+                          для сего вся веревка была унизана узлами.</note>
+        <note xml:id="Russian_1854_cap15-n575" type="translation" target="quarantana/cap15.xml#c15_14332" targetEnd="quarantana/cap15.xml#c15_14335">
+                          Напрасно Ренцо спорилъ и кричалъ:</note>
+        <note xml:id="Russian_1854_cap15-n576" type="translation" target="quarantana/cap15.xml#c15_14336" targetEnd="quarantana/cap15.xml#c15_14342">
+                          « что это значитъ? Можно ли поступать такъ съ честными людьми?...</note>
+        <note xml:id="Russian_1854_cap15-n577" type="translation" target="quarantana/cap15.xml#c15_14343" targetEnd="quarantana/cap15.xml#c15_14345">
+                          Но стряпчій,</note>
+        <note xml:id="Russian_1854_cap15-n578" type="translation" target="quarantana/cap15.xml#c15_14346" targetEnd="quarantana/cap15.xml#c15_14355">
+                          умѣвшій во всякомъ случаѣ быть ласковымъ,</note>
+        <note xml:id="Russian_1854_cap15-n579" type="translation" target="quarantana/cap15.xml#c15_14356" targetEnd="quarantana/cap15.xml#c15_14362">
+                          отвѣчалъ ему: «Потерпите немного. Они исполняютъ свою обязанность.</note>
+        <note xml:id="Russian_1854_cap15-n580" type="translation" target="quarantana/cap15.xml#c15_14363" targetEnd="quarantana/cap15.xml#c15_14367">
+                          Что прикажете дѣлать? Таковъ ужъ порядокъ.</note>
+        <note xml:id="Russian_1854_cap15-n581" type="translation" target="quarantana/cap15.xml#c15_14368" targetEnd="quarantana/cap15.xml#c15_14380">
+                          Мы не можемъ обходиться съ людьми, какъ бы желали.</note>
+        <note xml:id="Russian_1854_cap15-n582" type="translation" target="quarantana/cap15.xml#c15_14381" targetEnd="quarantana/cap15.xml#c15_14389">
+                          Если мы не будемъ исполнять приказаній начальства,</note>
+        <note xml:id="Russian_1854_cap15-n583" type="translation" target="quarantana/cap15.xml#c15_14390" targetEnd="quarantana/cap15.xml#c15_14393">
+                          то сами подвергнемся отвѣтственности,</note>
+        <note xml:id="Russian_1854_cap15-n584" type="translation" target="quarantana/cap15.xml#c15_14394" targetEnd="quarantana/cap15.xml#c15_14396">
+                          и съ нами поступятъ еще хуже.</note>
+        <note xml:id="Russian_1854_cap15-n585" type="translation" target="quarantana/cap15.xml#c15_14397" targetEnd="quarantana/cap15.xml#c15_14398">
+                          Потерпите немного.»</note>
+        <note xml:id="Russian_1854_cap15-n586" type="translation" target="quarantana/cap15.xml#c15_14399" targetEnd="quarantana/cap15.xml#c15_14401">
+                          Пока онъ говорилъ,</note>
+        <note xml:id="Russian_1854_cap15-n587" type="translation" target="quarantana/cap15.xml#c15_14402" targetEnd="quarantana/cap15.xml#c15_14410">
+                          спутники его стиснули веревку.</note>
+        <note xml:id="Russian_1854_cap15-n588" type="translation" target="quarantana/cap15.xml#c15_14411" targetEnd="quarantana/cap15.xml#c15_14425">
+                          Ренцо содрогнулся, какъ ретивой конь, чувствующій, что удила сжимаютъ ему ротъ,</note>
+        <note xml:id="Russian_1854_cap15-n589" type="translation" target="quarantana/cap15.xml#c15_14426" targetEnd="quarantana/cap15.xml#c15_14428">
+                          и насмѣшливо воскликнулъ: «терпѣніе!» —</note>
+        <note xml:id="Russian_1854_cap15-n590" type="translation" target="quarantana/cap15.xml#c15_14429" targetEnd="quarantana/cap15.xml#c15_14441">
+                          «Любезный мой!» сказалъ стряпчій, «это лучшее средство достигнуть нашей цѣли.</note>
+        <note xml:id="Russian_1854_cap15-n591" type="translation" target="quarantana/cap15.xml#c15_14442" targetEnd="quarantana/cap15.xml#c15_14446">
+                          Что же дѣлать? Это непріятно,</note>
+        <note xml:id="Russian_1854_cap15-n592" type="translation" target="quarantana/cap15.xml#c15_14447" targetEnd="quarantana/cap15.xml#c15_14452">
+                          я знаю; но если вы поступите, какъ должно,</note>
+        <note xml:id="Russian_1854_cap15-n593" type="translation" target="quarantana/cap15.xml#c15_14453" targetEnd="quarantana/cap15.xml#c15_14458">
+                          то скоро будете освобождены.</note>
+        <note xml:id="Russian_1854_cap15-n594" type="translation" target="quarantana/cap15.xml#c15_14459" targetEnd="quarantana/cap15.xml#c15_14465">
+                          Ибо видя въ васъ доброе расположеніе,</note>
+        <note xml:id="Russian_1854_cap15-n595" type="translation" target="quarantana/cap15.xml#c15_14466" targetEnd="quarantana/cap15.xml#c15_14472">
+                          я принимаю въ васъ участіе,</note>
+        <note xml:id="Russian_1854_cap15-n596" type="translation" target="quarantana/cap15.xml#c15_14473" targetEnd="quarantana/cap15.xml#c15_14478">
+                          непремѣнно хочу помочь вамъ и дать совѣтъ,</note>
+        <note xml:id="Russian_1854_cap15-n597" type="translation" target="quarantana/cap15.xml#c15_14479" targetEnd="quarantana/cap15.xml#c15_14481">
+                          какъ должно дѣйствовать.</note>
+        <note xml:id="Russian_1854_cap15-n598" type="translation" target="quarantana/cap15.xml#c15_14482" targetEnd="quarantana/cap15.xml#c15_14484">
+                          Положитесь на меня;</note>
+        <note xml:id="Russian_1854_cap15-n599" type="translation" target="quarantana/cap15.xml#c15_14485" targetEnd="quarantana/cap15.xml#c15_14494">
+                          я въ этихъ дѣлахъ опытенъ; ступайте прямо,</note>
+        <note xml:id="Russian_1854_cap15-n600" type="translation" target="quarantana/cap15.xml#c15_14495" targetEnd="quarantana/cap15.xml#c15_14497">
+                          не оглядывайтесь</note>
+        <note xml:id="Russian_1854_cap15-n601" type="omission" target="quarantana/cap15.xml#c15_14498" targetEnd="quarantana/cap15.xml#c15_14505"/>
+        <note xml:id="Russian_1854_cap15-n602" type="translation" target="quarantana/cap15.xml#c15_14506" targetEnd="quarantana/cap15.xml#c15_14511">
+                          никто васъ не замѣтитъ</note>
+        <note xml:id="Russian_1854_cap15-n603" type="translation" target="quarantana/cap15.xml#c15_14512" targetEnd="quarantana/cap15.xml#c15_14517">
+                          и вы тѣмъ сохраните вашу честь.</note>
+        <note xml:id="Russian_1854_cap15-n604" type="translation" target="quarantana/cap15.xml#c15_14518" targetEnd="quarantana/cap15.xml#c15_14525">
+                          Черезъ часъ вы будете свободны.</note>
+        <note xml:id="Russian_1854_cap15-n605" type="translation" target="quarantana/cap15.xml#c15_14526" targetEnd="quarantana/cap15.xml#c15_14535">
+                          Теперь столько дѣла въ полиціи, что васъ скоро отпустятъ.</note>
+        <note xml:id="Russian_1854_cap15-n606" type="translation" target="quarantana/cap15.xml#c15_14536" targetEnd="quarantana/cap15.xml#c15_14539">
+                          Я также замолвлю за васъ словечко...</note>
+        <note xml:id="Russian_1854_cap15-n607" type="translation" target="quarantana/cap15.xml#c15_14540" targetEnd="quarantana/cap15.xml#c15_14545">
+                          Вы пойдете къ вашимъ дѣламъ,</note>
+        <note xml:id="Russian_1854_cap15-n608" type="translation" target="quarantana/cap15.xml#c15_14546" targetEnd="quarantana/cap15.xml#c15_14555">
+                          и никто не узнаетъ, что вы были въ рукахъ полиціи.</note>
+        <note xml:id="Russian_1854_cap15-n609" type="translation" target="quarantana/cap15.xml#c15_14556" targetEnd="quarantana/cap15.xml#c15_14557">
+                          «Потомъ,</note>
+        <note xml:id="Russian_1854_cap15-n610" type="translation" target="quarantana/cap15.xml#c15_14558" targetEnd="quarantana/cap15.xml#c15_14566">
+                          оборотясь къ сбирамъ, онъ сказалъ имъ повелительно:</note>
+        <note xml:id="Russian_1854_cap15-n611" type="translation" target="quarantana/cap15.xml#c15_14567" targetEnd="quarantana/cap15.xml#c15_14572">
+                          «Не дѣлайте ему никакого вреда,</note>
+        <note xml:id="Russian_1854_cap15-n612" type="translation" target="quarantana/cap15.xml#c15_14573" targetEnd="quarantana/cap15.xml#c15_14576">
+                          ибо я беру его подъ свое покровительство.</note>
+        <note xml:id="Russian_1854_cap15-n613" type="translation" target="quarantana/cap15.xml#c15_14577" targetEnd="quarantana/cap15.xml#c15_14582">
+                          Исполняйте свою обязанность,</note>
+        <note xml:id="Russian_1854_cap15-n614" type="translation" target="quarantana/cap15.xml#c15_14583" targetEnd="quarantana/cap15.xml#c15_14592">
+                          но не забывайте, что онъ честный малый,</note>
+        <note xml:id="Russian_1854_cap15-n615" type="translation" target="quarantana/cap15.xml#c15_14593" targetEnd="quarantana/cap15.xml#c15_14609">
+                          скоро будетъ свободенъ и очень дорожитъ своею честью.</note>
+        <note xml:id="Russian_1854_cap15-n616" type="translation" target="quarantana/cap15.xml#c15_14610" targetEnd="quarantana/cap15.xml#c15_14622">
+                          Ступайте, какъ идете трое вмѣстѣ прогуливаться.»</note>
+        <note xml:id="Russian_1854_cap15-n617" type="translation" target="quarantana/cap15.xml#c15_14623" targetEnd="quarantana/cap15.xml#c15_14630">
+                          Наконецъ наморщивъ брови и возвысивъ голосъ,</note>
+        <note xml:id="Russian_1854_cap15-n618" type="translation" target="quarantana/cap15.xml#c15_14631" targetEnd="quarantana/cap15.xml#c15_14633">
+                          воскликнулъ: «Вы меня поняли!»</note>
+        <note xml:id="Russian_1854_cap15-n619" type="translation" target="quarantana/cap15.xml#c15_14634" targetEnd="quarantana/cap15.xml#c15_14648">
+                          И обратясь къ Ренцу, съ ласковой улыбкой,</note>
+        <note xml:id="Russian_1854_cap15-n620" type="omission" target="quarantana/cap15.xml#c15_14649" targetEnd="quarantana/cap15.xml#c15_14652"/>
+        <note xml:id="Russian_1854_cap15-n621" type="translation" target="quarantana/cap15.xml#c15_14653" targetEnd="quarantana/cap15.xml#c15_14667">
+                          сказалъ ему на ухо: «Будьте осторожны; положитесь на человѣка,</note>
+        <note xml:id="Russian_1854_cap15-n622" type="omission" target="quarantana/cap15.xml#c15_14668" targetEnd="quarantana/cap15.xml#c15_14671"/>
+        <note xml:id="Russian_1854_cap15-n623" type="translation" target="quarantana/cap15.xml#c15_14672" targetEnd="quarantana/cap15.xml#c15_14678">
+                          который принимаетъ въ васъ участіе. Пойдемте,»</note>
+        <note xml:id="Russian_1854_cap15-n624" type="translation" target="quarantana/cap15.xml#c15_14679" targetEnd="quarantana/cap15.xml#c15_14683">
+                          и всѣ они отправились въ путь.</note>
+        <note xml:id="Russian_1854_cap15-n625" type="translation" target="quarantana/cap15.xml#c15_14684" targetEnd="quarantana/cap15.xml#c15_14692">
+                          Однакоже Ренцо сомнѣвался въ этихъ льстивыхъ обѣщаніяхъ;</note>
+        <note xml:id="Russian_1854_cap15-n626" type="translation" target="quarantana/cap15.xml#c15_14693" targetEnd="quarantana/cap15.xml#c15_14704">
+                          онъ не вѣрилъ, чтобы стряпчій желалъ ему болѣе добра, нежели сбиры;</note>
+        <note xml:id="Russian_1854_cap15-n627" type="translation" target="quarantana/cap15.xml#c15_14705" targetEnd="quarantana/cap15.xml#c15_14715">
+                          или чтобъ принялъ его сторону изъ уваженія къ доброму имени и сохраненію его чести.</note>
+        <note xml:id="Russian_1854_cap15-n628" type="omission" target="quarantana/cap15.xml#c15_14716" targetEnd="quarantana/cap15.xml#c15_14721"/>
+        <note xml:id="Russian_1854_cap15-n630" type="translation" target="quarantana/cap15.xml#c15_14722" targetEnd="quarantana/cap15.xml#c15_14740">
+                          Онъ напротивъ былъ увѣренъ, что всѣ сіи увѣщанія клонились къ тому, чтобъ онъ не искалъ случая отъ него уйти,</note>
+        <note xml:id="Russian_1854_cap15-n631" type="translation" target="quarantana/cap15.xml#c15_14741" targetEnd="quarantana/cap15.xml#c15_14745">
+                          и представлялъ всѣ сіи причины,</note>
+        <note xml:id="Russian_1854_cap15-n632" type="translation" target="quarantana/cap15.xml#c15_14746" targetEnd="quarantana/cap15.xml#c15_14754">
+                          чтобъ отклонить охоту воспользоваться симъ случаемъ.</note>
+        <note xml:id="Russian_1854_cap15-n633" type="translation" target="quarantana/cap15.xml#c15_14755" targetEnd="quarantana/cap15.xml#c15_14784">
+                          Отъ сего Ренцо твердо рѣшился дѣлать совершенно противное тому, что совѣтовали.</note>
+        <note xml:id="Russian_1854_cap15-n634" type="translation" target="quarantana/cap15.xml#c15_14785" targetEnd="quarantana/cap15.xml#c15_14797">
+                          Но читатель не долженъ изъ сего заключать, что стряпчій былъ еще неопытенъ на поприщѣ обмана и лукавства,</note>
+        <note xml:id="Russian_1854_cap15-n635" type="translation" target="quarantana/cap15.xml#c15_14798" targetEnd="quarantana/cap15.xml#c15_14799">
+                          ибо весьма ошибется.</note>
+        <note xml:id="Russian_1854_cap15-n636" type="translation" target="quarantana/cap15.xml#c15_14800" targetEnd="quarantana/cap15.xml#c15_14803">
+                          Напротивъ того онъ былъ мастеръ своего дѣла,</note>
+        <note xml:id="Russian_1854_cap15-n637" type="translation" target="quarantana/cap15.xml#c15_14804" targetEnd="quarantana/cap15.xml#c15_14807">
+                          какъ говоритъ нашъ историкъ,</note>
+        <note xml:id="Russian_1854_cap15-n638" type="translation" target="quarantana/cap15.xml#c15_14808" targetEnd="quarantana/cap15.xml#c15_14815">
+                          который, по видимому, одинъ изъ его искреннихъ пріятелей,</note>
+        <note xml:id="Russian_1854_cap15-n639" type="translation" target="quarantana/cap15.xml#c15_14816" targetEnd="quarantana/cap15.xml#c15_14823">
+                          но въ это время онъ былъ въ совершенномъ растройствѣ.</note>
+        <note xml:id="Russian_1854_cap15-n640" type="translation" target="quarantana/cap15.xml#c15_14824" targetEnd="quarantana/cap15.xml#c15_14826">
+                          Въ минуты хладнокровія,</note>
+        <note xml:id="Russian_1854_cap15-n641" type="translation" target="quarantana/cap15.xml#c15_14827" targetEnd="quarantana/cap15.xml#c15_14837">
+                          я могу васъ увѣрить, что онъ самъ посмѣялся бы надъ человѣкомъ, который,</note>
+        <note xml:id="Russian_1854_cap15-n642" type="translation" target="quarantana/cap15.xml#c15_14838" targetEnd="quarantana/cap15.xml#c15_14847">
+                          чтобъ склонить другаго на что нибудь подозрительное,</note>
+        <note xml:id="Russian_1854_cap15-n643" type="translation" target="quarantana/cap15.xml#c15_14848" targetEnd="quarantana/cap15.xml#c15_14864">
+                          сталъ бы ему подавать такіе дружескіе совѣты, какъ бы изъ участія.</note>
+        <note xml:id="Russian_1854_cap15-n644" type="translation" target="quarantana/cap15.xml#c15_14865" targetEnd="quarantana/cap15.xml#c15_14876">
+                          Но это общий порокъ людей трусливыхъ и лукавыхъ:</note>
+        <note xml:id="Russian_1854_cap15-n645" type="translation" target="quarantana/cap15.xml#c15_14877" targetEnd="quarantana/cap15.xml#c15_14886">
+                          когда они замѣтятъ средства, которыя могутъ употребить противники для своей выгоды,</note>
+        <note xml:id="Russian_1854_cap15-n646" type="translation" target="quarantana/cap15.xml#c15_14887" targetEnd="quarantana/cap15.xml#c15_14912">
+                          то стараются ихъ отклонять отъ оныхъ и неотступно упрашивать не пользоваться ими подъ различными предлогами,</note>
+        <note xml:id="Russian_1854_cap15-n647" type="translation" target="quarantana/cap15.xml#c15_14913" targetEnd="quarantana/cap15.xml#c15_14927">
+                          и, находясь въ подобныхъ обстоятельствахъ, первые попалаются въ сѣти и обыкновенно играютъ самую жалкую роль.</note>
+        <note xml:id="Russian_1854_cap15-n652" type="omission" target="quarantana/cap15.xml#c15_14928" targetEnd="quarantana/cap15.xml#c15_14997"/>
+        <note xml:id="Russian_1854_cap15-n654" type="omission" target="quarantana/cap15.xml#c15_14998" targetEnd="quarantana/cap15.xml#c15_15046"/>
+        <note xml:id="Russian_1854_cap15-n655" type="omission" target="quarantana/cap15.xml#c15_15047" targetEnd="quarantana/cap15.xml#c15_15076"/>
+        <note xml:id="Russian_1854_cap15-n656" type="translation" target="quarantana/cap15.xml#c15_15077" targetEnd="quarantana/cap15.xml#c15_15099">
+                          Едва только они вышли на улицу, какъ Ренцо сталъ озираться вокругъ</note>
+        <note xml:id="Russian_1854_cap15-n657" type="translation" target="quarantana/cap15.xml#c15_15100" targetEnd="quarantana/cap15.xml#c15_15103">
+                          и прислушиваться къ разговорамъ проходящихъ.</note>
+        <note xml:id="Russian_1854_cap15-n658" type="translation" target="quarantana/cap15.xml#c15_15104" targetEnd="quarantana/cap15.xml#c15_15140">
+                          Народа было весьма немного, и хотя неудовольствіе выражалось на всѣхъ лицахъ, но все было мирно и спокойствіе не нарушалось.</note>
+        <note xml:id="Russian_1854_cap15-n659" type="translation" target="quarantana/cap15.xml#c15_15141" targetEnd="quarantana/cap15.xml#c15_15154">
+                          «Будьте осторожны, любезный! Помышляйте о вашей чести! шепталъ стряпчій.</note>
+        <note xml:id="Russian_1854_cap15-n660" type="translation" target="quarantana/cap15.xml#c15_15155" targetEnd="quarantana/cap15.xml#c15_15157">
+                          Но Ренцо,</note>
+        <note xml:id="Russian_1854_cap15-n661" type="translation" target="quarantana/cap15.xml#c15_15158" targetEnd="quarantana/cap15.xml#c15_15165">
+                          встрѣтивъ трехъ человѣкъ съ пламенными взорами,</note>
+        <note xml:id="Russian_1854_cap15-n662" type="translation" target="quarantana/cap15.xml#c15_15166" targetEnd="quarantana/cap15.xml#c15_15183">
+                          разговаривающихъ объ мукѣ и правосудіи,</note>
+        <note xml:id="Russian_1854_cap15-n663" type="translation" target="quarantana/cap15.xml#c15_15184" targetEnd="quarantana/cap15.xml#c15_15195">
+                          сталъ дѣлать имъ разные знаки и громко кашлять.</note>
+        <note xml:id="Russian_1854_cap15-n664" type="translation" target="quarantana/cap15.xml#c15_15196" targetEnd="quarantana/cap15.xml#c15_15204">
+                          Тѣ внимательно посмотрѣли на него и остановились,</note>
+        <note xml:id="Russian_1854_cap15-n665" type="translation" target="quarantana/cap15.xml#c15_15205" targetEnd="quarantana/cap15.xml#c15_15211">
+                          еще нѣсколько человѣкъ,</note>
+        <note xml:id="Russian_1854_cap15-n666" type="translation" target="quarantana/cap15.xml#c15_15212" targetEnd="quarantana/cap15.xml#c15_15225">
+                          привлеченные шумомъ присоединились къ нимъ и окружили его со всѣхъ сторонъ.</note>
+        <note xml:id="Russian_1854_cap15-n668" type="translation" target="quarantana/cap15.xml#c15_15226" targetEnd="quarantana/cap15.xml#c15_15230">
+                          «Будьте осторожны, любезный мой;</note>
+        <note xml:id="Russian_1854_cap15-n669" type="translation" target="quarantana/cap15.xml#c15_15231" targetEnd="quarantana/cap15.xml#c15_15234">
+                          не то испортите все дѣло и попадетесь въ бѣду,» шепталъ стряпчій.</note>
+        <note xml:id="Russian_1854_cap15-n670" type="translation" target="quarantana/cap15.xml#c15_15235" targetEnd="quarantana/cap15.xml#c15_15242">
+                          «Подумайте о своей чести, о добромъ имени.»</note>
+        <note xml:id="Russian_1854_cap15-n671" type="translation" target="quarantana/cap15.xml#c15_15243" targetEnd="quarantana/cap15.xml#c15_15248">
+                          Ренцо еще болѣе сталъ вертѣться.</note>
+        <note xml:id="Russian_1854_cap15-n672" type="translation" target="quarantana/cap15.xml#c15_15249" targetEnd="quarantana/cap15.xml#c15_15250">
+                          Сбиры,</note>
+        <note xml:id="Russian_1854_cap15-n673" type="translation" target="quarantana/cap15.xml#c15_15251" targetEnd="quarantana/cap15.xml#c15_15254">
+                          посмотрѣвъ другъ на друга,</note>
+        <note xml:id="Russian_1854_cap15-n674" type="translation" target="quarantana/cap15.xml#c15_15255" targetEnd="quarantana/cap15.xml#c15_15269">
+                          думали лучше поступить и стянули веревки.</note>
+        <note xml:id="Russian_1854_cap15-n675" type="translation" target="quarantana/cap15.xml#c15_15270" targetEnd="quarantana/cap15.xml#c15_15277">
+                          Плѣнникъ вскрикнулъ;</note>
+        <note xml:id="Russian_1854_cap15-n676" type="translation" target="quarantana/cap15.xml#c15_15278" targetEnd="quarantana/cap15.xml#c15_15294">
+                          народъ сбѣжался къ нему и загородилъ дорогу.</note>
+        <note xml:id="Russian_1854_cap15-n677" type="translation" target="quarantana/cap15.xml#c15_15295" targetEnd="quarantana/cap15.xml#c15_15297">
+                          «Это воръ,</note>
+        <note xml:id="Russian_1854_cap15-n678" type="translation" target="quarantana/cap15.xml#c15_15298" targetEnd="quarantana/cap15.xml#c15_15313">
+                          котораго мы поймали на мѣстѣ преступленія.</note>
+        <note xml:id="Russian_1854_cap15-n679" type="translation" target="quarantana/cap15.xml#c15_15314" targetEnd="quarantana/cap15.xml#c15_15319">
+                          Пропустите чиновника короля.»</note>
+        <note xml:id="Russian_1854_cap15-n680" type="translation" target="quarantana/cap15.xml#c15_15320" targetEnd="quarantana/cap15.xml#c15_15321">
+                          Но Ренцо,</note>
+        <note xml:id="Russian_1854_cap15-n681" type="translation" target="quarantana/cap15.xml#c15_15322" targetEnd="quarantana/cap15.xml#c15_15324">
+                          взглянувъ на сбировъ,</note>
+        <note xml:id="Russian_1854_cap15-n682" type="translation" target="quarantana/cap15.xml#c15_15325" targetEnd="quarantana/cap15.xml#c15_15332">
+                          поблѣднѣвшихъ отъ страха,</note>
+        <note xml:id="Russian_1854_cap15-n683" type="translation" target="quarantana/cap15.xml#c15_15333" targetEnd="quarantana/cap15.xml#c15_15346">
+                          хотѣлъ воспользоваться сею благопріятною минутою и воскликнулъ:</note>
+        <note xml:id="Russian_1854_cap15-n684" type="translation" target="quarantana/cap15.xml#c15_15347" targetEnd="quarantana/cap15.xml#c15_15350">
+                          «Друзья! Они потому меня схватили,</note>
+        <note xml:id="Russian_1854_cap15-n685" type="translation" target="quarantana/cap15.xml#c15_15351" targetEnd="quarantana/cap15.xml#c15_15357">
+                          что я вчера кричалъ: хлѣба и правосудія!</note>
+        <note xml:id="Russian_1854_cap15-n686" type="translation" target="quarantana/cap15.xml#c15_15358" targetEnd="quarantana/cap15.xml#c15_15363">
+                          Я честный человѣкъ и невинно страдаю: помогите мнѣ!»</note>
+        <note xml:id="Russian_1854_cap15-n687" type="omission" target="quarantana/cap15.xml#c15_15364" targetEnd="quarantana/cap15.xml#c15_15368"/>
+        <note xml:id="Russian_1854_cap15-n688" type="translation" target="quarantana/cap15.xml#c15_15369" targetEnd="quarantana/cap15.xml#c15_15379">
+                          Всѣ немедленно приняли его сторону.</note>
+        <note xml:id="Russian_1854_cap15-n689" type="translation" target="quarantana/cap15.xml#c15_15380" targetEnd="quarantana/cap15.xml#c15_15384">
+                          Сбиры сначала приказывали,</note>
+        <note xml:id="Russian_1854_cap15-n690" type="translation" target="quarantana/cap15.xml#c15_15385" targetEnd="quarantana/cap15.xml#c15_15386">
+                          потомъ просили,</note>
+        <note xml:id="Russian_1854_cap15-n691" type="translation" target="quarantana/cap15.xml#c15_15387" targetEnd="quarantana/cap15.xml#c15_15398">
+                          потомъ стали умолять, чтобы дали имъ дорогу;</note>
+        <note xml:id="Russian_1854_cap15-n692" type="translation" target="quarantana/cap15.xml#c15_15399" targetEnd="quarantana/cap15.xml#c15_15406">
+                          но толпа увеличивалась.</note>
+        <note xml:id="Russian_1854_cap15-n693" type="translation" target="quarantana/cap15.xml#c15_15407" targetEnd="quarantana/cap15.xml#c15_15411">
+                          Сіи послѣдніе видя, что дѣла идутъ не въ ихъ пользу,</note>
+        <note xml:id="Russian_1854_cap15-n694" type="translation" target="quarantana/cap15.xml#c15_15412" targetEnd="quarantana/cap15.xml#c15_15425">
+                          опустили веревки и смѣшались съ народомъ, чтобы спастись,</note>
+        <note xml:id="Russian_1854_cap15-n695" type="translation" target="quarantana/cap15.xml#c15_15426" targetEnd="quarantana/cap15.xml#c15_15428">
+                          не будучи никѣмъ замѣчены.</note>
+        <note xml:id="Russian_1854_cap15-n696" type="translation" target="quarantana/cap15.xml#c15_15429" targetEnd="quarantana/cap15.xml#c15_15436">
+                          Стряпчій желалъ бы сдѣлать тоже,</note>
+        <note xml:id="Russian_1854_cap15-n697" type="translation" target="quarantana/cap15.xml#c15_15437" targetEnd="quarantana/cap15.xml#c15_15445">
+                          но черная одежда, какъ знаменіе несчастія, обличала его.</note>
+        <note xml:id="Russian_1854_cap15-n698" type="translation" target="quarantana/cap15.xml#c15_15446" targetEnd="quarantana/cap15.xml#c15_15448">
+                          Бѣднякъ,</note>
+        <note xml:id="Russian_1854_cap15-n699" type="translation" target="quarantana/cap15.xml#c15_15449" targetEnd="quarantana/cap15.xml#c15_15459">
+                          блѣдный, какъ полотно,</note>
+        <note xml:id="Russian_1854_cap15-n700" type="translation" target="quarantana/cap15.xml#c15_15460" targetEnd="quarantana/cap15.xml#c15_15473">
+                          въ смертномъ страхѣ, прокрадывался изъ толпы и не могъ поднять глазъ,</note>
+        <note xml:id="Russian_1854_cap15-n701" type="translation" target="quarantana/cap15.xml#c15_15474" targetEnd="quarantana/cap15.xml#c15_15481">
+                          не встрѣтивъ ста человѣкъ, грозно взирающихъ на него.</note>
+        <note xml:id="Russian_1854_cap15-n702" type="translation" target="quarantana/cap15.xml#c15_15482" targetEnd="quarantana/cap15.xml#c15_15489">
+                          Онъ употреблялъ всѣ усилія, чтобы его почли иностранцемъ,</note>
+        <note xml:id="Russian_1854_cap15-n703" type="translation" target="quarantana/cap15.xml#c15_15490" targetEnd="quarantana/cap15.xml#c15_15494">
+                          нечаянно попавшимся въ толпу,</note>
+        <note xml:id="Russian_1854_cap15-n704" type="translation" target="quarantana/cap15.xml#c15_15495" targetEnd="quarantana/cap15.xml#c15_15505">
+                          какъ льдина, увлеченная быстрымъ стремленіемъ потока,</note>
+        <note xml:id="Russian_1854_cap15-n705" type="translation" target="quarantana/cap15.xml#c15_15506" targetEnd="quarantana/cap15.xml#c15_15522">
+                          и столкнувшись носъ къ носу съ человѣкомъ, наружности болѣе ужасной,</note>
+        <note xml:id="Russian_1854_cap15-n706" type="translation" target="quarantana/cap15.xml#c15_10163" targetEnd="quarantana/cap15.xml#c15_10162">
+                          нежели другіе,</note>
+        <note xml:id="Russian_1854_cap15-n707" type="translation" target="quarantana/cap15.xml#c15_15524" targetEnd="quarantana/cap15.xml#c15_15535">
+                          онъ насильно улыбнулся и съ видомъ удивленія спросилъ у него:</note>
+        <note xml:id="Russian_1854_cap15-n708" type="translation" target="quarantana/cap15.xml#c15_15536" targetEnd="quarantana/cap15.xml#c15_15540">
+                          «что значитъ это смятеніе?»</note>
+        <note xml:id="Russian_1854_cap15-n709" type="translation" target="quarantana/cap15.xml#c15_15541" targetEnd="quarantana/cap15.xml#c15_15544">
+                          «Убирайся къ чорту, проклятый воронъ!» отвѣчалъ сей послѣдній.</note>
+        <note xml:id="Russian_1854_cap15-n710" type="translation" target="quarantana/cap15.xml#c15_15545" targetEnd="quarantana/cap15.xml#c15_15548">
+                          «Воронъ! Воронъ!» раздалось въ толпѣ;</note>
+        <note xml:id="Russian_1854_cap15-n711" type="translation" target="quarantana/cap15.xml#c15_15549" targetEnd="quarantana/cap15.xml#c15_15554">
+                          всѣ начали его толкать такъ,</note>
+        <note xml:id="Russian_1854_cap15-n713" type="translation" target="quarantana/cap15.xml#c15_15555" targetEnd="quarantana/cap15.xml#c15_15566">
+                          что чрезъ нѣсколько мгновеній помощію ногъ и толчковъ</note>
+        <note xml:id="Russian_1854_cap15-n714" type="translation" target="quarantana/cap15.xml#c15_15567" targetEnd="quarantana/cap15.xml#c15_15578">
+                          онъ достигъ своей цѣли, то есть того, чего болѣе всего желалъ —</note>
+        <note xml:id="Russian_1854_cap15-n715" type="translation" target="quarantana/cap15.xml#c15_15579" targetEnd="quarantana/cap15.xml#c15_15583">
+                          освободиться отъ этой сумятицы.</note>
+      </div>
+    </body>
+  </text>
+</TEI>

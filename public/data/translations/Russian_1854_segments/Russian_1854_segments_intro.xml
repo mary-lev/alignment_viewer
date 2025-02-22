@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Commenti da Обрученные : Медиолан. быль XVIII [!XVII] столетия, найден. и передел. Александром Манзони</title>
+        <author>Alessandro Manzoni</author>
+        <respStmt>
+          <resp>Annotazione digitale</resp>
+          <persName xml:id="Maria_Levchenko">Maria Levchenko</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Leggo Manzoni. Quaranta commenti alla Quarantana</publisher>
+        <pubPlace>Università di Bologna "Alma mater studiorum"</pubPlace>
+        <date>2025</date>
+        <availability>
+          <p>Questa risorsa digitale è liberamente accessibile per uso personale o scientifico. Ogni uso commerciale è vietato.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Alessandro Manzoni</author>
+          <title>Обрученные : Медиолан. быль XVIII [!XVII] столетия, найден. и передел. Александром Манзони</title>
+          <pubPlace>Москва</pubPlace>
+          <publisher>Библиотека романов, повестей, путешествий и записок, изд. Н.Н. Улитиным</publisher>
+          <date>1854</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <listChange>
+        <change who="Maria_Levchenko" when="2025-02-18">Annotazione digitale</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="Russian_1854.xml_intro">
+        <note xml:id="Russian_1854_intro-n1" type="translation" target="quarantana/intro.xml#intro_10001" targetEnd="quarantana/intro.xml#intro_10011">
+                          «Справедливо можно опредѣлить исторію, достославной борьбой со временемъ;</note>
+        <note xml:id="Russian_1854_intro-n2" type="translation" target="quarantana/intro.xml#intro_10012" targetEnd="quarantana/intro.xml#intro_10022">
+                          вырывая изъ рукъ его годы, плѣненные имъ и осужденные на смерть,</note>
+        <note xml:id="Russian_1854_intro-n3" type="translation" target="quarantana/intro.xml#intro_10023" targetEnd="quarantana/intro.xml#intro_10030">
+                          она снова призываетъ ихъ къ жизни,</note>
+        <note xml:id="Russian_1854_intro-n4" type="translation" target="quarantana/intro.xml#intro_10031" targetEnd="quarantana/intro.xml#intro_10037">
+                          пробѣгаетъ ихъ рядъ и готовитъ на новый бой.</note>
+        <note xml:id="Russian_1854_intro-n5" type="translation" target="quarantana/intro.xml#intro_10038" targetEnd="quarantana/intro.xml#intro_10050">
+                          Но благородные витязи, которые на семъ поприщѣ пожинаютъ пальмы и лавры,</note>
+        <note xml:id="Russian_1854_intro-n6" type="translation" target="quarantana/intro.xml#intro_10051" targetEnd="quarantana/intro.xml#intro_10059">
+                          собираютъ только извѣстнѣйшіе останки,</note>
+        <note xml:id="Russian_1854_intro-n7" type="translation" target="quarantana/intro.xml#intro_10060" targetEnd="quarantana/intro.xml#intro_10069">
+                          разсказами своими даруя безсмертіе предприятіямъ царей,</note>
+        <note xml:id="Russian_1854_intro-n8" type="translation" target="quarantana/intro.xml#intro_10070" targetEnd="quarantana/intro.xml#intro_10072">
+                          вельможъ и мужей извѣстнѣйшихъ,</note>
+        <note xml:id="Russian_1854_intro-n9" type="translation" target="quarantana/intro.xml#intro_10073" targetEnd="quarantana/intro.xml#intro_10083">
+                          и сплетая, всѣми средствами искусства, златыя нити,</note>
+        <note xml:id="Russian_1854_intro-n10" type="translation" target="quarantana/intro.xml#intro_10084" targetEnd="quarantana/intro.xml#intro_10091">
+                          изъ коихъ составляють безпрерывную ткань великихъ дѣянiй.</note>
+        <note xml:id="Russian_1854_intro-n11" type="translation" target="quarantana/intro.xml#intro_10092" targetEnd="quarantana/intro.xml#intro_10101">
+                          Не дано мнѣ, слабому, возвыситься до столь благороднаго предмета,</note>
+        <note xml:id="Russian_1854_intro-n12" type="translation" target="quarantana/intro.xml#intro_10102" targetEnd="quarantana/intro.xml#intro_10104">
+                          и подвергнуться столь славной опасности,</note>
+        <note xml:id="Russian_1854_intro-n13" type="translation" target="quarantana/intro.xml#intro_10105" targetEnd="quarantana/intro.xml#intro_10117">
+                          устремляясь въ лабиринтъ политики и воинскихъ происшествій:</note>
+        <note xml:id="Russian_1854_intro-n14" type="translation" target="quarantana/intro.xml#intro_10118" targetEnd="quarantana/intro.xml#intro_10125">
+                          но, свѣдущій въ занимательныхъ событіяхъ,</note>
+        <note xml:id="Russian_1854_intro-n15" type="translation" target="quarantana/intro.xml#intro_10126" targetEnd="quarantana/intro.xml#intro_10131">
+                          касающихся жизни бѣдныхъ ремесленниковъ,</note>
+        <note xml:id="Russian_1854_intro-n16" type="translation" target="quarantana/intro.xml#intro_10132" targetEnd="quarantana/intro.xml#intro_10142">
+                          я стараюсь передать ихъ потомству въ простомъ повѣствованіи.</note>
+        <note xml:id="Russian_1854_intro-n17" type="omission" target="quarantana/intro.xml#intro_10143" targetEnd="quarantana/intro.xml#intro_10154"/>
+        <note xml:id="Russian_1854_intro-n18" type="translation" target="quarantana/intro.xml#intro_10155" targetEnd="quarantana/intro.xml#intro_10164">
+                          Въ немъ увидятъ на весьма ограниченномъ театрѣ ужасныя трагедiи</note>
+        <note xml:id="Russian_1854_intro-n19" type="translation" target="quarantana/intro.xml#intro_10165" targetEnd="quarantana/intro.xml#intro_10169">
+                          и явленія глубокомысленной злобы, подчасъ добродѣтельныя предпріятія,</note>
+        <note xml:id="Russian_1854_intro-n20" type="translation" target="quarantana/intro.xml#intro_10170" targetEnd="quarantana/intro.xml#intro_10176">
+                          признаки ангельской души,</note>
+        <note xml:id="Russian_1854_intro-n21" type="translation" target="quarantana/intro.xml#intro_10177" targetEnd="quarantana/intro.xml#intro_10180">
+                          противупоставленныя адскимъ замысламъ.</note>
+        <note xml:id="Russian_1854_intro-n22" type="translation" target="quarantana/intro.xml#intro_10181" targetEnd="quarantana/intro.xml#intro_10182">
+                          И въ самомъ дѣлѣ,</note>
+        <note xml:id="Russian_1854_intro-n23" type="translation" target="quarantana/intro.xml#intro_10183" targetEnd="quarantana/intro.xml#intro_10195">
+                          когда подумаешь, что страна наша, подъ властію католическаго государя, короля нашего,</note>
+        <note xml:id="Russian_1854_intro-n24" type="translation" target="quarantana/intro.xml#intro_10196" targetEnd="quarantana/intro.xml#intro_10202">
+                          солнца, незнающаго заката,</note>
+        <note xml:id="Russian_1854_intro-n25" type="translation" target="quarantana/intro.xml#intro_10203" targetEnd="quarantana/intro.xml#intro_10214">
+                          что подъ нимъ горитъ вѣчно блестящій его же свѣтомъ мѣсяцъ,</note>
+        <note xml:id="Russian_1854_intro-n26" type="translation" target="quarantana/intro.xml#intro_10215" targetEnd="quarantana/intro.xml#intro_10227">
+                          герой высокаго рода, представляющій его pro tempore,</note>
+        <note xml:id="Russian_1854_intro-n27" type="translation" target="quarantana/intro.xml#intro_10228" targetEnd="quarantana/intro.xml#intro_10233">
+                          и доблестные сенаторы, этѣ неподвижныя звѣзды,</note>
+        <note xml:id="Russian_1854_intro-n28" type="translation" target="quarantana/intro.xml#intro_10234" targetEnd="quarantana/intro.xml#intro_10245">
+                          и другія достославныя власти, кометы, разливающія свѣтъ повсюду, гдѣ нужда того требуетъ,</note>
+        <note xml:id="Russian_1854_intro-n29" type="translation" target="quarantana/intro.xml#intro_10246" targetEnd="quarantana/intro.xml#intro_10252">
+                          и такимъ образомъ являющія прекрасное небо;</note>
+        <note xml:id="Russian_1854_intro-n30" type="translation" target="quarantana/intro.xml#intro_10253" targetEnd="quarantana/intro.xml#intro_10265">
+                          когда на мѣсто этого неба встрѣчаешь адъ мрачныхъ дѣяній,</note>
+        <note xml:id="Russian_1854_intro-n31" type="translation" target="quarantana/intro.xml#intro_10266" targetEnd="quarantana/intro.xml#intro_10281">
+                          злобы и преступленій, ежедневно умножаемыхъ людьми дерзновенными: невольно приписываешь причину этой перемѣны власти демона,</note>
+        <note xml:id="Russian_1854_intro-n32" type="translation" target="quarantana/intro.xml#intro_10282" targetEnd="quarantana/intro.xml#intro_10295">
+                          ибо человеческія неправды не могли бы противустоять столькимъ героямъ,</note>
+        <note xml:id="Russian_1854_intro-n33" type="translation" target="quarantana/intro.xml#intro_10296" targetEnd="quarantana/intro.xml#intro_10310">
+                          которые съ бдительностію Аргуса и съ могуществомъ сторукаго Брiарея пекутся о народномъ благѣ.</note>
+        <note xml:id="Russian_1854_intro-n34" type="translation" target="quarantana/intro.xml#intro_10311" targetEnd="quarantana/intro.xml#intro_10322">
+                          Но описывая событія случившіяся во время моей молодости, и зная,</note>
+        <note xml:id="Russian_1854_intro-n35" type="translation" target="quarantana/intro.xml#intro_10323" targetEnd="quarantana/intro.xml#intro_10340">
+                          что большая часть дѣйствующихъ лицъ еще не исчезла со сцены жизни, и не перешла въ области Паркъ,</note>
+        <note xml:id="Russian_1854_intro-n36" type="translation" target="quarantana/intro.xml#intro_10341" targetEnd="quarantana/intro.xml#intro_10346">
+                          мы умолчимъ,</note>
+        <note xml:id="Russian_1854_intro-n37" type="translation" target="quarantana/intro.xml#intro_10347" targetEnd="quarantana/intro.xml#intro_10357">
+                          по уважительнымъ причинамъ, какъ о фамильныхъ именахъ,</note>
+        <note xml:id="Russian_1854_intro-n38" type="translation" target="quarantana/intro.xml#intro_10358" targetEnd="quarantana/intro.xml#intro_10364">
+                          такъ и мѣстностяхъ,</note>
+        <note xml:id="Russian_1854_intro-n39" type="translation" target="quarantana/intro.xml#intro_10365" targetEnd="quarantana/intro.xml#intro_10369">
+                          и станемъ обозначать страну только generaliter.</note>
+        <note xml:id="Russian_1854_intro-n40" type="translation" target="quarantana/intro.xml#intro_10370" targetEnd="quarantana/intro.xml#intro_10384">
+                          Если читатель сочтетъ такія умолчанія недостаткомъ нашей повѣсти и несовершенствомъ творенія, онъ тѣмъ докажетъ,</note>
+        <note xml:id="Russian_1854_intro-n41" type="translation" target="quarantana/intro.xml#intro_10385" targetEnd="quarantana/intro.xml#intro_10402">
+                          что совершенно чуждъ философіи; а люди, въ ней свѣдущіе, легко удостоверятся,</note>
+        <note xml:id="Russian_1854_intro-n42" type="translation" target="quarantana/intro.xml#intro_10403" targetEnd="quarantana/intro.xml#intro_10411">
+                          что въ нашемъ разсказъ нѣтъ важнаго упущенія;</note>
+        <note xml:id="Russian_1854_intro-n43" type="translation" target="quarantana/intro.xml#intro_10412" targetEnd="quarantana/intro.xml#intro_10415">
+                          ибо ясно,</note>
+        <note xml:id="Russian_1854_intro-n44" type="translation" target="quarantana/intro.xml#intro_10416" targetEnd="quarantana/intro.xml#intro_10428">
+                          что имена собственныя не что иное, какъ случайныя обстоятельства...»</note>
+        <note xml:id="Russian_1854_intro-n45" type="translation" target="quarantana/intro.xml#intro_10429" targetEnd="quarantana/intro.xml#intro_10449">
+                          Но взявши на себя геройскій трудъ переписывать эту историческую, автографическую, истертую, измаранную рукопись, выдавъ ее въ свѣтъ,</note>
+        <note xml:id="Russian_1854_intro-n46" type="translation" target="quarantana/intro.xml#intro_10450" targetEnd="quarantana/intro.xml#intro_10452">
+                          какъ говорится,</note>
+        <note xml:id="Russian_1854_intro-n47" type="translation" target="quarantana/intro.xml#intro_10453" targetEnd="quarantana/intro.xml#intro_10454">
+                          найду ли я кого,</note>
+        <note xml:id="Russian_1854_intro-n48" type="translation" target="quarantana/intro.xml#intro_10455" targetEnd="quarantana/intro.xml#intro_10464">
+                          кто бы взялъ на себя трудъ читать ее?</note>
+        <note xml:id="Russian_1854_intro-n49" type="translation" target="quarantana/intro.xml#intro_10465" targetEnd="quarantana/intro.xml#intro_10468">
+                          Это скептическое размышленіе,</note>
+        <note xml:id="Russian_1854_intro-n50" type="translation" target="quarantana/intro.xml#intro_10469" targetEnd="quarantana/intro.xml#intro_10479">
+                          порожденное во мнѣ трудностію при разборѣ случайно попавшагося мнѣ маранья,</note>
+        <note xml:id="Russian_1854_intro-n51" type="translation" target="quarantana/intro.xml#intro_10480" targetEnd="quarantana/intro.xml#intro_10494">
+                          побудило меня пресѣчь переписку и внимательнѣе пообдумать, что надлежало мнѣ дѣлать.</note>
+        <note xml:id="Russian_1854_intro-n52" type="translation" target="quarantana/intro.xml#intro_10495" targetEnd="quarantana/intro.xml#intro_10498">
+                          Вѣроятно,</note>
+        <note xml:id="Russian_1854_intro-n53" type="translation" target="quarantana/intro.xml#intro_10499" targetEnd="quarantana/intro.xml#intro_10502">
+                          говорилъ я самъ себѣ,</note>
+        <note xml:id="Russian_1854_intro-n54" type="translation" target="quarantana/intro.xml#intro_10503" targetEnd="quarantana/intro.xml#intro_10505">
+                          перелистывая рукопись,</note>
+        <note xml:id="Russian_1854_intro-n55" type="translation" target="quarantana/intro.xml#intro_10506" targetEnd="quarantana/intro.xml#intro_10524">
+                          подобный градъ риторическихъ фигуръ и кончетти не продлится до конца сочиненiя.</note>
+        <note xml:id="Russian_1854_intro-n56" type="translation" target="quarantana/intro.xml#intro_10525" targetEnd="quarantana/intro.xml#intro_10540">
+                          Добрый историкъ хотѣлъ сперва нѣсколько высказать свою ученость;</note>
+        <note xml:id="Russian_1854_intro-n57" type="translation" target="quarantana/intro.xml#intro_10541" targetEnd="quarantana/intro.xml#intro_10546">
+                          но послѣ, въ теченіе разсказа,</note>
+        <note xml:id="Russian_1854_intro-n58" type="omission" target="quarantana/intro.xml#intro_10547" targetEnd="quarantana/intro.xml#intro_10551"/>
+        <note xml:id="Russian_1854_intro-n59" type="translation" target="quarantana/intro.xml#intro_10552" targetEnd="quarantana/intro.xml#intro_10560">
+                          слогъ конечно будетъ проще и естественнѣе.</note>
+        <note xml:id="Russian_1854_intro-n60" type="translation" target="quarantana/intro.xml#intro_10561" targetEnd="quarantana/intro.xml#intro_10561">
+                          Да,</note>
+        <note xml:id="Russian_1854_intro-n61" type="translation" target="quarantana/intro.xml#intro_10562" targetEnd="quarantana/intro.xml#intro_10571">
+                          но за то какъ онъ низокъ, неровенъ!</note>
+        <note xml:id="Russian_1854_intro-n62" type="translation" target="quarantana/intro.xml#intro_10572" targetEnd="quarantana/intro.xml#intro_10575">
+                          Безчисленные ломбардизмы,</note>
+        <note xml:id="Russian_1854_intro-n63" type="translation" target="quarantana/intro.xml#intro_10576" targetEnd="quarantana/intro.xml#intro_10581">
+                          безсмысленно связанныя фразы,</note>
+        <note xml:id="Russian_1854_intro-n64" type="translation" target="quarantana/intro.xml#intro_10582" targetEnd="quarantana/intro.xml#intro_10583">
+                          своевольныя правила грамматики,</note>
+        <note xml:id="Russian_1854_intro-n65" type="translation" target="quarantana/intro.xml#intro_10584" targetEnd="quarantana/intro.xml#intro_10594">
+                          неполные періоды и потомъ кой-гдѣ Испанскія изысканности;</note>
+        <note xml:id="Russian_1854_intro-n66" type="translation" target="quarantana/intro.xml#intro_10595" targetEnd="quarantana/intro.xml#intro_10599">
+                          а что всего хуже,</note>
+        <note xml:id="Russian_1854_intro-n67" type="translation" target="quarantana/intro.xml#intro_10600" targetEnd="quarantana/intro.xml#intro_10608">
+                          въ мѣстахъ самыхъ трогательныхъ и ужасныхъ,</note>
+        <note xml:id="Russian_1854_intro-n68" type="omission" target="quarantana/intro.xml#intro_10609" targetEnd="quarantana/intro.xml#intro_10617"/>
+        <note xml:id="Russian_1854_intro-n69" type="translation" target="quarantana/intro.xml#intro_10618" targetEnd="quarantana/intro.xml#intro_10622">
+                          вездѣ,</note>
+        <note xml:id="Russian_1854_intro-n70" type="translation" target="quarantana/intro.xml#intro_10623" targetEnd="quarantana/intro.xml#intro_10632">
+                          гдѣ требовалось нѣсколько риторики скромной,</note>
+        <note xml:id="Russian_1854_intro-n71" type="translation" target="quarantana/intro.xml#intro_10633" targetEnd="quarantana/intro.xml#intro_10633">
+                          чистой,</note>
+        <note xml:id="Russian_1854_intro-n72" type="translation" target="quarantana/intro.xml#intro_10634" targetEnd="quarantana/intro.xml#intro_10636">
+                          приличной,</note>
+        <note xml:id="Russian_1854_intro-n73" type="translation" target="quarantana/intro.xml#intro_10637" targetEnd="quarantana/intro.xml#intro_10649">
+                          онъ всегда, желая поразить или возбудить размышленія, употребляетъ тотъ самый слогъ, котораго мы представили образецъ въ началѣ нашего предисловія;</note>
+        <note xml:id="Russian_1854_intro-n74" type="translation" target="quarantana/intro.xml#intro_10650" targetEnd="quarantana/intro.xml#intro_10651">
+                          и тогда,</note>
+        <note xml:id="Russian_1854_intro-n75" type="translation" target="quarantana/intro.xml#intro_10652" targetEnd="quarantana/intro.xml#intro_10656">
+                          соединяя съ удивительнымъ искусствомъ два, по видимому,</note>
+        <note xml:id="Russian_1854_intro-n76" type="translation" target="quarantana/intro.xml#intro_10657" targetEnd="quarantana/intro.xml#intro_10660">
+                          весьма противоположныя качества,</note>
+        <note xml:id="Russian_1854_intro-n77" type="translation" target="quarantana/intro.xml#intro_10661" targetEnd="quarantana/intro.xml#intro_10671">
+                          онъ умѣетъ казаться небрежнымъ и замысловатымъ на одной и той же страницѣ,</note>
+        <note xml:id="Russian_1854_intro-n78" type="translation" target="quarantana/intro.xml#intro_10672" targetEnd="quarantana/intro.xml#intro_10674">
+                          въ одномъ и томъ же періодѣ,</note>
+        <note xml:id="Russian_1854_intro-n79" type="translation" target="quarantana/intro.xml#intro_10675" targetEnd="quarantana/intro.xml#intro_10677">
+                          въ одной и той же фразѣ,</note>
+        <note xml:id="Russian_1854_intro-n80" type="translation" target="quarantana/intro.xml#intro_10678" targetEnd="quarantana/intro.xml#intro_10687">
+                          и все это посредствомъ напыщеннаго витійства и солецизмовъ,</note>
+        <note xml:id="Russian_1854_intro-n81" type="translation" target="quarantana/intro.xml#intro_10688" targetEnd="quarantana/intro.xml#intro_10694">
+                          въ особенности же благодаря неискусному самолюбію,</note>
+        <note xml:id="Russian_1854_intro-n82" type="translation" target="quarantana/intro.xml#intro_10695" targetEnd="quarantana/intro.xml#intro_10706">
+                          составляющему въ той странѣ отличительную черту писателей XVIII вѣка. Правду сказать,</note>
+        <note xml:id="Russian_1854_intro-n83" type="translation" target="quarantana/intro.xml#intro_10707" targetEnd="quarantana/intro.xml#intro_10716">
+                          не заставишь читателей нынѣшняго времени любоваться подобнымъ слогомъ:</note>
+        <note xml:id="Russian_1854_intro-n84" type="translation" target="quarantana/intro.xml#intro_10717" targetEnd="quarantana/intro.xml#intro_10726">
+                          они слишкомъ образованы, они слишкомъ ненавидятъ такія сумасбродства.</note>
+        <note xml:id="Russian_1854_intro-n85" type="translation" target="quarantana/intro.xml#intro_10727" targetEnd="quarantana/intro.xml#intro_10740">
+                          Слава Богу, что это умная мысль представилась мнѣ съ первого начала столь неблагодарнаго труда:</note>
+        <note xml:id="Russian_1854_intro-n86" type="translation" target="quarantana/intro.xml#intro_10741" targetEnd="quarantana/intro.xml#intro_10746">
+                          теперь на мнѣ не лежитъ никакой отвѣтственности.</note>
+        <note xml:id="Russian_1854_intro-n87" type="translation" target="quarantana/intro.xml#intro_10747" targetEnd="quarantana/intro.xml#intro_10753">
+                          Между тѣмъ, оканчивая чтеніе рукописи,</note>
+        <note xml:id="Russian_1854_intro-n88" type="translation" target="quarantana/intro.xml#intro_10754" targetEnd="quarantana/intro.xml#intro_10767">
+                          я не могъ подумать безъ сожалѣнія, что прекрасная быль останется совершенно неизвѣстною;</note>
+        <note xml:id="Russian_1854_intro-n89" type="omission" target="quarantana/intro.xml#intro_10768" targetEnd="quarantana/intro.xml#intro_10771"/>
+        <note xml:id="Russian_1854_intro-n90" type="translation" target="quarantana/intro.xml#intro_10772" targetEnd="quarantana/intro.xml#intro_10779">
+                          легко можетъ статься, что читатель будетъ другаго мнѣнiя;</note>
+        <note xml:id="Russian_1854_intro-n91" type="translation" target="quarantana/intro.xml#intro_10780" targetEnd="quarantana/intro.xml#intro_10789">
+                          но я признаюсь откровенно, мнѣ показалась она очень занимательною.</note>
+        <note xml:id="Russian_1854_intro-n92" type="translation" target="quarantana/intro.xml#intro_10790" targetEnd="quarantana/intro.xml#intro_10794">
+                          Можетъ быть,</note>
+        <note xml:id="Russian_1854_intro-n93" type="translation" target="quarantana/intro.xml#intro_10795" targetEnd="quarantana/intro.xml#intro_10795">
+                          сказалъ я самъ себѣ,</note>
+        <note xml:id="Russian_1854_intro-n94" type="translation" target="quarantana/intro.xml#intro_10796" targetEnd="quarantana/intro.xml#intro_10807">
+                          стоитъ только перемѣнить слогъ, и сохранить рядъ происшествiй описанныхъ въ рукописи?</note>
+        <note xml:id="Russian_1854_intro-n95" type="translation" target="quarantana/intro.xml#intro_10808" targetEnd="quarantana/intro.xml#intro_10814">
+                          Противъ этого мнѣ не представилось никакого разумнаго возраженія,</note>
+        <note xml:id="Russian_1854_intro-n96" type="translation" target="quarantana/intro.xml#intro_10815" targetEnd="quarantana/intro.xml#intro_10819">
+                          и я немедлинно приступилъ къ дѣлу:</note>
+        <note xml:id="Russian_1854_intro-n97" type="translation" target="quarantana/intro.xml#intro_10820" targetEnd="quarantana/intro.xml#intro_10825">
+                          вотъ происхожденіе настоящей книги, изложенное съ простотою,</note>
+        <note xml:id="Russian_1854_intro-n98" type="translation" target="quarantana/intro.xml#intro_10826" targetEnd="quarantana/intro.xml#intro_10834">
+                          равною важности самой книги.</note>
+        <note xml:id="Russian_1854_intro-n99" type="translation" target="quarantana/intro.xml#intro_10835" targetEnd="quarantana/intro.xml#intro_10839">
+                          Между тѣмъ нѣкоторыя изъ происшествій и обычаевъ,</note>
+        <note xml:id="Russian_1854_intro-n100" type="translation" target="quarantana/intro.xml#intro_10840" targetEnd="quarantana/intro.xml#intro_10845">
+                          упоминаемыхъ нашимъ авторомъ,</note>
+        <note xml:id="Russian_1854_intro-n101" type="translation" target="quarantana/intro.xml#intro_10846" targetEnd="quarantana/intro.xml#intro_10850">
+                          показались намъ столь новыми,</note>
+        <note xml:id="Russian_1854_intro-n102" type="translation" target="quarantana/intro.xml#intro_10851" targetEnd="quarantana/intro.xml#intro_10852">
+                          столь странными,</note>
+        <note xml:id="Russian_1854_intro-n103" type="translation" target="quarantana/intro.xml#intro_10853" targetEnd="quarantana/intro.xml#intro_10856">
+                          чтобы не сказать болѣе,</note>
+        <note xml:id="Russian_1854_intro-n104" type="translation" target="quarantana/intro.xml#intro_10857" targetEnd="quarantana/intro.xml#intro_10861">
+                          что прежде чѣмъ довѣриться ему,</note>
+        <note xml:id="Russian_1854_intro-n105" type="translation" target="quarantana/intro.xml#intro_10862" targetEnd="quarantana/intro.xml#intro_10867">
+                          мы рѣшились призвать на помощь другихъ свидѣтелей,</note>
+        <note xml:id="Russian_1854_intro-n106" type="translation" target="quarantana/intro.xml#intro_10868" targetEnd="quarantana/intro.xml#intro_10880">
+                          и приняли на себя трудъ порыться въ хроникахъ того времени,</note>
+        <note xml:id="Russian_1854_intro-n107" type="translation" target="quarantana/intro.xml#intro_10881" targetEnd="quarantana/intro.xml#intro_10891">
+                          чтобы удостовѣриться, точно ли такъ все происходило тогда.</note>
+        <note xml:id="Russian_1854_intro-n108" type="translation" target="quarantana/intro.xml#intro_10892" targetEnd="quarantana/intro.xml#intro_10899">
+                          Это изысканіе разсѣяло всѣ наши сомнѣнія:</note>
+        <note xml:id="Russian_1854_intro-n109" type="translation" target="quarantana/intro.xml#intro_10900" targetEnd="quarantana/intro.xml#intro_10912">
+                          мы нашли примѣры подобныхъ и еще удивительнѣйшихъ событій;</note>
+        <note xml:id="Russian_1854_intro-n110" type="translation" target="quarantana/intro.xml#intro_10913" targetEnd="quarantana/intro.xml#intro_10919">
+                          еще болѣе насъ увѣрило и то,</note>
+        <note xml:id="Russian_1854_intro-n111" type="translation" target="quarantana/intro.xml#intro_10920" targetEnd="quarantana/intro.xml#intro_10924">
+                          что мы встрѣтили въ нихъ нѣкоторыя лица,</note>
+        <note xml:id="Russian_1854_intro-n112" type="translation" target="quarantana/intro.xml#intro_10925" targetEnd="quarantana/intro.xml#intro_10936">
+                          о которыхъ знали только изъ нашей рукописи,</note>
+        <note xml:id="Russian_1854_intro-n113" type="translation" target="quarantana/intro.xml#intro_10937" targetEnd="quarantana/intro.xml#intro_10943">
+                          и потому сомнѣвались, точно ли онѣ существовали.</note>
+        <note xml:id="Russian_1854_intro-n114" type="translation" target="quarantana/intro.xml#intro_10944" targetEnd="quarantana/intro.xml#intro_10950">
+                          Мы при случаѣ приведемъ нѣкоторыя изъ этихъ свидѣтельствъ,</note>
+        <note xml:id="Russian_1854_intro-n115" type="translation" target="quarantana/intro.xml#intro_10951" targetEnd="quarantana/intro.xml#intro_10955">
+                          чтобы подтвердить тѣ происшествія,</note>
+        <note xml:id="Russian_1854_intro-n116" type="translation" target="quarantana/intro.xml#intro_10956" targetEnd="quarantana/intro.xml#intro_10968">
+                          которыя читатели могли бы почесть невѣроятными, судя по ихъ странности.</note>
+        <note xml:id="Russian_1854_intro-n117" type="translation" target="quarantana/intro.xml#intro_10969" targetEnd="quarantana/intro.xml#intro_10977">
+                          Но отвергая слогъ нашего автора, какъ слогъ тяжелый,</note>
+        <note xml:id="Russian_1854_intro-n118" type="translation" target="quarantana/intro.xml#intro_10978" targetEnd="quarantana/intro.xml#intro_10983">
+                          какимъ слогомъ мы его замѣнили?</note>
+        <note xml:id="Russian_1854_intro-n119" type="translation" target="quarantana/intro.xml#intro_10984" targetEnd="quarantana/intro.xml#intro_10987">
+                          Вотъ въ чемъ затрудненіе.</note>
+        <note xml:id="Russian_1854_intro-n120" type="translation" target="quarantana/intro.xml#intro_10988" targetEnd="quarantana/intro.xml#intro_10988">
+                          Всякой,</note>
+        <note xml:id="Russian_1854_intro-n121" type="translation" target="quarantana/intro.xml#intro_10989" targetEnd="quarantana/intro.xml#intro_10991">
+                          кто безъ спросу,</note>
+        <note xml:id="Russian_1854_intro-n122" type="translation" target="quarantana/intro.xml#intro_10992" targetEnd="quarantana/intro.xml#intro_11005">
+                          вздумаетъ передѣлывать чужое твореніе, подвергается строгой отвѣтственности за свое собственное,</note>
+        <note xml:id="Russian_1854_intro-n123" type="translation" target="quarantana/intro.xml#intro_11006" targetEnd="quarantana/intro.xml#intro_11021">
+                          и даже принимаетъ въ томъ обязательство; это практическій и теоретическій законъ,</note>
+        <note xml:id="Russian_1854_intro-n124" type="translation" target="quarantana/intro.xml#intro_11022" targetEnd="quarantana/intro.xml#intro_11028">
+                          котораго и мы не хотимъ избѣжать.</note>
+        <note xml:id="Russian_1854_intro-n125" type="translation" target="quarantana/intro.xml#intro_11029" targetEnd="quarantana/intro.xml#intro_11036">
+                          Напротивъ, и въ доказательство нашей ему покорности,</note>
+        <note xml:id="Russian_1854_intro-n126" type="translation" target="quarantana/intro.xml#intro_11037" targetEnd="quarantana/intro.xml#intro_11052">
+                          мы-было хотѣли въ точности отдать отчетъ въ избранномъ нами способѣ описанія;</note>
+        <note xml:id="Russian_1854_intro-n127" type="translation" target="quarantana/intro.xml#intro_11053" targetEnd="quarantana/intro.xml#intro_11058">
+                          и для того,</note>
+        <note xml:id="Russian_1854_intro-n128" type="translation" target="quarantana/intro.xml#intro_11059" targetEnd="quarantana/intro.xml#intro_11071">
+                          во все продолженіе нашихъ занятій старались угадывать всѣ возможныя и правильныя критики,</note>
+        <note xml:id="Russian_1854_intro-n129" type="translation" target="quarantana/intro.xml#intro_11072" targetEnd="quarantana/intro.xml#intro_11076">
+                          чтобъ заранѣе приготовиться къ тѣмъ и другимъ.</note>
+        <note xml:id="Russian_1854_intro-n130" type="translation" target="quarantana/intro.xml#intro_11077" targetEnd="quarantana/intro.xml#intro_11083">
+                          Но не въ томъ была бы трудность,</note>
+        <note xml:id="Russian_1854_intro-n131" type="translation" target="quarantana/intro.xml#intro_11084" targetEnd="quarantana/intro.xml#intro_11098">
+                          ибо (нельзя не сказать ради истины) намъ не представилось ни одного критическаго замечанія,</note>
+        <note xml:id="Russian_1854_intro-n132" type="translation" target="quarantana/intro.xml#intro_11099" targetEnd="quarantana/intro.xml#intro_11110">
+                          на которое бы вместе съ тѣмъ не представилось и невозразимаго отвѣта,</note>
+        <note xml:id="Russian_1854_intro-n133" type="translation" target="quarantana/intro.xml#intro_11111" targetEnd="quarantana/intro.xml#intro_11115">
+                          не изъ техъ, которые только изъясняютъ вопросъ,</note>
+        <note xml:id="Russian_1854_intro-n134" type="translation" target="quarantana/intro.xml#intro_11116" targetEnd="quarantana/intro.xml#intro_11118">
+                          но принуждаютъ его къ молчанію.</note>
+        <note xml:id="Russian_1854_intro-n135" type="translation" target="quarantana/intro.xml#intro_11119" targetEnd="quarantana/intro.xml#intro_11120">
+                          Часто даже,</note>
+        <note xml:id="Russian_1854_intro-n136" type="translation" target="quarantana/intro.xml#intro_11121" targetEnd="quarantana/intro.xml#intro_11127">
+                          сводя двѣ критики,</note>
+        <note xml:id="Russian_1854_intro-n137" type="translation" target="quarantana/intro.xml#intro_11128" targetEnd="quarantana/intro.xml#intro_11132">
+                          мы выставляли одну противъ другой;</note>
+        <note xml:id="Russian_1854_intro-n138" type="translation" target="quarantana/intro.xml#intro_11133" targetEnd="quarantana/intro.xml#intro_11138">
+                          или слѣдуя за ними внимательно,</note>
+        <note xml:id="Russian_1854_intro-n139" type="translation" target="quarantana/intro.xml#intro_11139" targetEnd="quarantana/intro.xml#intro_11145">
+                          мы наконецъ удачно находили, и доказывали, что,</note>
+        <note xml:id="Russian_1854_intro-n140" type="translation" target="quarantana/intro.xml#intro_11146" targetEnd="quarantana/intro.xml#intro_11149">
+                          противоположныя по видимому,</note>
+        <note xml:id="Russian_1854_intro-n141" type="translation" target="quarantana/intro.xml#intro_11150" targetEnd="quarantana/intro.xml#intro_11154">
+                          онѣ не менѣе того принадлежали къ одному роду, и происходили обѣ отъ того,</note>
+        <note xml:id="Russian_1854_intro-n142" type="translation" target="quarantana/intro.xml#intro_11155" targetEnd="quarantana/intro.xml#intro_11173">
+                          что въ нихъ не были обозначены начала и основы, на которыхъ должно полагать свои сужденія; тогда, при сличеніи ихъ,</note>
+        <note xml:id="Russian_1854_intro-n143" type="translation" target="quarantana/intro.xml#intro_11174" targetEnd="quarantana/intro.xml#intro_11177">
+                          онѣ къ великому удивленію,</note>
+        <note xml:id="Russian_1854_intro-n144" type="translation" target="quarantana/intro.xml#intro_11178" targetEnd="quarantana/intro.xml#intro_11183">
+                          изчезали обѣ.</note>
+        <note xml:id="Russian_1854_intro-n145" type="translation" target="quarantana/intro.xml#intro_11184" targetEnd="quarantana/intro.xml#intro_11197">
+                          Во всемъ свѣтѣ нѣтъ писателя, который лучше насъ могъ бы очевидно доказать, что онъ сдѣлалъ хорошо.</note>
+        <note xml:id="Russian_1854_intro-n146" type="translation" target="quarantana/intro.xml#intro_11198" targetEnd="quarantana/intro.xml#intro_11212">
+                          Но, увы! когда мы достигли той поры, когда уже могли собрать всѣ критики,</note>
+        <note xml:id="Russian_1854_intro-n147" type="translation" target="quarantana/intro.xml#intro_11213" targetEnd="quarantana/intro.xml#intro_11217">
+                          и предложить на нихъ возраженія, то увидѣли,</note>
+        <note xml:id="Russian_1854_intro-n148" type="translation" target="quarantana/intro.xml#intro_11218" targetEnd="quarantana/intro.xml#intro_11223">
+                          что изъ нихъ можно составить цѣлую книгу.</note>
+        <note xml:id="Russian_1854_intro-n149" type="translation" target="quarantana/intro.xml#intro_11224" targetEnd="quarantana/intro.xml#intro_11226">
+                          Въ слѣдствіе чего,</note>
+        <note xml:id="Russian_1854_intro-n150" type="translation" target="quarantana/intro.xml#intro_11227" targetEnd="quarantana/intro.xml#intro_11231">
+                          мы оставили подобное намѣреніе по двумъ причинамъ,</note>
+        <note xml:id="Russian_1854_intro-n151" type="translation" target="quarantana/intro.xml#intro_11232" targetEnd="quarantana/intro.xml#intro_11240">
+                          которыя читатель конечно уважитъ:</note>
+        <note xml:id="Russian_1854_intro-n152" type="translation" target="quarantana/intro.xml#intro_11241" targetEnd="quarantana/intro.xml#intro_11250">
+                          во-первыхъ, книга, служащая оправданіемъ другой,</note>
+        <note xml:id="Russian_1854_intro-n153" type="translation" target="quarantana/intro.xml#intro_11251" targetEnd="quarantana/intro.xml#intro_11255">
+                          или даже слогу другой,</note>
+        <note xml:id="Russian_1854_intro-n154" type="translation" target="quarantana/intro.xml#intro_11256" targetEnd="quarantana/intro.xml#intro_11259">
+                          можетъ показаться смѣшною;</note>
+        <note xml:id="Russian_1854_intro-n155" type="translation" target="quarantana/intro.xml#intro_11260" targetEnd="quarantana/intro.xml#intro_11268">
+                          вовторыхъ, достаточно издать одну книгу за разъ,</note>
+        <note xml:id="Russian_1854_intro-n156" type="translation" target="quarantana/intro.xml#intro_11269" targetEnd="quarantana/intro.xml#intro_11272">
+                          если и того не слишкомъ много.</note>
+      </div>
+    </body>
+  </text>
+</TEI>
