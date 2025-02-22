@@ -39,8 +39,8 @@
   <text>
     <body>
       <div xml:id="Russian_1854.xml_cap9">
-        <note xml:id="Russian_1854_cap9-n1" type="insertion">Толчекъ, который получила лодка, причаливъ къ берегу, вывелъ Лучiю изъ задумчивости.</note>
-        <note xml:id="Russian_1854_cap9-n2" type="insertion">Утерши тихонько слезы, она очнулась, какъ бы послѣ сна.</note>
+         <note xml:id="Russian_1854_cap9-n1" type="translation" target="quarantana/cap9.xml#c9_9001" targetEnd="quarantana/cap9.xml#c9_9026">Толчекъ, который получила лодка, причаливъ къ берегу, вывелъ Лучiю изъ задумчивости.
+        Утерши тихонько слезы, она очнулась, какъ бы послѣ сна.</note>
         <note xml:id="Russian_1854_cap9-n3" type="translation" target="quarantana/cap9.xml#c9_10001" targetEnd="quarantana/cap9.xml#c9_10009">
                           Ренцо вышелъ первый, подалъ руку Агнесѣ,</note>
         <note xml:id="Russian_1854_cap9-n4" type="translation" target="quarantana/cap9.xml#c9_10010" targetEnd="quarantana/cap9.xml#c9_10017">
