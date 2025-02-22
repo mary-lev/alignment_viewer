@@ -8,7 +8,8 @@ import {
   AVAILABLE_CHAPTERS,
   loadTEIContent,
   extractSourceTextFromTEI,
-  parseTranslationNotes
+  parseTranslationNotes,
+  createFastTextExtractor
 } from '../utils/teiLoader';
 
 const AVAILABLE_VIEWS = [
@@ -45,6 +46,8 @@ const SimplifiedAligner = () => {
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState('');
 
+  const [sourceExtractor, setSourceExtractor] = useState<((start: string, end: string) => string) | null>(null);
+
   const loadContent = async (chapterId: string) => {
     setIsLoading(true);
     setError('');
@@ -53,41 +56,63 @@ const SimplifiedAligner = () => {
       const view = AVAILABLE_VIEWS.find(v => v.id === selectedView);
       if (!view) throw new Error('Invalid view selection');
 
-      // Load both source and translation files
+      // Load files in parallel
       const [sourceXML, translationXML] = await Promise.all([
         loadTEIContent(chapterId),
         loadTEIContent(chapterId, view.folder)
       ]);
 
+      // Create fast extractor
+      const extractor = createFastTextExtractor(sourceXML);
+      setSourceExtractor(extractor);
+
       // Parse translation notes
       const translationNotes = parseTranslationNotes(translationXML);
 
-      // For each translation note, extract corresponding source text
-      const alignedSegments = translationNotes.map(note => {
-        // Extract IDs from target attributes
-        const [, startId] = note.target.split('#');
-        const [, endId] = note.targetEnd.split('#');
+      // Process segments in chunks to avoid blocking
+      const chunkSize = 50;
+      const alignedSegments: Array<{
+        sourceText: string;
+        translationText: string;
+        ids: { start: string; end: string };
+      }> = [];
 
-        const sourceText = extractSourceTextFromTEI(sourceXML, startId, endId);
+      for (let i = 0; i < translationNotes.length; i += chunkSize) {
+        const chunk = translationNotes.slice(i, i + chunkSize);
 
-        return {
-          sourceText,
-          translationText: note.text,
-          ids: {
-            start: startId,
-            end: endId
-          }
-        };
-      });
+        // Process chunk
+        const processedChunk = chunk.map(note => {
+          const [, startId] = note.target.split('#');
+          const [, endId] = note.targetEnd.split('#');
+
+          return {
+            sourceText: extractor(startId, endId),
+            translationText: note.text,
+            ids: { start: startId, end: endId }
+          };
+        });
+
+        // Update state with chunk
+        alignedSegments.push(...processedChunk);
+
+        // Allow UI to update
+        if (i + chunkSize < translationNotes.length) {
+          setAlignedContent([...alignedSegments]);
+          await new Promise(resolve => setTimeout(resolve, 0));
+        }
+      }
 
       setAlignedContent(alignedSegments);
     } catch (err) {
       setError(err instanceof Error ? err.message : 'An error occurred while loading content');
-      console.error('Error loading content:', err);
     } finally {
       setIsLoading(false);
     }
   };
+
+  // Add progressive loading indicator
+  const [progress, setProgress] = useState(0);
+
 
   useEffect(() => {
     if (selectedChapter) {
@@ -139,8 +164,11 @@ const SimplifiedAligner = () => {
             )}
 
             {isLoading ? (
-              <div className="flex justify-center items-center h-64">
+              <div className="flex flex-col items-center justify-center h-64">
                 <Loader2 className="h-8 w-8 animate-spin text-accent" />
+                <div className="mt-4">
+                  Processing segments: {progress}%
+                </div>
               </div>
             ) : (
               <div className="border border-accent/30 rounded-md overflow-hidden">
@@ -154,24 +182,47 @@ const SimplifiedAligner = () => {
                   <tbody className="divide-y divide-accent/30">
                     {alignedContent.map((segment, index) => (
                       <tr
-                        key={index}
-                        className={`hover:bg-accent/5 ${!segment.sourceText || !segment.translationText
-                          ? 'bg-yellow-50/50'
+                      key={index}
+                      className={`hover:bg-accent/5 border-accent/30 ${
+                        !segment.sourceText
+                          ? 'bg-blue-50/80'     // Insertion
+                          : !segment.translationText
+                          ? 'bg-amber-50/80'    // Omission
                           : ''
-                          }`}
+                      }`}
+                    >
+                      <td 
+                        className={`px-4 py-3 align-top border-r border-accent/30 ${
+                          !segment.sourceText 
+                            ? 'italic text-accent/70 border-l-4 border-blue-300' 
+                            : ''
+                        }`}
                       >
-                        <td className={`px-4 py-3 align-top ${!segment.sourceText ? 'italic text-accent/70' : ''}`}>
-                          <div className="text-secondary-foreground">
-                            {segment.sourceText || ''}
-                          </div>
-                          <div className="text-xs text-accent/60 mt-2 font-mono">
-                            IDs: {segment.ids.start} - {segment.ids.end}
-                          </div>
-                        </td>
-                        <td className={`px-4 py-3 align-top text-secondary-foreground ${!segment.translationText ? 'italic text-accent/70' : ''}`}>
-                          {segment.translationText || ''}
-                        </td>
-                      </tr>
+                        <div className="text-secondary-foreground relative">
+                          {segment.sourceText || (
+                            <span className="text-blue-600/70">
+                       
+                            </span>
+                          )}
+                        </div>
+                        <div className="text-xs text-accent/60 mt-2 font-mono">
+                          IDs: {segment.ids.start} - {segment.ids.end}
+                        </div>
+                      </td>
+                      <td 
+                        className={`px-4 py-3 align-top ${
+                          !segment.translationText 
+                            ? 'italic text-accent/70 border-l-4 border-amber-300' 
+                            : ''
+                        }`}
+                      >
+                        {segment.translationText || (
+                          <span className="text-amber-600/70">
+                      
+                          </span>
+                        )}
+                      </td>
+                    </tr>
                     ))}
                   </tbody>
                 </table>

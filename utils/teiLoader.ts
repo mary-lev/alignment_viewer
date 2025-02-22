@@ -162,6 +162,57 @@ export const extractSourceTextFromTEI = (xmlContent: string, targetId: string, t
   }
 };
 
+export const createFastTextExtractor = (xmlContent: string) => {
+  const parser = new DOMParser();
+  const xmlDoc = parser.parseFromString(xmlContent, 'text/xml');
+  
+  // Build word map once
+  const wordMap = new Map<string, string>();
+  const wordElements = xmlDoc.getElementsByTagName('w');
+  
+  // Helper function to safely get numeric ID
+  const getNumericId = (id: string | null): number => {
+    if (!id) return NaN;
+    const matches = id.match(/(\d+)$/);
+    return matches ? parseInt(matches[1]) : NaN;
+  };
+
+  // Build index of words with numeric IDs
+  Array.from(wordElements).forEach(word => {
+    const id = word.getAttribute('xml:id');
+    const numId = getNumericId(id);
+    if (!isNaN(numId)) {
+      // Store with normalized ID format
+      wordMap.set(`w${numId}`, word.textContent?.trim() || '');
+    }
+  });
+
+  // Fast lookup function with safety checks
+  return (targetId: string, targetEndId: string) => {
+    if (!targetId || !targetEndId) return '';
+
+    const startNum = getNumericId(targetId);
+    const endNum = getNumericId(targetEndId);
+    
+    if (isNaN(startNum) || isNaN(endNum)) {
+      console.warn('Invalid ID format:', { targetId, targetEndId });
+      return '';
+    }
+    
+    // Ensure correct order of numbers
+    const [start, end] = [Math.min(startNum, endNum), Math.max(startNum, endNum)];
+    
+    // Build array of words in range
+    const words: string[] = [];
+    for (let i = start; i <= end; i++) {
+      const word = wordMap.get(`w${i}`);
+      if (word) words.push(word);
+    }
+    
+    return words.join(' ');
+  };
+};
+
 export const parseTranslationNotes = (xmlContent: string) => {
   try {
     const parser = new DOMParser();
